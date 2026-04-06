@@ -1,0 +1,2519 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix C, Table 1 (Part 2): "Wage-Series from Table XII of the Aldrich Report"
+# Pages 496-517. Relative wages (index, base=100).
+# Source: historyofgreenba00mitcrich.pdf, pages 496-517
+industry,location_number,state,occupation,sex,initial_wage_per_day,date,num_workers,relative_wage
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1860-01,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1860-07,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1861-01,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1861-07,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1862-01,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1862-07,1,100
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1863-01,1,106
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1863-07,1,106
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1864-01,1,120
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1864-07,1,120
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1865-01,1,120
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1865-07,1,120
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1866-01,1,150
+Cotton Goods,38,Massachusetts,Mst'r Mechanics,M,3.33,1866-07,1,150
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1861-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1861-07,1,83
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1862-01,1,83
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1862-07,1,83
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1863-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1863-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1864-01,1,117
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1864-07,1,117
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1865-01,1,117
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1865-07,1,117
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1866-01,1,131
+Cotton Goods,38,Massachusetts,Overseers Carding Dep't,M,3.0,1866-07,1,131
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1861-01,1,84
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1861-07,1,84
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1862-01,1,84
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1862-07,1,84
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1863-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1863-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1864-01,1,125
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1864-07,1,125
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1865-01,1,117
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1865-07,1,117
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1866-01,1,138
+Cotton Goods,38,Massachusetts,Overseers Cloth Room,M,2.0,1866-07,1,138
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1861-01,2,83
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1861-07,2,83
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1862-01,2,83
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1862-07,2,83
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1863-01,2,100
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1863-07,2,100
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1864-01,2,117
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1864-07,2,117
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1865-01,2,117
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1865-07,2,117
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1866-01,2,133
+Cotton Goods,38,Massachusetts,Overseers Dressing Dep't,M,3.0,1866-07,2,133
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1860-01,2,100
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1860-07,2,100
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1861-01,2,83
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1861-07,2,83
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1862-01,2,83
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1862-07,2,83
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1863-01,2,100
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1863-07,2,100
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1864-01,2,113
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1864-07,2,113
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1865-01,2,117
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1865-07,2,117
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1866-01,2,133
+Cotton Goods,38,Massachusetts,Overseers Spinning Dep't,M,3.0,1866-07,2,133
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1860-01,4,100
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1860-07,4,100
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1861-01,4,85
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1861-07,4,85
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1862-01,4,85
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1862-07,4,85
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1863-01,4,100
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1863-07,4,100
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1864-01,4,117
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1864-07,4,117
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1865-01,4,117
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1865-07,4,117
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1866-01,4,133
+Cotton Goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1866-07,4,133
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1860-01,13,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1860-07,13,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1861-01,17,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1861-07,17,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1862-01,13,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1862-07,13,100
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1863-01,10,101
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1863-07,10,101
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1864-01,12,113
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1864-07,12,113
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1865-01,11,139
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1865-07,11,139
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1866-01,12,157
+Cotton Goods,38,Massachusetts,Second Hands,M,1.365,1866-07,12,157
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1860-01,13,100
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1860-07,13,100
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1861-01,13,87
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1861-07,13,87
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1862-01,13,74
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1862-07,13,74
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1863-01,9,103
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1863-07,9,103
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1864-01,14,155
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1864-07,14,155
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1865-01,13,172
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1865-07,13,172
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1866-01,13,175
+Cotton Goods,38,Massachusetts,Backboys,M,0.265,1866-07,13,187
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1861-01,1,82
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1861-07,1,82
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1862-01,1,82
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1862-07,1,82
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1863-01,2,118
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1863-07,2,118
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1864-01,2,158
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1864-07,2,158
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1865-01,2,133
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1865-07,2,133
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1866-01,2,167
+Cotton Goods,38,Massachusetts,Balers,M,1.0,1866-07,2,167
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1860-01,2,100
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1860-07,2,100
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1861-01,2,83
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1861-07,2,83
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1862-01,2,83
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1862-07,2,83
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1863-01,2,111
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1863-07,2,111
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1864-01,2,150
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1864-07,2,150
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1865-01,2,150
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1865-07,2,150
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1866-01,2,175
+Cotton Goods,38,Massachusetts,Beam Carriers,M,0.835,1866-07,2,175
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1860-01,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1860-07,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1861-01,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1861-07,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1862-01,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1862-07,1,100
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1863-01,1,111
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1863-07,1,111
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1864-01,1,117
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1864-07,1,117
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1865-01,1,122
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1865-07,1,122
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1866-01,1,150
+Cotton Goods,38,Massachusetts,Belt Men,M,1.5,1866-07,1,150
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1860-01,4,100
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1860-07,4,100
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1861-01,4,97
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1861-07,4,97
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1862-01,3,106
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1862-07,3,106
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1863-01,3,106
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1863-07,3,106
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1864-01,3,116
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1864-07,3,116
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1865-01,3,151
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1865-07,3,151
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1866-01,3,158
+Cotton Goods,38,Massachusetts,Blacksmiths,M,1.79,1866-07,3,158
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1860-01,2,100
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1860-07,2,100
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1861-01,2,106
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1861-07,2,106
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1862-01,2,106
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1862-07,2,106
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1863-01,2,124
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1863-07,2,124
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1864-01,2,153
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1864-07,2,153
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1865-01,2,153
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1865-07,2,153
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1866-01,2,144
+Cotton Goods,38,Massachusetts,Bobbin Men,M,1.415,1866-07,2,144
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1860-01,2,100
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1860-07,2,100
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1861-01,2,86
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1861-07,2,86
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1862-01,2,95
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1862-07,2,95
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1863-01,2,100
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1863-07,2,100
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1864-01,2,98
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1864-07,2,98
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1865-01,2,107
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1865-07,2,107
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1866-01,2,114
+Cotton Goods,38,Massachusetts,Boilermen,M,1.75,1866-07,2,114
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1860-01,2,100
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1860-07,2,100
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1861-01,2,102
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1861-07,2,102
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1862-01,2,100
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1862-07,2,100
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1863-01,2,113
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1863-07,2,113
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1864-01,2,132
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1864-07,2,132
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1865-01,2,139
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1865-07,2,139
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1866-01,2,164
+Cotton Goods,38,Massachusetts,Bl'km'n's Helpers,M,1.08,1866-07,2,164
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1860-01,5,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1860-07,5,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1861-01,5,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1861-07,5,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1862-01,7,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1862-07,7,100
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1863-01,7,113
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1863-07,7,113
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1864-01,7,132
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1864-07,7,132
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1865-01,6,168
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1865-07,6,168
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1866-01,6,164
+Cotton Goods,38,Massachusetts,Carpent's,M,1.52,1866-07,6,164
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1860-01,7,100
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1860-07,7,100
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1861-01,7,90
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1861-07,7,90
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1862-01,7,111
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1862-07,7,111
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1863-01,7,111
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1863-07,7,111
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1864-01,7,139
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1864-07,7,139
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1865-01,7,140
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1865-07,7,140
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1866-01,7,141
+Cotton Goods,38,Massachusetts,Card Grinders,M,1.025,1866-07,7,141
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1860-01,33,100
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1860-07,33,100
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1861-01,33,92
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1861-07,33,92
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1862-01,33,97
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1862-07,33,97
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1863-01,27,124
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1863-07,27,124
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1864-01,26,139
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1864-07,26,139
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1865-01,26,186
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1865-07,26,186
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1866-01,27,183
+Cotton Goods,38,Massachusetts,Doffers,M,0.315,1866-07,25,187
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1860-01,6,100
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1860-07,6,100
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1861-01,4,88
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1861-07,4,88
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1862-01,4,110
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1862-07,4,110
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1863-01,4,117
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1863-07,4,117
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1864-01,4,113
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1864-07,4,113
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1865-01,3,198
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1865-07,3,198
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1866-01,3,198
+Cotton Goods,38,Massachusetts,Double Tenders,M,0.64,1866-07,3,198
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1860-01,1,100
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1860-07,1,100
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1861-01,1,82
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1861-07,1,82
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1862-01,1,82
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1862-07,1,82
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1863-01,1,109
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1863-07,1,109
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1864-01,1,136
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1864-07,1,136
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1865-01,1,136
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1865-07,1,136
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1866-01,1,163
+Cotton Goods,38,Massachusetts,Entrymen,M,0.92,1866-07,1,163
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1860-01,5,100
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1860-07,5,100
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1861-01,4,81
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1861-07,4,81
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1862-01,4,81
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1862-07,4,81
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1863-01,4,111
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1863-07,4,111
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1864-01,4,141
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1864-07,4,141
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1865-01,3,155
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1865-07,3,155
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1866-01,3,155
+Cotton Goods,38,Massachusetts,Filling Carriers,M,0.83,1866-07,3,155
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1860-01,2,100
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1860-07,2,100
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1861-01,2,92
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1861-07,2,92
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1862-01,2,125
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1862-07,2,125
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1863-01,2,118
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1863-07,2,118
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1864-01,2,146
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1864-07,2,146
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1865-01,2,144
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1865-07,2,144
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1866-01,2,192
+Cotton Goods,38,Massachusetts,Lap Carriers,M,0.71,1866-07,2,192
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1860-01,7,100
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1860-07,7,100
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1861-01,7,97
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1861-07,7,97
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1862-01,7,105
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1862-07,7,105
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1863-01,7,109
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1863-07,7,109
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1864-01,7,128
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1864-07,7,128
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1865-01,8,128
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1865-07,8,128
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1866-01,8,141
+Cotton Goods,38,Massachusetts,M'chinists,M,1.565,1866-07,8,166
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1860-01,5,100
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1860-07,5,100
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1861-01,6,100
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1861-07,6,100
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1862-01,7,98
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1862-07,7,98
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1863-01,5,115
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1863-07,5,115
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1864-01,5,151
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1864-07,5,151
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1865-01,5,192
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1865-07,5,192
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1866-01,3,225
+Cotton Goods,38,Massachusetts,Masons,M,1.48,1866-07,3,225
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1860-01,2,100
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1860-07,2,100
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1861-01,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1861-07,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1862-01,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1862-07,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1863-01,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1863-07,2,107
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1864-01,2,112
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1864-07,2,112
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1865-01,2,131
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1865-07,2,131
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1866-01,2,242
+Cotton Goods,38,Massachusetts,Oilers,M,0.42,1866-07,2,242
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1860-01,3,100
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1860-07,3,100
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1861-01,3,104
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1861-07,3,104
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1862-01,3,107
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1862-07,3,107
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1863-01,3,107
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1863-07,3,107
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1864-01,3,113
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1864-07,3,113
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1865-01,3,135
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1865-07,3,135
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1866-01,3,156
+Cotton Goods,38,Massachusetts,Painters,M,1.36,1866-07,3,156
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1860-01,12,100
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1860-07,12,100
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1861-01,9,111
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1861-07,9,111
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1862-01,9,109
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1862-07,9,109
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1863-01,9,146
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1863-07,9,146
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1864-01,7,181
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1864-07,7,181
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1865-01,9,193
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1865-07,9,193
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1866-01,9,200
+Cotton Goods,38,Massachusetts,Pickers,M,0.71,1866-07,9,200
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1860-01,2,100
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1860-07,2,100
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1861-01,2,100
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1861-07,2,100
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1862-01,2,111
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1862-07,2,111
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1863-01,2,111
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1863-07,2,111
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1864-01,2,122
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1864-07,2,122
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1865-01,2,142
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1865-07,2,142
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1866-01,2,151
+Cotton Goods,38,Massachusetts,Roller Coverers,M,1.5,1866-07,2,151
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1860-01,2,100
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1860-07,2,100
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1861-01,2,91
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1861-07,2,91
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1862-01,2,86
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1862-07,2,86
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1863-01,2,121
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1863-07,2,121
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1864-01,2,136
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1864-07,2,136
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1865-01,2,132
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1865-07,2,132
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1866-01,2,114
+Cotton Goods,38,Massachusetts,Waste Hands,M,1.1,1866-07,2,114
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1860-01,4,100
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1860-07,4,100
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1861-01,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1861-07,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1862-01,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1862-07,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1863-01,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1863-07,4,81
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1864-01,4,113
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1864-07,4,113
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1865-01,4,132
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1865-07,4,132
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1866-01,4,150
+Cotton Goods,38,Massachusetts,Watchmen,M,1.23,1866-07,4,150
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1861-01,1,113
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1861-07,1,113
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1862-01,1,113
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1862-07,1,113
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1863-01,1,125
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1863-07,1,125
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1864-01,1,125
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1864-07,1,125
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1865-01,1,133
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1865-07,1,133
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1866-01,1,150
+Cotton Goods,38,Massachusetts,Wheelwright Men,M,2.0,1866-07,1,150
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1860-01,5,100
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1860-07,5,100
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1861-01,4,91
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1861-07,4,91
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1862-01,3,82
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1862-07,3,82
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1863-01,3,110
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1863-07,3,110
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1864-01,3,127
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1864-07,3,127
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1865-01,1,114
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1865-07,1,114
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1866-01,1,127
+Cotton Goods,38,Massachusetts,Yard Hands,M,1.1,1866-07,1,127
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1860-01,6,100
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1860-07,6,100
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1861-01,6,96
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1861-07,6,96
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1862-01,6,113
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1862-07,6,113
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1863-01,6,141
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1863-07,6,141
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1864-01,4,162
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1864-07,4,162
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1865-01,4,190
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1865-07,4,190
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1866-01,7,150
+Cotton Goods,38,Massachusetts,Card Strippers,M,0.71,1866-07,7,164
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1860-01,4,100
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1860-07,4,100
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1861-01,4,83
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1861-07,4,83
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1862-01,4,83
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1862-07,4,83
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1863-01,4,111
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1863-07,4,111
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1864-01,4,129
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1864-07,4,129
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1865-01,4,149
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1865-07,4,149
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1866-01,4,164
+Cotton Goods,38,Massachusetts,Scrubbers,F,0.45,1866-07,4,164
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1860-01,47,100
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1860-07,47,100
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1861-01,45,84
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1861-07,45,84
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1862-01,45,80
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1862-07,45,80
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1863-01,45,105
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1863-07,45,105
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1864-01,44,95
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1864-07,44,95
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1865-01,44,102
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1865-07,44,102
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1866-01,37,200
+Cotton Goods,38,Massachusetts,Spoolers,F,0.5,1866-07,37,200
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1860-01,2,100
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1860-07,2,100
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1861-01,1,70
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1861-07,1,70
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1862-01,1,85
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1862-07,1,85
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1863-01,3,97
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1863-07,3,97
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1864-01,3,102
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1864-07,3,102
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1865-01,3,102
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1865-07,3,102
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1866-01,14,104
+Cotton Goods,38,Massachusetts,Sweepers,F,0.71,1866-07,14,104
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1860-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1860-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1861-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1861-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1862-01,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1862-07,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1863-01,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1863-07,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1864-01,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1864-07,1,114
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1865-01,1,143
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1865-07,1,143
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1866-01,1,143
+Cotton Goods,38,Massachusetts,Foremen Carpent's,M,1.75,1866-07,1,143
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1860-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1860-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1861-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1861-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1862-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1862-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1863-01,1,114
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1863-07,1,114
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1864-01,1,119
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1864-07,1,119
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1865-01,1,143
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1865-07,1,143
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1866-01,1,171
+Cotton Goods,38,Massachusetts,Foremen Machin'ts,M,1.75,1866-07,1,171
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1860-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1860-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1861-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1861-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1862-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1862-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1863-01,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1863-07,1,100
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1864-01,1,150
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1864-07,1,150
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1865-01,1,167
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1865-07,1,167
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1866-01,1,167
+Cotton Goods,38,Massachusetts,Foremen Yard,M,2.0,1866-07,1,167
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1860-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1860-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1861-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1861-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1862-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1862-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1863-01,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1863-07,1,100
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1864-01,1,110
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1864-07,1,110
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1865-01,1,113
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1865-07,1,113
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1866-01,1,125
+Cotton Goods,38,Massachusetts,Overseers Card. Dep.,M,2.5,1866-07,1,125
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1860-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1860-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1861-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1861-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1862-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1862-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1863-01,1,78
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1863-07,1,78
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1864-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1864-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1865-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1865-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1866-01,1,111
+Cotton Goods,39,Massachusetts,Overseers Cloth R'm,M,2.25,1866-07,1,111
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1860-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1860-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1861-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1861-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1862-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1862-07,1,86
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1863-01,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1863-07,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1864-01,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1864-07,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1865-01,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1865-07,1,114
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1866-01,1,143
+Cotton Goods,39,Massachusetts,Overseers Dress. Dep.,M,1.75,1866-07,1,143
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1860-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1860-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1861-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1861-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1862-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1862-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1863-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1863-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1864-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1864-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1865-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1865-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1866-01,1,125
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.,M,2.0,1866-07,1,125
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1860-01,6,100
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1860-07,7,100
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1861-01,6,103
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1861-07,6,103
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1862-01,2,103
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1862-07,3,101
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1863-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1863-07,1,98
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1864-01,2,128
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1864-07,2,106
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1865-01,2,106
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1865-07,2,106
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1866-01,5,119
+Cotton Goods,39,Massachusetts,Overseers Weav. Dep.,M,2.0,1866-07,4,149
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1860-01,11,100
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1860-07,11,100
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1861-01,9,103
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1861-07,9,103
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1862-01,5,97
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1862-07,4,89
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1863-01,12,93
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1863-07,12,93
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1864-01,13,109
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1864-07,13,112
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1865-01,8,106
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1865-07,8,106
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1866-01,14,114
+Cotton Goods,39,Massachusetts,Second Hands,M,1.175,1866-07,14,114
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1860-01,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1860-07,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1861-01,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1861-07,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1862-01,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1862-07,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1863-01,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1863-07,1,100
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1864-01,1,120
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1864-07,1,120
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1865-01,1,123
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1865-07,1,123
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1866-01,1,123
+Cotton Goods,39,Massachusetts,Carpent's,M,1.42,1866-07,1,123
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1860-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1860-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1861-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1861-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1862-01,1,137
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1862-07,1,137
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1863-01,1,157
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1863-07,1,157
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1864-01,1,130
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1864-07,1,130
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1865-01,1,164
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1865-07,1,164
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1866-01,1,164
+Cotton Goods,39,Massachusetts,Overseers Spin. Dep.2,M,2.5,1866-07,1,164
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1860-01,2,100
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1860-07,2,100
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1861-01,3,111
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1861-07,3,111
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1862-01,3,114
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1862-07,3,114
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1863-01,2,96
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1863-07,2,96
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1864-01,1,130
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1864-07,1,130
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1865-01,2,201
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1865-07,2,201
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1866-01,2,232
+Cotton Goods,39,Massachusetts,Card Grinders,M,0.83,1866-07,2,232
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1860-01,6,100
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1860-07,6,103
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1861-01,4,114
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1861-07,4,114
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1862-01,4,112
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1862-07,2,101
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1863-01,1,96
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1863-07,1,96
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1864-01,5,120
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1864-07,5,120
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1865-01,5,179
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1865-07,5,179
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1866-01,4,179
+Cotton Goods,39,Massachusetts,Card Strippers,M,0.625,1866-07,4,179
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1860-01,2,100
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1860-07,2,100
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1861-01,3,104
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1861-07,3,104
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1862-01,3,97
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1862-07,3,96
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1863-01,2,102
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1863-07,2,102
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1864-01,2,113
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1864-07,2,113
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1865-01,1,136
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1865-07,1,136
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1866-01,3,146
+Cotton Goods,39,Massachusetts,Machin'ts,M,1.38,1866-07,3,146
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1860-01,7,100
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1860-07,7,100
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1861-01,2,111
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1861-07,2,111
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1862-01,2,111
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1862-07,2,100
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1863-01,4,95
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1863-07,4,97
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1864-01,5,103
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1864-07,5,105
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1865-01,6,130
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1865-07,6,130
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1866-01,5,132
+Cotton Goods,39,Massachusetts,Painters,M,1.14,1866-07,5,132
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1860-01,2,100
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1860-07,2,100
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1861-01,2,106
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1861-07,2,106
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1862-01,2,102
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1862-07,2,100
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1863-01,1,113
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1863-07,1,113
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1864-01,1,170
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1864-07,1,170
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1865-01,3,181
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1865-07,3,181
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1866-01,2,171
+Cotton Goods,39,Massachusetts,Pickers,M,0.735,1866-07,2,171
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1860-01,5,100
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1860-07,6,110
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1861-01,3,106
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1861-07,3,106
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1862-01,2,102
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1862-07,2,109
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1863-01,2,113
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1863-07,2,113
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1864-01,2,109
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1864-07,2,109
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1865-01,3,147
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1865-07,3,147
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1866-01,3,185
+Cotton Goods,39,Massachusetts,Section Hands,M,0.76,1866-07,3,185
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1860-01,3,100
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1860-07,4,92
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1861-01,2,83
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1861-07,2,83
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1862-01,1,84
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1862-07,1,84
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1863-01,2,97
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1863-07,2,97
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1864-01,3,111
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1864-07,3,111
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1865-01,3,111
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1865-07,3,111
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1866-01,4,113
+Cotton Goods,39,Massachusetts,Slashers Tenders,M,1.08,1866-07,4,113
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1860-01,14,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1860-07,14,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1861-01,12,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1861-07,14,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1862-01,13,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1862-07,13,100
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1863-01,15,103
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1863-07,15,103
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1864-01,16,110
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1864-07,16,110
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1865-01,15,145
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1865-07,15,145
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1866-01,16,174
+Cotton Goods,39,Massachusetts,Watchmen,M,0.86,1866-07,16,174
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1860-01,17,100
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1860-07,17,100
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1861-01,14,102
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1861-07,14,102
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1862-01,10,92
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1862-07,10,94
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1863-01,13,109
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1863-07,13,109
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1864-01,13,123
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1864-07,13,123
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1865-01,7,133
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1865-07,7,133
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1866-01,7,133
+Cotton Goods,39,Massachusetts,Yard Hands,M,0.855,1866-07,7,133
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1860-01,5,100
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1860-07,3,112
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1861-01,4,83
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1861-07,4,83
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1862-01,3,113
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1862-07,3,113
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1863-01,2,114
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1863-07,2,114
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1864-01,2,123
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1864-07,2,123
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1865-01,2,141
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1865-07,2,141
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1866-01,4,154
+Cotton Goods,39,Massachusetts,Drawers-in,F,0.475,1866-07,4,154
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1860-01,4,100
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1860-07,4,100
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1861-01,3,113
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1861-07,3,113
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1862-01,3,119
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1862-07,3,119
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1863-01,1,95
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1863-07,1,95
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1864-01,3,119
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1864-07,3,119
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1865-01,2,129
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1865-07,2,129
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1866-01,4,160
+Cotton Goods,39,Massachusetts,Drawing Hands,F,0.42,1866-07,4,160
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1860-01,4,100
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1860-07,4,100
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1861-01,4,104
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1861-07,4,101
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1862-01,4,96
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1862-07,4,96
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1863-01,4,92
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1863-07,4,92
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1864-01,3,106
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1864-07,3,106
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1865-01,2,110
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1865-07,2,110
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1866-01,5,161
+Cotton Goods,39,Massachusetts,Speeders,F,0.52,1866-07,5,161
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1860-01,28,100
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1860-07,21,100
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1861-01,26,97
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1861-07,20,97
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1862-01,10,102
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1862-07,25,102
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1863-01,23,97
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1863-07,25,97
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1864-01,24,114
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1864-07,25,114
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1865-01,28,118
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1865-07,28,118
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1866-01,34,131
+Cotton Goods,39,Massachusetts,Spinners Frame,F,0.175,1866-07,34,131
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1860-01,6,100
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1860-07,6,115
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1861-01,7,108
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1861-07,7,105
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1862-01,7,79
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1862-07,5,84
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1863-01,7,67
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1863-07,7,67
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1864-01,2,94
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1864-07,2,94
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1865-01,2,141
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1865-07,2,141
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1866-01,2,192
+Cotton Goods,39,Massachusetts,Warpers,F,0.505,1866-07,2,192
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1860-01,1,100
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1860-07,10,100
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1861-01,10,110
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1861-07,10,110
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1862-01,18,112
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1862-07,19,102
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1863-01,21,117
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1863-07,21,117
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1864-01,25,128
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1864-07,22,128
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1865-01,25,140
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1865-07,21,140
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1866-01,24,186
+Cotton Goods,39,Massachusetts,Weavers,F,0.46,1866-07,24,186
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1860-01,1,100
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1860-07,1,100
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1861-01,1,113
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1861-07,1,113
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1862-01,1,117
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1862-07,1,117
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1863-01,1,117
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1863-07,1,117
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1864-01,1,150
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1864-07,1,150
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1865-01,1,150
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1865-07,1,150
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1866-01,1,167
+Cotton Goods,39,Massachusetts,Master Machin'ts,M,2.0,1866-07,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1860-01,1,100
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1860-07,1,100
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1861-01,1,100
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1861-07,1,100
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1862-01,1,117
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1862-07,1,117
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1863-01,1,117
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1863-07,1,117
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1864-01,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1864-07,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1865-01,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1865-07,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1866-01,1,167
+Cotton Goods,39,Massachusetts,Foremen Yard,M,1.5,1866-07,1,167
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1860-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1860-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1861-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1861-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1862-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1862-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1863-01,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1863-07,1,100
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1864-01,1,110
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1864-07,1,110
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1865-01,1,113
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1865-07,1,113
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1866-01,1,125
+Cotton Goods,39,Massachusetts,Overseers Card. Dep.,M,2.5,1866-07,1,125
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1860-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1860-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1861-01,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1861-07,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1862-01,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1862-07,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1863-01,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1863-07,1,106
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1864-01,1,123
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1864-07,1,123
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1865-01,1,123
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1865-07,1,123
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1866-01,1,123
+Cotton Goods,40,Massachusetts,Overseers Cloth R'm,M,1.42,1866-07,1,123
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1860-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1860-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1861-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1861-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1862-01,1,137
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1862-07,1,137
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1863-01,1,137
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1863-07,1,137
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1864-01,1,150
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1864-07,1,150
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1865-01,1,164
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1865-07,1,164
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1866-01,1,164
+Cotton Goods,40,Massachusetts,Overseers Dress. Dep.,M,1.83,1866-07,1,164
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1860-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1860-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1861-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1861-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1862-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1862-07,1,75
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1863-01,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1863-07,1,100
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1864-01,1,120
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1864-07,1,120
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1865-01,1,120
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1865-07,1,120
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1866-01,1,125
+Cotton Goods,40,Massachusetts,Overseers Spin. Dep.,M,2.5,1866-07,1,125
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1860-01,2,100
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1860-07,2,100
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1861-01,2,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1861-07,2,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1862-01,2,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1862-07,2,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1863-01,1,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1863-07,1,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1864-01,1,98
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1864-07,1,98
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1865-01,2,102
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1865-07,2,102
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1866-01,1,111
+Cotton Goods,40,Massachusetts,Overseers Weav. Dep.,M,2.25,1866-07,1,111
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1860-01,6,100
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1860-07,6,100
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1861-01,6,103
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1861-07,6,103
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1862-01,5,97
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1862-07,4,89
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1863-01,5,93
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1863-07,5,93
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1864-01,13,109
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1864-07,13,112
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1865-01,1,106
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1865-07,1,106
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1866-01,5,119
+Cotton Goods,40,Massachusetts,Second Hands,M,1.485,1866-07,4,149
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1860-01,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1860-07,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1861-01,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1861-07,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1862-01,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1862-07,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1863-01,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1863-07,1,100
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1864-01,1,120
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1864-07,1,120
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1865-01,1,123
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1865-07,1,123
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1866-01,1,123
+Cotton Goods,40,Massachusetts,Carpent's,M,1.42,1866-07,1,123
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1860-01,2,100
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1860-07,2,100
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1861-01,1,165
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1861-07,1,165
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1862-01,1,127
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1862-07,1,127
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1865-01,1,63
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1865-07,1,63
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1866-01,1,127
+Cotton Goods,40,Massachusetts,Band Boys,M,0.79,1866-07,1,127
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1860-01,8,100
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1860-07,8,100
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1861-01,7,104
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1861-07,7,104
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1862-01,7,106
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1862-07,7,106
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1863-01,9,103
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1863-07,9,103
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1864-01,9,128
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1864-07,9,128
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1865-01,11,129
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1865-07,11,129
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1866-01,11,141
+Cotton Goods,40,Massachusetts,Carpent's2,M,1.49,1866-07,11,141
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1860-01,11,100
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1860-07,11,100
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1861-01,8,105
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1861-07,8,105
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1862-01,14,105
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1862-07,14,105
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1863-01,2,96
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1863-07,2,96
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1864-01,6,181
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1864-07,6,181
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1865-01,9,189
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1865-07,9,189
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1866-01,9,181
+Cotton Goods,40,Massachusetts,Card Grinders,M,0.83,1866-07,9,181
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1860-01,2,100
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1860-07,2,100
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1861-01,2,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1861-07,2,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1862-01,2,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1862-07,2,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1863-01,3,106
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1863-07,3,106
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1864-01,4,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1864-07,4,99
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1865-01,2,179
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1865-07,2,179
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1866-01,2,169
+Cotton Goods,40,Massachusetts,Card Strippers,M,0.755,1866-07,2,169
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1860-01,2,100
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1860-07,2,100
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1865-01,3,175
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1865-07,3,175
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1866-01,2,169
+Cotton Goods,40,Massachusetts,Cloth E'm Hands,M,0.5,1866-07,2,169
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1860-01,5,100
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1860-07,5,100
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1861-01,3,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1861-07,3,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1862-01,5,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1862-07,5,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1863-01,3,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1863-07,3,101
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1864-01,2,132
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1864-07,2,132
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1865-01,3,143
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1865-07,3,143
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1866-01,5,156
+Cotton Goods,40,Massachusetts,Drawing Hands,M,0.962,1866-07,5,156
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1860-01,2,100
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1860-07,2,100
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1861-01,3,101
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1861-07,3,101
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1862-01,2,98
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1862-07,2,98
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1863-01,1,88
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1863-07,1,88
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1864-01,2,94
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1864-07,2,94
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1865-01,3,73
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1865-07,3,73
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1866-01,3,78
+Cotton Goods,40,Massachusetts,Dressers,M,0.98,1866-07,3,78
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1860-01,27,100
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1860-07,25,100
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1861-01,15,102
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1861-07,15,102
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1862-01,14,105
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1862-07,5,114
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1863-01,9,94
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1863-07,9,94
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1864-01,15,124
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1864-07,15,124
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1865-01,15,132
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1865-07,15,132
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1866-01,14,152
+Cotton Goods,40,Massachusetts,Doffers,M,0.303,1866-07,14,152
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1860-01,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1860-07,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1861-01,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1861-07,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1862-01,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1862-07,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1863-01,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1863-07,1,100
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1864-01,2,92
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1864-07,2,92
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1865-01,2,96
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1865-07,2,96
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1866-01,2,96
+Cotton Goods,40,Massachusetts,Engineers,M,3.0,1866-07,2,96
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1860-01,4,100
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1860-07,4,100
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1861-01,3,98
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1861-07,3,98
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1862-01,4,100
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1862-07,4,100
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1863-01,4,105
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1863-07,4,105
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1864-01,4,104
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1864-07,4,104
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1865-01,2,112
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1865-07,2,112
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1866-01,5,111
+Cotton Goods,40,Massachusetts,Firemen,M,1.415,1866-07,5,111
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1860-01,2,100
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1860-07,2,100
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1864-01,1,197
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1864-07,1,197
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1866-01,1,216
+Cotton Goods,40,Massachusetts,Harness Hands,M,0.38,1866-07,1,216
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1860-01,16,100
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1860-07,16,100
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1861-01,11,103
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1861-07,11,103
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1862-01,9,109
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1862-07,9,109
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1863-01,5,107
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1863-07,5,107
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1864-01,14,147
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1864-07,14,173
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1865-01,8,164
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1866-01,13,174
+Cotton Goods,40,Massachusetts,Laborers,M,0.965,1866-07,8,177
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1860-01,14,100
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1860-07,13,100
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1861-01,10,102
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1861-07,10,102
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1862-01,10,105
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1862-07,10,105
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1863-01,9,123
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1863-07,10,123
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1864-01,14,125
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1864-07,14,125
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1865-01,14,135
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1865-07,14,135
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1866-01,16,132
+Cotton Goods,40,Massachusetts,Machin'ts,M,1.765,1866-07,17,132
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1860-01,2,100
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1860-07,2,100
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1861-01,3,114
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1861-07,3,114
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1862-01,2,114
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1862-07,2,114
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1863-01,2,137
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1863-07,2,137
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1866-01,1,77
+Cotton Goods,40,Massachusetts,Machin'ts Apprent's,M,0.875,1866-07,1,77
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1860-01,4,100
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1860-07,4,100
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1861-01,6,98
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1861-07,6,98
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1862-01,1,98
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1862-07,1,132
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1863-01,2,106
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1863-07,2,106
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1864-01,5,123
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1864-07,5,123
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1865-01,6,102
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1865-07,4,102
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1866-01,4,181
+Cotton Goods,40,Massachusetts,Picking Room H'ds,M,0.85,1866-07,4,187
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1860-01,4,100
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1860-07,5,101
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1861-01,4,107
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1861-07,4,108
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1862-01,1,108
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1862-07,1,108
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1863-01,1,131
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1863-07,1,131
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1864-01,1,108
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1864-07,1,108
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1865-01,5,127
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1865-07,5,127
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1866-01,4,122
+Cotton Goods,40,Massachusetts,Roving Hands,M,0.38,1866-07,4,122
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1860-01,4,100
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1860-07,4,100
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1861-01,4,108
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1861-07,4,108
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1862-01,1,106
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1862-07,1,106
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1863-01,1,108
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1863-07,1,108
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1864-01,5,113
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1864-07,5,113
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1865-01,5,131
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1865-07,5,131
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1866-01,3,114
+Cotton Goods,40,Massachusetts,Section Hands,M,1.25,1866-07,3,114
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1860-01,4,100
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1860-07,4,101
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1861-01,3,96
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1861-07,3,96
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1862-01,4,119
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1862-07,4,119
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1863-01,2,62
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1864-01,1,92
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1864-07,1,92
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1865-01,1,107
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1865-07,1,107
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1866-01,5,141
+Cotton Goods,40,Massachusetts,Spoolers,F,0.448,1866-07,5,182
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1860-01,1,100
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1860-07,1,100
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1861-01,2,92
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1861-07,2,92
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1862-01,2,92
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1862-07,2,92
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1863-01,3,89
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1863-07,3,89
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1864-01,3,94
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1864-07,3,94
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1865-01,3,91
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1865-07,3,91
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1866-01,2,117
+Cotton Goods,40,Massachusetts,Tramsters,M,1.5,1866-07,2,117
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1860-01,2,100
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1860-07,2,100
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1861-01,4,94
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1861-07,4,94
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1863-01,8,94
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1863-07,8,94
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1864-01,4,134
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1864-07,4,134
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1865-01,4,158
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1865-07,4,158
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1866-01,5,165
+Cotton Goods,40,Massachusetts,Watchmen,M,1.06,1866-07,5,165
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1860-01,6,100
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1860-07,6,100
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1861-01,5,87
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1861-07,5,87
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1862-01,2,82
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1864-01,3,99
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1864-07,3,99
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1866-01,8,136
+Cotton Goods,40,Massachusetts,Cloth-R'm Hands,F,0.61,1866-07,8,136
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1860-01,22,100
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1860-07,23,100
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1861-01,9,103
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1861-07,9,103
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1862-01,5,105
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1863-01,3,101
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1864-01,13,127
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1864-07,18,125
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1865-01,20,117
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1866-01,6,127
+Cotton Goods,40,Massachusetts,Doffers2,F,0.315,1866-07,19,150
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1860-01,10,100
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1860-07,10,105
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1861-01,3,107
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1861-07,3,107
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1862-01,2,82
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1863-01,1,114
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1863-07,1,114
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1864-01,5,127
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1864-07,5,125
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1865-01,10,130
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1865-07,11,130
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1866-01,11,138
+Cotton Goods,40,Massachusetts,Drawing Hands2,F,0.455,1866-07,7,138
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1860-01,9,100
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1860-07,9,100
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1861-01,9,107
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1861-07,9,107
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1862-01,4,71
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1863-01,3,54
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1863-07,3,55
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1864-01,5,106
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1864-07,5,106
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1865-01,5,92
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1866-01,11,117
+Cotton Goods,40,Massachusetts,Dressers2,F,1.059,1866-07,7,138
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1860-01,5,100
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1860-07,4,103
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1861-01,1,125
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1861-07,1,125
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1862-01,1,140
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1862-07,1,140
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1863-01,1,151
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1863-07,1,151
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1864-01,2,162
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1864-07,2,162
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1865-01,2,162
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1865-07,2,162
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1866-01,3,185
+Cotton Goods,40,Massachusetts,Harness Hands2,F,0.404,1866-07,1,182
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1860-01,1,100
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1860-07,1,100
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1861-01,1,112
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1861-07,1,112
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1862-01,1,112
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1862-07,1,112
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1863-01,1,112
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1864-01,10,144
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1864-07,10,144
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1865-01,1,149
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1865-07,1,149
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1866-01,1,152
+Cotton Goods,40,Massachusetts,Room Hands,F,0.67,1866-07,1,153
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1860-01,8,100
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1860-07,9,100
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1861-01,10,104
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1861-07,6,105
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1862-01,6,105
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1862-07,6,105
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1863-01,1,99
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1864-01,10,120
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1864-07,6,120
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1865-01,6,125
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1865-07,6,125
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1866-01,8,152
+Cotton Goods,40,Massachusetts,Speeders2,F,0.563,1866-07,8,152
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1860-01,3,100
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1860-07,3,100
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1861-01,6,86
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1861-07,2,90
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1862-01,1,114
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1862-07,1,114
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1863-01,7,88
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1864-01,3,103
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1864-07,3,103
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1865-01,6,118
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1865-07,6,118
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1866-01,3,143
+Cotton Goods,40,Massachusetts,Spoolers2,F,0.404,1866-07,3,143
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1860-01,3,100
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1860-07,3,100
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1861-01,1,101
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1861-07,1,101
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1862-01,2,113
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1862-07,2,113
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1864-01,3,117
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1864-07,3,117
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1865-01,1,124
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1865-07,1,124
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1866-01,6,124
+Cotton Goods,40,Massachusetts,Stretchers,F,0.533,1866-07,7,143
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1860-01,2,100
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1860-07,2,100
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1861-01,1,103
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1861-07,1,103
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1862-01,1,103
+Cotton Goods,40,Massachusetts,Sweepers,F,0.39,1862-07,1,103
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1860-01,7,100
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1860-07,9,100
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1861-01,11,99
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1861-07,12,100
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1862-01,6,100
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1862-07,5,103
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1863-01,2,102
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1863-07,2,102
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1864-01,3,127
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1864-07,3,127
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1865-01,2,127
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1865-07,3,129
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1866-01,6,162
+Cotton Goods,40,Massachusetts,Warpers,F,0.059,1866-07,3,162
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1860-01,12,100
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1860-07,12,100
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1861-01,14,106
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1861-07,15,106
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1862-01,12,106
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1862-07,10,106
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1863-01,3,103
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1863-07,3,103
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1864-01,16,116
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1864-07,16,116
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1865-01,16,125
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1865-07,10,125
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1866-01,19,125
+Cotton Goods,40,Massachusetts,Weavers,F,0.32,1866-07,24,200
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1860-01,8,100
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1860-07,7,100
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1861-01,6,100
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1861-07,9,100
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1862-01,2,102
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1862-07,6,102
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1863-01,8,107
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1863-07,9,107
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1864-01,10,107
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1864-07,10,107
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1865-01,8,119
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1866-01,9,119
+Cotton Goods,40,Massachusetts,Weavers2,F,0.42,1866-07,6,119
+Dry Goods,42,New Hampshire,Porters,M,1.0,1860-01,1,100
+Dry Goods,42,New Hampshire,Porters,M,1.0,1861-01,1,100
+Dry Goods,42,New Hampshire,Porters,M,1.0,1862-01,1,100
+Dry Goods,42,New Hampshire,Porters,M,1.0,1862-07,1,100
+Dry Goods,42,New Hampshire,Porters,M,1.0,1863-01,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1863-07,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1864-01,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1864-07,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1865-01,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1865-07,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1866-01,1,125
+Dry Goods,42,New Hampshire,Porters,M,1.0,1866-07,1,125
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1860-01,4,100
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1861-01,4,100
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1862-01,4,100
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1862-07,4,100
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1863-01,4,156
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1863-07,4,156
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1864-01,4,156
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1864-07,4,156
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1865-01,4,178
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1865-07,4,178
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1866-01,4,178
+Dry Goods,42,New Hampshire,Salesmen,M,1.125,1866-07,4,178
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1860-01,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1861-01,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1862-01,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1862-07,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1863-01,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1863-07,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1864-01,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1864-07,5,100
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1865-01,4,104
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1865-07,4,104
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1866-01,4,104
+Dry Goods,42,New Hampshire,Saleswomen,F,0.8,1866-07,4,104
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1860-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1860-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1861-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1861-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1862-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1862-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1863-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1863-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1864-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1864-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1865-01,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1865-07,1,100
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1866-01,1,108
+Ginghams,43,Massachusetts,Overseers Carding Dep't,M,3.0,1866-07,1,108
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1860-01,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1860-07,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1861-01,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1861-07,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1862-01,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1862-07,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1863-01,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1863-07,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1864-01,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1864-07,1,100
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1865-01,1,108
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1865-07,1,108
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1866-01,1,117
+Ginghams,43,Massachusetts,Overseers Dressing Dep't,M,3.0,1866-07,1,117
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1860-01,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1860-07,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1861-01,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1861-07,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1862-01,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1862-07,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1863-01,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1863-07,2,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1864-01,1,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1864-07,1,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1865-01,1,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1865-07,1,100
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1866-01,2,110
+Ginghams,43,Massachusetts,Overseers Spinning Dep't,M,2.5,1866-07,1,120
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1860-01,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1860-07,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1861-01,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1861-07,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1862-01,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1862-07,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1863-01,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1863-07,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1864-01,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1864-07,1,100
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1865-01,1,108
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1865-07,1,108
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1866-01,1,133
+Ginghams,43,Massachusetts,Overseers Weaving Dep't,M,3.0,1866-07,1,133
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1860-01,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1860-07,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1861-01,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1861-07,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1862-01,5,97
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1862-07,5,97
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1863-01,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1863-07,5,100
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1864-01,5,103
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1864-07,5,103
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1865-01,5,124
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1865-07,5,124
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1866-01,5,148
+Ginghams,43,Massachusetts,Second Hands,M,1.55,1866-07,5,148
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1860-01,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1860-07,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1861-01,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1861-07,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1862-01,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1862-07,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1863-01,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1863-07,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1864-01,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1864-07,16,100
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1865-01,16,117
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1865-07,16,117
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1866-01,16,133
+Ginghams,43,Massachusetts,Back Boys,M,0.3,1866-07,16,150
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1860-01,2,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1860-07,2,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1861-01,2,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1861-07,2,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1862-01,2,86
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1862-07,2,86
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1863-01,3,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1863-07,3,100
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1864-01,4,129
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1864-07,4,129
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1865-01,4,114
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1865-07,4,114
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1866-01,4,140
+Ginghams,43,Massachusetts,Boiler Tenders,M,1.165,1866-07,4,140
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1860-01,4,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1860-07,4,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1861-01,4,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1861-07,4,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1862-01,2,86
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1862-07,2,86
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1863-01,3,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1863-07,3,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1864-01,3,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1864-07,3,100
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1865-01,3,125
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1865-07,3,125
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1866-01,3,129
+Ginghams,43,Massachusetts,Carpenters,M,1.75,1866-07,3,129
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1860-01,2,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1860-07,2,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1861-01,3,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1861-07,3,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1862-01,3,86
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1862-07,2,86
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1863-01,3,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1863-07,3,100
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1864-01,4,107
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1864-07,3,107
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1865-01,4,135
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1865-07,4,135
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1866-01,4,149
+Ginghams,43,Massachusetts,Card Grinders,M,1.25,1866-07,4,149
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1860-01,7,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1860-07,7,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1861-01,7,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1861-07,7,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1862-01,6,86
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1862-07,6,86
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1863-01,3,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1863-07,3,100
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1864-01,3,107
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1864-07,3,107
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1865-01,4,135
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1865-07,4,135
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1866-01,5,181
+Ginghams,43,Massachusetts,Card Strippers,M,0.83,1866-07,5,181
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1860-01,7,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1860-07,7,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1861-01,7,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1861-07,7,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1862-01,6,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1862-07,6,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1863-01,3,110
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1863-07,3,110
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1864-01,6,111
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1864-07,6,111
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1865-01,6,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1865-07,6,100
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1866-01,5,181
+Ginghams,43,Massachusetts,Card Tenders,M,0.75,1866-07,5,181
+Ginghams,43,Massachusetts,Dressers,M,1.64,1860-01,2,100
+Ginghams,43,Massachusetts,Dressers,M,1.64,1860-07,2,100
+Ginghams,43,Massachusetts,Dressers,M,1.64,1861-01,2,100
+Ginghams,43,Massachusetts,Dressers,M,1.64,1861-07,2,100
+Ginghams,43,Massachusetts,Dressers,M,1.64,1862-01,2,114
+Ginghams,43,Massachusetts,Dressers,M,1.64,1862-07,2,114
+Ginghams,43,Massachusetts,Dressers,M,1.64,1863-01,3,112
+Ginghams,43,Massachusetts,Dressers,M,1.64,1863-07,3,112
+Ginghams,43,Massachusetts,Dressers,M,1.64,1864-01,3,110
+Ginghams,43,Massachusetts,Dressers,M,1.64,1864-07,3,110
+Ginghams,43,Massachusetts,Dressers,M,1.64,1865-01,3,118
+Ginghams,43,Massachusetts,Dressers,M,1.64,1865-07,3,118
+Ginghams,43,Massachusetts,Dressers,M,1.64,1866-01,3,114
+Ginghams,43,Massachusetts,Dressers,M,1.64,1866-07,3,114
+Ginghams,43,Massachusetts,Dyers,M,1.0,1860-01,24,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1860-07,24,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1861-01,10,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1861-07,10,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1862-01,22,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1862-07,22,100
+Ginghams,43,Massachusetts,Dyers,M,1.0,1863-01,12,102
+Ginghams,43,Massachusetts,Dyers,M,1.0,1863-07,12,102
+Ginghams,43,Massachusetts,Dyers,M,1.0,1864-01,13,97
+Ginghams,43,Massachusetts,Dyers,M,1.0,1864-07,13,97
+Ginghams,43,Massachusetts,Dyers,M,1.0,1865-01,13,128
+Ginghams,43,Massachusetts,Dyers,M,1.0,1865-07,14,128
+Ginghams,43,Massachusetts,Dyers,M,1.0,1866-01,24,150
+Ginghams,43,Massachusetts,Dyers,M,1.0,1866-07,24,150
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1860-01,13,100
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1860-07,13,100
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1861-01,13,97
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1861-07,13,97
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1862-01,13,94
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1862-07,13,84
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1863-01,12,107
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1863-07,12,96
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1864-01,15,98
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1864-07,15,98
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1865-01,17,136
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1865-07,17,136
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1866-01,35,145
+Ginghams,43,Massachusetts,Loom Fixers,M,1.58,1866-07,35,145
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1860-01,6,100
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1860-07,6,100
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1861-01,4,90
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1861-07,4,90
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1862-01,3,97
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1862-07,3,92
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1863-01,3,97
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1863-07,3,97
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1864-01,4,101
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1864-07,4,101
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1865-01,2,110
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1865-07,2,110
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1866-01,4,152
+Ginghams,43,Massachusetts,Machin'ts,M,1.55,1866-07,4,152
+Ginghams,43,Massachusetts,Painters,M,1.75,1860-01,3,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1860-07,3,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1861-01,2,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1861-07,2,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1862-01,2,92
+Ginghams,43,Massachusetts,Painters,M,1.75,1862-07,2,92
+Ginghams,43,Massachusetts,Painters,M,1.75,1863-01,2,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1863-07,2,100
+Ginghams,43,Massachusetts,Painters,M,1.75,1864-01,2,103
+Ginghams,43,Massachusetts,Painters,M,1.75,1864-07,2,103
+Ginghams,43,Massachusetts,Painters,M,1.75,1865-01,2,103
+Ginghams,43,Massachusetts,Painters,M,1.75,1865-07,2,103
+Ginghams,43,Massachusetts,Painters,M,1.75,1866-01,2,120
+Ginghams,43,Massachusetts,Painters,M,1.75,1866-07,1,120
+Ginghams,43,Massachusetts,Pickers,M,1.0,1860-01,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1860-07,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1861-01,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1861-07,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1862-01,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1862-07,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1863-01,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1863-07,3,100
+Ginghams,43,Massachusetts,Pickers,M,1.0,1864-01,3,112
+Ginghams,43,Massachusetts,Pickers,M,1.0,1864-07,3,112
+Ginghams,43,Massachusetts,Pickers,M,1.0,1865-01,4,125
+Ginghams,43,Massachusetts,Pickers,M,1.0,1865-07,4,125
+Ginghams,43,Massachusetts,Pickers,M,1.0,1866-01,3,165
+Ginghams,43,Massachusetts,Pickers,M,1.0,1866-07,3,165
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1860-01,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1860-07,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1861-01,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1861-07,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1862-01,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1862-07,3,100
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1863-01,3,87
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1863-07,3,87
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1864-01,3,87
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1864-07,3,87
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1865-01,4,106
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1865-07,4,106
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1866-01,3,115
+Ginghams,43,Massachusetts,Smash Menders,M,1.0,1866-07,3,115
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1860-01,2,85
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1860-07,2,85
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1861-01,2,100
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1861-07,2,100
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1862-01,2,92
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1862-07,2,92
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1863-01,2,100
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1863-07,2,100
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1864-01,2,35
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1864-07,2,35
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1865-01,2,129
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1865-07,2,129
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1866-01,2,129
+Ginghams,43,Massachusetts,Watchmen,M,1.165,1866-07,2,129
+Ginghams,43,Massachusetts,Weavers,M,0.93,1860-01,100,100
+Ginghams,43,Massachusetts,Weavers,M,0.93,1860-07,100,98
+Ginghams,43,Massachusetts,Weavers,M,0.93,1861-01,100,104
+Ginghams,43,Massachusetts,Weavers,M,0.93,1861-07,100,104
+Ginghams,43,Massachusetts,Weavers,M,0.93,1862-01,100,97
+Ginghams,43,Massachusetts,Weavers,M,0.93,1862-07,6,97
+Ginghams,43,Massachusetts,Weavers,M,0.93,1863-01,4,104
+Ginghams,43,Massachusetts,Weavers,M,0.93,1863-07,6,104
+Ginghams,43,Massachusetts,Weavers,M,0.93,1864-01,8,99
+Ginghams,43,Massachusetts,Weavers,M,0.93,1864-07,8,99
+Ginghams,43,Massachusetts,Weavers,M,0.93,1865-01,3,129
+Ginghams,43,Massachusetts,Weavers,M,0.93,1865-07,3,129
+Ginghams,43,Massachusetts,Weavers,M,0.93,1866-01,4,157
+Ginghams,43,Massachusetts,Weavers,M,0.93,1866-07,4,157
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1860-01,10,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1860-07,10,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1861-01,10,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1861-07,8,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1862-01,6,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1862-07,4,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1863-01,5,104
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1863-07,6,104
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1864-01,5,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1864-07,8,100
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1865-01,3,150
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1865-07,3,150
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1866-01,5,103
+Ginghams,43,Massachusetts,Yard Hands,M,1.0,1866-07,3,103
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1860-01,5,100
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1860-07,10,100
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1861-01,10,100
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1861-07,15,100
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1862-01,4,118
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1862-07,4,118
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1863-01,3,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1863-07,3,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1864-01,2,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1864-07,2,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1865-01,1,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1865-07,1,108
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1866-01,10,125
+Ginghams,43,Massachusetts,Drawers-in,F,0.8,1866-07,10,125
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1860-01,10,100
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1860-07,10,102
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1861-01,10,100
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1861-07,10,100
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1862-01,10,102
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1862-07,4,102
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1863-01,5,102
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1863-07,5,102
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1864-01,11,112
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1864-07,11,112
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1865-01,13,131
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1865-07,13,131
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1866-01,10,125
+Ginghams,43,Massachusetts,Drawing Frame Tenders,F,0.49,1866-07,10,125
+Ginghams,43,Massachusetts,Quillers,F,0.57,1860-01,25,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1860-07,25,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1861-01,27,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1861-07,27,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1862-01,4,102
+Ginghams,43,Massachusetts,Quillers,F,0.57,1862-07,4,102
+Ginghams,43,Massachusetts,Quillers,F,0.57,1863-01,5,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1863-07,5,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1864-01,5,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1864-07,5,100
+Ginghams,43,Massachusetts,Quillers,F,0.57,1865-01,3,105
+Ginghams,43,Massachusetts,Quillers,F,0.57,1865-07,3,105
+Ginghams,43,Massachusetts,Quillers,F,0.57,1866-01,12,173
+Ginghams,43,Massachusetts,Quillers,F,0.57,1866-07,12,173
+Ginghams,43,Massachusetts,Reelers,F,0.66,1860-01,12,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1860-07,12,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1861-01,10,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1861-07,10,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1862-01,12,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1862-07,12,100
+Ginghams,43,Massachusetts,Reelers,F,0.66,1863-01,6,105
+Ginghams,43,Massachusetts,Reelers,F,0.66,1863-07,11,105
+Ginghams,43,Massachusetts,Reelers,F,0.66,1864-01,8,108
+Ginghams,43,Massachusetts,Reelers,F,0.66,1864-07,18,108
+Ginghams,43,Massachusetts,Reelers,F,0.66,1865-01,13,143
+Ginghams,43,Massachusetts,Reelers,F,0.66,1865-07,20,143
+Ginghams,43,Massachusetts,Reelers,F,0.66,1866-01,25,165
+Ginghams,43,Massachusetts,Reelers,F,0.66,1866-07,25,165
+Ginghams,43,Massachusetts,Speeders,F,0.56,1860-01,10,100
+Ginghams,43,Massachusetts,Speeders,F,0.56,1860-07,10,100
+Ginghams,43,Massachusetts,Speeders,F,0.56,1861-01,10,100
+Ginghams,43,Massachusetts,Speeders,F,0.56,1861-07,10,100
+Ginghams,43,Massachusetts,Speeders,F,0.56,1862-01,12,105
+Ginghams,43,Massachusetts,Speeders,F,0.56,1862-07,12,105
+Ginghams,43,Massachusetts,Speeders,F,0.56,1863-01,6,105
+Ginghams,43,Massachusetts,Speeders,F,0.56,1863-07,6,105
+Ginghams,43,Massachusetts,Speeders,F,0.56,1864-01,8,118
+Ginghams,43,Massachusetts,Speeders,F,0.56,1864-07,8,118
+Ginghams,43,Massachusetts,Speeders,F,0.56,1865-01,13,143
+Ginghams,43,Massachusetts,Speeders,F,0.56,1865-07,20,143
+Ginghams,43,Massachusetts,Speeders,F,0.56,1866-01,25,170
+Ginghams,43,Massachusetts,Speeders,F,0.56,1866-07,34,170
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1860-01,100,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1860-07,100,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1861-01,88,99
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1861-07,88,99
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1862-01,89,105
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1862-07,145,105
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1863-01,19,130
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1863-07,19,130
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1864-01,101,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1864-07,101,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1865-01,103,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1865-07,103,100
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1866-01,144,142
+Ginghams,43,Massachusetts,Spinners Frame,F,0.58,1866-07,144,142
+Ginghams,43,Massachusetts,Warpers,F,0.73,1860-01,20,115
+Ginghams,43,Massachusetts,Warpers,F,0.73,1860-07,20,115
+Ginghams,43,Massachusetts,Warpers,F,0.73,1861-01,20,100
+Ginghams,43,Massachusetts,Warpers,F,0.73,1861-07,20,100
+Ginghams,43,Massachusetts,Warpers,F,0.73,1862-01,20,131
+Ginghams,43,Massachusetts,Warpers,F,0.73,1862-07,20,131
+Ginghams,43,Massachusetts,Warpers,F,0.73,1863-01,20,129
+Ginghams,43,Massachusetts,Warpers,F,0.73,1863-07,20,129
+Ginghams,43,Massachusetts,Warpers,F,0.73,1864-01,20,100
+Ginghams,43,Massachusetts,Warpers,F,0.73,1864-07,20,100
+Ginghams,43,Massachusetts,Warpers,F,0.73,1865-01,20,142
+Ginghams,43,Massachusetts,Warpers,F,0.73,1865-07,20,142
+Ginghams,43,Massachusetts,Warpers,F,0.73,1866-01,20,188
+Ginghams,43,Massachusetts,Warpers,F,0.73,1866-07,20,188
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1860-01,100,100
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1860-07,100,100
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1861-01,100,99
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1861-07,100,99
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1862-01,100,101
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1862-07,100,101
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1863-01,43,107
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1863-07,43,107
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1864-01,85,109
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1864-07,85,109
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1865-01,85,134
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1865-07,85,134
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1866-01,85,154
+Ginghams,43,Massachusetts,Weavers2,F,0.72,1866-07,85,154
+Ginghams,43,Massachusetts,Winders,F,0.56,1860-01,30,100
+Ginghams,43,Massachusetts,Winders,F,0.56,1860-07,25,100
+Ginghams,43,Massachusetts,Winders,F,0.56,1861-01,33,100
+Ginghams,43,Massachusetts,Winders,F,0.56,1861-07,27,100
+Ginghams,43,Massachusetts,Winders,F,0.56,1862-01,29,105
+Ginghams,43,Massachusetts,Winders,F,0.56,1862-07,19,105
+Ginghams,43,Massachusetts,Winders,F,0.56,1863-01,14,121
+Ginghams,43,Massachusetts,Winders,F,0.56,1863-07,14,121
+Ginghams,43,Massachusetts,Winders,F,0.56,1864-01,21,108
+Ginghams,43,Massachusetts,Winders,F,0.56,1864-07,21,108
+Ginghams,43,Massachusetts,Winders,F,0.56,1865-01,20,107
+Ginghams,43,Massachusetts,Winders,F,0.56,1865-07,20,107
+Ginghams,43,Massachusetts,Winders,F,0.56,1866-01,43,121
+Ginghams,43,Massachusetts,Winders,F,0.56,1866-07,43,121
+Groceries,44,New Hampshire,Salesmen,M,0.875,1860-01,2,100
+Groceries,44,New Hampshire,Salesmen,M,0.875,1860-07,2,100
+Groceries,44,New Hampshire,Salesmen,M,0.875,1861-01,2,100
+Groceries,44,New Hampshire,Salesmen,M,0.875,1861-07,2,100
+Groceries,44,New Hampshire,Salesmen,M,0.875,1862-01,2,157
+Groceries,44,New Hampshire,Salesmen,M,0.875,1862-07,2,157
+Groceries,44,New Hampshire,Salesmen,M,0.875,1863-01,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1863-07,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1864-01,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1864-07,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1865-01,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1865-07,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1866-01,2,186
+Groceries,44,New Hampshire,Salesmen,M,0.875,1866-07,2,186
+Groceries,44,New Hampshire,Teamsters,M,1.5,1860-01,1,100
+Groceries,44,New Hampshire,Teamsters,M,1.5,1860-07,1,100
+Groceries,44,New Hampshire,Teamsters,M,1.5,1861-01,1,100
+Groceries,44,New Hampshire,Teamsters,M,1.5,1861-07,1,100
+Groceries,44,New Hampshire,Teamsters,M,1.5,1862-01,1,100
+Groceries,44,New Hampshire,Teamsters,M,1.5,1862-07,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1863-01,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1863-07,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1864-01,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1864-07,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1865-01,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1865-07,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1866-01,1,133
+Groceries,44,New Hampshire,Teamsters,M,1.5,1866-07,1,133
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1860-01,2,100
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1860-07,2,100
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1861-01,3,100
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1861-07,3,100
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1862-01,2,109
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1862-07,2,109
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1863-01,2,109
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1863-07,2,109
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1864-01,2,116
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1864-07,1,136
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1865-01,1,136
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1865-07,1,136
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1866-01,2,138
+Illuminating Gas,45,Massachusetts,Retort's,M,0.955,1866-07,3,160
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1860-01,3,100
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1861-01,4,100
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1861-07,1,100
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1862-01,2,109
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1862-07,2,109
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1863-01,2,109
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1863-07,2,109
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1864-01,5,143
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1864-07,1,143
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1865-01,1,150
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1865-07,1,150
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1866-01,2,150
+Illuminating Gas,45,Massachusetts,Coal Handlers,M,1.0,1866-07,2,150
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1860-01,7,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1860-07,6,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1861-01,7,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1861-07,6,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1862-01,12,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1862-07,10,100
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1863-01,14,113
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1864-01,8,137
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1865-01,15,175
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1866-01,11,175
+Illuminating Gas,45,Massachusetts,Firemen,M,1.0,1866-07,9,200
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1860-01,3,100
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1860-07,12,100
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1861-07,10,100
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1862-01,10,100
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1862-07,10,100
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1863-07,5,110
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1866-01,4,150
+Illuminating Gas,45,Massachusetts,Laborers Street,M,1.0,1866-07,6,150
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1860-01,7,100
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1860-07,8,98
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1861-07,10,97
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1862-01,9,97
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1862-07,9,97
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1863-01,6,104
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1863-07,6,104
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1864-07,6,140
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1865-01,6,151
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1865-07,6,151
+Illuminating Gas,45,Massachusetts,Blacksm's Helpers,M,1.965,1866-07,6,153
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1860-01,4,100
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1860-07,3,111
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1862-01,5,100
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1862-07,5,100
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1863-01,1,111
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1864-01,5,156
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1864-07,5,156
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1865-01,5,178
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1865-07,4,178
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1866-01,5,178
+Illuminating Gas,45,Massachusetts,Blacker's Helpers,M,1.125,1866-07,5,178
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1860-01,3,100
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1861-01,4,100
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1861-07,4,100
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1862-01,1,100
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1862-07,1,100
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1863-01,4,131
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1863-07,4,131
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1864-01,2,131
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1864-07,2,131
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1865-01,1,150
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1865-07,1,150
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1866-01,5,150
+Illuminating Gas,46,Massachusetts,Retort's,M,0.955,1866-07,5,150
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1860-01,7,100
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1860-07,20,100
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1861-01,11,97
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1861-07,15,97
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1862-01,11,97
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1862-07,4,101
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1863-01,2,107
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1863-07,2,107
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1864-01,4,119
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1864-07,4,119
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1865-01,7,127
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1865-07,7,143
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1866-01,3,143
+Illuminating Gas,47,New York,Bricklayers,M,2.105,1866-07,9,180
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1860-01,3,100
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1860-07,3,103
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1861-01,4,103
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1861-07,3,101
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1862-01,5,101
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1862-07,4,103
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1863-01,2,119
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1863-07,4,131
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1864-01,3,131
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1864-07,2,131
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1865-01,1,150
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1865-07,5,150
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1866-01,3,150
+Illuminating Gas,47,New York,Brickl'rs Helpers,M,1.335,1866-07,8,150
+Illuminating Gas,47,New York,Carpent's,M,1.75,1860-01,6,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1860-07,6,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1861-01,10,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1861-07,9,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1862-01,6,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1862-07,6,100
+Illuminating Gas,47,New York,Carpent's,M,1.75,1863-01,4,143
+Illuminating Gas,47,New York,Carpent's,M,1.75,1863-07,5,143
+Illuminating Gas,47,New York,Carpent's,M,1.75,1864-01,3,143
+Illuminating Gas,47,New York,Carpent's,M,1.75,1864-07,3,143
+Illuminating Gas,47,New York,Carpent's,M,1.75,1865-01,1,171
+Illuminating Gas,47,New York,Carpent's,M,1.75,1865-07,3,171
+Illuminating Gas,47,New York,Carpent's,M,1.75,1866-01,6,171
+Illuminating Gas,47,New York,Carpent's,M,1.75,1866-07,6,171
+Illuminating Gas,47,New York,Engineers,M,2.165,1860-01,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1860-07,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1861-01,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1861-07,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1862-01,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1862-07,3,100
+Illuminating Gas,47,New York,Engineers,M,2.165,1863-01,3,112
+Illuminating Gas,47,New York,Engineers,M,2.165,1863-07,3,125
+Illuminating Gas,47,New York,Engineers,M,2.165,1864-01,3,125
+Illuminating Gas,47,New York,Engineers,M,2.165,1864-07,3,125
+Illuminating Gas,47,New York,Engineers,M,2.165,1865-01,3,125
+Illuminating Gas,47,New York,Engineers,M,2.165,1865-07,3,125
+Illuminating Gas,47,New York,Engineers,M,2.165,1866-01,2,139
+Illuminating Gas,47,New York,Engineers,M,2.165,1866-07,2,139
+Illuminating Gas,47,New York,Firemen,M,1.34,1860-01,80,100
+Illuminating Gas,47,New York,Firemen,M,1.34,1860-07,80,100
+Illuminating Gas,47,New York,Firemen,M,1.34,1861-01,100,100
+Illuminating Gas,47,New York,Firemen,M,1.34,1861-07,100,100
+Illuminating Gas,47,New York,Firemen,M,1.34,1862-01,100,210
+Illuminating Gas,47,New York,Firemen,M,1.34,1862-07,100,220
+Illuminating Gas,47,New York,Firemen,M,1.34,1863-01,80,210
+Illuminating Gas,47,New York,Firemen,M,1.34,1863-07,80,210
+Illuminating Gas,47,New York,Firemen,M,1.34,1864-01,80,188
+Illuminating Gas,47,New York,Firemen,M,1.34,1864-07,80,188
+Illuminating Gas,47,New York,Firemen,M,1.34,1865-01,80,187
+Illuminating Gas,47,New York,Firemen,M,1.34,1865-07,80,187
+Illuminating Gas,47,New York,Firemen,M,1.34,1866-01,80,187
+Illuminating Gas,47,New York,Firemen,M,1.34,1866-07,57,53
+Illuminating Gas,47,New York,Laborers,M,1.055,1860-01,100,100
+Illuminating Gas,47,New York,Laborers,M,1.055,1860-07,100,100
+Illuminating Gas,47,New York,Laborers,M,1.055,1861-01,100,210
+Illuminating Gas,47,New York,Laborers,M,1.055,1861-07,100,210
+Illuminating Gas,47,New York,Laborers,M,1.055,1862-01,100,210
+Illuminating Gas,47,New York,Laborers,M,1.055,1862-07,100,210
+Illuminating Gas,47,New York,Laborers,M,1.055,1863-01,80,131
+Illuminating Gas,47,New York,Laborers,M,1.055,1863-07,80,142
+Illuminating Gas,47,New York,Laborers,M,1.055,1864-01,80,142
+Illuminating Gas,47,New York,Laborers,M,1.055,1864-07,80,142
+Illuminating Gas,47,New York,Laborers,M,1.055,1865-01,80,157
+Illuminating Gas,47,New York,Laborers,M,1.055,1865-07,80,158
+Illuminating Gas,47,New York,Laborers,M,1.055,1866-01,80,188
+Illuminating Gas,47,New York,Laborers,M,1.055,1866-07,80,188
+Illuminating Gas,47,New York,Painters,M,1.5,1860-01,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1860-07,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1861-01,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1861-07,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1862-01,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1862-07,1,100
+Illuminating Gas,47,New York,Painters,M,1.5,1863-01,1,117
+Illuminating Gas,47,New York,Painters,M,1.5,1863-07,1,117
+Illuminating Gas,47,New York,Painters,M,1.5,1864-01,1,150
+Illuminating Gas,47,New York,Painters,M,1.5,1864-07,1,150
+Illuminating Gas,47,New York,Painters,M,1.5,1865-01,1,183
+Illuminating Gas,47,New York,Painters,M,1.5,1865-07,1,183
+Illuminating Gas,47,New York,Painters,M,1.5,1866-01,1,200
+Illuminating Gas,47,New York,Painters,M,1.5,1866-07,1,200
+Illuminating Gas,47,New York,Pavers,M,1.25,1860-01,1,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1860-07,1,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1861-01,1,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1861-07,1,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1862-01,3,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1862-07,3,100
+Illuminating Gas,47,New York,Pavers,M,1.25,1863-01,1,140
+Illuminating Gas,47,New York,Pavers,M,1.25,1863-07,1,140
+Illuminating Gas,47,New York,Pavers,M,1.25,1864-01,1,130
+Illuminating Gas,47,New York,Pavers,M,1.25,1864-07,1,130
+Illuminating Gas,47,New York,Pavers,M,1.25,1865-01,4,162
+Illuminating Gas,47,New York,Pavers,M,1.25,1865-07,2,162
+Illuminating Gas,47,New York,Pavers,M,1.25,1866-01,2,200
+Illuminating Gas,47,New York,Pavers,M,1.25,1866-07,2,200
+Illuminating Gas,47,New York,Stable Men,M,1.25,1860-01,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1860-07,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1861-01,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1861-07,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1862-01,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1862-07,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1863-01,4,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1863-07,4,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1864-01,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1864-07,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1865-01,2,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1865-07,2,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1866-01,3,100
+Illuminating Gas,47,New York,Stable Men,M,1.25,1866-07,3,100
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1860-01,1,100
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1860-07,1,100
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1861-01,1,100
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1861-07,1,100
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1862-01,1,111
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1862-07,1,111
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1863-01,1,128
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1863-07,1,128
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1864-01,1,172
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1864-07,1,172
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1865-01,1,189
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1865-07,1,189
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1866-01,1,217
+Illuminating Gas,47,New York,Blacksmiths,M,1.5,1866-07,1,217
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1860-01,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1860-07,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1861-01,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1861-07,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1862-01,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1862-07,1,100
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1863-01,1,125
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1863-07,1,125
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1864-01,1,200
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1864-07,1,200
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1865-01,1,200
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1865-07,1,200
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1866-01,1,200
+Illuminating Gas,47,New York,Blacksm's Helpers,M,1.0,1866-07,1,200
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1860-01,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1860-07,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1861-01,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1861-07,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1862-01,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1862-07,2,100
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1863-01,2,122
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1863-07,2,122
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1864-01,2,178
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1864-07,2,178
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1865-01,2,178
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1865-07,2,178
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1866-01,2,200
+Illuminating Gas,47,New York,Bricklayers2,M,2.25,1866-07,2,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1860-01,1,100
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1860-07,1,100
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1861-01,1,100
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1861-07,1,100
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1862-01,1,100
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1862-07,1,111
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1863-01,1,125
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1863-07,1,125
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1864-01,1,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1864-07,1,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1865-01,1,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1865-07,1,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1866-01,1,200
+Illuminating Gas,48,Ohio,Blacksm's Helpers,M,1.0,1866-07,1,200
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1860-01,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1860-07,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1861-01,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1861-07,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1862-01,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1862-07,2,100
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1863-01,2,122
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1863-07,2,122
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1864-01,2,178
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1864-07,2,178
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1865-01,2,178
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1865-07,2,178
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1866-01,2,200
+Illuminating Gas,48,Ohio,Bricklayers,M,2.35,1866-07,2,200
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1860-01,5,100
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1860-07,5,100
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1861-01,2,105
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1861-07,2,105
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1862-01,2,103
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1862-07,2,103
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1863-01,2,115
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1863-07,2,115
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1864-01,2,148
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1864-07,2,148
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1865-01,2,148
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1865-07,2,148
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1866-01,2,197
+Illuminating Gas,49,Ohio,Carpenters,M,1.525,1866-07,2,197
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1860-01,40,100
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1860-07,40,100
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1861-01,40,75
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1861-07,40,75
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1862-01,40,75
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1862-07,40,75
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1863-01,75,116
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1863-07,75,116
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1864-01,90,204
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1864-07,90,204
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1865-01,10,175
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1865-07,10,175
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1866-01,10,184
+Illuminating Gas,49,Ohio,Firemen,M,1.225,1866-07,10,184
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1860-01,40,100
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1860-07,40,100
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1861-01,40,100
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1861-07,40,100
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1862-01,40,113
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1862-07,40,113
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1863-01,40,115
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1863-07,40,115
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1864-01,111,150
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1864-07,40,150
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1865-01,10,175
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1865-07,10,175
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1866-01,10,150
+Illuminating Gas,49,Ohio,Laborers,M,1.0,1866-07,10,150
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1860-01,2,100
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1860-07,2,100
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1861-01,2,100
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1861-07,2,100
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1862-01,2,102
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1862-07,2,102
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1863-01,2,114
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1863-07,2,136
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1864-01,2,150
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1864-07,2,150
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1865-01,2,150
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1865-07,2,150
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1866-01,2,159
+Illuminating Gas,49,Ohio,Watchmen,M,1.1,1866-07,2,159
+Leather,50,Massachusetts,Blackers,M,1.0,1860-01,1,100
+Leather,50,Massachusetts,Blackers,M,1.0,1860-07,1,100
+Leather,50,Massachusetts,Blackers,M,1.0,1861-01,1,100
+Leather,50,Massachusetts,Blackers,M,1.0,1861-07,1,100
+Leather,50,Massachusetts,Blackers,M,1.0,1862-01,1,117
+Leather,50,Massachusetts,Blackers,M,1.0,1862-07,1,117
+Leather,50,Massachusetts,Blackers,M,1.0,1863-01,1,117
+Leather,50,Massachusetts,Blackers,M,1.0,1863-07,1,117
+Leather,50,Massachusetts,Blackers,M,1.0,1864-01,1,134
+Leather,50,Massachusetts,Blackers,M,1.0,1864-07,1,134
+Leather,50,Massachusetts,Blackers,M,1.0,1865-01,1,134
+Leather,50,Massachusetts,Blackers,M,1.0,1865-07,1,134
+Leather,50,Massachusetts,Blackers,M,1.0,1866-01,1,150
+Leather,50,Massachusetts,Blackers,M,1.0,1866-07,1,150
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1860-01,1,100
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1860-07,1,100
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1861-01,1,117
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1861-07,1,117
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1862-01,1,125
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1862-07,1,125
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1863-01,1,150
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1863-07,1,142
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1864-01,1,150
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1864-07,1,150
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1865-01,2,200
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1865-07,2,200
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1866-01,2,200
+Leather,50,Massachusetts,Cellar Hands,M,1.0,1866-07,2,192
+Leather,50,Massachusetts,Finishers,M,1.195,1860-01,6,100
+Leather,50,Massachusetts,Finishers,M,1.195,1860-07,6,100
+Leather,50,Massachusetts,Finishers,M,1.195,1861-01,6,100
+Leather,50,Massachusetts,Finishers,M,1.195,1861-07,6,118
+Leather,50,Massachusetts,Finishers,M,1.195,1862-01,6,128
+Leather,50,Massachusetts,Finishers,M,1.195,1862-07,6,128
+Leather,50,Massachusetts,Finishers,M,1.195,1863-01,6,147
+Leather,50,Massachusetts,Finishers,M,1.195,1863-07,6,147
+Leather,50,Massachusetts,Finishers,M,1.195,1864-01,9,141
+Leather,50,Massachusetts,Finishers,M,1.195,1864-07,9,141
+Leather,50,Massachusetts,Finishers,M,1.195,1865-01,10,157
+Leather,50,Massachusetts,Finishers,M,1.195,1865-07,10,163
+Leather,50,Massachusetts,Finishers,M,1.195,1866-01,7,144
+Leather,50,Massachusetts,Finishers,M,1.195,1866-07,7,146
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1860-01,1,100
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1860-07,1,100
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1861-01,1,115
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1861-07,1,125
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1862-01,1,129
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1862-07,1,129
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1863-01,1,158
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1863-07,1,158
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1864-01,1,172
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1864-07,1,172
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1865-01,1,186
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1865-07,1,186
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1866-01,1,192
+Leather,50,Massachusetts,Flatten-Out,M,1.165,1866-07,1,192
+Leather,50,Massachusetts,Glossers,M,1.165,1860-01,1,100
+Leather,50,Massachusetts,Glossers,M,1.165,1860-07,1,100
+Leather,50,Massachusetts,Glossers,M,1.165,1861-01,1,115
+Leather,50,Massachusetts,Glossers,M,1.165,1861-07,1,115
+Leather,50,Massachusetts,Glossers,M,1.165,1862-01,1,129
+Leather,50,Massachusetts,Glossers,M,1.165,1862-07,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1863-01,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1863-07,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1864-01,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1864-07,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1865-01,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1865-07,1,143
+Leather,50,Massachusetts,Glossers,M,1.165,1866-01,1,150
+Leather,50,Massachusetts,Glossers,M,1.165,1866-07,1,158
+Leather,50,Massachusetts,Setters-Out,M,1.165,1860-01,1,100
+Leather,50,Massachusetts,Setters-Out,M,1.165,1860-07,1,100
+Leather,50,Massachusetts,Setters-Out,M,1.165,1861-01,1,115
+Leather,50,Massachusetts,Setters-Out,M,1.165,1861-07,1,115
+Leather,50,Massachusetts,Setters-Out,M,1.165,1862-01,1,129
+Leather,50,Massachusetts,Setters-Out,M,1.165,1862-07,1,129
+Leather,50,Massachusetts,Setters-Out,M,1.165,1863-01,1,143
+Leather,50,Massachusetts,Setters-Out,M,1.165,1863-07,1,168
+Leather,50,Massachusetts,Setters-Out,M,1.165,1864-01,1,186
+Leather,50,Massachusetts,Setters-Out,M,1.165,1864-07,1,186
+Leather,50,Massachusetts,Setters-Out,M,1.165,1865-01,1,186
+Leather,50,Massachusetts,Setters-Out,M,1.165,1865-07,1,186
+Leather,50,Massachusetts,Setters-Out,M,1.165,1866-01,1,172
+Leather,50,Massachusetts,Setters-Out,M,1.165,1866-07,1,172
+Leather,50,Massachusetts,Splitters,M,1.5,1860-01,1,100
+Leather,50,Massachusetts,Splitters,M,1.5,1860-07,1,100
+Leather,50,Massachusetts,Splitters,M,1.5,1861-01,1,122
+Leather,50,Massachusetts,Splitters,M,1.5,1861-07,1,122
+Leather,50,Massachusetts,Splitters,M,1.5,1862-01,1,133
+Leather,50,Massachusetts,Splitters,M,1.5,1862-07,1,133
+Leather,50,Massachusetts,Splitters,M,1.5,1863-01,1,144
+Leather,50,Massachusetts,Splitters,M,1.5,1863-07,1,144
+Leather,50,Massachusetts,Splitters,M,1.5,1864-01,1,156
+Leather,50,Massachusetts,Splitters,M,1.5,1864-07,1,156
+Leather,50,Massachusetts,Splitters,M,1.5,1865-01,1,156
+Leather,50,Massachusetts,Splitters,M,1.5,1865-07,1,156
+Leather,50,Massachusetts,Splitters,M,1.5,1866-01,1,174
+Leather,50,Massachusetts,Splitters,M,1.5,1866-07,1,174
+Leather,50,Massachusetts,Stuffers,M,1.085,1860-01,2,100
+Leather,50,Massachusetts,Stuffers,M,1.085,1860-07,2,100
+Leather,50,Massachusetts,Stuffers,M,1.085,1861-01,2,107
+Leather,50,Massachusetts,Stuffers,M,1.085,1861-07,2,107
+Leather,50,Massachusetts,Stuffers,M,1.085,1862-01,2,121
+Leather,50,Massachusetts,Stuffers,M,1.085,1862-07,2,121
+Leather,50,Massachusetts,Stuffers,M,1.085,1863-01,2,143
+Leather,50,Massachusetts,Stuffers,M,1.085,1863-07,2,148
+Leather,50,Massachusetts,Stuffers,M,1.085,1864-01,2,164
+Leather,50,Massachusetts,Stuffers,M,1.085,1864-07,2,164
+Leather,50,Massachusetts,Stuffers,M,1.085,1865-01,2,179
+Leather,50,Massachusetts,Stuffers,M,1.085,1865-07,2,179
+Leather,50,Massachusetts,Stuffers,M,1.085,1866-01,2,174
+Leather,50,Massachusetts,Stuffers,M,1.085,1866-07,2,174
+Leather,50,Massachusetts,Table Hands,M,1.055,1860-01,3,100
+Leather,50,Massachusetts,Table Hands,M,1.055,1860-07,3,100
+Leather,50,Massachusetts,Table Hands,M,1.055,1861-01,3,105
+Leather,50,Massachusetts,Table Hands,M,1.055,1861-07,3,105
+Leather,50,Massachusetts,Table Hands,M,1.055,1862-01,3,127
+Leather,50,Massachusetts,Table Hands,M,1.055,1862-07,3,132
+Leather,50,Massachusetts,Table Hands,M,1.055,1863-01,3,147
+Leather,50,Massachusetts,Table Hands,M,1.055,1863-07,3,147
+Leather,50,Massachusetts,Table Hands,M,1.055,1864-01,3,153
+Leather,50,Massachusetts,Table Hands,M,1.055,1864-07,3,153
+Leather,50,Massachusetts,Table Hands,M,1.055,1865-01,1,188
+Leather,50,Massachusetts,Table Hands,M,1.055,1865-07,1,188
+Leather,50,Massachusetts,Table Hands,M,1.055,1866-01,2,158
+Leather,50,Massachusetts,Table Hands,M,1.055,1866-07,2,158
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1860-01,5,100
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1860-07,5,100
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1861-01,3,113
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1861-07,2,116
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1862-01,4,132
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1862-07,4,141
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1863-01,3,160
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1863-07,3,161
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1864-01,2,165
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1864-07,2,201
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1865-01,2,188
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1865-07,2,188
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1866-01,2,177
+Leather,50,Massachusetts,Whitten'rs,M,1.035,1866-07,2,169
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1860-01,2,100
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1860-07,2,100
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1861-01,2,111
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1861-07,2,111
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1862-01,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1862-07,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1863-01,2,133
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1863-07,2,133
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1864-01,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1864-07,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1865-01,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1865-07,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1866-01,2,144
+Leather,50,Massachusetts,Bark Grinders,M,1.5,1866-07,2,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1860-01,5,100
+Leather,50,Massachusetts,Beamsters,M,1.5,1860-07,5,100
+Leather,50,Massachusetts,Beamsters,M,1.5,1861-01,5,111
+Leather,50,Massachusetts,Beamsters,M,1.5,1861-07,5,111
+Leather,50,Massachusetts,Beamsters,M,1.5,1862-01,5,129
+Leather,50,Massachusetts,Beamsters,M,1.5,1862-07,5,129
+Leather,50,Massachusetts,Beamsters,M,1.5,1863-01,5,140
+Leather,50,Massachusetts,Beamsters,M,1.5,1863-07,5,140
+Leather,50,Massachusetts,Beamsters,M,1.5,1864-01,4,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1864-07,4,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1865-01,4,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1865-07,4,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1866-01,4,144
+Leather,50,Massachusetts,Beamsters,M,1.5,1866-07,4,144
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1860-01,1,100
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1860-07,1,100
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1861-01,1,100
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1861-07,1,100
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1862-01,1,122
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1862-07,1,122
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1863-01,1,133
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1863-07,1,133
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1864-01,1,144
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1864-07,1,144
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1865-01,1,144
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1865-07,1,144
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1866-01,1,139
+Leather,51,Massachusetts,Latch Tenders,M,1.5,1866-07,1,133
+Leather,51,Massachusetts,Limers,M,1.5,1860-01,2,100
+Leather,51,Massachusetts,Limers,M,1.5,1860-07,2,100
+Leather,51,Massachusetts,Limers,M,1.5,1861-01,2,100
+Leather,51,Massachusetts,Limers,M,1.5,1861-07,1,111
+Leather,51,Massachusetts,Limers,M,1.5,1862-01,1,111
+Leather,51,Massachusetts,Limers,M,1.5,1862-07,1,111
+Leather,51,Massachusetts,Limers,M,1.5,1863-01,1,133
+Leather,51,Massachusetts,Limers,M,1.5,1863-07,1,133
+Leather,51,Massachusetts,Limers,M,1.5,1864-01,1,144
+Leather,51,Massachusetts,Limers,M,1.5,1864-07,1,144
+Leather,51,Massachusetts,Limers,M,1.5,1865-01,1,144
+Leather,51,Massachusetts,Limers,M,1.5,1865-07,1,144
+Leather,51,Massachusetts,Limers,M,1.5,1866-01,1,144
+Leather,51,Massachusetts,Limers,M,1.5,1866-07,1,144
+Leather,51,Massachusetts,Shavers,M,2.5,1860-01,2,100
+Leather,51,Massachusetts,Shavers,M,2.5,1860-07,2,100
+Leather,51,Massachusetts,Shavers,M,2.5,1861-01,2,100
+Leather,51,Massachusetts,Shavers,M,2.5,1861-07,1,100
+Leather,51,Massachusetts,Shavers,M,2.5,1862-01,1,100
+Leather,51,Massachusetts,Shavers,M,2.5,1862-07,1,100
+Leather,51,Massachusetts,Shavers,M,2.5,1863-01,1,100
+Leather,51,Massachusetts,Shavers,M,2.5,1863-07,1,100
+Leather,51,Massachusetts,Shavers,M,2.5,1864-01,1,120
+Leather,51,Massachusetts,Shavers,M,2.5,1864-07,1,120
+Leather,51,Massachusetts,Shavers,M,2.5,1865-01,1,120
+Leather,51,Massachusetts,Shavers,M,2.5,1865-07,1,120
+Leather,51,Massachusetts,Shavers,M,2.5,1866-01,1,120
+Leather,51,Massachusetts,Shavers,M,2.5,1866-07,1,120
+Leather,51,Massachusetts,Yard Hands,M,1.165,1860-01,13,100
+Leather,51,Massachusetts,Yard Hands,M,1.165,1860-07,13,100
+Leather,51,Massachusetts,Yard Hands,M,1.165,1861-01,13,100
+Leather,51,Massachusetts,Yard Hands,M,1.165,1861-07,13,129
+Leather,51,Massachusetts,Yard Hands,M,1.165,1862-01,9,130
+Leather,51,Massachusetts,Yard Hands,M,1.165,1862-07,9,130
+Leather,51,Massachusetts,Yard Hands,M,1.165,1863-01,9,133
+Leather,51,Massachusetts,Yard Hands,M,1.165,1863-07,9,133
+Leather,51,Massachusetts,Yard Hands,M,1.165,1864-01,8,173
+Leather,51,Massachusetts,Yard Hands,M,1.165,1864-07,8,173
+Leather,51,Massachusetts,Yard Hands,M,1.165,1865-01,8,182
+Leather,51,Massachusetts,Yard Hands,M,1.165,1865-07,8,182
+Leather,51,Massachusetts,Yard Hands,M,1.165,1866-01,7,186
+Leather,51,Massachusetts,Yard Hands,M,1.165,1866-07,7,186
+Lumber,52,New Hampshire,Laborers,M,0.385,1860-01,4,100
+Lumber,52,New Hampshire,Laborers,M,0.385,1860-10,4,100
+Lumber,52,New Hampshire,Laborers,M,0.385,1861-01,3,100
+Lumber,52,New Hampshire,Laborers,M,0.385,1861-10,3,100
+Lumber,52,New Hampshire,Laborers,M,0.385,1862-01,3,119
+Lumber,52,New Hampshire,Laborers,M,0.385,1862-10,3,119
+Lumber,52,New Hampshire,Laborers,M,0.385,1863-01,2,160
+Lumber,52,New Hampshire,Laborers,M,0.385,1863-10,2,160
+Lumber,52,New Hampshire,Laborers,M,0.385,1864-01,2,179
+Lumber,52,New Hampshire,Laborers,M,0.385,1864-10,2,179
+Lumber,52,New Hampshire,Laborers,M,0.385,1865-01,2,179
+Lumber,52,New Hampshire,Laborers,M,0.385,1865-10,2,179
+Lumber,52,New Hampshire,Laborers,M,0.385,1866-01,2,179
+Lumber,52,New Hampshire,Laborers,M,0.385,1866-10,3,179
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1860-01,19,100
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1860-10,16,104
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1861-01,23,100
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1861-10,24,100
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1862-01,17,130
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1862-10,16,130
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1863-01,11,186
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1863-10,11,186
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1864-01,14,189
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1864-10,11,189
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1865-01,21,202
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1865-10,15,201
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1866-01,21,202
+Lumber,52,New Hampshire,Lumbermen,M,0.505,1866-10,19,203
+Lumber,53,New York,Salesmen,M,1.5,1860-01,1,100
+Lumber,53,New York,Salesmen,M,1.5,1860-07,1,100
+Lumber,53,New York,Salesmen,M,1.5,1861-01,1,100
+Lumber,53,New York,Salesmen,M,1.5,1861-07,1,100
+Lumber,53,New York,Salesmen,M,1.5,1862-01,2,92
+Lumber,53,New York,Salesmen,M,1.5,1862-07,2,92
+Lumber,53,New York,Salesmen,M,1.5,1863-01,2,100
+Lumber,53,New York,Salesmen,M,1.5,1863-07,2,100
+Lumber,53,New York,Salesmen,M,1.5,1864-01,3,115
+Lumber,53,New York,Salesmen,M,1.5,1864-07,3,115
+Lumber,53,New York,Salesmen,M,1.5,1865-01,3,130
+Lumber,53,New York,Salesmen,M,1.5,1865-07,3,130
+Lumber,53,New York,Salesmen,M,1.5,1866-01,3,130
+Lumber,53,New York,Salesmen,M,1.5,1866-07,3,130
+Lumber,53,New York,Teamsters,M,1.125,1860-01,2,100
+Lumber,53,New York,Teamsters,M,1.125,1860-07,2,100
+Lumber,53,New York,Teamsters,M,1.125,1861-01,2,115
+Lumber,53,New York,Teamsters,M,1.125,1861-07,2,69
+Lumber,53,New York,Teamsters,M,1.125,1862-01,2,94
+Lumber,53,New York,Teamsters,M,1.125,1862-07,2,94
+Lumber,53,New York,Teamsters,M,1.125,1863-01,2,98
+Lumber,53,New York,Teamsters,M,1.125,1863-07,2,98
+Lumber,53,New York,Teamsters,M,1.125,1864-01,2,117
+Lumber,53,New York,Teamsters,M,1.125,1864-07,2,111
+Lumber,53,New York,Teamsters,M,1.125,1865-01,2,111
+Lumber,53,New York,Teamsters,M,1.125,1865-07,2,111
+Lumber,53,New York,Teamsters,M,1.125,1866-01,2,122
+Lumber,53,New York,Teamsters,M,1.125,1866-07,2,122
+Lumber,53,New York,Yard Hands,M,1.04,1860-01,9,100
+Lumber,53,New York,Yard Hands,M,1.04,1860-07,11,101
+Lumber,53,New York,Yard Hands,M,1.04,1861-01,14,104
+Lumber,53,New York,Yard Hands,M,1.04,1861-07,14,106
+Lumber,53,New York,Yard Hands,M,1.04,1862-01,12,101
+Lumber,53,New York,Yard Hands,M,1.04,1862-07,11,106
+Lumber,53,New York,Yard Hands,M,1.04,1863-01,10,109
+Lumber,53,New York,Yard Hands,M,1.04,1863-07,10,109
+Lumber,53,New York,Yard Hands,M,1.04,1864-01,11,123
+Lumber,53,New York,Yard Hands,M,1.04,1864-07,11,131
+Lumber,53,New York,Yard Hands,M,1.04,1865-01,15,135
+Lumber,53,New York,Yard Hands,M,1.04,1865-07,14,131
+Lumber,53,New York,Yard Hands,M,1.04,1866-01,13,139
+Lumber,53,New York,Yard Hands,M,1.04,1866-07,12,139

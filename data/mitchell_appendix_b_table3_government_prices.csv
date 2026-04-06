@@ -1,0 +1,83 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix B, Table 3: "Relative Prices Paid by Federal Government for Supplies, 1860-65"
+# Pages 449-451. Relative prices (index, base=100).
+section,item,year_1860,year_1861,year_1862,year_1863,year_1864,year_1865
+Quartermaster General (War Department),Caps forage,100,111,98,102,114,175
+Quartermaster General (War Department),Hats uniform,100,66,69,70,77,86
+Quartermaster General (War Department),Greatcoats,100,113,118,117,155,188
+Quartermaster General (War Department),Coats blue flannel sack,100,102,114,112,126,191
+Quartermaster General (War Department),Coats blue flannel sack lined,100,103,121,122,127,148
+Quartermaster General (War Department),Trousers,100,107,125,89,110,168
+Quartermaster General (War Department),Shirts flannel,100,98,162,170,171,258
+Quartermaster General (War Department),Stockings,100,108,133,133,146,200
+Commissary General of Subsistence (War Department),Pork,100,89,110,217,238,
+Commissary General of Subsistence (War Department),Bacon,100,100,100,229,300,
+Commissary General of Subsistence (War Department),Ham,100,90,130,190,230,
+Commissary General of Subsistence (War Department),Beef cattle,100,100,123,200,252,
+Commissary General of Subsistence (War Department),Fresh beef,100,100,100,167,183,
+Commissary General of Subsistence (War Department),Salt beef,100,86,94,147,144,
+Commissary General of Subsistence (War Department),Flour,100,111,130,175,170,
+Commissary General of Subsistence (War Department),Soft bread,100,100,100,133,133,
+Commissary General of Subsistence (War Department),Hard bread,100,100,100,150,175,
+Commissary General of Subsistence (War Department),Corn meal,100,200,300,300,400,
+Commissary General of Subsistence (War Department),Beans,100,133,167,167,133,
+Commissary General of Subsistence (War Department),Peas,100,100,150,150,200,
+Commissary General of Subsistence (War Department),Rice,100,86,114,157,143,
+Commissary General of Subsistence (War Department),Hominy,100,100,150,200,300,
+Commissary General of Subsistence (War Department),Desiccated potatoes,100,110,100,110,140,
+Commissary General of Subsistence (War Department),Mixed vegetables,100,108,87,78,100,
+Commissary General of Subsistence (War Department),Green coffee,100,153,213,263,247,
+Commissary General of Subsistence (War Department),R. and R. G. coffee,100,145,100,250,160,
+Commissary General of Subsistence (War Department),Tea,100,129,167,238,294,
+Commissary General of Subsistence (War Department),Brown sugar,100,111,133,211,167,
+Commissary General of Subsistence (War Department),White sugar,100,120,100,250,280,
+Commissary General of Subsistence (War Department),Vinegar,100,91,146,204,314,
+Commissary General of Subsistence (War Department),Candles,100,108,122,172,167,
+Commissary General of Subsistence (War Department),Soap,100,120,110,220,220,
+Commissary General of Subsistence (War Department),Salt,100,117,119,119,119,
+Bureau of Provisions and Clothing (Navy Department),Beans,100,86,100,150,215,215
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,100,101,91,86,125,153
+Bureau of Provisions and Clothing (Navy Department),Sugar,100,91,74,100,281,275
+Bureau of Provisions and Clothing (Navy Department),Vegetables,100,92,123,84,77,163
+Bureau of Provisions and Clothing (Navy Department),Blankets,100,,99,132,232,329
+Bureau of Provisions and Clothing (Navy Department),Flannel,100,100,92,124,252,276
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,100,96,92,103,201,207
+Bureau of Provisions and Clothing (Navy Department),Satinet,100,,109,94,99,190,228
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,100,98,97,105,194,250
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,100,71,68,75,132,207
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,100,83,74,83,124,149
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,100,186,102,113,436,234
+Bureau of Provisions and Clothing (Navy Department),Mattresses,100,97,94,97,244,295
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,100,94,94,123,180,227
+Bureau of Provisions and Clothing (Navy Department),Turpentine,100,117,319,576,488,836
+Surgeon General (War Department),Aconite,100,107,107,107,200,200
+Surgeon General (War Department),Aloes,100,129,107,147,100,160
+Surgeon General (War Department),Alum,100,87,91,68,103,103
+Surgeon General (War Department),Ammonia,100,100,100,100,180,160
+Surgeon General (War Department),Arnica,100,115,133,133,187,167
+Surgeon General (War Department),Calomel,100,100,92,112,223,214
+Surgeon General (War Department),Camphor,100,119,222,237,433,430
+Surgeon General (War Department),Castor oil,100,88,50,125,125,105
+Surgeon General (War Department),Chalk,100,100,100,100,120,120
+Surgeon General (War Department),Chloroform,100,99,100,100,125,164
+Surgeon General (War Department),Cod liver oil,100,71,71,71,77,77
+Surgeon General (War Department),Ether,100,150,54,69,126,131
+Surgeon General (War Department),Extract of ginger,100,113,114,114,120,120
+Surgeon General (War Department),Extract of wild cherry bark,100,100,128,112,300,363
+Surgeon General (War Department),Gum Arabic,100,131,134,134,213,213
+Surgeon General (War Department),Ipecac,100,100,116,117,223,295
+Surgeon General (War Department),Laudanum,100,100,100,100,230,300
+Surgeon General (War Department),Magnesia,100,89,83,93,208,253
+Surgeon General (War Department),Nitric acid,100,93,75,63,68,95
+Surgeon General (War Department),Olive oil,100,100,100,100,147,147
+Surgeon General (War Department),Opium,100,101,102,115,185,185
+Surgeon General (War Department),Pills cathartic,100,75,53,75,,100
+Surgeon General (War Department),Potassium chlorate,100,104,104,104,200,200
+Surgeon General (War Department),Potassium iodide,100,100,100,100,125,125
+Surgeon General (War Department),Quinine,100,123,149,187,196,130
+Surgeon General (War Department),Squills syrup of,100,100,100,100,118,118
+Surgeon General (War Department),Sulphur,100,111,131,100,100,100
+Surgeon General (War Department),Sulphuric acid,100,81,67,78,111,111
+Surgeon General (War Department),Tartar emetic,100,90,83,120,120,120
+Surgeon General (War Department),Turpentine,100,124,163,283,200,211
+Surgeon General (War Department),Zinc sulphate of,100,100,100,100,237,300

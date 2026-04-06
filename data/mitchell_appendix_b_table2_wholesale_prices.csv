@@ -1,0 +1,2978 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix B, Table 2: "Relative Prices of Various Commodities at Wholesale"
+# Pages 435-448. Relative prices (index, base=100).
+date,commodity,value
+1860-01,Beans,100.0
+1860-04,Beans,93.3
+1860-07,Beans,93.3
+1860-10,Beans,123.0
+1861-01,Beans,100.0
+1861-04,Beans,103.2
+1861-07,Beans,123.0
+1861-10,Beans,130.0
+1862-01,Beans,136.5
+1862-04,Beans,116.6
+1862-07,Beans,173.3
+1862-10,Beans,153.3
+1863-01,Beans,145.9
+1863-04,Beans,183.0
+1863-07,Beans,129.9
+1863-10,Beans,100.5
+1864-01,Beans,146.7
+1864-04,Beans,185.7
+1864-07,Beans,146.7
+1865-01,Beans,173.3
+1865-04,Beans,142.7
+1865-07,Beans,120.0
+1865-10,Beans,157.1
+1860-01,Bread: Boston Crackers 1,100.0
+1860-04,Bread: Boston Crackers 1,100.0
+1860-07,Bread: Boston Crackers 1,100.0
+1860-10,Bread: Boston Crackers 1,100.0
+1861-01,Bread: Boston Crackers 1,100.0
+1861-04,Bread: Boston Crackers 1,107.1
+1861-07,Bread: Boston Crackers 1,100.0
+1861-10,Bread: Boston Crackers 1,107.1
+1862-01,Bread: Boston Crackers 1,107.1
+1862-04,Bread: Boston Crackers 1,107.1
+1862-07,Bread: Boston Crackers 1,107.1
+1862-10,Bread: Boston Crackers 1,107.1
+1863-01,Bread: Boston Crackers 1,107.1
+1863-04,Bread: Boston Crackers 1,147.1
+1863-07,Bread: Boston Crackers 1,147.1
+1863-10,Bread: Boston Crackers 1,152.9
+1864-01,Bread: Boston Crackers 1,152.9
+1864-04,Bread: Boston Crackers 1,158.8
+1864-07,Bread: Boston Crackers 1,158.8
+1864-10,Bread: Boston Crackers 1,117.6
+1865-01,Bread: Boston Crackers 1,157.1
+1865-04,Bread: Boston Crackers 1,157.1
+1865-07,Bread: Boston Crackers 1,157.1
+1865-10,Bread: Boston Crackers 1,157.1
+1860-01,Bread: Boston Crackers 2,100.0
+1860-04,Bread: Boston Crackers 2,100.0
+1860-07,Bread: Boston Crackers 2,100.0
+1860-10,Bread: Boston Crackers 2,100.0
+1861-01,Bread: Boston Crackers 2,117.6
+1861-04,Bread: Boston Crackers 2,125.5
+1861-07,Bread: Boston Crackers 2,125.4
+1861-10,Bread: Boston Crackers 2,129.5
+1862-01,Bread: Boston Crackers 2,125.3
+1862-04,Bread: Boston Crackers 2,141.2
+1862-07,Bread: Boston Crackers 2,147.1
+1862-10,Bread: Boston Crackers 2,147.1
+1863-01,Bread: Boston Crackers 2,164.7
+1863-04,Bread: Boston Crackers 2,132.9
+1863-07,Bread: Boston Crackers 2,147.1
+1863-10,Bread: Boston Crackers 2,152.9
+1864-01,Bread: Boston Crackers 2,185.7
+1864-04,Bread: Boston Crackers 2,185.7
+1864-07,Bread: Boston Crackers 2,185.7
+1864-10,Bread: Boston Crackers 2,185.7
+1865-01,Bread: Boston Crackers 2,185.7
+1865-04,Bread: Boston Crackers 2,129.4
+1865-07,Bread: Boston Crackers 2,117.6
+1865-10,Bread: Boston Crackers 2,117.6
+1860-01,Bread: Boston Crackers Ex. Grade,100.0
+1860-04,Bread: Boston Crackers Ex. Grade,100.0
+1860-07,Bread: Boston Crackers Ex. Grade,100.0
+1860-10,Bread: Boston Crackers Ex. Grade,100.0
+1861-01,Bread: Boston Crackers Ex. Grade,116.7
+1861-04,Bread: Boston Crackers Ex. Grade,116.7
+1861-07,Bread: Boston Crackers Ex. Grade,116.7
+1861-10,Bread: Boston Crackers Ex. Grade,116.7
+1862-01,Bread: Boston Crackers Ex. Grade,129.8
+1862-04,Bread: Boston Crackers Ex. Grade,129.8
+1862-07,Bread: Boston Crackers Ex. Grade,129.8
+1862-10,Bread: Boston Crackers Ex. Grade,129.8
+1863-01,Bread: Boston Crackers Ex. Grade,133.3
+1863-04,Bread: Boston Crackers Ex. Grade,133.3
+1863-07,Bread: Boston Crackers Ex. Grade,129.2
+1863-10,Bread: Boston Crackers Ex. Grade,133.5
+1864-01,Bread: Boston Crackers Ex. Grade,137.5
+1864-04,Bread: Boston Crackers Ex. Grade,137.5
+1864-07,Bread: Boston Crackers Ex. Grade,137.5
+1864-10,Bread: Boston Crackers Ex. Grade,137.5
+1865-01,Bread: Boston Crackers Ex. Grade,116.7
+1865-04,Bread: Boston Crackers Ex. Grade,116.7
+1865-07,Bread: Boston Crackers Ex. Grade,116.7
+1865-10,Bread: Boston Crackers Ex. Grade,116.7
+1860-01,Butter,100.0
+1860-04,Butter,81.0
+1860-07,Butter,81.0
+1860-10,Butter,95.2
+1861-01,Butter,85.7
+1861-04,Butter,85.7
+1861-07,Butter,71.9
+1861-10,Butter,64.3
+1862-01,Butter,90.5
+1862-04,Butter,97.6
+1862-07,Butter,73.8
+1862-10,Butter,90.5
+1863-01,Butter,116.7
+1863-04,Butter,119.1
+1863-07,Butter,92.9
+1863-10,Butter,114.3
+1864-01,Butter,145.2
+1864-04,Butter,130.9
+1864-07,Butter,157.1
+1864-10,Butter,250.0
+1865-01,Butter,150.0
+1865-04,Butter,142.9
+1865-07,Butter,204.8
+1865-10,Butter,150.0
+1860-01,Cheese,100.0
+1860-04,Cheese,110.0
+1860-07,Cheese,75.0
+1860-10,Cheese,100.0
+1861-01,Cheese,80.0
+1861-04,Cheese,80.0
+1861-07,Cheese,80.0
+1861-10,Cheese,70.0
+1862-01,Cheese,75.0
+1862-04,Cheese,65.0
+1862-07,Cheese,80.0
+1862-10,Cheese,110.0
+1863-01,Cheese,145.0
+1863-04,Cheese,105.0
+1863-07,Cheese,165.0
+1863-10,Cheese,140.0
+1864-01,Cheese,170.0
+1864-04,Cheese,305.0
+1864-07,Cheese,365.0
+1864-10,Cheese,225.0
+1865-01,Cheese,210.0
+1865-04,Cheese,150.0
+1865-07,Cheese,125.0
+1865-10,Cheese,150.0
+1860-01,Coffee: Rio Fair,100.0
+1860-04,Coffee: Rio Fair,115.2
+1860-07,Coffee: Rio Fair,117.4
+1860-10,Coffee: Rio Fair,127.8
+1861-01,Coffee: Rio Fair,100.0
+1861-04,Coffee: Rio Fair,104.3
+1861-07,Coffee: Rio Fair,104.3
+1861-10,Coffee: Rio Fair,134.8
+1862-01,Coffee: Rio Fair,178.2
+1862-04,Coffee: Rio Fair,192.6
+1862-07,Coffee: Rio Fair,195.7
+1862-10,Coffee: Rio Fair,195.7
+1863-01,Coffee: Rio Fair,243.5
+1863-04,Coffee: Rio Fair,259.6
+1863-07,Coffee: Rio Fair,252.2
+1863-10,Coffee: Rio Fair,265.2
+1864-01,Coffee: Rio Fair,263.5
+1864-04,Coffee: Rio Fair,283.0
+1864-07,Coffee: Rio Fair,373.9
+1864-10,Coffee: Rio Fair,317.4
+1865-01,Coffee: Rio Fair,375.3
+1865-04,Coffee: Rio Fair,279.6
+1865-07,Coffee: Rio Fair,243.1
+1865-10,Coffee: Rio Fair,263.1
+1860-01,Eggs,149.1
+1860-04,Eggs,88.9
+1860-07,Eggs,78.8
+1860-10,Eggs,83.2
+1861-01,Eggs,103.2
+1861-04,Eggs,88.9
+1861-07,Eggs,64.5
+1861-10,Eggs,74.9
+1862-01,Eggs,134.8
+1862-04,Eggs,83.2
+1862-07,Eggs,68.8
+1862-10,Eggs,83.2
+1863-01,Eggs,114.7
+1863-04,Eggs,112.5
+1863-07,Eggs,111.8
+1863-10,Eggs,114.7
+1864-01,Eggs,146.2
+1864-04,Eggs,92.5
+1864-07,Eggs,75.0
+1864-10,Eggs,100.0
+1865-01,Eggs,163.4
+1865-04,Eggs,106.1
+1865-07,Eggs,132.0
+1865-10,Eggs,163.4
+1860-01,Flour: Rye,100.0
+1860-04,Flour: Rye,95.0
+1860-07,Flour: Rye,87.1
+1860-10,Flour: Rye,74.3
+1861-01,Flour: Rye,77.4
+1861-04,Flour: Rye,51.4
+1861-07,Flour: Rye,75.0
+1861-10,Flour: Rye,87.5
+1862-01,Flour: Rye,96.8
+1862-04,Flour: Rye,90.3
+1862-07,Flour: Rye,71.0
+1862-10,Flour: Rye,103.2
+1863-01,Flour: Rye,118.8
+1863-04,Flour: Rye,83.9
+1863-07,Flour: Rye,87.1
+1863-10,Flour: Rye,105.3
+1864-01,Flour: Rye,167.7
+1864-04,Flour: Rye,125.8
+1864-07,Flour: Rye,148.4
+1864-10,Flour: Rye,283.2
+1865-01,Flour: Rye,287.5
+1865-04,Flour: Rye,312.5
+1865-07,Flour: Rye,193.4
+1865-10,Flour: Rye,193.4
+1860-01,Fruit: Apples Dried,100.0
+1860-04,Fruit: Apples Dried,90.3
+1860-07,Fruit: Apples Dried,87.1
+1860-10,Fruit: Apples Dried,74.3
+1861-01,Fruit: Apples Dried,77.4
+1861-04,Fruit: Apples Dried,71.4
+1861-07,Fruit: Apples Dried,103.2
+1861-10,Fruit: Apples Dried,77.4
+1862-01,Fruit: Apples Dried,96.8
+1862-04,Fruit: Apples Dried,90.3
+1862-07,Fruit: Apples Dried,71.0
+1862-10,Fruit: Apples Dried,103.2
+1863-01,Fruit: Apples Dried,83.9
+1863-04,Fruit: Apples Dried,87.1
+1863-07,Fruit: Apples Dried,83.9
+1863-10,Fruit: Apples Dried,241.7
+1864-01,Fruit: Apples Dried,150.0
+1864-04,Fruit: Apples Dried,250.0
+1864-07,Fruit: Apples Dried,300.0
+1864-10,Fruit: Apples Dried,241.7
+1865-01,Fruit: Apples Dried,150.0
+1865-04,Fruit: Apples Dried,300.0
+1865-07,Fruit: Apples Dried,300.0
+1865-10,Fruit: Apples Dried,241.7
+1860-01,Fruit: Currants/Zante,100.0
+1860-04,Fruit: Currants/Zante,104.2
+1860-07,Fruit: Currants/Zante,91.7
+1860-10,Fruit: Currants/Zante,79.2
+1861-01,Fruit: Currants/Zante,75.0
+1861-04,Fruit: Currants/Zante,75.0
+1861-07,Fruit: Currants/Zante,66.7
+1861-10,Fruit: Currants/Zante,158.3
+1862-01,Fruit: Currants/Zante,150.0
+1862-04,Fruit: Currants/Zante,158.3
+1862-07,Fruit: Currants/Zante,71.0
+1862-10,Fruit: Currants/Zante,109.2
+1863-01,Fruit: Currants/Zante,175.0
+1863-04,Fruit: Currants/Zante,233.3
+1863-07,Fruit: Currants/Zante,250.0
+1863-10,Fruit: Currants/Zante,233.3
+1864-01,Fruit: Currants/Zante,275.0
+1864-04,Fruit: Currants/Zante,308.3
+1864-07,Fruit: Currants/Zante,216.7
+1864-10,Fruit: Currants/Zante,341.7
+1865-01,Fruit: Currants/Zante,283.3
+1865-04,Fruit: Currants/Zante,233.3
+1865-07,Fruit: Currants/Zante,233.3
+1865-10,Fruit: Currants/Zante,233.3
+1860-01,Fish: Cod,100.0
+1860-04,Fish: Cod,100.0
+1860-07,Fish: Cod,112.5
+1860-10,Fish: Cod,125.0
+1861-01,Fish: Cod,125.0
+1861-04,Fish: Cod,125.0
+1861-07,Fish: Cod,125.0
+1861-10,Fish: Cod,125.0
+1862-01,Fish: Cod,125.0
+1862-04,Fish: Cod,125.0
+1862-07,Fish: Cod,125.0
+1862-10,Fish: Cod,125.0
+1863-01,Fish: Cod,150.0
+1863-04,Fish: Cod,125.0
+1863-07,Fish: Cod,150.0
+1863-10,Fish: Cod,150.0
+1864-01,Fish: Cod,150.0
+1864-04,Fish: Cod,287.5
+1864-07,Fish: Cod,225.0
+1864-10,Fish: Cod,300.0
+1865-01,Fish: Cod,300.0
+1865-04,Fish: Cod,225.0
+1865-07,Fish: Cod,150.0
+1865-10,Fish: Cod,150.0
+1860-01,Fruit: Raisins,100.0
+1860-04,Fruit: Raisins,103.3
+1860-07,Fruit: Raisins,100.5
+1860-10,Fruit: Raisins,89.1
+1861-01,Fruit: Raisins,68.5
+1861-04,Fruit: Raisins,56.2
+1861-07,Fruit: Raisins,76.2
+1861-10,Fruit: Raisins,102.2
+1862-01,Fruit: Raisins,139.1
+1862-04,Fruit: Raisins,130.1
+1862-07,Fruit: Raisins,135.9
+1862-10,Fruit: Raisins,154.3
+1863-01,Fruit: Raisins,152.2
+1863-04,Fruit: Raisins,180.4
+1863-07,Fruit: Raisins,180.8
+1863-10,Fruit: Raisins,102.4
+1864-01,Fruit: Raisins,173.0
+1864-04,Fruit: Raisins,178.3
+1864-07,Fruit: Raisins,195.2
+1864-10,Fruit: Raisins,132.4
+1865-01,Fruit: Raisins,215.2
+1865-04,Fruit: Raisins,250.0
+1865-07,Fruit: Raisins,254.3
+1865-10,Fruit: Raisins,253.3
+1860-01,Lard,100.0
+1860-04,Lard,97.6
+1860-07,Lard,114.3
+1860-10,Lard,105.7
+1861-01,Lard,85.7
+1861-04,Lard,85.1
+1861-07,Lard,76.2
+1861-10,Lard,73.5
+1862-01,Lard,78.2
+1862-04,Lard,73.8
+1862-07,Lard,73.8
+1862-10,Lard,88.1
+1863-01,Lard,100.0
+1863-04,Lard,112.0
+1863-07,Lard,105.0
+1863-10,Lard,115.7
+1864-01,Lard,114.3
+1864-04,Lard,144.6
+1864-07,Lard,148.2
+1864-10,Lard,192.8
+1865-01,Lard,157.1
+1865-04,Lard,132.4
+1865-07,Lard,129.4
+1865-10,Lard,131.1
+1860-01,Meal: Corn Yellow Kiln-Dried,100.0
+1860-04,Meal: Corn Yellow Kiln-Dried,96.4
+1860-07,Meal: Corn Yellow Kiln-Dried,89.2
+1860-10,Meal: Corn Yellow Kiln-Dried,92.8
+1861-01,Meal: Corn Yellow Kiln-Dried,85.7
+1861-04,Meal: Corn Yellow Kiln-Dried,90.4
+1861-07,Meal: Corn Yellow Kiln-Dried,73.5
+1861-10,Meal: Corn Yellow Kiln-Dried,73.5
+1862-01,Meal: Corn Yellow Kiln-Dried,78.3
+1862-04,Meal: Corn Yellow Kiln-Dried,75.3
+1862-07,Meal: Corn Yellow Kiln-Dried,75.9
+1862-10,Meal: Corn Yellow Kiln-Dried,94.0
+1863-01,Meal: Corn Yellow Kiln-Dried,106.4
+1863-04,Meal: Corn Yellow Kiln-Dried,112.0
+1863-07,Meal: Corn Yellow Kiln-Dried,105.0
+1863-10,Meal: Corn Yellow Kiln-Dried,106.5
+1864-01,Meal: Corn Yellow Kiln-Dried,106.5
+1864-04,Meal: Corn Yellow Kiln-Dried,144.6
+1864-07,Meal: Corn Yellow Kiln-Dried,148.2
+1864-10,Meal: Corn Yellow Kiln-Dried,106.7
+1865-01,Meal: Corn Yellow Kiln-Dried,113.0
+1865-04,Meal: Corn Yellow Kiln-Dried,142.9
+1865-07,Meal: Corn Yellow Kiln-Dried,157.1
+1865-10,Meal: Corn Yellow Kiln-Dried,157.1
+1860-01,Meat: Beef Loins,100.0
+1860-04,Meat: Beef Loins,100.0
+1860-07,Meat: Beef Loins,100.0
+1860-10,Meat: Beef Loins,93.3
+1861-01,Meat: Beef Loins,88.9
+1861-04,Meat: Beef Loins,83.3
+1861-07,Meat: Beef Loins,83.3
+1861-10,Meat: Beef Loins,83.3
+1862-01,Meat: Beef Loins,83.3
+1862-04,Meat: Beef Loins,83.3
+1862-07,Meat: Beef Loins,83.3
+1862-10,Meat: Beef Loins,83.3
+1863-01,Meat: Beef Loins,100.0
+1863-04,Meat: Beef Loins,100.0
+1863-07,Meat: Beef Loins,100.0
+1863-10,Meat: Beef Loins,100.0
+1864-01,Meat: Beef Loins,105.0
+1864-04,Meat: Beef Loins,100.0
+1864-07,Meat: Beef Loins,100.0
+1864-10,Meat: Beef Loins,106.7
+1865-01,Meat: Beef Loins,106.7
+1865-04,Meat: Beef Loins,106.7
+1865-10,Meat: Beef Loins,106.7
+1860-01,Meat: Beef Ribs,100.0
+1860-04,Meat: Beef Ribs,93.3
+1860-07,Meat: Beef Ribs,100.0
+1860-10,Meat: Beef Ribs,93.3
+1861-01,Meat: Beef Ribs,100.0
+1861-04,Meat: Beef Ribs,100.0
+1861-07,Meat: Beef Ribs,100.0
+1861-10,Meat: Beef Ribs,100.0
+1862-01,Meat: Beef Ribs,100.0
+1862-04,Meat: Beef Ribs,83.3
+1862-07,Meat: Beef Ribs,83.3
+1862-10,Meat: Beef Ribs,86.7
+1863-01,Meat: Beef Ribs,100.0
+1863-04,Meat: Beef Ribs,100.0
+1863-07,Meat: Beef Ribs,100.0
+1863-10,Meat: Beef Ribs,100.0
+1864-01,Meat: Beef Ribs,106.7
+1864-04,Meat: Beef Ribs,146.7
+1864-07,Meat: Beef Ribs,146.7
+1864-10,Meat: Beef Ribs,166.7
+1865-01,Meat: Beef Ribs,186.7
+1865-04,Meat: Beef Ribs,213.3
+1865-07,Meat: Beef Ribs,213.3
+1865-10,Meat: Beef Ribs,166.7
+1860-01,Meat: Pork Salt Mess,100.0
+1860-04,Meat: Pork Salt Mess,87.0
+1860-07,Meat: Pork Salt Mess,82.6
+1860-10,Meat: Pork Salt Mess,86.0
+1861-01,Meat: Pork Salt Mess,91.3
+1861-04,Meat: Pork Salt Mess,72.5
+1861-07,Meat: Pork Salt Mess,69.5
+1861-10,Meat: Pork Salt Mess,95.7
+1862-01,Meat: Pork Salt Mess,104.3
+1862-04,Meat: Pork Salt Mess,104.0
+1862-07,Meat: Pork Salt Mess,100.0
+1862-10,Meat: Pork Salt Mess,113.0
+1863-01,Meat: Pork Salt Mess,108.7
+1863-04,Meat: Pork Salt Mess,106.4
+1863-07,Meat: Pork Salt Mess,108.5
+1863-10,Meat: Pork Salt Mess,106.4
+1864-01,Meat: Pork Salt Mess,106.5
+1864-04,Meat: Pork Salt Mess,217.4
+1864-07,Meat: Pork Salt Mess,95.7
+1864-10,Meat: Pork Salt Mess,106.7
+1865-01,Meat: Pork Salt Mess,191.3
+1865-04,Meat: Pork Salt Mess,165.2
+1865-07,Meat: Pork Salt Mess,193.1
+1865-10,Meat: Pork Salt Mess,131.1
+1860-01,Molasses: Porto Rico Best,100.0
+1860-04,Molasses: Porto Rico Best,107.9
+1860-07,Molasses: Porto Rico Best,100.0
+1860-10,Molasses: Porto Rico Best,100.6
+1861-01,Molasses: Porto Rico Best,92.1
+1861-04,Molasses: Porto Rico Best,88.8
+1861-07,Molasses: Porto Rico Best,71.2
+1861-10,Molasses: Porto Rico Best,128.4
+1862-01,Molasses: Porto Rico Best,105.0
+1862-04,Molasses: Porto Rico Best,100.0
+1862-07,Molasses: Porto Rico Best,97.4
+1862-10,Molasses: Porto Rico Best,131.6
+1863-01,Molasses: Porto Rico Best,120.5
+1863-04,Molasses: Porto Rico Best,118.4
+1863-07,Molasses: Porto Rico Best,139.2
+1863-10,Molasses: Porto Rico Best,164.5
+1864-01,Molasses: Porto Rico Best,171.1
+1864-04,Molasses: Porto Rico Best,223.7
+1864-07,Molasses: Porto Rico Best,200.3
+1864-10,Molasses: Porto Rico Best,313.1
+1865-01,Molasses: Porto Rico Best,229.7
+1865-04,Molasses: Porto Rico Best,280.5
+1865-07,Molasses: Porto Rico Best,289.2
+1865-10,Molasses: Porto Rico Best,250.0
+1860-01,Molasses: N. Orleans Prime,100.0
+1860-04,Molasses: N. Orleans Prime,100.0
+1860-07,Molasses: N. Orleans Prime,89.9
+1860-10,Molasses: N. Orleans Prime,83.1
+1861-01,Molasses: N. Orleans Prime,81.7
+1861-04,Molasses: N. Orleans Prime,81.7
+1861-07,Molasses: N. Orleans Prime,83.1
+1861-10,Molasses: N. Orleans Prime,85.7
+1862-01,Molasses: N. Orleans Prime,84.9
+1862-04,Molasses: N. Orleans Prime,92.3
+1862-07,Molasses: N. Orleans Prime,76.5
+1862-10,Molasses: N. Orleans Prime,97.0
+1863-01,Molasses: N. Orleans Prime,130.9
+1863-04,Molasses: N. Orleans Prime,84.4
+1863-07,Molasses: N. Orleans Prime,140.2
+1863-10,Molasses: N. Orleans Prime,84.4
+1864-01,Molasses: N. Orleans Prime,174.0
+1864-04,Molasses: N. Orleans Prime,142.5
+1864-07,Molasses: N. Orleans Prime,89.8
+1864-10,Molasses: N. Orleans Prime,130.8
+1865-01,Molasses: N. Orleans Prime,145.5
+1865-04,Molasses: N. Orleans Prime,145.2
+1865-07,Molasses: N. Orleans Prime,102.0
+1865-10,Molasses: N. Orleans Prime,131.0
+1860-01,Salt: Ashtons,100.0
+1860-04,Salt: Ashtons,76.9
+1860-07,Salt: Ashtons,89.9
+1860-10,Salt: Ashtons,82.1
+1861-01,Salt: Ashtons,82.1
+1861-04,Salt: Ashtons,82.1
+1861-07,Salt: Ashtons,82.4
+1861-10,Salt: Ashtons,84.6
+1862-01,Salt: Ashtons,92.3
+1862-04,Salt: Ashtons,92.3
+1862-07,Salt: Ashtons,93.5
+1862-10,Salt: Ashtons,105.1
+1863-01,Salt: Ashtons,110.3
+1863-04,Salt: Ashtons,143.6
+1863-07,Salt: Ashtons,138.5
+1863-10,Salt: Ashtons,113.2
+1864-01,Salt: Ashtons,100.4
+1864-04,Salt: Ashtons,174.0
+1864-07,Salt: Ashtons,176.8
+1864-10,Salt: Ashtons,253.8
+1865-01,Salt: Ashtons,174.0
+1865-04,Salt: Ashtons,145.5
+1865-07,Salt: Ashtons,135.5
+1865-10,Salt: Ashtons,145.5
+1860-01,Salt: Ashtons Liv. fine,100.0
+1860-04,Salt: Ashtons Liv. fine,77.9
+1860-07,Salt: Ashtons Liv. fine,81.9
+1860-10,Salt: Ashtons Liv. fine,83.1
+1861-01,Salt: Ashtons Liv. fine,81.1
+1861-04,Salt: Ashtons Liv. fine,82.1
+1861-07,Salt: Ashtons Liv. fine,83.1
+1861-10,Salt: Ashtons Liv. fine,85.7
+1862-01,Salt: Ashtons Liv. fine,92.3
+1862-04,Salt: Ashtons Liv. fine,93.5
+1862-07,Salt: Ashtons Liv. fine,65.2
+1862-10,Salt: Ashtons Liv. fine,106.5
+1863-01,Salt: Ashtons Liv. fine,111.7
+1863-04,Salt: Ashtons Liv. fine,145.5
+1863-07,Salt: Ashtons Liv. fine,142.5
+1863-10,Salt: Ashtons Liv. fine,115.2
+1864-01,Salt: Ashtons Liv. fine,145.2
+1864-04,Salt: Ashtons Liv. fine,174.8
+1864-07,Salt: Ashtons Liv. fine,145.5
+1864-10,Salt: Ashtons Liv. fine,251.5
+1865-01,Salt: Ashtons Liv. fine,170.0
+1865-04,Salt: Ashtons Liv. fine,145.5
+1865-07,Salt: Ashtons Liv. fine,131.0
+1865-10,Salt: Ashtons Liv. fine,145.5
+1860-01,Meat: Pork Fresh,100.0
+1860-04,Meat: Pork Fresh,109.1
+1860-07,Meat: Pork Fresh,109.8
+1860-10,Meat: Pork Fresh,100.0
+1861-01,Meat: Pork Fresh,109.4
+1861-04,Meat: Pork Fresh,100.0
+1861-07,Meat: Pork Fresh,97.0
+1861-10,Meat: Pork Fresh,90.9
+1862-01,Meat: Pork Fresh,100.0
+1862-04,Meat: Pork Fresh,100.0
+1862-07,Meat: Pork Fresh,100.0
+1862-10,Meat: Pork Fresh,100.0
+1863-01,Meat: Pork Fresh,100.0
+1863-04,Meat: Pork Fresh,100.0
+1863-07,Meat: Pork Fresh,100.0
+1863-10,Meat: Pork Fresh,100.0
+1864-01,Meat: Pork Fresh,105.6
+1864-04,Meat: Pork Fresh,155.6
+1864-07,Meat: Pork Fresh,155.6
+1864-10,Meat: Pork Fresh,155.6
+1865-01,Meat: Pork Fresh,186.7
+1865-04,Meat: Pork Fresh,213.3
+1865-07,Meat: Pork Fresh,213.3
+1865-10,Meat: Pork Fresh,166.7
+1860-01,Meat: Mutton,100.0
+1860-04,Meat: Mutton,120.0
+1860-07,Meat: Mutton,100.0
+1860-10,Meat: Mutton,100.0
+1861-01,Meat: Mutton,100.0
+1861-04,Meat: Mutton,100.0
+1861-07,Meat: Mutton,100.0
+1861-10,Meat: Mutton,100.0
+1862-01,Meat: Mutton,100.0
+1862-04,Meat: Mutton,100.0
+1862-07,Meat: Mutton,100.0
+1862-10,Meat: Mutton,100.0
+1863-01,Meat: Mutton,100.0
+1863-04,Meat: Mutton,100.0
+1863-07,Meat: Mutton,100.0
+1863-10,Meat: Mutton,100.0
+1864-01,Meat: Mutton,100.0
+1864-04,Meat: Mutton,145.5
+1864-07,Meat: Mutton,145.5
+1864-10,Meat: Mutton,100.0
+1865-01,Meat: Mutton,100.0
+1865-04,Meat: Mutton,100.0
+1865-07,Meat: Mutton,100.0
+1865-10,Meat: Mutton,170.0
+1860-01,Spices: Salt Turks Island,100.0
+1860-04,Spices: Salt Turks Island,90.0
+1860-07,Spices: Salt Turks Island,97.5
+1860-10,Spices: Salt Turks Island,100.0
+1861-01,Spices: Salt Turks Island,85.0
+1861-04,Spices: Salt Turks Island,85.0
+1861-07,Spices: Salt Turks Island,100.0
+1861-10,Spices: Salt Turks Island,120.0
+1862-01,Spices: Salt Turks Island,100.0
+1862-04,Spices: Salt Turks Island,100.0
+1862-07,Spices: Salt Turks Island,120.0
+1862-10,Spices: Salt Turks Island,130.0
+1863-01,Spices: Salt Turks Island,150.0
+1863-04,Spices: Salt Turks Island,125.0
+1863-07,Spices: Salt Turks Island,210.0
+1863-10,Spices: Salt Turks Island,229.0
+1864-01,Spices: Salt Turks Island,210.0
+1864-04,Spices: Salt Turks Island,250.0
+1864-07,Spices: Salt Turks Island,193.8
+1864-10,Spices: Salt Turks Island,193.8
+1865-01,Spices: Salt Turks Island,350.0
+1865-04,Spices: Salt Turks Island,357.5
+1865-07,Spices: Salt Turks Island,187.5
+1865-10,Spices: Salt Turks Island,187.5
+1860-01,Spices: Ship Biscuit,100.0
+1860-04,Spices: Ship Biscuit,101.2
+1860-07,Spices: Ship Biscuit,101.2
+1860-10,Spices: Ship Biscuit,101.5
+1861-01,Spices: Ship Biscuit,112.5
+1861-04,Spices: Ship Biscuit,112.5
+1861-07,Spices: Ship Biscuit,112.5
+1861-10,Spices: Ship Biscuit,112.5
+1862-01,Spices: Ship Biscuit,100.0
+1862-04,Spices: Ship Biscuit,100.0
+1862-07,Spices: Ship Biscuit,100.0
+1862-10,Spices: Ship Biscuit,155.0
+1863-01,Spices: Ship Biscuit,125.0
+1863-04,Spices: Ship Biscuit,125.0
+1863-07,Spices: Ship Biscuit,125.0
+1863-10,Spices: Ship Biscuit,125.0
+1864-01,Spices: Ship Biscuit,193.8
+1864-04,Spices: Ship Biscuit,193.8
+1864-07,Spices: Ship Biscuit,327.4
+1864-10,Spices: Ship Biscuit,381.0
+1865-01,Spices: Ship Biscuit,417.9
+1865-04,Spices: Ship Biscuit,327.6
+1865-07,Spices: Ship Biscuit,273.8
+1865-10,Spices: Ship Biscuit,365.5
+1860-01,Spices: Nutmegs,100.0
+1860-04,Spices: Nutmegs,102.4
+1860-07,Spices: Nutmegs,102.4
+1860-10,Spices: Nutmegs,102.4
+1861-01,Spices: Nutmegs,90.5
+1861-04,Spices: Nutmegs,95.2
+1861-07,Spices: Nutmegs,97.6
+1861-10,Spices: Nutmegs,113.1
+1862-01,Spices: Nutmegs,100.7
+1862-04,Spices: Nutmegs,100.7
+1862-07,Spices: Nutmegs,161.7
+1862-10,Spices: Nutmegs,161.7
+1863-01,Spices: Nutmegs,190.5
+1863-04,Spices: Nutmegs,308.3
+1863-07,Spices: Nutmegs,180.5
+1863-10,Spices: Nutmegs,164.5
+1864-01,Spices: Nutmegs,314.3
+1864-04,Spices: Nutmegs,325.0
+1864-07,Spices: Nutmegs,316.5
+1864-10,Spices: Nutmegs,345.8
+1865-01,Spices: Nutmegs,274.1
+1865-04,Spices: Nutmegs,106.5
+1865-07,Spices: Nutmegs,163.3
+1865-10,Spices: Nutmegs,212.8
+1860-01,Spices: Pepper Whole Sumatra,100.0
+1860-04,Spices: Pepper Whole Sumatra,98.5
+1860-07,Spices: Pepper Whole Sumatra,98.5
+1860-10,Spices: Pepper Whole Sumatra,101.5
+1861-01,Spices: Pepper Whole Sumatra,95.5
+1861-04,Spices: Pepper Whole Sumatra,101.5
+1861-07,Spices: Pepper Whole Sumatra,98.5
+1861-10,Spices: Pepper Whole Sumatra,134.5
+1862-01,Spices: Pepper Whole Sumatra,185.1
+1862-04,Spices: Pepper Whole Sumatra,191.0
+1862-07,Spices: Pepper Whole Sumatra,238.8
+1862-10,Spices: Pepper Whole Sumatra,228.8
+1863-01,Spices: Pepper Whole Sumatra,274.6
+1863-04,Spices: Pepper Whole Sumatra,322.4
+1863-07,Spices: Pepper Whole Sumatra,316.4
+1863-10,Spices: Pepper Whole Sumatra,345.5
+1864-01,Spices: Pepper Whole Sumatra,459.6
+1864-04,Spices: Pepper Whole Sumatra,549.3
+1864-07,Spices: Pepper Whole Sumatra,549.3
+1864-10,Spices: Pepper Whole Sumatra,417.9
+1865-01,Spices: Pepper Whole Sumatra,381.0
+1865-04,Spices: Pepper Whole Sumatra,327.6
+1865-07,Spices: Pepper Whole Sumatra,273.8
+1865-10,Spices: Pepper Whole Sumatra,365.5
+1860-01,Starch: Corn,100.0
+1860-04,Starch: Corn,100.0
+1860-07,Starch: Corn,100.0
+1860-10,Starch: Corn,100.0
+1861-01,Starch: Corn,100.0
+1861-04,Starch: Corn,100.0
+1861-07,Starch: Corn,100.0
+1861-10,Starch: Corn,100.0
+1862-01,Starch: Corn,94.1
+1862-04,Starch: Corn,94.1
+1862-07,Starch: Corn,94.1
+1862-10,Starch: Corn,94.1
+1863-01,Starch: Corn,111.8
+1863-04,Starch: Corn,117.6
+1863-07,Starch: Corn,111.8
+1863-10,Starch: Corn,111.8
+1864-01,Starch: Corn,141.2
+1864-04,Starch: Corn,141.2
+1864-07,Starch: Corn,141.2
+1864-10,Starch: Corn,164.7
+1865-01,Starch: Corn,152.9
+1865-04,Starch: Corn,152.9
+1865-07,Starch: Corn,152.9
+1865-10,Starch: Corn,189.6
+1860-01,Sugar: Fair Refining,100.0
+1860-04,Sugar: Fair Refining,93.1
+1860-07,Sugar: Fair Refining,91.4
+1860-10,Sugar: Fair Refining,86.2
+1861-01,Sugar: Fair Refining,74.1
+1861-04,Sugar: Fair Refining,65.5
+1861-07,Sugar: Fair Refining,63.8
+1861-10,Sugar: Fair Refining,63.8
+1862-01,Sugar: Fair Refining,100.9
+1862-04,Sugar: Fair Refining,101.7
+1862-07,Sugar: Fair Refining,101.7
+1862-10,Sugar: Fair Refining,120.7
+1863-01,Sugar: Fair Refining,131.0
+1863-04,Sugar: Fair Refining,134.5
+1863-07,Sugar: Fair Refining,141.4
+1863-10,Sugar: Fair Refining,158.6
+1864-01,Sugar: Fair Refining,210.0
+1864-04,Sugar: Fair Refining,250.0
+1864-07,Sugar: Fair Refining,333.3
+1864-10,Sugar: Fair Refining,229.0
+1865-01,Sugar: Fair Refining,150.0
+1865-04,Sugar: Fair Refining,180.0
+1865-07,Sugar: Fair Refining,167.0
+1865-10,Sugar: Fair Refining,167.0
+1860-01,Sugar: Havana Brown,100.0
+1860-04,Sugar: Havana Brown,96.9
+1860-07,Sugar: Havana Brown,93.0
+1860-10,Sugar: Havana Brown,91.4
+1861-01,Sugar: Havana Brown,93.8
+1861-04,Sugar: Havana Brown,83.8
+1861-07,Sugar: Havana Brown,63.8
+1861-10,Sugar: Havana Brown,63.8
+1862-01,Sugar: Havana Brown,97.0
+1862-04,Sugar: Havana Brown,110.0
+1862-07,Sugar: Havana Brown,97.0
+1862-10,Sugar: Havana Brown,110.8
+1863-01,Sugar: Havana Brown,121.1
+1863-04,Sugar: Havana Brown,126.6
+1863-07,Sugar: Havana Brown,145.0
+1863-10,Sugar: Havana Brown,152.5
+1864-01,Sugar: Havana Brown,170.0
+1864-04,Sugar: Havana Brown,168.8
+1864-07,Sugar: Havana Brown,143.2
+1864-10,Sugar: Havana Brown,155.0
+1865-01,Sugar: Havana Brown,168.8
+1865-04,Sugar: Havana Brown,168.8
+1865-07,Sugar: Havana Brown,143.2
+1865-10,Sugar: Havana Brown,155.0
+1860-01,Sugar: Refined Crushed/Granulated,100.0
+1860-04,Sugar: Refined Crushed/Granulated,97.5
+1860-07,Sugar: Refined Crushed/Granulated,100.0
+1860-10,Sugar: Refined Crushed/Granulated,93.8
+1861-01,Sugar: Refined Crushed/Granulated,80.0
+1861-04,Sugar: Refined Crushed/Granulated,88.8
+1861-07,Sugar: Refined Crushed/Granulated,78.0
+1861-10,Sugar: Refined Crushed/Granulated,108.8
+1862-01,Sugar: Refined Crushed/Granulated,108.8
+1862-04,Sugar: Refined Crushed/Granulated,122.5
+1862-07,Sugar: Refined Crushed/Granulated,105.5
+1862-10,Sugar: Refined Crushed/Granulated,125.8
+1863-01,Sugar: Refined Crushed/Granulated,147.5
+1863-04,Sugar: Refined Crushed/Granulated,147.5
+1863-07,Sugar: Refined Crushed/Granulated,147.5
+1863-10,Sugar: Refined Crushed/Granulated,143.3
+1864-01,Sugar: Refined Crushed/Granulated,168.8
+1864-04,Sugar: Refined Crushed/Granulated,176.8
+1864-07,Sugar: Refined Crushed/Granulated,255.0
+1864-10,Sugar: Refined Crushed/Granulated,300.0
+1865-01,Sugar: Refined Crushed/Granulated,271.9
+1865-04,Sugar: Refined Crushed/Granulated,200.0
+1865-07,Sugar: Refined Crushed/Granulated,300.0
+1865-10,Sugar: Refined Crushed/Granulated,200.0
+1860-01,Tallow: Prime City,100.0
+1860-04,Tallow: Prime City,102.4
+1860-07,Tallow: Prime City,97.6
+1860-10,Tallow: Prime City,97.6
+1861-01,Tallow: Prime City,95.1
+1861-04,Tallow: Prime City,82.9
+1861-07,Tallow: Prime City,92.7
+1861-10,Tallow: Prime City,109.8
+1862-01,Tallow: Prime City,92.7
+1862-04,Tallow: Prime City,92.7
+1862-07,Tallow: Prime City,97.6
+1862-10,Tallow: Prime City,109.8
+1863-01,Tallow: Prime City,112.2
+1863-04,Tallow: Prime City,112.2
+1863-07,Tallow: Prime City,109.8
+1863-10,Tallow: Prime City,109.8
+1864-01,Tallow: Prime City,125.6
+1864-04,Tallow: Prime City,143.2
+1864-07,Tallow: Prime City,165.8
+1864-10,Tallow: Prime City,180.3
+1865-01,Tallow: Prime City,107.3
+1865-04,Tallow: Prime City,180.0
+1865-07,Tallow: Prime City,167.0
+1865-10,Tallow: Prime City,167.0
+1860-01,Vegetables: Fresh Potatoes White 1,100.0
+1860-04,Vegetables: Fresh Potatoes White 1,100.0
+1860-07,Vegetables: Fresh Potatoes White 1,128.6
+1860-10,Vegetables: Fresh Potatoes White 1,100.0
+1861-01,Vegetables: Fresh Potatoes White 1,100.0
+1861-04,Vegetables: Fresh Potatoes White 1,128.6
+1861-07,Vegetables: Fresh Potatoes White 1,114.3
+1861-10,Vegetables: Fresh Potatoes White 1,126.0
+1862-01,Vegetables: Fresh Potatoes White 1,128.6
+1862-04,Vegetables: Fresh Potatoes White 1,107.1
+1862-07,Vegetables: Fresh Potatoes White 1,100.0
+1862-10,Vegetables: Fresh Potatoes White 1,100.0
+1863-01,Vegetables: Fresh Potatoes White 1,107.1
+1863-04,Vegetables: Fresh Potatoes White 1,131.0
+1863-07,Vegetables: Fresh Potatoes White 1,131.0
+1863-10,Vegetables: Fresh Potatoes White 1,131.3
+1864-01,Vegetables: Fresh Potatoes White 1,156.3
+1864-04,Vegetables: Fresh Potatoes White 1,131.0
+1864-07,Vegetables: Fresh Potatoes White 1,142.9
+1864-10,Vegetables: Fresh Potatoes White 1,212.5
+1865-01,Vegetables: Fresh Potatoes White 1,142.9
+1865-04,Vegetables: Fresh Potatoes White 1,142.9
+1865-07,Vegetables: Fresh Potatoes White 1,142.9
+1865-10,Vegetables: Fresh Potatoes White 1,157.1
+1860-01,Vegetables: Fresh Potatoes White 2,100.0
+1860-04,Vegetables: Fresh Potatoes White 2,113.8
+1860-07,Vegetables: Fresh Potatoes White 2,112.5
+1860-10,Vegetables: Fresh Potatoes White 2,100.0
+1861-01,Vegetables: Fresh Potatoes White 2,100.0
+1861-04,Vegetables: Fresh Potatoes White 2,118.0
+1861-07,Vegetables: Fresh Potatoes White 2,143.8
+1861-10,Vegetables: Fresh Potatoes White 2,100.0
+1862-01,Vegetables: Fresh Potatoes White 2,106.3
+1862-04,Vegetables: Fresh Potatoes White 2,125.0
+1862-07,Vegetables: Fresh Potatoes White 2,106.3
+1862-10,Vegetables: Fresh Potatoes White 2,106.3
+1863-01,Vegetables: Fresh Potatoes White 2,107.1
+1863-04,Vegetables: Fresh Potatoes White 2,131.0
+1863-07,Vegetables: Fresh Potatoes White 2,106.3
+1863-10,Vegetables: Fresh Potatoes White 2,131.3
+1864-01,Vegetables: Fresh Potatoes White 2,156.3
+1864-04,Vegetables: Fresh Potatoes White 2,131.0
+1864-07,Vegetables: Fresh Potatoes White 2,200.0
+1864-10,Vegetables: Fresh Potatoes White 2,290.0
+1865-01,Vegetables: Fresh Potatoes White 2,302.8
+1865-04,Vegetables: Fresh Potatoes White 2,140.0
+1865-07,Vegetables: Fresh Potatoes White 2,290.0
+1865-10,Vegetables: Fresh Potatoes White 2,171.4
+1860-01,Calico,100.0
+1860-04,Calico,100.0
+1860-07,Calico,100.0
+1860-10,Calico,100.0
+1861-01,Calico,94.7
+1861-04,Calico,94.7
+1861-07,Calico,94.7
+1861-10,Calico,105.3
+1862-01,Calico,131.6
+1862-04,Calico,131.6
+1862-07,Calico,131.6
+1862-10,Calico,131.3
+1863-01,Calico,131.3
+1863-04,Calico,131.3
+1863-07,Calico,131.3
+1863-10,Calico,252.6
+1864-01,Calico,252.6
+1864-04,Calico,263.2
+1864-07,Calico,263.2
+1864-10,Calico,315.8
+1865-01,Calico,295.8
+1865-04,Calico,210.5
+1865-07,Calico,210.5
+1865-10,Calico,315.8
+1860-01,Carpets: Brussels,100.0
+1860-04,Carpets: Brussels,96.2
+1860-07,Carpets: Brussels,92.3
+1860-10,Carpets: Brussels,92.3
+1861-01,Carpets: Brussels,92.3
+1861-04,Carpets: Brussels,96.2
+1861-07,Carpets: Brussels,96.2
+1861-10,Carpets: Brussels,96.2
+1862-01,Carpets: Brussels,100.0
+1862-04,Carpets: Brussels,107.0
+1862-07,Carpets: Brussels,115.4
+1862-10,Carpets: Brussels,134.6
+1863-01,Carpets: Brussels,153.8
+1863-04,Carpets: Brussels,146.2
+1863-07,Carpets: Brussels,164.0
+1863-10,Carpets: Brussels,185.4
+1864-01,Carpets: Brussels,173.1
+1864-04,Carpets: Brussels,171.1
+1864-07,Carpets: Brussels,269.2
+1864-10,Carpets: Brussels,289.2
+1865-01,Carpets: Brussels,289.3
+1865-04,Carpets: Brussels,289.2
+1865-07,Carpets: Brussels,192.0
+1865-10,Carpets: Brussels,211.5
+1860-01,Carpets: Ingrain,100.0
+1860-04,Carpets: Ingrain,100.3
+1860-07,Carpets: Ingrain,99.3
+1860-10,Carpets: Ingrain,98.0
+1861-01,Carpets: Ingrain,101.4
+1861-04,Carpets: Ingrain,90.0
+1861-07,Carpets: Ingrain,95.1
+1861-10,Carpets: Ingrain,92.6
+1862-01,Carpets: Ingrain,100.0
+1862-04,Carpets: Ingrain,100.1
+1862-07,Carpets: Ingrain,107.0
+1862-10,Carpets: Ingrain,123.4
+1863-01,Carpets: Ingrain,123.4
+1863-04,Carpets: Ingrain,174.1
+1863-07,Carpets: Ingrain,154.9
+1863-10,Carpets: Ingrain,200.0
+1864-01,Carpets: Ingrain,196.1
+1864-04,Carpets: Ingrain,129.4
+1864-07,Carpets: Ingrain,196.3
+1864-10,Carpets: Ingrain,200.6
+1865-01,Carpets: Ingrain,200.5
+1865-04,Carpets: Ingrain,219.9
+1865-07,Carpets: Ingrain,219.9
+1865-10,Carpets: Ingrain,221.5
+1860-01,Carpets: Wilton,100.0
+1860-04,Carpets: Wilton,97.3
+1860-07,Carpets: Wilton,97.3
+1860-10,Carpets: Wilton,97.3
+1861-01,Carpets: Wilton,97.3
+1861-04,Carpets: Wilton,100.0
+1861-07,Carpets: Wilton,100.0
+1861-10,Carpets: Wilton,105.4
+1862-01,Carpets: Wilton,105.4
+1862-04,Carpets: Wilton,108.1
+1862-07,Carpets: Wilton,108.2
+1862-10,Carpets: Wilton,110.2
+1863-01,Carpets: Wilton,131.4
+1863-04,Carpets: Wilton,152.4
+1863-07,Carpets: Wilton,154.9
+1863-10,Carpets: Wilton,143.2
+1864-01,Carpets: Wilton,162.7
+1864-04,Carpets: Wilton,170.3
+1864-07,Carpets: Wilton,170.3
+1864-10,Carpets: Wilton,270.3
+1865-01,Carpets: Wilton,289.2
+1865-04,Carpets: Wilton,302.7
+1865-07,Carpets: Wilton,302.7
+1865-10,Carpets: Wilton,216.2
+1860-01,Cotton: Upland Middling,100.0
+1860-04,Cotton: Upland Middling,101.1
+1860-07,Cotton: Upland Middling,97.7
+1860-10,Cotton: Upland Middling,97.7
+1861-01,Cotton: Upland Middling,103.5
+1861-04,Cotton: Upland Middling,100.0
+1861-07,Cotton: Upland Middling,131.1
+1861-10,Cotton: Upland Middling,155.5
+1862-01,Cotton: Upland Middling,327.3
+1862-04,Cotton: Upland Middling,509.1
+1862-07,Cotton: Upland Middling,500.4
+1862-10,Cotton: Upland Middling,637.5
+1863-01,Cotton: Upland Middling,627.3
+1863-04,Cotton: Upland Middling,631.4
+1863-07,Cotton: Upland Middling,683.6
+1863-10,Cotton: Upland Middling,785.2
+1864-01,Cotton: Upland Middling,690.9
+1864-04,Cotton: Upland Middling,1000.0
+1864-07,Cotton: Upland Middling,1000.9
+1864-10,Cotton: Upland Middling,1000.9
+1865-01,Cotton: Upland Middling,1000.9
+1865-04,Cotton: Upland Middling,454.6
+1865-07,Cotton: Upland Middling,424.1
+1865-10,Cotton: Upland Middling,400.0
+1860-01,Denims,100.0
+1860-04,Denims,103.5
+1860-07,Denims,105.0
+1860-10,Denims,105.0
+1861-01,Denims,103.5
+1861-04,Denims,105.5
+1861-07,Denims,102.2
+1861-10,Denims,116.8
+1862-01,Denims,124.1
+1862-04,Denims,139.2
+1862-07,Denims,210.3
+1862-10,Denims,228.6
+1863-01,Denims,379.3
+1863-04,Denims,449.2
+1863-07,Denims,306.8
+1863-10,Denims,404.3
+1864-01,Denims,449.2
+1864-04,Denims,849.2
+1864-07,Denims,906.6
+1864-10,Denims,636.9
+1865-01,Denims,663.8
+1865-04,Denims,435.5
+1865-07,Denims,403.4
+1865-10,Denims,401.3
+1860-01,Drillings: 30-inch Pepperell,100.0
+1860-04,Drillings: 30-inch Pepperell,97.2
+1860-07,Drillings: 30-inch Pepperell,100.0
+1860-10,Drillings: 30-inch Pepperell,100.0
+1861-01,Drillings: 30-inch Pepperell,97.2
+1861-04,Drillings: 30-inch Pepperell,97.2
+1861-07,Drillings: 30-inch Pepperell,97.2
+1861-10,Drillings: 30-inch Pepperell,116.8
+1862-01,Drillings: 30-inch Pepperell,146.0
+1862-04,Drillings: 30-inch Pepperell,222.0
+1862-07,Drillings: 30-inch Pepperell,308.8
+1862-10,Drillings: 30-inch Pepperell,306.8
+1863-01,Drillings: 30-inch Pepperell,404.3
+1863-04,Drillings: 30-inch Pepperell,404.3
+1863-07,Drillings: 30-inch Pepperell,449.2
+1863-10,Drillings: 30-inch Pepperell,404.3
+1864-01,Drillings: 30-inch Pepperell,449.2
+1864-04,Drillings: 30-inch Pepperell,636.9
+1864-07,Drillings: 30-inch Pepperell,729.9
+1864-10,Drillings: 30-inch Pepperell,663.8
+1865-01,Drillings: 30-inch Pepperell,435.5
+1865-04,Drillings: 30-inch Pepperell,403.4
+1865-07,Drillings: 30-inch Pepperell,335.9
+1865-10,Drillings: 30-inch Pepperell,401.3
+1860-01,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1860-04,Print Cloths: 28-inch 7 yds to lb Standard,97.8
+1860-07,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1860-10,Print Cloths: 28-inch 7 yds to lb Standard,95.8
+1861-01,Print Cloths: 28-inch 7 yds to lb Standard,84.4
+1861-04,Print Cloths: 28-inch 7 yds to lb Standard,88.6
+1861-07,Print Cloths: 28-inch 7 yds to lb Standard,85.7
+1861-10,Print Cloths: 28-inch 7 yds to lb Standard,77.8
+1862-01,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1862-04,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1862-07,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1862-10,Print Cloths: 28-inch 7 yds to lb Standard,94.3
+1863-01,Print Cloths: 28-inch 7 yds to lb Standard,94.3
+1863-04,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1863-07,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1863-10,Print Cloths: 28-inch 7 yds to lb Standard,106.7
+1864-01,Print Cloths: 28-inch 7 yds to lb Standard,100.7
+1864-04,Print Cloths: 28-inch 7 yds to lb Standard,106.7
+1864-07,Print Cloths: 28-inch 7 yds to lb Standard,106.7
+1864-10,Print Cloths: 28-inch 7 yds to lb Standard,100.0
+1865-01,Print Cloths: 28-inch 7 yds to lb Standard,253.3
+1865-04,Print Cloths: 28-inch 7 yds to lb Standard,257.8
+1865-07,Print Cloths: 28-inch 7 yds to lb Standard,253.0
+1865-10,Print Cloths: 28-inch 7 yds to lb Standard,253.0
+1860-01,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1860-04,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1860-07,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1860-10,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1861-01,Print Cloths: 28-inch 64x64 Meteomeet,90.0
+1861-04,Print Cloths: 28-inch 64x64 Meteomeet,70.1
+1861-07,Print Cloths: 28-inch 64x64 Meteomeet,56.7
+1861-10,Print Cloths: 28-inch 64x64 Meteomeet,70.7
+1862-01,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1862-04,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1862-07,Print Cloths: 28-inch 64x64 Meteomeet,100.0
+1862-10,Print Cloths: 28-inch 64x64 Meteomeet,104.7
+1863-01,Print Cloths: 28-inch 64x64 Meteomeet,104.7
+1863-04,Print Cloths: 28-inch 64x64 Meteomeet,155.8
+1863-07,Print Cloths: 28-inch 64x64 Meteomeet,155.8
+1863-10,Print Cloths: 28-inch 64x64 Meteomeet,188.0
+1864-01,Print Cloths: 28-inch 64x64 Meteomeet,129.0
+1864-04,Print Cloths: 28-inch 64x64 Meteomeet,383.0
+1864-07,Print Cloths: 28-inch 64x64 Meteomeet,480.0
+1864-10,Print Cloths: 28-inch 64x64 Meteomeet,537.2
+1865-01,Print Cloths: 28-inch 64x64 Meteomeet,712.5
+1865-04,Print Cloths: 28-inch 64x64 Meteomeet,453.5
+1865-07,Print Cloths: 28-inch 64x64 Meteomeet,453.5
+1865-10,Print Cloths: 28-inch 64x64 Meteomeet,404.3
+1860-01,Sheetings: Brown 4-4 Atlantic A,100.0
+1860-04,Sheetings: Brown 4-4 Atlantic A,102.9
+1860-07,Sheetings: Brown 4-4 Atlantic A,102.9
+1860-10,Sheetings: Brown 4-4 Atlantic A,102.9
+1861-01,Sheetings: Brown 4-4 Atlantic A,102.9
+1861-04,Sheetings: Brown 4-4 Atlantic A,98.8
+1861-07,Sheetings: Brown 4-4 Atlantic A,98.8
+1861-10,Sheetings: Brown 4-4 Atlantic A,96.8
+1862-01,Sheetings: Brown 4-4 Atlantic A,102.9
+1862-04,Sheetings: Brown 4-4 Atlantic A,98.1
+1862-07,Sheetings: Brown 4-4 Atlantic A,100.0
+1862-10,Sheetings: Brown 4-4 Atlantic A,155.8
+1863-01,Sheetings: Brown 4-4 Atlantic A,270.1
+1863-04,Sheetings: Brown 4-4 Atlantic A,279.1
+1863-07,Sheetings: Brown 4-4 Atlantic A,269.1
+1863-10,Sheetings: Brown 4-4 Atlantic A,302.6
+1864-01,Sheetings: Brown 4-4 Atlantic A,316.3
+1864-04,Sheetings: Brown 4-4 Atlantic A,316.3
+1864-07,Sheetings: Brown 4-4 Atlantic A,383.0
+1864-10,Sheetings: Brown 4-4 Atlantic A,480.0
+1865-01,Sheetings: Brown 4-4 Atlantic A,453.5
+1865-04,Sheetings: Brown 4-4 Atlantic A,386.0
+1865-07,Sheetings: Brown 4-4 Atlantic A,386.0
+1865-10,Sheetings: Brown 4-4 Atlantic A,400.0
+1860-01,Shirtings: Bleached 4-4 N.Y. Mills,100.0
+1860-04,Shirtings: Bleached 4-4 N.Y. Mills,100.0
+1860-07,Shirtings: Bleached 4-4 N.Y. Mills,100.0
+1860-10,Shirtings: Bleached 4-4 N.Y. Mills,100.0
+1861-01,Shirtings: Bleached 4-4 N.Y. Mills,98.1
+1861-04,Shirtings: Bleached 4-4 N.Y. Mills,96.8
+1861-07,Shirtings: Bleached 4-4 N.Y. Mills,96.8
+1861-10,Shirtings: Bleached 4-4 N.Y. Mills,96.8
+1862-01,Shirtings: Bleached 4-4 N.Y. Mills,102.5
+1862-04,Shirtings: Bleached 4-4 N.Y. Mills,104.5
+1862-07,Shirtings: Bleached 4-4 N.Y. Mills,104.5
+1862-10,Shirtings: Bleached 4-4 N.Y. Mills,164.5
+1863-01,Shirtings: Bleached 4-4 N.Y. Mills,200.7
+1863-04,Shirtings: Bleached 4-4 N.Y. Mills,232.3
+1863-07,Shirtings: Bleached 4-4 N.Y. Mills,227.1
+1863-10,Shirtings: Bleached 4-4 N.Y. Mills,200.6
+1864-01,Shirtings: Bleached 4-4 N.Y. Mills,290.3
+1864-04,Shirtings: Bleached 4-4 N.Y. Mills,290.3
+1864-07,Shirtings: Bleached 4-4 N.Y. Mills,290.3
+1864-10,Shirtings: Bleached 4-4 N.Y. Mills,453.5
+1865-01,Shirtings: Bleached 4-4 N.Y. Mills,387.8
+1865-04,Shirtings: Bleached 4-4 N.Y. Mills,387.8
+1865-07,Shirtings: Bleached 4-4 N.Y. Mills,387.8
+1865-10,Shirtings: Bleached 4-4 N.Y. Mills,400.0
+1860-01,Leather: Harness,100.0
+1860-04,Leather: Harness,100.0
+1860-07,Leather: Harness,100.0
+1860-10,Leather: Harness,100.0
+1861-01,Leather: Harness,94.3
+1861-04,Leather: Harness,88.6
+1861-07,Leather: Harness,85.7
+1861-10,Leather: Harness,85.7
+1862-01,Leather: Harness,94.3
+1862-04,Leather: Harness,94.3
+1862-07,Leather: Harness,91.4
+1862-10,Leather: Harness,102.9
+1863-01,Leather: Harness,108.6
+1863-04,Leather: Harness,128.6
+1863-07,Leather: Harness,128.6
+1863-10,Leather: Harness,131.4
+1864-01,Leather: Harness,143.9
+1864-04,Leather: Harness,154.3
+1864-07,Leather: Harness,171.4
+1864-10,Leather: Harness,171.4
+1865-01,Leather: Harness,171.4
+1865-04,Leather: Harness,165.7
+1865-07,Leather: Harness,137.1
+1865-10,Leather: Harness,151.4
+1860-01,Silk: Raw Italian,100.0
+1860-04,Silk: Raw Italian,100.0
+1860-07,Silk: Raw Italian,100.0
+1860-10,Silk: Raw Italian,100.0
+1861-01,Silk: Raw Italian,100.0
+1861-04,Silk: Raw Italian,100.0
+1861-07,Silk: Raw Italian,100.0
+1861-10,Silk: Raw Italian,100.0
+1862-01,Silk: Raw Italian,100.0
+1862-04,Silk: Raw Italian,100.0
+1862-07,Silk: Raw Italian,100.0
+1862-10,Silk: Raw Italian,100.0
+1863-01,Silk: Raw Italian,75.0
+1863-04,Silk: Raw Italian,72.2
+1863-07,Silk: Raw Italian,66.7
+1863-10,Silk: Raw Italian,66.7
+1864-01,Silk: Raw Italian,75.0
+1864-04,Silk: Raw Italian,88.9
+1864-07,Silk: Raw Italian,88.9
+1864-10,Silk: Raw Italian,94.4
+1865-01,Silk: Raw Italian,88.9
+1865-04,Silk: Raw Italian,100.0
+1865-07,Silk: Raw Italian,100.0
+1865-10,Silk: Raw Italian,100.0
+1860-01,Tickings,100.0
+1860-04,Tickings,100.0
+1860-07,Tickings,100.0
+1860-10,Tickings,85.2
+1861-01,Tickings,95.6
+1861-04,Tickings,68.5
+1861-07,Tickings,68.0
+1861-10,Tickings,63.0
+1862-01,Tickings,102.5
+1862-04,Tickings,71.4
+1862-07,Tickings,74.1
+1862-10,Tickings,101.5
+1863-01,Tickings,122.7
+1863-04,Tickings,150.0
+1863-07,Tickings,128.6
+1863-10,Tickings,211.8
+1864-01,Tickings,130.8
+1864-04,Tickings,126.8
+1864-07,Tickings,200.0
+1864-10,Tickings,200.0
+1865-01,Tickings,269.2
+1865-04,Tickings,266.2
+1865-07,Tickings,416.2
+1865-10,Tickings,472.1
+1860-01,Alcohol,100.0
+1860-04,Alcohol,100.0
+1860-07,Alcohol,100.0
+1860-10,Alcohol,100.0
+1861-01,Alcohol,85.2
+1861-04,Alcohol,105.6
+1861-07,Alcohol,105.6
+1861-10,Alcohol,100.0
+1862-01,Alcohol,100.0
+1862-04,Alcohol,81.5
+1862-07,Alcohol,81.5
+1862-10,Alcohol,100.0
+1863-01,Alcohol,88.9
+1863-04,Alcohol,88.9
+1863-07,Alcohol,104.1
+1863-10,Alcohol,122.2
+1864-01,Alcohol,100.0
+1864-04,Alcohol,100.0
+1864-07,Alcohol,100.0
+1864-10,Alcohol,100.0
+1865-01,Alcohol,100.0
+1865-04,Alcohol,100.0
+1865-07,Alcohol,100.0
+1865-10,Alcohol,100.0
+1860-01,Alum,100.0
+1860-04,Alum,105.6
+1860-07,Alum,105.0
+1860-10,Alum,100.0
+1861-01,Alum,94.4
+1861-04,Alum,94.4
+1861-07,Alum,94.4
+1861-10,Alum,107.9
+1862-01,Alum,100.0
+1862-04,Alum,100.0
+1862-07,Alum,100.0
+1862-10,Alum,100.0
+1863-01,Alum,104.8
+1863-04,Alum,155.6
+1863-07,Alum,166.7
+1863-10,Alum,192.6
+1864-01,Alum,161.1
+1864-04,Alum,161.1
+1864-07,Alum,161.1
+1864-10,Alum,161.1
+1865-01,Alum,155.6
+1865-04,Alum,166.7
+1865-07,Alum,166.7
+1865-10,Alum,142.5
+1860-01,Bichromate of Potash,100.0
+1860-04,Bichromate of Potash,95.2
+1860-07,Bichromate of Potash,100.0
+1860-10,Bichromate of Potash,100.0
+1861-01,Bichromate of Potash,94.4
+1861-04,Bichromate of Potash,94.4
+1861-07,Bichromate of Potash,94.4
+1861-10,Bichromate of Potash,94.4
+1862-01,Bichromate of Potash,100.0
+1862-04,Bichromate of Potash,100.0
+1862-07,Bichromate of Potash,100.0
+1862-10,Bichromate of Potash,100.0
+1863-01,Bichromate of Potash,104.8
+1863-04,Bichromate of Potash,104.8
+1863-07,Bichromate of Potash,104.8
+1863-10,Bichromate of Potash,100.0
+1864-01,Bichromate of Potash,100.0
+1864-04,Bichromate of Potash,100.0
+1864-07,Bichromate of Potash,100.0
+1864-10,Bichromate of Potash,100.0
+1865-01,Bichromate of Potash,133.3
+1865-04,Bichromate of Potash,133.3
+1865-07,Bichromate of Potash,133.3
+1865-10,Bichromate of Potash,133.3
+1860-01,Blue Vitriol,100.0
+1860-04,Blue Vitriol,97.4
+1860-07,Blue Vitriol,100.0
+1860-10,Blue Vitriol,94.7
+1861-01,Blue Vitriol,94.7
+1861-04,Blue Vitriol,86.8
+1861-07,Blue Vitriol,89.5
+1861-10,Blue Vitriol,88.8
+1862-01,Blue Vitriol,95.2
+1862-04,Blue Vitriol,94.7
+1862-07,Blue Vitriol,97.6
+1862-10,Blue Vitriol,95.2
+1863-01,Blue Vitriol,121.1
+1863-04,Blue Vitriol,121.1
+1863-07,Blue Vitriol,131.3
+1863-10,Blue Vitriol,131.3
+1864-01,Blue Vitriol,133.3
+1864-04,Blue Vitriol,133.3
+1864-07,Blue Vitriol,133.3
+1864-10,Blue Vitriol,133.3
+1865-01,Blue Vitriol,133.3
+1865-04,Blue Vitriol,133.3
+1865-07,Blue Vitriol,133.3
+1865-10,Blue Vitriol,133.3
+1860-01,Brimstone,100.0
+1860-04,Brimstone,122.2
+1860-07,Brimstone,122.2
+1860-10,Brimstone,128.9
+1861-01,Brimstone,131.3
+1861-04,Brimstone,131.3
+1861-07,Brimstone,131.3
+1861-10,Brimstone,131.3
+1862-01,Brimstone,133.3
+1862-04,Brimstone,133.3
+1862-07,Brimstone,133.3
+1862-10,Brimstone,133.3
+1863-01,Brimstone,133.3
+1863-04,Brimstone,111.1
+1863-07,Brimstone,111.1
+1863-10,Brimstone,111.1
+1864-01,Brimstone,111.1
+1864-04,Brimstone,133.3
+1864-07,Brimstone,133.3
+1864-10,Brimstone,116.7
+1865-01,Brimstone,122.2
+1865-04,Brimstone,122.2
+1865-07,Brimstone,100.0
+1865-10,Brimstone,100.0
+1860-01,Castor Oil,100.0
+1860-04,Castor Oil,101.8
+1860-07,Castor Oil,100.0
+1860-10,Castor Oil,104.8
+1861-01,Castor Oil,95.2
+1861-04,Castor Oil,85.7
+1861-07,Castor Oil,85.7
+1861-10,Castor Oil,125.0
+1862-01,Castor Oil,102.9
+1862-04,Castor Oil,119.1
+1862-07,Castor Oil,150.5
+1862-10,Castor Oil,145.7
+1863-01,Castor Oil,200.5
+1863-04,Castor Oil,211.3
+1863-07,Castor Oil,190.5
+1863-10,Castor Oil,175.2
+1864-01,Castor Oil,190.5
+1864-04,Castor Oil,175.0
+1864-07,Castor Oil,175.0
+1864-10,Castor Oil,250.0
+1865-01,Castor Oil,196.2
+1865-04,Castor Oil,201.9
+1865-07,Castor Oil,312.9
+1865-10,Castor Oil,314.3
+1860-01,Copperas,100.0
+1860-04,Copperas,125.0
+1860-07,Copperas,125.0
+1860-10,Copperas,125.0
+1861-01,Copperas,125.0
+1861-04,Copperas,125.0
+1861-07,Copperas,125.0
+1861-10,Copperas,125.0
+1862-01,Copperas,125.0
+1862-04,Copperas,125.0
+1862-07,Copperas,125.0
+1862-10,Copperas,125.0
+1863-01,Copperas,150.0
+1863-04,Copperas,175.0
+1863-07,Copperas,175.0
+1863-10,Copperas,175.0
+1864-01,Copperas,175.0
+1864-04,Copperas,175.0
+1864-07,Copperas,175.0
+1864-10,Copperas,250.0
+1865-01,Copperas,319.1
+1865-04,Copperas,230.1
+1865-07,Copperas,200.0
+1865-10,Copperas,188.7
+1860-01,Flax Seed (Linseed Oil),100.0
+1860-04,Flax Seed (Linseed Oil),98.2
+1860-07,Flax Seed (Linseed Oil),103.1
+1860-10,Flax Seed (Linseed Oil),100.0
+1861-01,Flax Seed (Linseed Oil),103.1
+1861-04,Flax Seed (Linseed Oil),105.5
+1861-07,Flax Seed (Linseed Oil),103.5
+1861-10,Flax Seed (Linseed Oil),103.5
+1862-01,Flax Seed (Linseed Oil),100.0
+1862-04,Flax Seed (Linseed Oil),110.4
+1862-07,Flax Seed (Linseed Oil),107.4
+1862-10,Flax Seed (Linseed Oil),150.6
+1863-01,Flax Seed (Linseed Oil),219.3
+1863-04,Flax Seed (Linseed Oil),253.4
+1863-07,Flax Seed (Linseed Oil),258.2
+1863-10,Flax Seed (Linseed Oil),210.5
+1864-01,Flax Seed (Linseed Oil),159.0
+1864-04,Flax Seed (Linseed Oil),229.9
+1864-07,Flax Seed (Linseed Oil),297.0
+1864-10,Flax Seed (Linseed Oil),298.2
+1865-01,Flax Seed (Linseed Oil),211.7
+1865-04,Flax Seed (Linseed Oil),199.4
+1865-07,Flax Seed (Linseed Oil),245.6
+1865-10,Flax Seed (Linseed Oil),245.6
+1860-01,Linseed Oil,100.0
+1860-04,Linseed Oil,105.3
+1860-07,Linseed Oil,100.0
+1860-10,Linseed Oil,101.8
+1861-01,Linseed Oil,89.0
+1861-04,Linseed Oil,85.8
+1861-07,Linseed Oil,92.0
+1861-10,Linseed Oil,93.0
+1862-01,Linseed Oil,100.0
+1862-04,Linseed Oil,110.4
+1862-07,Linseed Oil,150.9
+1862-10,Linseed Oil,150.9
+1863-01,Linseed Oil,127.3
+1863-04,Linseed Oil,210.5
+1863-07,Linseed Oil,127.3
+1863-10,Linseed Oil,127.3
+1864-01,Linseed Oil,280.7
+1864-04,Linseed Oil,281.5
+1864-07,Linseed Oil,345.5
+1864-10,Linseed Oil,133.3
+1865-01,Linseed Oil,150.0
+1865-04,Linseed Oil,150.0
+1865-07,Linseed Oil,150.0
+1865-10,Linseed Oil,133.3
+1860-01,Mercury,100.0
+1860-04,Mercury,100.0
+1860-07,Mercury,100.0
+1860-10,Mercury,100.0
+1861-01,Mercury,100.0
+1861-04,Mercury,100.0
+1861-07,Mercury,100.0
+1861-10,Mercury,100.0
+1862-01,Mercury,100.0
+1862-04,Mercury,100.0
+1862-07,Mercury,100.0
+1862-10,Mercury,81.8
+1863-01,Mercury,100.0
+1863-04,Mercury,100.0
+1863-07,Mercury,100.0
+1863-10,Mercury,81.8
+1864-01,Mercury,100.0
+1864-04,Mercury,100.0
+1864-07,Mercury,280.0
+1864-10,Mercury,281.5
+1865-01,Mercury,200.0
+1865-04,Mercury,200.0
+1865-07,Mercury,181.8
+1865-10,Mercury,96.4
+1860-01,Muriatic Acid,100.0
+1860-04,Muriatic Acid,100.0
+1860-07,Muriatic Acid,100.0
+1860-10,Muriatic Acid,100.0
+1861-01,Muriatic Acid,100.0
+1861-04,Muriatic Acid,100.0
+1861-07,Muriatic Acid,100.0
+1861-10,Muriatic Acid,100.0
+1862-01,Muriatic Acid,116.7
+1862-04,Muriatic Acid,116.7
+1862-07,Muriatic Acid,116.7
+1862-10,Muriatic Acid,116.7
+1863-01,Muriatic Acid,100.0
+1863-04,Muriatic Acid,100.0
+1863-07,Muriatic Acid,100.0
+1863-10,Muriatic Acid,100.0
+1864-01,Muriatic Acid,100.0
+1864-04,Muriatic Acid,100.0
+1864-07,Muriatic Acid,100.0
+1864-10,Muriatic Acid,100.0
+1865-01,Muriatic Acid,100.0
+1865-04,Muriatic Acid,100.0
+1865-07,Muriatic Acid,100.0
+1865-10,Muriatic Acid,100.0
+1860-01,Opium,100.0
+1860-04,Opium,121.7
+1860-07,Opium,35.7
+1860-10,Opium,104.3
+1861-01,Opium,82.6
+1861-04,Opium,91.3
+1861-07,Opium,95.7
+1861-10,Opium,100.0
+1862-01,Opium,87.0
+1862-04,Opium,87.0
+1862-07,Opium,106.7
+1862-10,Opium,125.2
+1863-01,Opium,146.1
+1863-04,Opium,173.9
+1863-07,Opium,147.8
+1863-10,Opium,169.6
+1864-01,Opium,169.6
+1864-04,Opium,204.3
+1864-07,Opium,233.5
+1864-10,Opium,300.0
+1865-01,Opium,127.7
+1865-04,Opium,116.5
+1865-07,Opium,102.6
+1865-10,Opium,126.1
+1860-01,Oxide of Zinc,111.1
+1860-04,Oxide of Zinc,111.1
+1860-07,Oxide of Zinc,100.0
+1860-10,Oxide of Zinc,100.0
+1861-01,Oxide of Zinc,100.0
+1861-04,Oxide of Zinc,100.0
+1861-07,Oxide of Zinc,100.0
+1861-10,Oxide of Zinc,100.0
+1862-01,Oxide of Zinc,100.0
+1862-04,Oxide of Zinc,100.0
+1862-07,Oxide of Zinc,100.0
+1862-10,Oxide of Zinc,100.0
+1863-01,Oxide of Zinc,100.0
+1863-04,Oxide of Zinc,144.4
+1863-07,Oxide of Zinc,144.4
+1863-10,Oxide of Zinc,144.4
+1864-01,Oxide of Zinc,144.4
+1864-04,Oxide of Zinc,155.6
+1864-07,Oxide of Zinc,188.9
+1864-10,Oxide of Zinc,200.0
+1865-01,Oxide of Zinc,200.0
+1865-04,Oxide of Zinc,200.0
+1865-07,Oxide of Zinc,177.8
+1865-10,Oxide of Zinc,200.0
+1860-01,Quicksilver,100.0
+1860-04,Quicksilver,112.3
+1860-07,Quicksilver,113.3
+1860-10,Quicksilver,113.8
+1861-01,Quicksilver,108.7
+1861-04,Quicksilver,113.2
+1861-07,Quicksilver,129.2
+1861-10,Quicksilver,129.2
+1862-01,Quicksilver,227.3
+1862-04,Quicksilver,88.2
+1862-07,Quicksilver,111.8
+1862-10,Quicksilver,114.1
+1863-01,Quicksilver,139.5
+1863-04,Quicksilver,164.1
+1863-07,Quicksilver,164.1
+1863-10,Quicksilver,164.1
+1864-01,Quicksilver,184.4
+1864-04,Quicksilver,256.4
+1864-07,Quicksilver,307.7
+1864-10,Quicksilver,307.7
+1865-01,Quicksilver,254.5
+1865-04,Quicksilver,231.8
+1865-07,Quicksilver,200.0
+1865-10,Quicksilver,200.2
+1860-01,Quinine,100.0
+1860-04,Quinine,122.7
+1860-07,Quinine,94.7
+1860-10,Quinine,150.1
+1861-01,Quinine,154.1
+1861-04,Quinine,172.7
+1861-07,Quinine,89.5
+1861-10,Quinine,100.9
+1862-01,Quinine,227.3
+1862-04,Quinine,204.5
+1862-07,Quinine,236.4
+1862-10,Quinine,259.1
+1863-01,Quinine,254.5
+1863-04,Quinine,286.4
+1863-07,Quinine,293.6
+1863-10,Quinine,227.3
+1864-01,Quinine,231.8
+1864-04,Quinine,265.7
+1864-07,Quinine,304.6
+1864-10,Quinine,304.6
+1865-01,Quinine,295.5
+1865-04,Quinine,285.5
+1865-07,Quinine,233.8
+1865-10,Quinine,288.2
+1860-01,Soda Ash,100.0
+1860-04,Soda Ash,100.0
+1860-07,Soda Ash,100.0
+1860-10,Soda Ash,89.5
+1861-01,Soda Ash,89.5
+1861-04,Soda Ash,89.5
+1861-07,Soda Ash,75.9
+1861-10,Soda Ash,100.0
+1862-01,Soda Ash,121.1
+1862-04,Soda Ash,111.1
+1862-07,Soda Ash,105.5
+1862-10,Soda Ash,115.8
+1863-01,Soda Ash,126.3
+1863-04,Soda Ash,142.1
+1863-07,Soda Ash,142.1
+1863-10,Soda Ash,142.1
+1864-01,Soda Ash,152.6
+1864-04,Soda Ash,168.4
+1864-07,Soda Ash,205.2
+1864-10,Soda Ash,205.2
+1865-01,Soda Ash,200.0
+1865-04,Soda Ash,110.5
+1865-07,Soda Ash,89.5
+1865-10,Soda Ash,136.8
+1860-01,Sugar of Lead: Brown,100.0
+1860-04,Sugar of Lead: Brown,93.3
+1860-07,Sugar of Lead: Brown,93.3
+1860-10,Sugar of Lead: Brown,93.3
+1861-01,Sugar of Lead: Brown,100.0
+1861-04,Sugar of Lead: Brown,100.0
+1861-07,Sugar of Lead: Brown,100.0
+1861-10,Sugar of Lead: Brown,93.3
+1862-01,Sugar of Lead: Brown,126.7
+1862-04,Sugar of Lead: Brown,113.3
+1862-07,Sugar of Lead: Brown,113.3
+1862-10,Sugar of Lead: Brown,120.7
+1863-01,Sugar of Lead: Brown,166.7
+1863-04,Sugar of Lead: Brown,200.0
+1863-07,Sugar of Lead: Brown,200.0
+1863-10,Sugar of Lead: Brown,120.0
+1864-01,Sugar of Lead: Brown,186.7
+1864-04,Sugar of Lead: Brown,213.3
+1864-07,Sugar of Lead: Brown,555.3
+1864-10,Sugar of Lead: Brown,610.0
+1865-01,Sugar of Lead: Brown,403.3
+1865-04,Sugar of Lead: Brown,403.3
+1865-07,Sugar of Lead: Brown,403.3
+1865-10,Sugar of Lead: Brown,403.3
+1860-01,Sugar of Lead: White,100.0
+1860-04,Sugar of Lead: White,95.7
+1860-07,Sugar of Lead: White,96.3
+1860-10,Sugar of Lead: White,96.7
+1861-01,Sugar of Lead: White,100.0
+1861-04,Sugar of Lead: White,100.0
+1861-07,Sugar of Lead: White,100.0
+1861-10,Sugar of Lead: White,100.0
+1862-01,Sugar of Lead: White,104.3
+1862-04,Sugar of Lead: White,104.3
+1862-07,Sugar of Lead: White,127.3
+1862-10,Sugar of Lead: White,127.3
+1863-01,Sugar of Lead: White,139.1
+1863-04,Sugar of Lead: White,139.1
+1863-07,Sugar of Lead: White,172.5
+1863-10,Sugar of Lead: White,478.3
+1864-01,Sugar of Lead: White,145.5
+1864-04,Sugar of Lead: White,172.5
+1864-07,Sugar of Lead: White,172.5
+1864-10,Sugar of Lead: White,145.5
+1865-01,Sugar of Lead: White,413.0
+1865-04,Sugar of Lead: White,413.0
+1865-07,Sugar of Lead: White,413.0
+1865-10,Sugar of Lead: White,413.0
+1860-01,Sulphuric Acid,100.0
+1860-04,Sulphuric Acid,100.0
+1860-07,Sulphuric Acid,100.0
+1860-10,Sulphuric Acid,100.0
+1861-01,Sulphuric Acid,100.0
+1861-04,Sulphuric Acid,100.0
+1861-07,Sulphuric Acid,100.0
+1861-10,Sulphuric Acid,100.1
+1862-01,Sulphuric Acid,127.3
+1862-04,Sulphuric Acid,127.3
+1862-07,Sulphuric Acid,127.3
+1862-10,Sulphuric Acid,127.3
+1863-01,Sulphuric Acid,109.1
+1863-04,Sulphuric Acid,109.1
+1863-07,Sulphuric Acid,109.1
+1863-10,Sulphuric Acid,109.1
+1864-01,Sulphuric Acid,109.1
+1864-04,Sulphuric Acid,109.1
+1864-07,Sulphuric Acid,109.1
+1864-10,Sulphuric Acid,109.1
+1865-01,Sulphuric Acid,109.1
+1865-04,Sulphuric Acid,109.1
+1865-07,Sulphuric Acid,109.1
+1865-10,Sulphuric Acid,109.1
+1860-01,Candles,100.0
+1860-04,Candles,100.0
+1860-07,Candles,96.3
+1860-10,Candles,96.3
+1861-01,Candles,96.3
+1861-04,Candles,96.1
+1861-07,Candles,95.2
+1861-10,Candles,107.9
+1862-01,Candles,92.6
+1862-04,Candles,88.9
+1862-07,Candles,88.9
+1862-10,Candles,92.1
+1863-01,Candles,100.0
+1863-04,Candles,100.0
+1863-07,Candles,100.0
+1863-10,Candles,100.0
+1864-01,Candles,100.0
+1864-04,Candles,203.7
+1864-07,Candles,239.2
+1864-10,Candles,218.0
+1865-01,Candles,198.4
+1865-04,Candles,148.1
+1865-07,Candles,148.1
+1865-10,Candles,111.1
+1860-01,Coal: Anthracite Chestnut,100.0
+1860-04,Coal: Anthracite Chestnut,100.0
+1860-07,Coal: Anthracite Chestnut,100.0
+1860-10,Coal: Anthracite Chestnut,107.9
+1861-01,Coal: Anthracite Chestnut,103.2
+1861-04,Coal: Anthracite Chestnut,105.2
+1861-07,Coal: Anthracite Chestnut,105.2
+1861-10,Coal: Anthracite Chestnut,107.9
+1862-01,Coal: Anthracite Chestnut,95.2
+1862-04,Coal: Anthracite Chestnut,85.7
+1862-07,Coal: Anthracite Chestnut,82.1
+1862-10,Coal: Anthracite Chestnut,82.5
+1863-01,Coal: Anthracite Chestnut,187.3
+1863-04,Coal: Anthracite Chestnut,190.5
+1863-07,Coal: Anthracite Chestnut,190.5
+1863-10,Coal: Anthracite Chestnut,188.4
+1864-01,Coal: Anthracite Chestnut,100.0
+1864-04,Coal: Anthracite Chestnut,100.0
+1864-07,Coal: Anthracite Chestnut,100.0
+1864-10,Coal: Anthracite Chestnut,230.3
+1865-01,Coal: Anthracite Chestnut,263.5
+1865-04,Coal: Anthracite Chestnut,253.7
+1865-07,Coal: Anthracite Chestnut,253.7
+1865-10,Coal: Anthracite Chestnut,213.8
+1860-01,Coal: Anthracite Egg,100.0
+1860-04,Coal: Anthracite Egg,100.0
+1860-07,Coal: Anthracite Egg,97.4
+1860-10,Coal: Anthracite Egg,111.8
+1861-01,Coal: Anthracite Egg,93.4
+1861-04,Coal: Anthracite Egg,93.4
+1861-07,Coal: Anthracite Egg,97.4
+1861-10,Coal: Anthracite Egg,97.4
+1862-01,Coal: Anthracite Egg,97.4
+1862-04,Coal: Anthracite Egg,94.7
+1862-07,Coal: Anthracite Egg,93.4
+1862-10,Coal: Anthracite Egg,90.5
+1863-01,Coal: Anthracite Egg,155.3
+1863-04,Coal: Anthracite Egg,180.5
+1863-07,Coal: Anthracite Egg,180.5
+1863-10,Coal: Anthracite Egg,203.5
+1864-01,Coal: Anthracite Egg,196.0
+1864-04,Coal: Anthracite Egg,203.7
+1864-07,Coal: Anthracite Egg,263.1
+1864-10,Coal: Anthracite Egg,263.1
+1865-01,Coal: Anthracite Egg,263.5
+1865-04,Coal: Anthracite Egg,253.7
+1865-07,Coal: Anthracite Egg,253.7
+1865-10,Coal: Anthracite Egg,213.8
+1860-01,Coal: Anthracite Grate,100.0
+1860-04,Coal: Anthracite Grate,100.0
+1860-07,Coal: Anthracite Grate,97.3
+1860-10,Coal: Anthracite Grate,112.2
+1861-01,Coal: Anthracite Grate,102.7
+1861-04,Coal: Anthracite Grate,116.2
+1861-07,Coal: Anthracite Grate,110.8
+1861-10,Coal: Anthracite Grate,102.7
+1862-01,Coal: Anthracite Grate,108.1
+1862-04,Coal: Anthracite Grate,91.9
+1862-07,Coal: Anthracite Grate,91.9
+1862-10,Coal: Anthracite Grate,90.5
+1863-01,Coal: Anthracite Grate,102.7
+1863-04,Coal: Anthracite Grate,190.5
+1863-07,Coal: Anthracite Grate,196.9
+1863-10,Coal: Anthracite Grate,216.2
+1864-01,Coal: Anthracite Grate,293.5
+1864-04,Coal: Anthracite Grate,293.5
+1864-07,Coal: Anthracite Grate,293.5
+1864-10,Coal: Anthracite Grate,293.5
+1865-01,Coal: Anthracite Grate,283.8
+1865-04,Coal: Anthracite Grate,253.7
+1865-07,Coal: Anthracite Grate,253.7
+1865-10,Coal: Anthracite Grate,283.8
+1860-01,Coal: Anthracite Stove,100.0
+1860-04,Coal: Anthracite Stove,105.0
+1860-07,Coal: Anthracite Stove,98.7
+1860-10,Coal: Anthracite Stove,105.0
+1861-01,Coal: Anthracite Stove,108.0
+1861-04,Coal: Anthracite Stove,96.0
+1861-07,Coal: Anthracite Stove,92.0
+1861-10,Coal: Anthracite Stove,97.0
+1862-01,Coal: Anthracite Stove,95.7
+1862-04,Coal: Anthracite Stove,97.0
+1862-07,Coal: Anthracite Stove,92.3
+1862-10,Coal: Anthracite Stove,93.5
+1863-01,Coal: Anthracite Stove,93.6
+1863-04,Coal: Anthracite Stove,135.0
+1863-07,Coal: Anthracite Stove,150.0
+1863-10,Coal: Anthracite Stove,150.0
+1864-01,Coal: Anthracite Stove,201.3
+1864-04,Coal: Anthracite Stove,108.7
+1864-07,Coal: Anthracite Stove,153.5
+1864-10,Coal: Anthracite Stove,243.6
+1865-01,Coal: Anthracite Stove,245.6
+1865-04,Coal: Anthracite Stove,250.0
+1865-07,Coal: Anthracite Stove,179.5
+1865-10,Coal: Anthracite Stove,275.6
+1860-01,Coal: Bituminous,100.0
+1860-04,Coal: Bituminous,102.0
+1860-07,Coal: Bituminous,100.0
+1860-10,Coal: Bituminous,100.0
+1861-01,Coal: Bituminous,100.0
+1861-04,Coal: Bituminous,100.0
+1861-07,Coal: Bituminous,100.0
+1861-10,Coal: Bituminous,97.0
+1862-01,Coal: Bituminous,97.0
+1862-04,Coal: Bituminous,135.0
+1862-07,Coal: Bituminous,91.4
+1862-10,Coal: Bituminous,91.4
+1863-01,Coal: Bituminous,100.0
+1863-04,Coal: Bituminous,100.0
+1863-07,Coal: Bituminous,100.0
+1863-10,Coal: Bituminous,100.0
+1864-01,Coal: Bituminous,130.0
+1864-04,Coal: Bituminous,122.0
+1864-07,Coal: Bituminous,130.0
+1864-10,Coal: Bituminous,155.0
+1865-01,Coal: Bituminous,200.0
+1865-04,Coal: Bituminous,200.0
+1865-07,Coal: Bituminous,165.0
+1865-10,Coal: Bituminous,200.0
+1860-01,Matches,100.0
+1860-04,Matches,100.0
+1860-07,Matches,100.0
+1860-10,Matches,100.0
+1861-01,Matches,100.0
+1861-04,Matches,100.0
+1861-07,Matches,100.0
+1861-10,Matches,100.0
+1862-01,Matches,100.0
+1862-04,Matches,100.0
+1862-07,Matches,100.0
+1862-10,Matches,100.0
+1863-01,Matches,100.0
+1863-04,Matches,140.0
+1863-07,Matches,137.1
+1863-10,Matches,140.0
+1864-01,Matches,148.6
+1864-04,Matches,169.0
+1864-07,Matches,169.0
+1864-10,Matches,169.0
+1865-01,Matches,208.3
+1865-04,Matches,208.3
+1865-07,Matches,208.3
+1865-10,Matches,208.3
+1860-01,Brick,114.3
+1860-04,Brick,97.1
+1860-07,Brick,100.0
+1860-10,Brick,102.8
+1861-01,Brick,102.8
+1861-04,Brick,91.4
+1861-07,Brick,80.0
+1861-10,Brick,85.7
+1862-01,Brick,85.7
+1862-04,Brick,91.4
+1862-07,Brick,91.4
+1862-10,Brick,94.3
+1863-01,Brick,37.1
+1863-04,Brick,37.1
+1863-07,Brick,37.1
+1863-10,Brick,37.1
+1864-01,Brick,171.4
+1864-04,Brick,211.4
+1864-07,Brick,217.1
+1864-10,Brick,205.7
+1865-01,Brick,217.1
+1865-04,Brick,277.1
+1865-07,Brick,277.1
+1865-10,Brick,202.9
+1860-01,Cement: Rosendale,80.0
+1860-04,Cement: Rosendale,100.0
+1860-07,Cement: Rosendale,100.0
+1860-10,Cement: Rosendale,100.2
+1861-01,Cement: Rosendale,101.4
+1861-04,Cement: Rosendale,100.0
+1861-07,Cement: Rosendale,90.0
+1861-10,Cement: Rosendale,90.0
+1862-01,Cement: Rosendale,90.0
+1862-04,Cement: Rosendale,90.0
+1862-07,Cement: Rosendale,90.0
+1862-10,Cement: Rosendale,90.0
+1863-01,Cement: Rosendale,120.0
+1863-04,Cement: Rosendale,120.0
+1863-07,Cement: Rosendale,120.0
+1863-10,Cement: Rosendale,120.0
+1864-01,Cement: Rosendale,140.0
+1864-04,Cement: Rosendale,150.0
+1864-07,Cement: Rosendale,150.0
+1864-10,Cement: Rosendale,150.0
+1865-01,Cement: Rosendale,100.0
+1865-04,Cement: Rosendale,100.0
+1865-07,Cement: Rosendale,100.0
+1865-10,Cement: Rosendale,175.0
+1860-01,Chestnut Lumber in the Log,100.0
+1860-04,Chestnut Lumber in the Log,100.0
+1860-07,Chestnut Lumber in the Log,100.0
+1860-10,Chestnut Lumber in the Log,100.0
+1861-01,Chestnut Lumber in the Log,100.0
+1861-04,Chestnut Lumber in the Log,100.0
+1861-07,Chestnut Lumber in the Log,100.0
+1861-10,Chestnut Lumber in the Log,106.3
+1862-01,Chestnut Lumber in the Log,100.0
+1862-04,Chestnut Lumber in the Log,100.0
+1862-07,Chestnut Lumber in the Log,125.0
+1862-10,Chestnut Lumber in the Log,100.0
+1863-01,Chestnut Lumber in the Log,133.3
+1863-04,Chestnut Lumber in the Log,133.3
+1863-07,Chestnut Lumber in the Log,133.3
+1863-10,Chestnut Lumber in the Log,133.3
+1864-01,Chestnut Lumber in the Log,133.3
+1864-04,Chestnut Lumber in the Log,133.3
+1864-07,Chestnut Lumber in the Log,133.3
+1864-10,Chestnut Lumber in the Log,133.3
+1865-01,Chestnut Lumber in the Log,133.3
+1865-04,Chestnut Lumber in the Log,133.3
+1865-07,Chestnut Lumber in the Log,133.3
+1865-10,Chestnut Lumber in the Log,133.3
+1860-01,Hemlock Lumber in the Log,100.0
+1860-04,Hemlock Lumber in the Log,141.7
+1860-07,Hemlock Lumber in the Log,100.0
+1860-10,Hemlock Lumber in the Log,125.0
+1861-01,Hemlock Lumber in the Log,133.3
+1861-04,Hemlock Lumber in the Log,133.3
+1861-07,Hemlock Lumber in the Log,133.3
+1861-10,Hemlock Lumber in the Log,133.3
+1862-01,Hemlock Lumber in the Log,100.7
+1862-04,Hemlock Lumber in the Log,100.7
+1862-07,Hemlock Lumber in the Log,183.3
+1862-10,Hemlock Lumber in the Log,181.7
+1863-01,Hemlock Lumber in the Log,196.7
+1863-04,Hemlock Lumber in the Log,200.0
+1863-07,Hemlock Lumber in the Log,200.0
+1863-10,Hemlock Lumber in the Log,200.0
+1864-01,Hemlock Lumber in the Log,200.0
+1864-04,Hemlock Lumber in the Log,200.0
+1864-07,Hemlock Lumber in the Log,200.0
+1864-10,Hemlock Lumber in the Log,200.0
+1865-01,Hemlock Lumber in the Log,200.0
+1865-04,Hemlock Lumber in the Log,200.0
+1865-07,Hemlock Lumber in the Log,200.0
+1865-10,Hemlock Lumber in the Log,200.0
+1860-01,Lime: Rockland,133.3
+1860-04,Lime: Rockland,141.7
+1860-07,Lime: Rockland,100.0
+1860-10,Lime: Rockland,125.0
+1861-01,Lime: Rockland,133.3
+1861-04,Lime: Rockland,133.3
+1861-07,Lime: Rockland,133.3
+1861-10,Lime: Rockland,133.3
+1862-01,Lime: Rockland,137.5
+1862-04,Lime: Rockland,91.7
+1862-07,Lime: Rockland,116.7
+1862-10,Lime: Rockland,116.7
+1863-01,Lime: Rockland,141.7
+1863-04,Lime: Rockland,141.7
+1863-07,Lime: Rockland,166.7
+1863-10,Lime: Rockland,191.7
+1864-01,Lime: Rockland,175.0
+1864-04,Lime: Rockland,225.0
+1864-07,Lime: Rockland,168.7
+1864-10,Lime: Rockland,208.3
+1865-01,Lime: Rockland,200.0
+1865-04,Lime: Rockland,200.7
+1865-07,Lime: Rockland,200.0
+1865-10,Lime: Rockland,300.0
+1860-01,Pine Lumber in the Log,100.0
+1860-04,Pine Lumber in the Log,100.0
+1860-07,Pine Lumber in the Log,100.0
+1860-10,Pine Lumber in the Log,125.0
+1861-01,Pine Lumber in the Log,125.0
+1861-04,Pine Lumber in the Log,125.0
+1861-07,Pine Lumber in the Log,125.0
+1861-10,Pine Lumber in the Log,125.0
+1862-01,Pine Lumber in the Log,187.5
+1862-04,Pine Lumber in the Log,187.5
+1862-07,Pine Lumber in the Log,197.5
+1862-10,Pine Lumber in the Log,193.8
+1863-01,Pine Lumber in the Log,200.0
+1863-04,Pine Lumber in the Log,200.0
+1863-07,Pine Lumber in the Log,200.0
+1863-10,Pine Lumber in the Log,200.0
+1864-01,Pine Lumber in the Log,200.0
+1864-04,Pine Lumber in the Log,200.0
+1864-07,Pine Lumber in the Log,164.0
+1864-10,Pine Lumber in the Log,200.0
+1865-01,Pine Lumber in the Log,200.0
+1865-04,Pine Lumber in the Log,200.0
+1865-07,Pine Lumber in the Log,196.0
+1865-10,Pine Lumber in the Log,200.0
+1860-01,Pine Boards 1 in.,100.0
+1860-04,Pine Boards 1 in.,106.4
+1860-07,Pine Boards 1 in.,100.0
+1860-10,Pine Boards 1 in.,106.4
+1861-01,Pine Boards 1 in.,106.4
+1861-04,Pine Boards 1 in.,106.4
+1861-07,Pine Boards 1 in.,106.4
+1861-10,Pine Boards 1 in.,106.4
+1862-01,Pine Boards 1 in.,106.4
+1862-04,Pine Boards 1 in.,106.4
+1862-07,Pine Boards 1 in.,106.4
+1862-10,Pine Boards 1 in.,109.6
+1863-01,Pine Boards 1 in.,109.6
+1863-04,Pine Boards 1 in.,132.0
+1863-07,Pine Boards 1 in.,132.0
+1863-10,Pine Boards 1 in.,145.0
+1864-01,Pine Boards 1 in.,148.0
+1864-04,Pine Boards 1 in.,196.0
+1864-07,Pine Boards 1 in.,196.0
+1864-10,Pine Boards 1 in.,196.0
+1865-01,Pine Boards 1 in.,196.0
+1865-04,Pine Boards 1 in.,196.0
+1865-07,Pine Boards 1 in.,196.0
+1865-10,Pine Boards 1 in.,225.0
+1860-01,Putty,100.0
+1860-04,Putty,100.0
+1860-07,Putty,100.0
+1860-10,Putty,100.0
+1861-01,Putty,116.7
+1861-04,Putty,116.7
+1861-07,Putty,116.7
+1861-10,Putty,116.7
+1862-01,Putty,133.3
+1862-04,Putty,133.3
+1862-07,Putty,133.3
+1862-10,Putty,133.3
+1863-01,Putty,150.0
+1863-04,Putty,150.0
+1863-07,Putty,150.0
+1863-10,Putty,150.0
+1864-01,Putty,166.7
+1864-04,Putty,166.7
+1864-07,Putty,166.7
+1864-10,Putty,166.7
+1865-01,Putty,183.3
+1865-04,Putty,183.3
+1865-07,Putty,183.3
+1865-10,Putty,183.3
+1860-01,Rubber: Para,100.0
+1860-04,Rubber: Para,109.1
+1860-07,Rubber: Para,100.0
+1860-10,Rubber: Para,100.0
+1861-01,Rubber: Para,100.0
+1861-04,Rubber: Para,100.9
+1861-07,Rubber: Para,81.8
+1861-10,Rubber: Para,71.3
+1862-01,Rubber: Para,87.3
+1862-04,Rubber: Para,90.9
+1862-07,Rubber: Para,104.5
+1862-10,Rubber: Para,121.8
+1863-01,Rubber: Para,159.1
+1863-04,Rubber: Para,154.5
+1863-07,Rubber: Para,131.8
+1863-10,Rubber: Para,138.4
+1864-01,Rubber: Para,145.5
+1864-04,Rubber: Para,150.9
+1864-07,Rubber: Para,172.7
+1864-10,Rubber: Para,218.2
+1865-01,Rubber: Para,218.2
+1865-04,Rubber: Para,215.5
+1865-07,Rubber: Para,127.3
+1865-10,Rubber: Para,136.4
+1860-01,Spruce Boards,91.7
+1860-04,Spruce Boards,91.7
+1860-07,Spruce Boards,100.0
+1860-10,Spruce Boards,100.0
+1861-01,Spruce Boards,97.0
+1861-04,Spruce Boards,97.0
+1861-07,Spruce Boards,85.3
+1861-10,Spruce Boards,83.3
+1862-01,Spruce Boards,83.3
+1862-04,Spruce Boards,82.3
+1862-07,Spruce Boards,79.2
+1862-10,Spruce Boards,97.9
+1863-01,Spruce Boards,97.9
+1863-04,Spruce Boards,97.9
+1863-07,Spruce Boards,131.3
+1863-10,Spruce Boards,131.3
+1864-01,Spruce Boards,157.1
+1864-04,Spruce Boards,157.1
+1864-07,Spruce Boards,200.0
+1864-10,Spruce Boards,191.7
+1865-01,Spruce Boards,191.7
+1865-04,Spruce Boards,200.0
+1865-07,Spruce Boards,188.8
+1865-10,Spruce Boards,188.8
+1860-01,Turpentine,110.0
+1860-04,Turpentine,91.7
+1860-07,Turpentine,100.0
+1860-10,Turpentine,105.6
+1861-01,Turpentine,90.0
+1861-04,Turpentine,90.0
+1861-07,Turpentine,265.0
+1861-10,Turpentine,250.0
+1862-01,Turpentine,275.0
+1862-04,Turpentine,245.0
+1862-07,Turpentine,325.0
+1862-10,Turpentine,562.5
+1863-01,Turpentine,675.0
+1863-04,Turpentine,600.0
+1863-07,Turpentine,886.0
+1863-10,Turpentine,875.0
+1864-01,Turpentine,750.0
+1864-04,Turpentine,800.0
+1864-07,Turpentine,900.0
+1864-10,Turpentine,800.0
+1865-01,Turpentine,600.0
+1865-04,Turpentine,512.5
+1865-07,Turpentine,337.5
+1865-10,Turpentine,262.5
+1860-01,Window Glass: American 10x14 First,100.0
+1860-04,Window Glass: American 10x14 First,91.7
+1860-07,Window Glass: American 10x14 First,100.0
+1860-10,Window Glass: American 10x14 First,100.0
+1861-01,Window Glass: American 10x14 First,81.5
+1861-04,Window Glass: American 10x14 First,100.3
+1861-07,Window Glass: American 10x14 First,103.4
+1861-10,Window Glass: American 10x14 First,111.2
+1862-01,Window Glass: American 10x14 First,250.0
+1862-04,Window Glass: American 10x14 First,245.0
+1862-07,Window Glass: American 10x14 First,325.0
+1862-10,Window Glass: American 10x14 First,562.5
+1863-01,Window Glass: American 10x14 First,250.0
+1863-04,Window Glass: American 10x14 First,250.0
+1863-07,Window Glass: American 10x14 First,250.0
+1863-10,Window Glass: American 10x14 First,250.0
+1864-01,Window Glass: American 10x14 First,131.3
+1864-04,Window Glass: American 10x14 First,131.3
+1864-07,Window Glass: American 10x14 First,159.3
+1864-10,Window Glass: American 10x14 First,159.3
+1865-01,Window Glass: American 10x14 First,159.3
+1865-04,Window Glass: American 10x14 First,150.3
+1865-07,Window Glass: American 10x14 First,159.3
+1865-10,Window Glass: American 10x14 First,159.3
+1860-01,Window Glass: American 10x14 Brands,105.8
+1860-04,Window Glass: American 10x14 Brands,100.0
+1860-07,Window Glass: American 10x14 Brands,100.0
+1860-10,Window Glass: American 10x14 Brands,165.6
+1861-01,Window Glass: American 10x14 Brands,97.0
+1861-04,Window Glass: American 10x14 Brands,95.0
+1861-07,Window Glass: American 10x14 Brands,100.0
+1861-10,Window Glass: American 10x14 Brands,93.8
+1862-01,Window Glass: American 10x14 Brands,118.8
+1862-04,Window Glass: American 10x14 Brands,118.8
+1862-07,Window Glass: American 10x14 Brands,150.3
+1862-10,Window Glass: American 10x14 Brands,150.3
+1863-01,Window Glass: American 10x14 Brands,171.5
+1863-04,Window Glass: American 10x14 Brands,153.3
+1863-07,Window Glass: American 10x14 Brands,153.3
+1863-10,Window Glass: American 10x14 Brands,153.3
+1864-01,Window Glass: American 10x14 Brands,230.5
+1864-04,Window Glass: American 10x14 Brands,230.5
+1864-07,Window Glass: American 10x14 Brands,245.0
+1864-10,Window Glass: American 10x14 Brands,254.8
+1865-01,Window Glass: American 10x14 Brands,254.9
+1865-04,Window Glass: American 10x14 Brands,274.4
+1865-07,Window Glass: American 10x14 Brands,274.4
+1865-10,Window Glass: American 10x14 Brands,218.9
+1860-01,Window Glass: French 10x14 First,85.1
+1860-04,Window Glass: French 10x14 First,100.0
+1860-07,Window Glass: French 10x14 First,100.0
+1860-10,Window Glass: French 10x14 First,100.0
+1861-01,Window Glass: French 10x14 First,100.0
+1861-04,Window Glass: French 10x14 First,108.9
+1861-07,Window Glass: French 10x14 First,97.7
+1861-10,Window Glass: French 10x14 First,97.2
+1862-01,Window Glass: French 10x14 First,118.9
+1862-04,Window Glass: French 10x14 First,96.1
+1862-07,Window Glass: French 10x14 First,96.1
+1862-10,Window Glass: French 10x14 First,96.1
+1863-01,Window Glass: French 10x14 First,140.6
+1863-04,Window Glass: French 10x14 First,140.6
+1863-07,Window Glass: French 10x14 First,132.8
+1863-10,Window Glass: French 10x14 First,140.6
+1864-01,Window Glass: French 10x14 First,125.0
+1864-04,Window Glass: French 10x14 First,223.4
+1864-07,Window Glass: French 10x14 First,223.4
+1864-10,Window Glass: French 10x14 First,224.7
+1865-01,Window Glass: French 10x14 First,218.9
+1865-04,Window Glass: French 10x14 First,193.4
+1865-07,Window Glass: French 10x14 First,154.7
+1865-10,Window Glass: French 10x14 First,190.5
+1860-01,Window Glass: French 10x14 Thirds,106.3
+1860-04,Window Glass: French 10x14 Thirds,106.3
+1860-07,Window Glass: French 10x14 Thirds,100.0
+1860-10,Window Glass: French 10x14 Thirds,100.0
+1861-01,Window Glass: French 10x14 Thirds,100.0
+1861-04,Window Glass: French 10x14 Thirds,97.7
+1861-07,Window Glass: French 10x14 Thirds,97.2
+1861-10,Window Glass: French 10x14 Thirds,109.1
+1862-01,Window Glass: French 10x14 Thirds,96.1
+1862-04,Window Glass: French 10x14 Thirds,140.7
+1862-07,Window Glass: French 10x14 Thirds,140.7
+1862-10,Window Glass: French 10x14 Thirds,140.8
+1863-01,Window Glass: French 10x14 Thirds,156.3
+1863-04,Window Glass: French 10x14 Thirds,156.3
+1863-07,Window Glass: French 10x14 Thirds,156.3
+1863-10,Window Glass: French 10x14 Thirds,156.3
+1864-01,Window Glass: French 10x14 Thirds,185.3
+1864-04,Window Glass: French 10x14 Thirds,185.3
+1864-07,Window Glass: French 10x14 Thirds,185.3
+1864-10,Window Glass: French 10x14 Thirds,224.7
+1865-01,Window Glass: French 10x14 Thirds,218.9
+1865-04,Window Glass: French 10x14 Thirds,218.9
+1865-07,Window Glass: French 10x14 Thirds,150.5
+1865-10,Window Glass: French 10x14 Thirds,177.8
+1860-01,Butts: Loose Joint Cast 3.5 in.,100.0
+1860-04,Butts: Loose Joint Cast 3.5 in.,100.0
+1860-07,Butts: Loose Joint Cast 3.5 in.,93.0
+1860-10,Butts: Loose Joint Cast 3.5 in.,93.0
+1861-01,Butts: Loose Joint Cast 3.5 in.,89.5
+1861-04,Butts: Loose Joint Cast 3.5 in.,89.5
+1861-07,Butts: Loose Joint Cast 3.5 in.,89.5
+1861-10,Butts: Loose Joint Cast 3.5 in.,89.5
+1862-01,Butts: Loose Joint Cast 3.5 in.,89.5
+1862-04,Butts: Loose Joint Cast 3.5 in.,89.5
+1862-07,Butts: Loose Joint Cast 3.5 in.,112.3
+1862-10,Butts: Loose Joint Cast 3.5 in.,97.0
+1863-01,Butts: Loose Joint Cast 3.5 in.,133.3
+1863-04,Butts: Loose Joint Cast 3.5 in.,133.3
+1863-07,Butts: Loose Joint Cast 3.5 in.,140.4
+1863-10,Butts: Loose Joint Cast 3.5 in.,140.4
+1864-01,Butts: Loose Joint Cast 3.5 in.,178.0
+1864-04,Butts: Loose Joint Cast 3.5 in.,206.7
+1864-07,Butts: Loose Joint Cast 3.5 in.,197.0
+1864-10,Butts: Loose Joint Cast 3.5 in.,200.0
+1865-01,Butts: Loose Joint Cast 3.5 in.,308.8
+1865-04,Butts: Loose Joint Cast 3.5 in.,308.8
+1865-07,Butts: Loose Joint Cast 3.5 in.,277.2
+1865-10,Butts: Loose Joint Cast 3.5 in.,277.2
+1860-01,Copper: Ingot,100.0
+1860-04,Copper: Ingot,97.9
+1860-07,Copper: Ingot,89.4
+1860-10,Copper: Ingot,80.4
+1861-01,Copper: Ingot,80.9
+1861-04,Copper: Ingot,80.9
+1861-07,Copper: Ingot,76.6
+1861-10,Copper: Ingot,87.2
+1862-01,Copper: Ingot,112.8
+1862-04,Copper: Ingot,93.6
+1862-07,Copper: Ingot,103.4
+1862-10,Copper: Ingot,103.4
+1863-01,Copper: Ingot,131.9
+1863-04,Copper: Ingot,128.8
+1863-07,Copper: Ingot,125.6
+1863-10,Copper: Ingot,128.8
+1864-01,Copper: Ingot,162.7
+1864-04,Copper: Ingot,162.3
+1864-07,Copper: Ingot,175.0
+1864-10,Copper: Ingot,211.5
+1865-01,Copper: Ingot,211.5
+1865-04,Copper: Ingot,169.5
+1865-07,Copper: Ingot,152.5
+1865-10,Copper: Ingot,138.3
+1860-01,Copper: Sheet,100.0
+1860-04,Copper: Sheet,97.9
+1860-07,Copper: Sheet,89.4
+1860-10,Copper: Sheet,80.3
+1861-01,Copper: Sheet,80.0
+1861-04,Copper: Sheet,93.2
+1861-07,Copper: Sheet,83.2
+1861-10,Copper: Sheet,93.2
+1862-01,Copper: Sheet,100.0
+1862-04,Copper: Sheet,93.6
+1862-07,Copper: Sheet,103.4
+1862-10,Copper: Sheet,109.2
+1863-01,Copper: Sheet,131.9
+1863-04,Copper: Sheet,155.6
+1863-07,Copper: Sheet,155.6
+1863-10,Copper: Sheet,162.7
+1864-01,Copper: Sheet,178.0
+1864-04,Copper: Sheet,175.0
+1864-07,Copper: Sheet,211.5
+1864-10,Copper: Sheet,211.5
+1865-01,Copper: Sheet,211.5
+1865-04,Copper: Sheet,144.7
+1865-07,Copper: Sheet,152.5
+1865-10,Copper: Sheet,173.1
+1860-01,Iron: Wire,100.0
+1860-04,Iron: Wire,119.1
+1860-07,Iron: Wire,114.9
+1860-10,Iron: Wire,110.6
+1861-01,Iron: Wire,110.6
+1861-04,Iron: Wire,110.6
+1861-07,Iron: Wire,110.6
+1861-10,Iron: Wire,110.6
+1862-01,Iron: Wire,100.0
+1862-04,Iron: Wire,100.0
+1862-07,Iron: Wire,100.0
+1862-10,Iron: Wire,100.0
+1863-01,Iron: Wire,100.0
+1863-04,Iron: Wire,109.2
+1863-07,Iron: Wire,137.5
+1863-10,Iron: Wire,162.7
+1864-01,Iron: Wire,211.5
+1864-04,Iron: Wire,211.5
+1864-07,Iron: Wire,255.6
+1864-10,Iron: Wire,340.4
+1865-01,Iron: Wire,149.1
+1865-04,Iron: Wire,149.2
+1865-07,Iron: Wire,238.3
+1865-10,Iron: Wire,173.1
+1860-01,Lead: Drop-shot,100.0
+1860-04,Lead: Drop-shot,101.7
+1860-07,Lead: Drop-shot,98.0
+1860-10,Lead: Drop-shot,97.8
+1861-01,Lead: Drop-shot,95.2
+1861-04,Lead: Drop-shot,95.2
+1861-07,Lead: Drop-shot,84.8
+1861-10,Lead: Drop-shot,100.4
+1862-01,Lead: Drop-shot,100.0
+1862-04,Lead: Drop-shot,100.0
+1862-07,Lead: Drop-shot,100.0
+1862-10,Lead: Drop-shot,100.0
+1863-01,Lead: Drop-shot,119.2
+1863-04,Lead: Drop-shot,128.5
+1863-07,Lead: Drop-shot,145.0
+1863-10,Lead: Drop-shot,187.2
+1864-01,Lead: Drop-shot,186.1
+1864-04,Lead: Drop-shot,225.8
+1864-07,Lead: Drop-shot,251.1
+1864-10,Lead: Drop-shot,251.1
+1865-01,Lead: Drop-shot,272.4
+1865-04,Lead: Drop-shot,272.4
+1865-07,Lead: Drop-shot,251.1
+1865-10,Lead: Drop-shot,251.1
+1860-01,Lead: Pig,100.0
+1860-04,Lead: Pig,100.0
+1860-07,Lead: Pig,93.0
+1860-10,Lead: Pig,93.0
+1861-01,Lead: Pig,89.5
+1861-04,Lead: Pig,89.5
+1861-07,Lead: Pig,89.5
+1861-10,Lead: Pig,89.5
+1862-01,Lead: Pig,89.5
+1862-04,Lead: Pig,89.5
+1862-07,Lead: Pig,112.3
+1862-10,Lead: Pig,97.0
+1863-01,Lead: Pig,133.3
+1863-04,Lead: Pig,133.3
+1863-07,Lead: Pig,140.4
+1863-10,Lead: Pig,140.4
+1864-01,Lead: Pig,178.0
+1864-04,Lead: Pig,206.7
+1864-07,Lead: Pig,197.0
+1864-10,Lead: Pig,200.0
+1865-01,Lead: Pig,308.8
+1865-04,Lead: Pig,308.8
+1865-07,Lead: Pig,277.2
+1865-10,Lead: Pig,277.2
+1860-01,Lead: Pipe,100.0
+1860-04,Lead: Pipe,116.7
+1860-07,Lead: Pipe,112.5
+1860-10,Lead: Pipe,104.2
+1861-01,Lead: Pipe,104.2
+1861-04,Lead: Pipe,108.3
+1861-07,Lead: Pipe,108.3
+1861-10,Lead: Pipe,116.7
+1862-01,Lead: Pipe,116.7
+1862-04,Lead: Pipe,141.7
+1862-07,Lead: Pipe,141.7
+1862-10,Lead: Pipe,145.8
+1863-01,Lead: Pipe,196.7
+1863-04,Lead: Pipe,196.7
+1863-07,Lead: Pipe,200.0
+1863-10,Lead: Pipe,183.3
+1864-01,Lead: Pipe,225.0
+1864-04,Lead: Pipe,258.3
+1864-07,Lead: Pipe,250.0
+1864-10,Lead: Pipe,333.3
+1865-01,Lead: Pipe,333.3
+1865-04,Lead: Pipe,333.3
+1865-07,Lead: Pipe,300.0
+1865-10,Lead: Pipe,216.7
+1860-01,Shovels,100.0
+1860-04,Shovels,100.0
+1860-07,Shovels,100.0
+1860-10,Shovels,100.0
+1861-01,Shovels,100.0
+1861-04,Shovels,100.0
+1861-07,Shovels,100.0
+1861-10,Shovels,100.0
+1862-01,Shovels,100.0
+1862-04,Shovels,94.7
+1862-07,Shovels,94.7
+1862-10,Shovels,94.7
+1863-01,Shovels,102.6
+1863-04,Shovels,122.8
+1863-07,Shovels,133.5
+1863-10,Shovels,161.9
+1864-01,Shovels,161.0
+1864-04,Shovels,204.4
+1864-07,Shovels,164.9
+1864-10,Shovels,164.3
+1865-01,Shovels,184.2
+1865-04,Shovels,184.2
+1865-07,Shovels,134.2
+1865-10,Shovels,134.2
+1860-01,Spelter: Imported,100.0
+1860-04,Spelter: Imported,100.0
+1860-07,Spelter: Imported,99.0
+1860-10,Spelter: Imported,95.2
+1861-01,Spelter: Imported,90.5
+1861-04,Spelter: Imported,90.5
+1861-07,Spelter: Imported,81.0
+1861-10,Spelter: Imported,85.7
+1862-01,Spelter: Imported,100.0
+1862-04,Spelter: Imported,95.2
+1862-07,Spelter: Imported,100.5
+1862-10,Spelter: Imported,114.3
+1863-01,Spelter: Imported,142.9
+1863-04,Spelter: Imported,161.9
+1863-07,Spelter: Imported,147.6
+1863-10,Spelter: Imported,161.9
+1864-01,Spelter: Imported,170.2
+1864-04,Spelter: Imported,222.3
+1864-07,Spelter: Imported,233.3
+1864-10,Spelter: Imported,222.3
+1865-01,Spelter: Imported,238.1
+1865-04,Spelter: Imported,171.4
+1865-07,Spelter: Imported,171.4
+1865-10,Spelter: Imported,202.4
+1860-01,Tin Plates: I.C. Coke,100.0
+1860-04,Tin Plates: I.C. Coke,101.7
+1860-07,Tin Plates: I.C. Coke,101.7
+1860-10,Tin Plates: I.C. Coke,96.5
+1861-01,Tin Plates: I.C. Coke,94.7
+1861-04,Tin Plates: I.C. Coke,96.2
+1861-07,Tin Plates: I.C. Coke,98.2
+1861-10,Tin Plates: I.C. Coke,89.5
+1862-01,Tin Plates: I.C. Coke,108.9
+1862-04,Tin Plates: I.C. Coke,100.5
+1862-07,Tin Plates: I.C. Coke,105.3
+1862-10,Tin Plates: I.C. Coke,105.3
+1863-01,Tin Plates: I.C. Coke,129.8
+1863-04,Tin Plates: I.C. Coke,154.4
+1863-07,Tin Plates: I.C. Coke,136.8
+1863-10,Tin Plates: I.C. Coke,118.8
+1864-01,Tin Plates: I.C. Coke,154.4
+1864-04,Tin Plates: I.C. Coke,106.5
+1864-07,Tin Plates: I.C. Coke,310.5
+1864-10,Tin Plates: I.C. Coke,357.1
+1865-01,Tin Plates: I.C. Coke,357.1
+1865-04,Tin Plates: I.C. Coke,238.6
+1865-07,Tin Plates: I.C. Coke,215.7
+1865-10,Tin Plates: I.C. Coke,215.7
+1860-01,Wood Screws: 1 inch No. 10 Flat Head Iron,100.0
+1860-04,Wood Screws: 1 inch No. 10 Flat Head Iron,100.0
+1860-07,Wood Screws: 1 inch No. 10 Flat Head Iron,100.0
+1860-10,Wood Screws: 1 inch No. 10 Flat Head Iron,100.0
+1861-01,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1861-04,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1861-07,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1861-10,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1862-01,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1862-04,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1862-07,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1862-10,Wood Screws: 1 inch No. 10 Flat Head Iron,116.7
+1863-01,Wood Screws: 1 inch No. 10 Flat Head Iron,133.0
+1863-04,Wood Screws: 1 inch No. 10 Flat Head Iron,136.3
+1863-07,Wood Screws: 1 inch No. 10 Flat Head Iron,158.3
+1863-10,Wood Screws: 1 inch No. 10 Flat Head Iron,118.8
+1864-01,Wood Screws: 1 inch No. 10 Flat Head Iron,158.3
+1864-04,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1864-07,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1864-10,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1865-01,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1865-04,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1865-07,Wood Screws: 1 inch No. 10 Flat Head Iron,215.7
+1865-10,Wood Screws: 1 inch No. 10 Flat Head Iron,397.1
+1860-01,Zinc: Imported Sheet,100.0
+1860-04,Zinc: Imported Sheet,100.0
+1860-07,Zinc: Imported Sheet,101.8
+1860-10,Zinc: Imported Sheet,96.4
+1861-01,Zinc: Imported Sheet,116.7
+1861-04,Zinc: Imported Sheet,116.7
+1861-07,Zinc: Imported Sheet,116.7
+1861-10,Zinc: Imported Sheet,116.7
+1862-01,Zinc: Imported Sheet,103.6
+1862-04,Zinc: Imported Sheet,103.6
+1862-07,Zinc: Imported Sheet,103.6
+1862-10,Zinc: Imported Sheet,128.6
+1863-01,Zinc: Imported Sheet,146.4
+1863-04,Zinc: Imported Sheet,176.6
+1863-07,Zinc: Imported Sheet,164.3
+1863-10,Zinc: Imported Sheet,164.3
+1864-01,Zinc: Imported Sheet,171.4
+1864-04,Zinc: Imported Sheet,214.3
+1864-07,Zinc: Imported Sheet,171.4
+1864-10,Zinc: Imported Sheet,171.4
+1865-01,Zinc: Imported Sheet,285.7
+1865-04,Zinc: Imported Sheet,285.7
+1865-07,Zinc: Imported Sheet,171.4
+1865-10,Zinc: Imported Sheet,171.4
+1860-01,Furniture: Chairs Bed-Room,100.0
+1860-04,Furniture: Chairs Bed-Room,100.0
+1860-07,Furniture: Chairs Bed-Room,100.0
+1860-10,Furniture: Chairs Bed-Room,80.0
+1861-01,Furniture: Chairs Bed-Room,80.0
+1861-04,Furniture: Chairs Bed-Room,80.0
+1861-07,Furniture: Chairs Bed-Room,80.0
+1861-10,Furniture: Chairs Bed-Room,80.0
+1862-01,Furniture: Chairs Bed-Room,100.0
+1862-04,Furniture: Chairs Bed-Room,100.0
+1862-07,Furniture: Chairs Bed-Room,100.0
+1862-10,Furniture: Chairs Bed-Room,100.0
+1863-01,Furniture: Chairs Bed-Room,105.0
+1863-04,Furniture: Chairs Bed-Room,105.0
+1863-07,Furniture: Chairs Bed-Room,110.0
+1863-10,Furniture: Chairs Bed-Room,110.0
+1864-01,Furniture: Chairs Bed-Room,125.0
+1864-04,Furniture: Chairs Bed-Room,125.0
+1864-07,Furniture: Chairs Bed-Room,145.0
+1864-10,Furniture: Chairs Bed-Room,130.0
+1865-01,Furniture: Chairs Bed-Room,130.0
+1865-04,Furniture: Chairs Bed-Room,150.0
+1865-07,Furniture: Chairs Bed-Room,145.0
+1865-10,Furniture: Chairs Bed-Room,145.0
+1860-01,Furniture: Chairs Kitchen,100.0
+1860-04,Furniture: Chairs Kitchen,100.0
+1860-07,Furniture: Chairs Kitchen,100.0
+1860-10,Furniture: Chairs Kitchen,100.0
+1861-01,Furniture: Chairs Kitchen,100.0
+1861-04,Furniture: Chairs Kitchen,100.0
+1861-07,Furniture: Chairs Kitchen,100.0
+1861-10,Furniture: Chairs Kitchen,100.0
+1862-01,Furniture: Chairs Kitchen,100.0
+1862-04,Furniture: Chairs Kitchen,100.0
+1862-07,Furniture: Chairs Kitchen,100.0
+1862-10,Furniture: Chairs Kitchen,100.0
+1863-01,Furniture: Chairs Kitchen,112.5
+1863-04,Furniture: Chairs Kitchen,112.5
+1863-07,Furniture: Chairs Kitchen,112.5
+1863-10,Furniture: Chairs Kitchen,111.1
+1864-01,Furniture: Chairs Kitchen,122.2
+1864-04,Furniture: Chairs Kitchen,122.2
+1864-07,Furniture: Chairs Kitchen,122.5
+1864-10,Furniture: Chairs Kitchen,102.5
+1865-01,Furniture: Chairs Kitchen,106.7
+1865-04,Furniture: Chairs Kitchen,155.6
+1865-07,Furniture: Chairs Kitchen,150.0
+1865-10,Furniture: Chairs Kitchen,144.4
+1860-01,Furniture: Tables Kitchen,100.0
+1860-04,Furniture: Tables Kitchen,100.0
+1860-07,Furniture: Tables Kitchen,100.0
+1860-10,Furniture: Tables Kitchen,100.0
+1861-01,Furniture: Tables Kitchen,100.0
+1861-04,Furniture: Tables Kitchen,100.0
+1861-07,Furniture: Tables Kitchen,100.0
+1861-10,Furniture: Tables Kitchen,100.0
+1862-01,Furniture: Tables Kitchen,100.0
+1862-04,Furniture: Tables Kitchen,100.0
+1862-07,Furniture: Tables Kitchen,100.0
+1862-10,Furniture: Tables Kitchen,100.0
+1863-01,Furniture: Tables Kitchen,112.5
+1863-04,Furniture: Tables Kitchen,112.5
+1863-07,Furniture: Tables Kitchen,112.5
+1863-10,Furniture: Tables Kitchen,112.5
+1864-01,Furniture: Tables Kitchen,112.5
+1864-04,Furniture: Tables Kitchen,112.5
+1864-07,Furniture: Tables Kitchen,137.5
+1864-10,Furniture: Tables Kitchen,137.5
+1865-01,Furniture: Tables Kitchen,102.5
+1865-04,Furniture: Tables Kitchen,130.0
+1865-07,Furniture: Tables Kitchen,130.0
+1865-10,Furniture: Tables Kitchen,130.0
+1860-01,Pails: Wooden 2 Hoops 1,100.0
+1860-04,Pails: Wooden 2 Hoops 1,100.0
+1860-07,Pails: Wooden 2 Hoops 1,100.0
+1860-10,Pails: Wooden 2 Hoops 1,100.0
+1861-01,Pails: Wooden 2 Hoops 1,98.2
+1861-04,Pails: Wooden 2 Hoops 1,98.2
+1861-07,Pails: Wooden 2 Hoops 1,98.2
+1861-10,Pails: Wooden 2 Hoops 1,98.1
+1862-01,Pails: Wooden 2 Hoops 1,92.9
+1862-04,Pails: Wooden 2 Hoops 1,92.6
+1862-07,Pails: Wooden 2 Hoops 1,107.1
+1862-10,Pails: Wooden 2 Hoops 1,121.4
+1863-01,Pails: Wooden 2 Hoops 1,121.4
+1863-04,Pails: Wooden 2 Hoops 1,121.4
+1863-07,Pails: Wooden 2 Hoops 1,150.0
+1863-10,Pails: Wooden 2 Hoops 1,151.9
+1864-01,Pails: Wooden 2 Hoops 1,107.1
+1864-04,Pails: Wooden 2 Hoops 1,107.7
+1864-07,Pails: Wooden 2 Hoops 1,139.3
+1864-10,Pails: Wooden 2 Hoops 1,139.3
+1865-01,Pails: Wooden 2 Hoops 1,150.0
+1865-04,Pails: Wooden 2 Hoops 1,178.6
+1865-07,Pails: Wooden 2 Hoops 1,178.6
+1865-10,Pails: Wooden 2 Hoops 1,178.6
+1860-01,Pails: Wooden 2 Hoops 2,100.0
+1860-04,Pails: Wooden 2 Hoops 2,100.0
+1860-07,Pails: Wooden 2 Hoops 2,100.0
+1860-10,Pails: Wooden 2 Hoops 2,100.0
+1861-01,Pails: Wooden 2 Hoops 2,100.0
+1861-04,Pails: Wooden 2 Hoops 2,100.0
+1861-07,Pails: Wooden 2 Hoops 2,100.0
+1861-10,Pails: Wooden 2 Hoops 2,100.0
+1862-01,Pails: Wooden 2 Hoops 2,100.0
+1862-04,Pails: Wooden 2 Hoops 2,100.0
+1862-07,Pails: Wooden 2 Hoops 2,100.0
+1862-10,Pails: Wooden 2 Hoops 2,100.0
+1863-01,Pails: Wooden 2 Hoops 2,122.2
+1863-04,Pails: Wooden 2 Hoops 2,122.2
+1863-07,Pails: Wooden 2 Hoops 2,150.0
+1863-10,Pails: Wooden 2 Hoops 2,163.0
+1864-01,Pails: Wooden 2 Hoops 2,163.0
+1864-04,Pails: Wooden 2 Hoops 2,163.0
+1864-07,Pails: Wooden 2 Hoops 2,176.3
+1864-10,Pails: Wooden 2 Hoops 2,181.5
+1865-01,Pails: Wooden 2 Hoops 2,181.5
+1865-04,Pails: Wooden 2 Hoops 2,178.6
+1865-07,Pails: Wooden 2 Hoops 2,178.6
+1865-10,Pails: Wooden 2 Hoops 2,178.6
+1860-01,Pails: Wooden 3 Hoops,100.0
+1860-04,Pails: Wooden 3 Hoops,100.0
+1860-07,Pails: Wooden 3 Hoops,100.0
+1860-10,Pails: Wooden 3 Hoops,100.0
+1861-01,Pails: Wooden 3 Hoops,100.0
+1861-04,Pails: Wooden 3 Hoops,100.0
+1861-07,Pails: Wooden 3 Hoops,100.0
+1861-10,Pails: Wooden 3 Hoops,96.0
+1862-01,Pails: Wooden 3 Hoops,93.8
+1862-04,Pails: Wooden 3 Hoops,93.8
+1862-07,Pails: Wooden 3 Hoops,106.3
+1862-10,Pails: Wooden 3 Hoops,118.8
+1863-01,Pails: Wooden 3 Hoops,125.0
+1863-04,Pails: Wooden 3 Hoops,146.9
+1863-07,Pails: Wooden 3 Hoops,137.5
+1863-10,Pails: Wooden 3 Hoops,140.6
+1864-01,Pails: Wooden 3 Hoops,146.7
+1864-04,Pails: Wooden 3 Hoops,140.6
+1864-07,Pails: Wooden 3 Hoops,140.6
+1864-10,Pails: Wooden 3 Hoops,261.1
+1865-01,Pails: Wooden 3 Hoops,178.1
+1865-04,Pails: Wooden 3 Hoops,178.1
+1865-07,Pails: Wooden 3 Hoops,216.5
+1865-10,Pails: Wooden 3 Hoops,261.1
+1860-01,Tubs: Wooden 1,100.0
+1860-04,Tubs: Wooden 1,100.0
+1860-07,Tubs: Wooden 1,100.0
+1860-10,Tubs: Wooden 1,100.0
+1861-01,Tubs: Wooden 1,90.0
+1861-04,Tubs: Wooden 1,93.8
+1861-07,Tubs: Wooden 1,90.0
+1861-10,Tubs: Wooden 1,93.8
+1862-01,Tubs: Wooden 1,90.0
+1862-04,Tubs: Wooden 1,83.8
+1862-07,Tubs: Wooden 1,83.8
+1862-10,Tubs: Wooden 1,83.8
+1863-01,Tubs: Wooden 1,90.0
+1863-04,Tubs: Wooden 1,100.0
+1863-07,Tubs: Wooden 1,96.6
+1863-10,Tubs: Wooden 1,96.6
+1864-01,Tubs: Wooden 1,120.0
+1864-04,Tubs: Wooden 1,112.5
+1864-07,Tubs: Wooden 1,175.9
+1864-10,Tubs: Wooden 1,175.9
+1865-01,Tubs: Wooden 1,157.8
+1865-04,Tubs: Wooden 1,157.8
+1865-07,Tubs: Wooden 1,157.8
+1865-10,Tubs: Wooden 1,170.0
+1860-01,Tubs: Wooden 2,100.0
+1860-04,Tubs: Wooden 2,100.0
+1860-07,Tubs: Wooden 2,96.6
+1860-10,Tubs: Wooden 2,100.0
+1861-01,Tubs: Wooden 2,93.8
+1861-04,Tubs: Wooden 2,89.7
+1861-07,Tubs: Wooden 2,89.7
+1861-10,Tubs: Wooden 2,89.7
+1862-01,Tubs: Wooden 2,89.7
+1862-04,Tubs: Wooden 2,89.7
+1862-07,Tubs: Wooden 2,89.7
+1862-10,Tubs: Wooden 2,89.7
+1863-01,Tubs: Wooden 2,100.0
+1863-04,Tubs: Wooden 2,100.0
+1863-07,Tubs: Wooden 2,100.0
+1863-10,Tubs: Wooden 2,130.1
+1864-01,Tubs: Wooden 2,130.1
+1864-04,Tubs: Wooden 2,148.3
+1864-07,Tubs: Wooden 2,148.3
+1864-10,Tubs: Wooden 2,162.5
+1865-01,Tubs: Wooden 2,150.0
+1865-04,Tubs: Wooden 2,148.3
+1865-07,Tubs: Wooden 2,148.3
+1865-10,Tubs: Wooden 2,162.5
+1860-01,Tubs: Wooden 3,100.0
+1860-04,Tubs: Wooden 3,100.0
+1860-07,Tubs: Wooden 3,100.0
+1860-10,Tubs: Wooden 3,100.0
+1861-01,Tubs: Wooden 3,90.0
+1861-04,Tubs: Wooden 3,90.0
+1861-07,Tubs: Wooden 3,90.0
+1861-10,Tubs: Wooden 3,83.8
+1862-01,Tubs: Wooden 3,83.8
+1862-04,Tubs: Wooden 3,100.0
+1862-07,Tubs: Wooden 3,100.0
+1862-10,Tubs: Wooden 3,100.0
+1863-01,Tubs: Wooden 3,105.2
+1863-04,Tubs: Wooden 3,131.0
+1863-07,Tubs: Wooden 3,131.0
+1863-10,Tubs: Wooden 3,152.0
+1864-01,Tubs: Wooden 3,162.5
+1864-04,Tubs: Wooden 3,162.5
+1864-07,Tubs: Wooden 3,170.0
+1864-10,Tubs: Wooden 3,170.0
+1865-01,Tubs: Wooden 3,150.0
+1865-04,Tubs: Wooden 3,163.3
+1865-07,Tubs: Wooden 3,163.3
+1865-10,Tubs: Wooden 3,196.3
+1860-01,Tubs: Wooden 4,100.0
+1860-04,Tubs: Wooden 4,100.0
+1860-07,Tubs: Wooden 4,100.0
+1860-10,Tubs: Wooden 4,100.0
+1861-01,Tubs: Wooden 4,90.0
+1861-04,Tubs: Wooden 4,83.8
+1861-07,Tubs: Wooden 4,89.7
+1861-10,Tubs: Wooden 4,82.2
+1862-01,Tubs: Wooden 4,93.8
+1862-04,Tubs: Wooden 4,92.2
+1862-07,Tubs: Wooden 4,100.0
+1862-10,Tubs: Wooden 4,85.0
+1863-01,Tubs: Wooden 4,112.5
+1863-04,Tubs: Wooden 4,142.5
+1863-07,Tubs: Wooden 4,148.0
+1863-10,Tubs: Wooden 4,148.3
+1864-01,Tubs: Wooden 4,170.0
+1864-04,Tubs: Wooden 4,162.5
+1864-07,Tubs: Wooden 4,162.5
+1864-10,Tubs: Wooden 4,162.5
+1865-01,Tubs: Wooden 4,170.0
+1865-04,Tubs: Wooden 4,108.8
+1865-07,Tubs: Wooden 4,106.8
+1865-10,Tubs: Wooden 4,106.8
+1860-01,Jute,100.0
+1860-04,Jute,108.6
+1860-07,Jute,105.7
+1860-10,Jute,100.0
+1861-01,Jute,114.3
+1861-04,Jute,91.4
+1861-07,Jute,91.4
+1861-10,Jute,102.9
+1862-01,Jute,146.3
+1862-04,Jute,135.7
+1862-07,Jute,108.6
+1862-10,Jute,148.0
+1863-01,Jute,257.1
+1863-04,Jute,199.3
+1863-07,Jute,199.3
+1863-10,Jute,182.8
+1864-01,Jute,251.4
+1864-04,Jute,357.4
+1864-07,Jute,311.3
+1864-10,Jute,314.3
+1865-01,Jute,293.0
+1865-04,Jute,302.8
+1865-07,Jute,175.0
+1865-10,Jute,171.4
+1860-01,Powder: Rifle,100.0
+1860-04,Powder: Rifle,100.0
+1860-07,Powder: Rifle,100.0
+1860-10,Powder: Rifle,100.0
+1861-01,Powder: Rifle,100.0
+1861-04,Powder: Rifle,120.0
+1861-07,Powder: Rifle,120.0
+1861-10,Powder: Rifle,120.0
+1862-01,Powder: Rifle,140.0
+1862-04,Powder: Rifle,130.0
+1862-07,Powder: Rifle,130.0
+1862-10,Powder: Rifle,130.0
+1863-01,Powder: Rifle,130.0
+1863-04,Powder: Rifle,130.0
+1863-07,Powder: Rifle,130.0
+1863-10,Powder: Rifle,130.0
+1864-01,Powder: Rifle,130.0
+1864-04,Powder: Rifle,145.0
+1864-07,Powder: Rifle,174.0
+1864-10,Powder: Rifle,172.0
+1865-01,Powder: Rifle,175.0
+1865-04,Powder: Rifle,175.0
+1865-07,Powder: Rifle,170.0
+1865-10,Powder: Rifle,170.0
+1860-01,Rope: Manilla,100.0
+1860-04,Rope: Manilla,100.0
+1860-07,Rope: Manilla,97.0
+1860-10,Rope: Manilla,97.0
+1861-01,Rope: Manilla,97.0
+1861-04,Rope: Manilla,106.1
+1861-07,Rope: Manilla,93.9
+1861-10,Rope: Manilla,90.9
+1862-01,Rope: Manilla,121.2
+1862-04,Rope: Manilla,130.3
+1862-07,Rope: Manilla,124.2
+1862-10,Rope: Manilla,124.2
+1863-01,Rope: Manilla,151.5
+1863-04,Rope: Manilla,218.2
+1863-07,Rope: Manilla,172.7
+1863-10,Rope: Manilla,161.8
+1864-01,Rope: Manilla,161.8
+1864-04,Rope: Manilla,164.9
+1864-07,Rope: Manilla,197.0
+1864-10,Rope: Manilla,300.0
+1865-01,Rope: Manilla,351.5
+1865-04,Rope: Manilla,242.4
+1865-07,Rope: Manilla,242.4
+1865-10,Rope: Manilla,272.7
+1860-01,Rope: Tarred American,100.0
+1860-04,Rope: Tarred American,100.0
+1860-07,Rope: Tarred American,100.0
+1860-10,Rope: Tarred American,108.8
+1861-01,Rope: Tarred American,108.1
+1861-04,Rope: Tarred American,105.1
+1861-07,Rope: Tarred American,105.1
+1861-10,Rope: Tarred American,108.1
+1862-01,Rope: Tarred American,118.9
+1862-04,Rope: Tarred American,118.9
+1862-07,Rope: Tarred American,129.7
+1862-10,Rope: Tarred American,129.7
+1863-01,Rope: Tarred American,143.2
+1863-04,Rope: Tarred American,164.9
+1863-07,Rope: Tarred American,162.2
+1863-10,Rope: Tarred American,154.1
+1864-01,Rope: Tarred American,164.9
+1864-04,Rope: Tarred American,164.9
+1864-07,Rope: Tarred American,194.6
+1864-10,Rope: Tarred American,194.6
+1865-01,Rope: Tarred American,242.4
+1865-04,Rope: Tarred American,194.6
+1865-07,Rope: Tarred American,194.6
+1865-10,Rope: Tarred American,194.6
+1860-01,Soap: Castile,100.0
+1860-04,Soap: Castile,114.7
+1860-07,Soap: Castile,117.6
+1860-10,Soap: Castile,108.8
+1861-01,Soap: Castile,114.7
+1861-04,Soap: Castile,111.8
+1861-07,Soap: Castile,117.6
+1861-10,Soap: Castile,141.2
+1862-01,Soap: Castile,152.9
+1862-04,Soap: Castile,158.8
+1862-07,Soap: Castile,155.9
+1862-10,Soap: Castile,164.7
+1863-01,Soap: Castile,170.6
+1863-04,Soap: Castile,302.9
+1863-07,Soap: Castile,294.0
+1863-10,Soap: Castile,284.0
+1864-01,Soap: Castile,217.6
+1864-04,Soap: Castile,285.9
+1864-07,Soap: Castile,252.4
+1864-10,Soap: Castile,300.0
+1865-01,Soap: Castile,237.1
+1865-04,Soap: Castile,237.1
+1865-07,Soap: Castile,237.1
+1865-10,Soap: Castile,232.9
+1860-01,Starch: Ontario,100.0
+1860-04,Starch: Ontario,100.0
+1860-07,Starch: Ontario,100.0
+1860-10,Starch: Ontario,100.0
+1861-01,Starch: Ontario,100.0
+1861-04,Starch: Ontario,100.0
+1861-07,Starch: Ontario,100.0
+1861-10,Starch: Ontario,100.0
+1862-01,Starch: Ontario,91.7
+1862-04,Starch: Ontario,91.7
+1862-07,Starch: Ontario,91.7
+1862-10,Starch: Ontario,91.7
+1863-01,Starch: Ontario,130.0
+1863-04,Starch: Ontario,140.0
+1863-07,Starch: Ontario,130.0
+1863-10,Starch: Ontario,130.0
+1864-01,Starch: Ontario,130.0
+1864-04,Starch: Ontario,180.0
+1864-07,Starch: Ontario,175.0
+1864-10,Starch: Ontario,200.0
+1865-01,Starch: Ontario,240.0
+1865-04,Starch: Ontario,240.0
+1865-07,Starch: Ontario,200.0
+1865-10,Starch: Ontario,200.0
+1860-01,Starch: Pearl,100.0
+1860-04,Starch: Pearl,100.0
+1860-07,Starch: Pearl,100.0
+1860-10,Starch: Pearl,100.0
+1861-01,Starch: Pearl,100.0
+1861-04,Starch: Pearl,100.0
+1861-07,Starch: Pearl,100.0
+1861-10,Starch: Pearl,100.0
+1862-01,Starch: Pearl,91.7
+1862-04,Starch: Pearl,91.7
+1862-07,Starch: Pearl,91.7
+1862-10,Starch: Pearl,91.7
+1863-01,Starch: Pearl,116.7
+1863-04,Starch: Pearl,117.6
+1863-07,Starch: Pearl,116.7
+1863-10,Starch: Pearl,116.7
+1864-01,Starch: Pearl,141.7
+1864-04,Starch: Pearl,141.8
+1864-07,Starch: Pearl,191.7
+1864-10,Starch: Pearl,191.7
+1865-01,Starch: Pearl,175.0
+1865-04,Starch: Pearl,208.3
+1865-07,Starch: Pearl,175.0
+1865-10,Starch: Pearl,175.0
+1860-01,Starch: Pure,100.0
+1860-04,Starch: Pure,100.0
+1860-07,Starch: Pure,100.0
+1860-10,Starch: Pure,100.0
+1861-01,Starch: Pure,100.0
+1861-04,Starch: Pure,100.0
+1861-07,Starch: Pure,100.0
+1861-10,Starch: Pure,100.0
+1862-01,Starch: Pure,92.3
+1862-04,Starch: Pure,92.3
+1862-07,Starch: Pure,92.3
+1862-10,Starch: Pure,100.0
+1863-01,Starch: Pure,115.4
+1863-04,Starch: Pure,115.4
+1863-07,Starch: Pure,115.4
+1863-10,Starch: Pure,115.4
+1864-01,Starch: Pure,138.5
+1864-04,Starch: Pure,138.5
+1864-07,Starch: Pure,169.2
+1864-10,Starch: Pure,169.2
+1865-01,Starch: Pure,200.0
+1865-04,Starch: Pure,200.0
+1865-07,Starch: Pure,169.2
+1865-10,Starch: Pure,169.2
+1860-01,Starch: Refined,100.0
+1860-04,Starch: Refined,100.0
+1860-07,Starch: Refined,100.0
+1860-10,Starch: Refined,100.0
+1861-01,Starch: Refined,100.0
+1861-04,Starch: Refined,100.0
+1861-07,Starch: Refined,100.0
+1861-10,Starch: Refined,100.0
+1862-01,Starch: Refined,92.9
+1862-04,Starch: Refined,92.9
+1862-07,Starch: Refined,92.9
+1862-10,Starch: Refined,100.0
+1863-01,Starch: Refined,114.3
+1863-04,Starch: Refined,121.4
+1863-07,Starch: Refined,114.3
+1863-10,Starch: Refined,114.3
+1864-01,Starch: Refined,135.7
+1864-04,Starch: Refined,150.0
+1864-07,Starch: Refined,164.3
+1864-10,Starch: Refined,178.6
+1865-01,Starch: Refined,192.9
+1865-04,Starch: Refined,192.9
+1865-07,Starch: Refined,164.3
+1865-10,Starch: Refined,164.3
+1860-01,Starch: Silver Gloss,100.0
+1860-04,Starch: Silver Gloss,100.0
+1860-07,Starch: Silver Gloss,100.0
+1860-10,Starch: Silver Gloss,100.0
+1861-01,Starch: Silver Gloss,100.0
+1861-04,Starch: Silver Gloss,100.0
+1861-07,Starch: Silver Gloss,100.0
+1861-10,Starch: Silver Gloss,93.5
+1862-01,Starch: Silver Gloss,93.5
+1862-04,Starch: Silver Gloss,93.5
+1862-07,Starch: Silver Gloss,93.5
+1862-10,Starch: Silver Gloss,100.0
+1863-01,Starch: Silver Gloss,112.9
+1863-04,Starch: Silver Gloss,119.4
+1863-07,Starch: Silver Gloss,112.9
+1863-10,Starch: Silver Gloss,112.9
+1864-01,Starch: Silver Gloss,132.3
+1864-04,Starch: Silver Gloss,145.2
+1864-07,Starch: Silver Gloss,158.1
+1864-10,Starch: Silver Gloss,171.0
+1865-01,Starch: Silver Gloss,183.9
+1865-04,Starch: Silver Gloss,183.9
+1865-07,Starch: Silver Gloss,158.1
+1865-10,Starch: Silver Gloss,158.1
+1860-01,Wood: Hard,100.0
+1860-04,Wood: Hard,100.0
+1860-07,Wood: Hard,100.0
+1860-10,Wood: Hard,100.0
+1861-01,Wood: Hard,100.0
+1861-04,Wood: Hard,100.0
+1861-07,Wood: Hard,100.0
+1861-10,Wood: Hard,100.0
+1862-01,Wood: Hard,100.0
+1862-04,Wood: Hard,100.0
+1862-07,Wood: Hard,100.0
+1862-10,Wood: Hard,100.0
+1863-01,Wood: Hard,131.3
+1863-04,Wood: Hard,131.3
+1863-07,Wood: Hard,131.3
+1863-10,Wood: Hard,131.3
+1864-01,Wood: Hard,131.3
+1864-04,Wood: Hard,131.3
+1864-07,Wood: Hard,150.0
+1864-10,Wood: Hard,163.0
+1865-01,Wood: Hard,200.7
+1865-04,Wood: Hard,200.0
+1865-07,Wood: Hard,200.0
+1865-10,Wood: Hard,207.0
+1860-01,Wood: Pine,100.0
+1860-04,Wood: Pine,133.3
+1860-07,Wood: Pine,131.3
+1860-10,Wood: Pine,100.0
+1861-01,Wood: Pine,100.0
+1861-04,Wood: Pine,100.0
+1861-07,Wood: Pine,100.0
+1861-10,Wood: Pine,100.0
+1862-01,Wood: Pine,131.3
+1862-04,Wood: Pine,131.3
+1862-07,Wood: Pine,131.3
+1862-10,Wood: Pine,131.3
+1863-01,Wood: Pine,131.3
+1863-04,Wood: Pine,200.0
+1863-07,Wood: Pine,200.0
+1863-10,Wood: Pine,200.0
+1864-01,Wood: Pine,200.0
+1864-04,Wood: Pine,200.0
+1864-07,Wood: Pine,200.0
+1864-10,Wood: Pine,200.0
+1865-01,Wood: Pine,200.0
+1865-04,Wood: Pine,200.0
+1865-07,Wood: Pine,196.0
+1865-10,Wood: Pine,200.0

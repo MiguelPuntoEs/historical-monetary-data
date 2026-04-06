@@ -1,0 +1,1068 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix B, Table 1, Part A: "Relative Prices of Farm Products — Individual Series"
+# Pages 429-433. Relative prices (index, base=100).
+date,commodity,city,value
+1860-01,Barley,New York,103
+1860-04,Barley,New York,100
+1860-07,Barley,New York,
+1860-10,Barley,New York,96
+1861-01,Barley,New York,90
+1861-04,Barley,New York,88
+1861-07,Barley,New York,94
+1861-10,Barley,New York,81
+1862-01,Barley,New York,94
+1862-04,Barley,New York,
+1862-07,Barley,New York,
+1862-10,Barley,New York,75
+1863-01,Barley,New York,196
+1863-04,Barley,New York,191
+1863-07,Barley,New York,
+1863-10,Barley,New York,163
+1864-01,Barley,New York,178
+1864-04,Barley,New York,
+1864-07,Barley,New York,
+1864-10,Barley,New York,232
+1865-01,Barley,New York,257
+1865-04,Barley,New York,292
+1865-07,Barley,New York,163
+1865-10,Barley,New York,100
+1866-01,Barley,New York,135
+1866-04,Barley,New York,153
+1866-07,Barley,New York,135
+1866-10,Barley,New York,175
+1860-01,Barley,Chicago,101
+1860-04,Barley,Chicago,117
+1860-07,Barley,Chicago,93
+1860-10,Barley,Chicago,89
+1861-01,Barley,Chicago,68
+1861-04,Barley,Chicago,71
+1861-07,Barley,Chicago,34
+1861-10,Barley,Chicago,59
+1862-01,Barley,Chicago,59
+1862-04,Barley,Chicago,
+1862-07,Barley,Chicago,101
+1862-10,Barley,Chicago,131
+1863-01,Barley,Chicago,161
+1863-04,Barley,Chicago,186
+1863-07,Barley,Chicago,195
+1863-10,Barley,Chicago,181
+1864-01,Barley,Chicago,25
+1864-04,Barley,Chicago,233
+1864-07,Barley,Chicago,
+1864-10,Barley,Chicago,248
+1865-01,Barley,Chicago,239
+1865-04,Barley,Chicago,165
+1865-07,Barley,Chicago,101
+1865-10,Barley,Chicago,129
+1866-01,Barley,Chicago,310
+1866-04,Barley,Chicago,89
+1866-07,Barley,Chicago,70
+1866-10,Barley,Chicago,140
+1860-01,Barley,Cincinnati,84
+1860-04,Barley,Cincinnati,109
+1860-07,Barley,Cincinnati,98
+1860-10,Barley,Cincinnati,109
+1861-01,Barley,Cincinnati,92
+1861-04,Barley,Cincinnati,75
+1861-07,Barley,Cincinnati,57
+1861-10,Barley,Cincinnati,52
+1862-01,Barley,Cincinnati,57
+1862-04,Barley,Cincinnati,80
+1862-07,Barley,Cincinnati,80
+1862-10,Barley,Cincinnati,115
+1863-01,Barley,Cincinnati,155
+1863-04,Barley,Cincinnati,184
+1863-07,Barley,Cincinnati,
+1863-10,Barley,Cincinnati,172
+1864-01,Barley,Cincinnati,100
+1864-04,Barley,Cincinnati,155
+1864-07,Barley,Cincinnati,
+1864-10,Barley,Cincinnati,224
+1865-01,Barley,Cincinnati,184
+1865-04,Barley,Cincinnati,149
+1865-07,Barley,Cincinnati,86
+1865-10,Barley,Cincinnati,120
+1866-01,Barley,Cincinnati,161
+1866-04,Barley,Cincinnati,132
+1866-07,Barley,Cincinnati,172
+1866-10,Barley,Cincinnati,184
+1860-01,Clover Seed,New York,103
+1860-04,Clover Seed,New York,94
+1860-07,Clover Seed,New York,
+1860-10,Clover Seed,New York,103
+1861-01,Clover Seed,New York,103
+1861-04,Clover Seed,New York,91
+1861-07,Clover Seed,New York,
+1861-10,Clover Seed,New York,
+1862-01,Clover Seed,New York,84
+1862-04,Clover Seed,New York,
+1862-07,Clover Seed,New York,
+1862-10,Clover Seed,New York,89
+1863-01,Clover Seed,New York,126
+1863-04,Clover Seed,New York,117
+1863-07,Clover Seed,New York,
+1863-10,Clover Seed,New York,149
+1864-01,Clover Seed,New York,161
+1864-04,Clover Seed,New York,183
+1864-07,Clover Seed,New York,
+1864-10,Clover Seed,New York,251
+1865-01,Clover Seed,New York,226
+1865-04,Clover Seed,New York,294
+1865-07,Clover Seed,New York,343
+1865-10,Clover Seed,New York,274
+1866-01,Clover Seed,New York,100
+1866-04,Clover Seed,New York,123
+1866-07,Clover Seed,New York,
+1866-10,Clover Seed,New York,183
+1860-01,Clover Seed,Chicago,99
+1860-04,Clover Seed,Chicago,88
+1860-07,Clover Seed,Chicago,89
+1860-10,Clover Seed,Chicago,114
+1861-01,Clover Seed,Chicago,102
+1861-04,Clover Seed,Chicago,
+1861-07,Clover Seed,Chicago,89
+1861-10,Clover Seed,Chicago,92
+1862-01,Clover Seed,Chicago,85
+1862-04,Clover Seed,Chicago,
+1862-07,Clover Seed,Chicago,
+1862-10,Clover Seed,Chicago,102
+1863-01,Clover Seed,Chicago,124
+1863-04,Clover Seed,Chicago,126
+1863-07,Clover Seed,Chicago,120
+1863-10,Clover Seed,Chicago,139
+1864-01,Clover Seed,Chicago,139
+1864-04,Clover Seed,Chicago,
+1864-07,Clover Seed,Chicago,161
+1864-10,Clover Seed,Chicago,193
+1865-01,Clover Seed,Chicago,308
+1865-04,Clover Seed,Chicago,208
+1865-07,Clover Seed,Chicago,161
+1865-10,Clover Seed,Chicago,163
+1866-01,Clover Seed,Chicago,158
+1866-04,Clover Seed,Chicago,114
+1866-07,Clover Seed,Chicago,137
+1866-10,Clover Seed,Chicago,137
+1860-01,Corn,New York,122
+1860-04,Corn,New York,95
+1860-07,Corn,New York,87
+1860-10,Corn,New York,94
+1861-01,Corn,New York,97
+1861-04,Corn,New York,85
+1861-07,Corn,New York,65
+1861-10,Corn,New York,75
+1862-01,Corn,New York,79
+1862-04,Corn,New York,
+1862-07,Corn,New York,85
+1862-10,Corn,New York,82
+1863-01,Corn,New York,108
+1863-04,Corn,New York,126
+1863-07,Corn,New York,103
+1863-10,Corn,New York,119
+1864-01,Corn,New York,143
+1864-04,Corn,New York,178
+1864-07,Corn,New York,217
+1864-10,Corn,New York,217
+1865-01,Corn,New York,297
+1865-04,Corn,New York,196
+1865-07,Corn,New York,102
+1865-10,Corn,New York,125
+1866-01,Corn,New York,157
+1866-04,Corn,New York,106
+1866-07,Corn,New York,130
+1866-10,Corn,New York,130
+1860-01,Corn,Cincinnati,107
+1860-04,Corn,Cincinnati,95
+1860-07,Corn,Cincinnati,97
+1860-10,Corn,Cincinnati,101
+1861-01,Corn,Cincinnati,71
+1861-04,Corn,Cincinnati,67
+1861-07,Corn,Cincinnati,57
+1861-10,Corn,Cincinnati,57
+1862-01,Corn,Cincinnati,57
+1862-04,Corn,Cincinnati,69
+1862-07,Corn,Cincinnati,73
+1862-10,Corn,Cincinnati,73
+1863-01,Corn,Cincinnati,91
+1863-04,Corn,Cincinnati,131
+1863-07,Corn,Cincinnati,115
+1863-10,Corn,Cincinnati,162
+1864-01,Corn,Cincinnati,212
+1864-04,Corn,Cincinnati,218
+1864-07,Corn,Cincinnati,242
+1864-10,Corn,Cincinnati,242
+1865-01,Corn,Cincinnati,212
+1865-04,Corn,Cincinnati,141
+1865-07,Corn,Cincinnati,131
+1865-10,Corn,Cincinnati,127
+1866-01,Corn,Cincinnati,167
+1866-04,Corn,Cincinnati,97
+1866-07,Corn,Cincinnati,155
+1866-10,Corn,Cincinnati,166
+1860-01,Flax Seed,New York,98
+1860-04,Flax Seed,New York,102
+1860-07,Flax Seed,New York,101
+1860-10,Flax Seed,New York,99
+1861-01,Flax Seed,New York,101
+1861-04,Flax Seed,New York,91
+1861-07,Flax Seed,New York,91
+1861-10,Flax Seed,New York,96
+1862-01,Flax Seed,New York,119
+1862-04,Flax Seed,New York,116
+1862-07,Flax Seed,New York,149
+1862-10,Flax Seed,New York,
+1863-01,Flax Seed,New York,161
+1863-04,Flax Seed,New York,182
+1863-07,Flax Seed,New York,
+1863-10,Flax Seed,New York,163
+1864-01,Flax Seed,New York,397
+1864-04,Flax Seed,New York,223
+1864-07,Flax Seed,New York,201
+1864-10,Flax Seed,New York,233
+1865-01,Flax Seed,New York,176
+1865-04,Flax Seed,New York,176
+1865-07,Flax Seed,New York,142
+1865-10,Flax Seed,New York,190
+1866-01,Flax Seed,New York,187
+1866-04,Flax Seed,New York,160
+1866-07,Flax Seed,New York,203
+1866-10,Flax Seed,New York,219
+1860-01,Flax Seed,Cincinnati,100
+1860-04,Flax Seed,Cincinnati,107
+1860-07,Flax Seed,Cincinnati,100
+1860-10,Flax Seed,Cincinnati,85
+1861-01,Flax Seed,Cincinnati,100
+1861-04,Flax Seed,Cincinnati,93
+1861-07,Flax Seed,Cincinnati,63
+1861-10,Flax Seed,Cincinnati,85
+1862-01,Flax Seed,Cincinnati,150
+1862-04,Flax Seed,Cincinnati,136
+1862-07,Flax Seed,Cincinnati,
+1862-10,Flax Seed,Cincinnati,152
+1863-01,Flax Seed,Cincinnati,136
+1863-04,Flax Seed,Cincinnati,206
+1863-07,Flax Seed,Cincinnati,
+1863-10,Flax Seed,Cincinnati,182
+1864-01,Flax Seed,Cincinnati,236
+1864-04,Flax Seed,Cincinnati,
+1864-07,Flax Seed,Cincinnati,255
+1864-10,Flax Seed,Cincinnati,259
+1865-01,Flax Seed,Cincinnati,192
+1865-04,Flax Seed,Cincinnati,156
+1865-07,Flax Seed,Cincinnati,136
+1865-10,Flax Seed,Cincinnati,245
+1866-01,Flax Seed,Cincinnati,227
+1866-04,Flax Seed,Cincinnati,264
+1866-07,Flax Seed,Cincinnati,205
+1866-10,Flax Seed,Cincinnati,206
+1860-01,Flax Seed,Chicago,100
+1860-04,Flax Seed,Chicago,107
+1860-07,Flax Seed,Chicago,107
+1860-10,Flax Seed,Chicago,103
+1861-01,Flax Seed,Chicago,93
+1861-04,Flax Seed,Chicago,82
+1861-07,Flax Seed,Chicago,58
+1861-10,Flax Seed,Chicago,62
+1862-01,Flax Seed,Chicago,110
+1862-04,Flax Seed,Chicago,
+1862-07,Flax Seed,Chicago,79
+1862-10,Flax Seed,Chicago,135
+1863-01,Flax Seed,Chicago,130
+1863-04,Flax Seed,Chicago,113
+1863-07,Flax Seed,Chicago,
+1863-10,Flax Seed,Chicago,167
+1864-01,Flax Seed,Chicago,
+1864-04,Flax Seed,Chicago,174
+1864-07,Flax Seed,Chicago,
+1864-10,Flax Seed,Chicago,
+1865-01,Flax Seed,Chicago,
+1865-04,Flax Seed,Chicago,
+1865-07,Flax Seed,Chicago,
+1865-10,Flax Seed,Chicago,
+1866-01,Flax Seed,Chicago,
+1866-04,Flax Seed,Chicago,
+1866-07,Flax Seed,Chicago,
+1866-10,Flax Seed,Chicago,
+1860-01,Hides,New York,91
+1860-04,Hides,New York,100
+1860-07,Hides,New York,101
+1860-10,Hides,New York,94
+1861-01,Hides,New York,69
+1861-04,Hides,New York,82
+1861-07,Hides,New York,58
+1861-10,Hides,New York,69
+1862-01,Hides,New York,72
+1862-04,Hides,New York,
+1862-07,Hides,New York,70
+1862-10,Hides,New York,76
+1863-01,Hides,New York,141
+1863-04,Hides,New York,
+1863-07,Hides,New York,141
+1863-10,Hides,New York,
+1864-01,Hides,New York,156
+1864-04,Hides,New York,161
+1864-07,Hides,New York,159
+1864-10,Hides,New York,156
+1865-01,Hides,New York,100
+1865-04,Hides,New York,96
+1865-07,Hides,New York,83
+1865-10,Hides,New York,119
+1866-01,Hides,New York,133
+1866-04,Hides,New York,133
+1866-07,Hides,New York,133
+1866-10,Hides,New York,130
+1860-01,Hides,Cincinnati,100
+1860-04,Hides,Cincinnati,103
+1860-07,Hides,Cincinnati,103
+1860-10,Hides,Cincinnati,90
+1861-01,Hides,Cincinnati,68
+1861-04,Hides,Cincinnati,71
+1861-07,Hides,Cincinnati,61
+1861-10,Hides,Cincinnati,66
+1862-01,Hides,Cincinnati,83
+1862-04,Hides,Cincinnati,
+1862-07,Hides,Cincinnati,83
+1862-10,Hides,Cincinnati,94
+1863-01,Hides,Cincinnati,99
+1863-04,Hides,Cincinnati,94
+1863-07,Hides,Cincinnati,97
+1863-10,Hides,Cincinnati,97
+1864-01,Hides,Cincinnati,125
+1864-04,Hides,Cincinnati,131
+1864-07,Hides,Cincinnati,133
+1864-10,Hides,Cincinnati,133
+1865-01,Hides,Cincinnati,104
+1865-04,Hides,Cincinnati,83
+1865-07,Hides,Cincinnati,91
+1865-10,Hides,Cincinnati,122
+1866-01,Hides,Cincinnati,93
+1866-04,Hides,Cincinnati,93
+1866-07,Hides,Cincinnati,93
+1866-10,Hides,Cincinnati,93
+1860-01,Hides,Chicago,100
+1860-04,Hides,Chicago,107
+1860-07,Hides,Chicago,107
+1860-10,Hides,Chicago,
+1861-01,Hides,Chicago,97
+1861-04,Hides,Chicago,
+1861-07,Hides,Chicago,76
+1861-10,Hides,Chicago,
+1862-01,Hides,Chicago,80
+1862-04,Hides,Chicago,
+1862-07,Hides,Chicago,93
+1862-10,Hides,Chicago,
+1863-01,Hides,Chicago,
+1863-04,Hides,Chicago,137
+1863-07,Hides,Chicago,
+1863-10,Hides,Chicago,147
+1864-01,Hides,Chicago,
+1864-04,Hides,Chicago,
+1864-07,Hides,Chicago,
+1864-10,Hides,Chicago,
+1865-01,Hides,Chicago,
+1865-04,Hides,Chicago,
+1865-07,Hides,Chicago,
+1865-10,Hides,Chicago,
+1866-01,Hides,Chicago,
+1866-04,Hides,Chicago,
+1866-07,Hides,Chicago,
+1866-10,Hides,Chicago,
+1860-01,Meat: Beeves,New York,103
+1860-04,Meat: Beeves,New York,117
+1860-07,Meat: Beeves,New York,90
+1860-10,Meat: Beeves,New York,90
+1861-01,Meat: Beeves,New York,97
+1861-04,Meat: Beeves,New York,110
+1861-07,Meat: Beeves,New York,86
+1861-10,Meat: Beeves,New York,86
+1862-01,Meat: Beeves,New York,106
+1862-04,Meat: Beeves,New York,
+1862-07,Meat: Beeves,New York,92
+1862-10,Meat: Beeves,New York,90
+1863-01,Meat: Beeves,New York,121
+1863-04,Meat: Beeves,New York,124
+1863-07,Meat: Beeves,New York,121
+1863-10,Meat: Beeves,New York,118
+1864-01,Meat: Beeves,New York,131
+1864-04,Meat: Beeves,New York,156
+1864-07,Meat: Beeves,New York,152
+1864-10,Meat: Beeves,New York,221
+1865-01,Meat: Beeves,New York,215
+1865-04,Meat: Beeves,New York,130
+1865-07,Meat: Beeves,New York,130
+1865-10,Meat: Beeves,New York,126
+1866-01,Meat: Beeves,New York,172
+1866-04,Meat: Beeves,New York,193
+1866-07,Meat: Beeves,New York,179
+1866-10,Meat: Beeves,New York,193
+1860-01,Meat: Beeves,Chicago,97
+1860-04,Meat: Beeves,Chicago,113
+1860-07,Meat: Beeves,Chicago,106
+1860-10,Meat: Beeves,Chicago,85
+1861-01,Meat: Beeves,Chicago,105
+1861-04,Meat: Beeves,Chicago,96
+1861-07,Meat: Beeves,Chicago,90
+1861-10,Meat: Beeves,Chicago,90
+1862-01,Meat: Beeves,Chicago,97
+1862-04,Meat: Beeves,Chicago,97
+1862-07,Meat: Beeves,Chicago,97
+1862-10,Meat: Beeves,Chicago,87
+1863-01,Meat: Beeves,Chicago,97
+1863-04,Meat: Beeves,Chicago,145
+1863-07,Meat: Beeves,Chicago,110
+1863-10,Meat: Beeves,Chicago,110
+1864-01,Meat: Beeves,Chicago,141
+1864-04,Meat: Beeves,Chicago,
+1864-07,Meat: Beeves,Chicago,177
+1864-10,Meat: Beeves,Chicago,169
+1865-01,Meat: Beeves,Chicago,242
+1865-04,Meat: Beeves,Chicago,145
+1865-07,Meat: Beeves,Chicago,145
+1865-10,Meat: Beeves,Chicago,222
+1866-01,Meat: Beeves,Chicago,179
+1866-04,Meat: Beeves,Chicago,155
+1866-07,Meat: Beeves,Chicago,210
+1866-10,Meat: Beeves,Chicago,185
+1860-01,Meat: Sheep,New York,101
+1860-04,Meat: Sheep,New York,111
+1860-07,Meat: Sheep,New York,92
+1860-10,Meat: Sheep,New York,97
+1861-01,Meat: Sheep,New York,
+1861-04,Meat: Sheep,New York,99
+1861-07,Meat: Sheep,New York,78
+1861-10,Meat: Sheep,New York,57
+1862-01,Meat: Sheep,New York,106
+1862-04,Meat: Sheep,New York,110
+1862-07,Meat: Sheep,New York,97
+1862-10,Meat: Sheep,New York,101
+1863-01,Meat: Sheep,New York,110
+1863-04,Meat: Sheep,New York,138
+1863-07,Meat: Sheep,New York,87
+1863-10,Meat: Sheep,New York,97
+1864-01,Meat: Sheep,New York,136
+1864-04,Meat: Sheep,New York,179
+1864-07,Meat: Sheep,New York,117
+1864-10,Meat: Sheep,New York,147
+1865-01,Meat: Sheep,New York,211
+1865-04,Meat: Sheep,New York,
+1865-07,Meat: Sheep,New York,
+1865-10,Meat: Sheep,New York,124
+1866-01,Meat: Sheep,New York,161
+1866-04,Meat: Sheep,New York,140
+1866-07,Meat: Sheep,New York,113
+1866-10,Meat: Sheep,New York,108
+1860-01,Meat: Sheep,Cincinnati,110
+1860-04,Meat: Sheep,Cincinnati,128
+1860-07,Meat: Sheep,Cincinnati,83
+1860-10,Meat: Sheep,Cincinnati,68
+1861-01,Meat: Sheep,Cincinnati,
+1861-04,Meat: Sheep,Cincinnati,124
+1861-07,Meat: Sheep,Cincinnati,55
+1861-10,Meat: Sheep,Cincinnati,55
+1862-01,Meat: Sheep,Cincinnati,90
+1862-04,Meat: Sheep,Cincinnati,110
+1862-07,Meat: Sheep,Cincinnati,
+1862-10,Meat: Sheep,Cincinnati,103
+1863-01,Meat: Sheep,Cincinnati,173
+1863-04,Meat: Sheep,Cincinnati,114
+1863-07,Meat: Sheep,Cincinnati,
+1863-10,Meat: Sheep,Cincinnati,121
+1864-01,Meat: Sheep,Cincinnati,135
+1864-04,Meat: Sheep,Cincinnati,200
+1864-07,Meat: Sheep,Cincinnati,
+1864-10,Meat: Sheep,Cincinnati,162
+1865-01,Meat: Sheep,Cincinnati,276
+1865-04,Meat: Sheep,Cincinnati,117
+1865-07,Meat: Sheep,Cincinnati,
+1865-10,Meat: Sheep,Cincinnati,152
+1866-01,Meat: Sheep,Cincinnati,165
+1866-04,Meat: Sheep,Cincinnati,
+1866-07,Meat: Sheep,Cincinnati,138
+1866-10,Meat: Sheep,Cincinnati,131
+1860-01,Meat: Pork,Chicago,91
+1860-04,Meat: Pork,Chicago,100
+1860-07,Meat: Pork,Chicago,101
+1860-10,Meat: Pork,Chicago,106
+1861-01,Meat: Pork,Chicago,87
+1861-04,Meat: Pork,Chicago,97
+1861-07,Meat: Pork,Chicago,53
+1861-10,Meat: Pork,Chicago,51
+1862-01,Meat: Pork,Chicago,48
+1862-04,Meat: Pork,Chicago,52
+1862-07,Meat: Pork,Chicago,45
+1862-10,Meat: Pork,Chicago,57
+1863-01,Meat: Pork,Chicago,83
+1863-04,Meat: Pork,Chicago,76
+1863-07,Meat: Pork,Chicago,74
+1863-10,Meat: Pork,Chicago,76
+1864-01,Meat: Pork,Chicago,92
+1864-04,Meat: Pork,Chicago,141
+1864-07,Meat: Pork,Chicago,131
+1864-10,Meat: Pork,Chicago,227
+1865-01,Meat: Pork,Chicago,314
+1865-04,Meat: Pork,Chicago,174
+1865-07,Meat: Pork,Chicago,257
+1865-10,Meat: Pork,Chicago,175
+1866-01,Meat: Pork,Chicago,175
+1866-04,Meat: Pork,Chicago,166
+1866-07,Meat: Pork,Chicago,168
+1866-10,Meat: Pork,Chicago,183
+1860-01,Meat: Pork,Cincinnati,121
+1860-04,Meat: Pork,Cincinnati,101
+1860-07,Meat: Pork,Cincinnati,62
+1860-10,Meat: Pork,Cincinnati,116
+1861-01,Meat: Pork,Cincinnati,115
+1861-04,Meat: Pork,Cincinnati,98
+1861-07,Meat: Pork,Cincinnati,63
+1861-10,Meat: Pork,Cincinnati,61
+1862-01,Meat: Pork,Cincinnati,65
+1862-04,Meat: Pork,Cincinnati,74
+1862-07,Meat: Pork,Cincinnati,57
+1862-10,Meat: Pork,Cincinnati,63
+1863-01,Meat: Pork,Cincinnati,69
+1863-04,Meat: Pork,Cincinnati,84
+1863-07,Meat: Pork,Cincinnati,88
+1863-10,Meat: Pork,Cincinnati,79
+1864-01,Meat: Pork,Cincinnati,111
+1864-04,Meat: Pork,Cincinnati,151
+1864-07,Meat: Pork,Cincinnati,139
+1864-10,Meat: Pork,Cincinnati,229
+1865-01,Meat: Pork,Cincinnati,219
+1865-04,Meat: Pork,Cincinnati,199
+1865-07,Meat: Pork,Cincinnati,145
+1865-10,Meat: Pork,Cincinnati,132
+1866-01,Meat: Pork,Cincinnati,189
+1866-04,Meat: Pork,Cincinnati,171
+1866-07,Meat: Pork,Cincinnati,137
+1866-10,Meat: Pork,Cincinnati,137
+1860-01,Meat: Pork,New York,90
+1860-04,Meat: Pork,New York,97
+1860-07,Meat: Pork,New York,117
+1860-10,Meat: Pork,New York,106
+1861-01,Meat: Pork,New York,86
+1861-04,Meat: Pork,New York,82
+1861-07,Meat: Pork,New York,61
+1861-10,Meat: Pork,New York,63
+1862-01,Meat: Pork,New York,99
+1862-04,Meat: Pork,New York,93
+1862-07,Meat: Pork,New York,
+1862-10,Meat: Pork,New York,
+1863-01,Meat: Pork,New York,
+1863-04,Meat: Pork,New York,75
+1863-07,Meat: Pork,New York,
+1863-10,Meat: Pork,New York,
+1864-01,Meat: Pork,New York,
+1864-04,Meat: Pork,New York,
+1864-07,Meat: Pork,New York,
+1864-10,Meat: Pork,New York,
+1865-01,Meat: Pork,New York,
+1865-04,Meat: Pork,New York,
+1865-07,Meat: Pork,New York,
+1865-10,Meat: Pork,New York,
+1866-01,Meat: Pork,New York,
+1866-04,Meat: Pork,New York,
+1866-07,Meat: Pork,New York,
+1866-10,Meat: Pork,New York,
+1860-01,Oats,New York,111
+1860-04,Oats,New York,103
+1860-07,Oats,New York,95
+1860-10,Oats,New York,92
+1861-01,Oats,New York,93
+1861-04,Oats,New York,68
+1861-07,Oats,New York,72
+1861-10,Oats,New York,83
+1862-01,Oats,New York,
+1862-04,Oats,New York,
+1862-07,Oats,New York,
+1862-10,Oats,New York,
+1863-01,Oats,New York,176
+1863-04,Oats,New York,173
+1863-07,Oats,New York,
+1863-10,Oats,New York,173
+1864-01,Oats,New York,224
+1864-04,Oats,New York,214
+1864-07,Oats,New York,238
+1864-10,Oats,New York,298
+1865-01,Oats,New York,261
+1865-04,Oats,New York,212
+1865-07,Oats,New York,208
+1865-10,Oats,New York,195
+1866-01,Oats,New York,200
+1866-04,Oats,New York,149
+1866-07,Oats,New York,162
+1866-10,Oats,New York,149
+1860-01,Oats,Cincinnati,110
+1860-04,Oats,Cincinnati,108
+1860-07,Oats,Cincinnati,87
+1860-10,Oats,Cincinnati,74
+1861-01,Oats,Cincinnati,64
+1861-04,Oats,Cincinnati,63
+1861-07,Oats,Cincinnati,41
+1861-10,Oats,Cincinnati,63
+1862-01,Oats,Cincinnati,49
+1862-04,Oats,Cincinnati,43
+1862-07,Oats,Cincinnati,36
+1862-10,Oats,Cincinnati,56
+1863-01,Oats,Cincinnati,113
+1863-04,Oats,Cincinnati,
+1863-07,Oats,Cincinnati,
+1863-10,Oats,Cincinnati,113
+1864-01,Oats,Cincinnati,153
+1864-04,Oats,Cincinnati,195
+1864-07,Oats,Cincinnati,290
+1864-10,Oats,Cincinnati,164
+1865-01,Oats,Cincinnati,212
+1865-04,Oats,Cincinnati,148
+1865-07,Oats,Cincinnati,
+1865-10,Oats,Cincinnati,111
+1866-01,Oats,Cincinnati,107
+1866-04,Oats,Cincinnati,107
+1866-07,Oats,Cincinnati,107
+1866-10,Oats,Cincinnati,127
+1860-01,Oats,Chicago,113
+1860-04,Oats,Chicago,119
+1860-07,Oats,Chicago,81
+1860-10,Oats,Chicago,94
+1861-01,Oats,Chicago,
+1861-04,Oats,Chicago,63
+1861-07,Oats,Chicago,52
+1861-10,Oats,Chicago,
+1862-01,Oats,Chicago,
+1862-04,Oats,Chicago,
+1862-07,Oats,Chicago,
+1862-10,Oats,Chicago,
+1863-01,Oats,Chicago,128
+1863-04,Oats,Chicago,
+1863-07,Oats,Chicago,
+1863-10,Oats,Chicago,
+1864-01,Oats,Chicago,195
+1864-04,Oats,Chicago,
+1864-07,Oats,Chicago,175
+1864-10,Oats,Chicago,168
+1865-01,Oats,Chicago,
+1865-04,Oats,Chicago,
+1865-07,Oats,Chicago,102
+1865-10,Oats,Chicago,
+1866-01,Oats,Chicago,
+1866-04,Oats,Chicago,
+1866-07,Oats,Chicago,
+1866-10,Oats,Chicago,
+1860-01,Rye,New York,107
+1860-04,Rye,New York,100
+1860-07,Rye,New York,
+1860-10,Rye,New York,94
+1861-01,Rye,New York,70
+1861-04,Rye,New York,
+1861-07,Rye,New York,77
+1861-10,Rye,New York,82
+1862-01,Rye,New York,101
+1862-04,Rye,New York,94
+1862-07,Rye,New York,97
+1862-10,Rye,New York,66
+1863-01,Rye,New York,139
+1863-04,Rye,New York,121
+1863-07,Rye,New York,125
+1863-10,Rye,New York,
+1864-01,Rye,New York,152
+1864-04,Rye,New York,149
+1864-07,Rye,New York,233
+1864-10,Rye,New York,
+1865-01,Rye,New York,263
+1865-04,Rye,New York,
+1865-07,Rye,New York,101
+1865-10,Rye,New York,119
+1866-01,Rye,New York,
+1866-04,Rye,New York,
+1866-07,Rye,New York,143
+1866-10,Rye,New York,149
+1860-01,Timothy Seed,Cincinnati,87
+1860-04,Timothy Seed,Cincinnati,121
+1860-07,Timothy Seed,Cincinnati,
+1860-10,Timothy Seed,Cincinnati,92
+1861-01,Timothy Seed,Cincinnati,
+1861-04,Timothy Seed,Cincinnati,107
+1861-07,Timothy Seed,Cincinnati,
+1861-10,Timothy Seed,Cincinnati,98
+1862-01,Timothy Seed,Cincinnati,
+1862-04,Timothy Seed,Cincinnati,66
+1862-07,Timothy Seed,Cincinnati,
+1862-10,Timothy Seed,Cincinnati,64
+1863-01,Timothy Seed,Cincinnati,98
+1863-04,Timothy Seed,Cincinnati,78
+1863-07,Timothy Seed,Cincinnati,
+1863-10,Timothy Seed,Cincinnati,229
+1864-01,Timothy Seed,Cincinnati,297
+1864-04,Timothy Seed,Cincinnati,
+1864-07,Timothy Seed,Cincinnati,
+1864-10,Timothy Seed,Cincinnati,155
+1865-01,Timothy Seed,Cincinnati,
+1865-04,Timothy Seed,Cincinnati,
+1865-07,Timothy Seed,Cincinnati,
+1865-10,Timothy Seed,Cincinnati,
+1866-01,Timothy Seed,Cincinnati,
+1866-04,Timothy Seed,Cincinnati,130
+1866-07,Timothy Seed,Cincinnati,178
+1866-10,Timothy Seed,Cincinnati,128
+1860-01,Timothy Seed,Chicago,83
+1860-04,Timothy Seed,Chicago,113
+1860-07,Timothy Seed,Chicago,116
+1860-10,Timothy Seed,Chicago,87
+1861-01,Timothy Seed,Chicago,89
+1861-04,Timothy Seed,Chicago,85
+1861-07,Timothy Seed,Chicago,
+1861-10,Timothy Seed,Chicago,57
+1862-01,Timothy Seed,Chicago,57
+1862-04,Timothy Seed,Chicago,65
+1862-07,Timothy Seed,Chicago,
+1862-10,Timothy Seed,Chicago,69
+1863-01,Timothy Seed,Chicago,59
+1863-04,Timothy Seed,Chicago,
+1863-07,Timothy Seed,Chicago,
+1863-10,Timothy Seed,Chicago,162
+1864-01,Timothy Seed,Chicago,218
+1864-04,Timothy Seed,Chicago,
+1864-07,Timothy Seed,Chicago,
+1864-10,Timothy Seed,Chicago,229
+1865-01,Timothy Seed,Chicago,
+1865-04,Timothy Seed,Chicago,
+1865-07,Timothy Seed,Chicago,
+1865-10,Timothy Seed,Chicago,
+1866-01,Timothy Seed,Chicago,147
+1866-04,Timothy Seed,Chicago,
+1866-07,Timothy Seed,Chicago,
+1866-10,Timothy Seed,Chicago,
+1860-01,Timothy Seed,New York,110
+1860-04,Timothy Seed,New York,
+1860-07,Timothy Seed,New York,
+1860-10,Timothy Seed,New York,96
+1861-01,Timothy Seed,New York,98
+1861-04,Timothy Seed,New York,129
+1861-07,Timothy Seed,New York,101
+1861-10,Timothy Seed,New York,72
+1862-01,Timothy Seed,New York,
+1862-04,Timothy Seed,New York,82
+1862-07,Timothy Seed,New York,
+1862-10,Timothy Seed,New York,
+1863-01,Timothy Seed,New York,241
+1863-04,Timothy Seed,New York,284
+1863-07,Timothy Seed,New York,
+1863-10,Timothy Seed,New York,220
+1864-01,Timothy Seed,New York,
+1864-04,Timothy Seed,New York,
+1864-07,Timothy Seed,New York,
+1864-10,Timothy Seed,New York,216
+1865-01,Timothy Seed,New York,261
+1865-04,Timothy Seed,New York,247
+1865-07,Timothy Seed,New York,
+1865-10,Timothy Seed,New York,205
+1866-01,Timothy Seed,New York,
+1866-04,Timothy Seed,New York,
+1866-07,Timothy Seed,New York,
+1866-10,Timothy Seed,New York,
+1860-01,Tobacco: Leaf Average,Cincinnati,94
+1860-04,Tobacco: Leaf Average,Cincinnati,110
+1860-07,Tobacco: Leaf Average,Cincinnati,
+1860-10,Tobacco: Leaf Average,Cincinnati,
+1861-01,Tobacco: Leaf Average,Cincinnati,
+1861-04,Tobacco: Leaf Average,Cincinnati,
+1861-07,Tobacco: Leaf Average,Cincinnati,
+1861-10,Tobacco: Leaf Average,Cincinnati,
+1862-01,Tobacco: Leaf Average,Cincinnati,
+1862-04,Tobacco: Leaf Average,Cincinnati,
+1862-07,Tobacco: Leaf Average,Cincinnati,67
+1862-10,Tobacco: Leaf Average,Cincinnati,
+1863-01,Tobacco: Leaf Average,Cincinnati,
+1863-04,Tobacco: Leaf Average,Cincinnati,
+1863-07,Tobacco: Leaf Average,Cincinnati,148
+1863-10,Tobacco: Leaf Average,Cincinnati,192
+1864-01,Tobacco: Leaf Average,Cincinnati,225
+1864-04,Tobacco: Leaf Average,Cincinnati,
+1864-07,Tobacco: Leaf Average,Cincinnati,
+1864-10,Tobacco: Leaf Average,Cincinnati,216
+1865-01,Tobacco: Leaf Average,Cincinnati,
+1865-04,Tobacco: Leaf Average,Cincinnati,
+1865-07,Tobacco: Leaf Average,Cincinnati,
+1865-10,Tobacco: Leaf Average,Cincinnati,205
+1866-01,Tobacco: Leaf Average,Cincinnati,
+1866-04,Tobacco: Leaf Average,Cincinnati,
+1866-07,Tobacco: Leaf Average,Cincinnati,
+1866-10,Tobacco: Leaf Average,Cincinnati,
+1860-01,Tobacco: Leaf Fine,Cincinnati,100
+1860-04,Tobacco: Leaf Fine,Cincinnati,100
+1860-07,Tobacco: Leaf Fine,Cincinnati,
+1860-10,Tobacco: Leaf Fine,Cincinnati,
+1861-01,Tobacco: Leaf Fine,Cincinnati,
+1861-04,Tobacco: Leaf Fine,Cincinnati,
+1861-07,Tobacco: Leaf Fine,Cincinnati,
+1861-10,Tobacco: Leaf Fine,Cincinnati,
+1862-01,Tobacco: Leaf Fine,Cincinnati,84
+1862-04,Tobacco: Leaf Fine,Cincinnati,
+1862-07,Tobacco: Leaf Fine,Cincinnati,
+1862-10,Tobacco: Leaf Fine,Cincinnati,
+1863-01,Tobacco: Leaf Fine,Cincinnati,218
+1863-04,Tobacco: Leaf Fine,Cincinnati,208
+1863-07,Tobacco: Leaf Fine,Cincinnati,
+1863-10,Tobacco: Leaf Fine,Cincinnati,
+1864-01,Tobacco: Leaf Fine,Cincinnati,218
+1864-04,Tobacco: Leaf Fine,Cincinnati,218
+1864-07,Tobacco: Leaf Fine,Cincinnati,218
+1864-10,Tobacco: Leaf Fine,Cincinnati,218
+1865-01,Tobacco: Leaf Fine,Cincinnati,218
+1865-04,Tobacco: Leaf Fine,Cincinnati,218
+1865-07,Tobacco: Leaf Fine,Cincinnati,218
+1865-10,Tobacco: Leaf Fine,Cincinnati,205
+1866-01,Tobacco: Leaf Fine,Cincinnati,205
+1866-04,Tobacco: Leaf Fine,Cincinnati,205
+1866-07,Tobacco: Leaf Fine,Cincinnati,205
+1866-10,Tobacco: Leaf Fine,Cincinnati,205
+1860-01,Tobacco: Wrappers Ohio,New York,100
+1860-04,Tobacco: Wrappers Ohio,New York,100
+1860-07,Tobacco: Wrappers Ohio,New York,
+1860-10,Tobacco: Wrappers Ohio,New York,100
+1861-01,Tobacco: Wrappers Ohio,New York,100
+1861-04,Tobacco: Wrappers Ohio,New York,100
+1861-07,Tobacco: Wrappers Ohio,New York,88
+1861-10,Tobacco: Wrappers Ohio,New York,88
+1862-01,Tobacco: Wrappers Ohio,New York,118
+1862-04,Tobacco: Wrappers Ohio,New York,105
+1862-07,Tobacco: Wrappers Ohio,New York,
+1862-10,Tobacco: Wrappers Ohio,New York,157
+1863-01,Tobacco: Wrappers Ohio,New York,131
+1863-04,Tobacco: Wrappers Ohio,New York,173
+1863-07,Tobacco: Wrappers Ohio,New York,173
+1863-10,Tobacco: Wrappers Ohio,New York,173
+1864-01,Tobacco: Wrappers Ohio,New York,231
+1864-04,Tobacco: Wrappers Ohio,New York,269
+1864-07,Tobacco: Wrappers Ohio,New York,269
+1864-10,Tobacco: Wrappers Ohio,New York,269
+1865-01,Tobacco: Wrappers Ohio,New York,135
+1865-04,Tobacco: Wrappers Ohio,New York,269
+1865-07,Tobacco: Wrappers Ohio,New York,269
+1865-10,Tobacco: Wrappers Ohio,New York,269
+1866-01,Tobacco: Wrappers Ohio,New York,115
+1866-04,Tobacco: Wrappers Ohio,New York,115
+1866-07,Tobacco: Wrappers Ohio,New York,115
+1866-10,Tobacco: Wrappers Ohio,New York,115
+1860-01,Tobacco: Wrappers Penn.,New York,100
+1860-04,Tobacco: Wrappers Penn.,New York,100
+1860-07,Tobacco: Wrappers Penn.,New York,
+1860-10,Tobacco: Wrappers Penn.,New York,100
+1861-01,Tobacco: Wrappers Penn.,New York,100
+1861-04,Tobacco: Wrappers Penn.,New York,100
+1861-07,Tobacco: Wrappers Penn.,New York,88
+1861-10,Tobacco: Wrappers Penn.,New York,88
+1862-01,Tobacco: Wrappers Penn.,New York,88
+1862-04,Tobacco: Wrappers Penn.,New York,104
+1862-07,Tobacco: Wrappers Penn.,New York,101
+1862-10,Tobacco: Wrappers Penn.,New York,131
+1863-01,Tobacco: Wrappers Penn.,New York,173
+1863-04,Tobacco: Wrappers Penn.,New York,173
+1863-07,Tobacco: Wrappers Penn.,New York,173
+1863-10,Tobacco: Wrappers Penn.,New York,173
+1864-01,Tobacco: Wrappers Penn.,New York,173
+1864-04,Tobacco: Wrappers Penn.,New York,269
+1864-07,Tobacco: Wrappers Penn.,New York,269
+1864-10,Tobacco: Wrappers Penn.,New York,269
+1865-01,Tobacco: Wrappers Penn.,New York,176
+1865-04,Tobacco: Wrappers Penn.,New York,269
+1865-07,Tobacco: Wrappers Penn.,New York,269
+1865-10,Tobacco: Wrappers Penn.,New York,269
+1866-01,Tobacco: Wrappers Penn.,New York,115
+1866-04,Tobacco: Wrappers Penn.,New York,115
+1866-07,Tobacco: Wrappers Penn.,New York,115
+1866-10,Tobacco: Wrappers Penn.,New York,115
+1860-01,Tobacco: Wrappers Conn.,New York,126
+1860-04,Tobacco: Wrappers Conn.,New York,91
+1860-07,Tobacco: Wrappers Conn.,New York,
+1860-10,Tobacco: Wrappers Conn.,New York,89
+1861-01,Tobacco: Wrappers Conn.,New York,94
+1861-04,Tobacco: Wrappers Conn.,New York,94
+1861-07,Tobacco: Wrappers Conn.,New York,74
+1861-10,Tobacco: Wrappers Conn.,New York,74
+1862-01,Tobacco: Wrappers Conn.,New York,88
+1862-04,Tobacco: Wrappers Conn.,New York,94
+1862-07,Tobacco: Wrappers Conn.,New York,94
+1862-10,Tobacco: Wrappers Conn.,New York,118
+1863-01,Tobacco: Wrappers Conn.,New York,191
+1863-04,Tobacco: Wrappers Conn.,New York,191
+1863-07,Tobacco: Wrappers Conn.,New York,191
+1863-10,Tobacco: Wrappers Conn.,New York,191
+1864-01,Tobacco: Wrappers Conn.,New York,255
+1864-04,Tobacco: Wrappers Conn.,New York,265
+1864-07,Tobacco: Wrappers Conn.,New York,265
+1864-10,Tobacco: Wrappers Conn.,New York,265
+1865-01,Tobacco: Wrappers Conn.,New York,265
+1865-04,Tobacco: Wrappers Conn.,New York,265
+1865-07,Tobacco: Wrappers Conn.,New York,265
+1865-10,Tobacco: Wrappers Conn.,New York,265
+1866-01,Tobacco: Wrappers Conn.,New York,115
+1866-04,Tobacco: Wrappers Conn.,New York,115
+1866-07,Tobacco: Wrappers Conn.,New York,115
+1866-10,Tobacco: Wrappers Conn.,New York,169
+1860-01,Tobacco: Leaf Ky.,New York,112
+1860-04,Tobacco: Leaf Ky.,New York,98
+1860-07,Tobacco: Leaf Ky.,New York,
+1860-10,Tobacco: Leaf Ky.,New York,101
+1861-01,Tobacco: Leaf Ky.,New York,104
+1861-04,Tobacco: Leaf Ky.,New York,96
+1861-07,Tobacco: Leaf Ky.,New York,110
+1861-10,Tobacco: Leaf Ky.,New York,223
+1862-01,Tobacco: Leaf Ky.,New York,146
+1862-04,Tobacco: Leaf Ky.,New York,152
+1862-07,Tobacco: Leaf Ky.,New York,133
+1862-10,Tobacco: Leaf Ky.,New York,
+1863-01,Tobacco: Leaf Ky.,New York,259
+1863-04,Tobacco: Leaf Ky.,New York,312
+1863-07,Tobacco: Leaf Ky.,New York,328
+1863-10,Tobacco: Leaf Ky.,New York,
+1864-01,Tobacco: Leaf Ky.,New York,262
+1864-04,Tobacco: Leaf Ky.,New York,253
+1864-07,Tobacco: Leaf Ky.,New York,253
+1864-10,Tobacco: Leaf Ky.,New York,318
+1865-01,Tobacco: Leaf Ky.,New York,387
+1865-04,Tobacco: Leaf Ky.,New York,226
+1865-07,Tobacco: Leaf Ky.,New York,297
+1865-10,Tobacco: Leaf Ky.,New York,333
+1866-01,Tobacco: Leaf Ky.,New York,297
+1866-04,Tobacco: Leaf Ky.,New York,297
+1866-07,Tobacco: Leaf Ky.,New York,297
+1866-10,Tobacco: Leaf Ky.,New York,272
+1860-01,Wheat: Winter,New York,102
+1860-04,Wheat: Winter,New York,105
+1860-07,Wheat: Winter,New York,102
+1860-10,Wheat: Winter,New York,91
+1861-01,Wheat: Winter,New York,96
+1861-04,Wheat: Winter,New York,99
+1861-07,Wheat: Winter,New York,78
+1861-10,Wheat: Winter,New York,85
+1862-01,Wheat: Winter,New York,103
+1862-04,Wheat: Winter,New York,97
+1862-07,Wheat: Winter,New York,96
+1862-10,Wheat: Winter,New York,93
+1863-01,Wheat: Winter,New York,107
+1863-04,Wheat: Winter,New York,135
+1863-07,Wheat: Winter,New York,108
+1863-10,Wheat: Winter,New York,98
+1864-01,Wheat: Winter,New York,116
+1864-04,Wheat: Winter,New York,126
+1864-07,Wheat: Winter,New York,190
+1864-10,Wheat: Winter,New York,143
+1865-01,Wheat: Winter,New York,185
+1865-04,Wheat: Winter,New York,134
+1865-07,Wheat: Winter,New York,107
+1865-10,Wheat: Winter,New York,166
+1866-01,Wheat: Winter,New York,148
+1866-04,Wheat: Winter,New York,141
+1866-07,Wheat: Winter,New York,177
+1866-10,Wheat: Winter,New York,199
+1860-01,Wheat: Spring,New York,105
+1860-04,Wheat: Spring,New York,98
+1860-07,Wheat: Spring,New York,103
+1860-10,Wheat: Spring,New York,94
+1861-01,Wheat: Spring,New York,
+1861-04,Wheat: Spring,New York,102
+1861-07,Wheat: Spring,New York,65
+1861-10,Wheat: Spring,New York,94
+1862-01,Wheat: Spring,New York,103
+1862-04,Wheat: Spring,New York,102
+1862-07,Wheat: Spring,New York,85
+1862-10,Wheat: Spring,New York,92
+1863-01,Wheat: Spring,New York,103
+1863-04,Wheat: Spring,New York,99
+1863-07,Wheat: Spring,New York,102
+1863-10,Wheat: Spring,New York,103
+1864-01,Wheat: Spring,New York,118
+1864-04,Wheat: Spring,New York,131
+1864-07,Wheat: Spring,New York,193
+1864-10,Wheat: Spring,New York,149
+1865-01,Wheat: Spring,New York,184
+1865-04,Wheat: Spring,New York,135
+1865-07,Wheat: Spring,New York,103
+1865-10,Wheat: Spring,New York,141
+1866-01,Wheat: Spring,New York,139
+1866-04,Wheat: Spring,New York,112
+1866-07,Wheat: Spring,New York,155
+1866-10,Wheat: Spring,New York,177
+1860-01,Wheat: Prime,Cincinnati,103
+1860-04,Wheat: Prime,Cincinnati,110
+1860-07,Wheat: Prime,Cincinnati,93
+1860-10,Wheat: Prime,Cincinnati,95
+1861-01,Wheat: Prime,Cincinnati,84
+1861-04,Wheat: Prime,Cincinnati,83
+1861-07,Wheat: Prime,Cincinnati,63
+1861-10,Wheat: Prime,Cincinnati,
+1862-01,Wheat: Prime,Cincinnati,105
+1862-04,Wheat: Prime,Cincinnati,78
+1862-07,Wheat: Prime,Cincinnati,69
+1862-10,Wheat: Prime,Cincinnati,72
+1863-01,Wheat: Prime,Cincinnati,83
+1863-04,Wheat: Prime,Cincinnati,108
+1863-07,Wheat: Prime,Cincinnati,89
+1863-10,Wheat: Prime,Cincinnati,93
+1864-01,Wheat: Prime,Cincinnati,110
+1864-04,Wheat: Prime,Cincinnati,110
+1864-07,Wheat: Prime,Cincinnati,169
+1864-10,Wheat: Prime,Cincinnati,143
+1865-01,Wheat: Prime,Cincinnati,173
+1865-04,Wheat: Prime,Cincinnati,127
+1865-07,Wheat: Prime,Cincinnati,105
+1865-10,Wheat: Prime,Cincinnati,181
+1866-01,Wheat: Prime,Cincinnati,165
+1866-04,Wheat: Prime,Cincinnati,198
+1866-07,Wheat: Prime,Cincinnati,228
+1866-10,Wheat: Prime,Cincinnati,226
+1860-01,Wheat: No. 2 Winter,Chicago,99
+1860-04,Wheat: No. 2 Winter,Chicago,105
+1860-07,Wheat: No. 2 Winter,Chicago,105
+1860-10,Wheat: No. 2 Winter,Chicago,91
+1861-01,Wheat: No. 2 Winter,Chicago,96
+1861-04,Wheat: No. 2 Winter,Chicago,81
+1861-07,Wheat: No. 2 Winter,Chicago,57
+1861-10,Wheat: No. 2 Winter,Chicago,74
+1862-01,Wheat: No. 2 Winter,Chicago,71
+1862-04,Wheat: No. 2 Winter,Chicago,73
+1862-07,Wheat: No. 2 Winter,Chicago,75
+1862-10,Wheat: No. 2 Winter,Chicago,85
+1863-01,Wheat: No. 2 Winter,Chicago,93
+1863-04,Wheat: No. 2 Winter,Chicago,112
+1863-07,Wheat: No. 2 Winter,Chicago,100
+1863-10,Wheat: No. 2 Winter,Chicago,96
+1864-01,Wheat: No. 2 Winter,Chicago,108
+1864-04,Wheat: No. 2 Winter,Chicago,123
+1864-07,Wheat: No. 2 Winter,Chicago,176
+1864-10,Wheat: No. 2 Winter,Chicago,129
+1865-01,Wheat: No. 2 Winter,Chicago,144
+1865-04,Wheat: No. 2 Winter,Chicago,
+1865-07,Wheat: No. 2 Winter,Chicago,111
+1865-10,Wheat: No. 2 Winter,Chicago,132
+1866-01,Wheat: No. 2 Winter,Chicago,98
+1866-04,Wheat: No. 2 Winter,Chicago,93
+1866-07,Wheat: No. 2 Winter,Chicago,
+1866-10,Wheat: No. 2 Winter,Chicago,191
+1860-01,Wheat: No. 2 Spring,Chicago,99
+1860-04,Wheat: No. 2 Spring,Chicago,105
+1860-07,Wheat: No. 2 Spring,Chicago,108
+1860-10,Wheat: No. 2 Spring,Chicago,88
+1861-01,Wheat: No. 2 Spring,Chicago,82
+1861-04,Wheat: No. 2 Spring,Chicago,
+1861-07,Wheat: No. 2 Spring,Chicago,
+1861-10,Wheat: No. 2 Spring,Chicago,74
+1862-01,Wheat: No. 2 Spring,Chicago,70
+1862-04,Wheat: No. 2 Spring,Chicago,74
+1862-07,Wheat: No. 2 Spring,Chicago,73
+1862-10,Wheat: No. 2 Spring,Chicago,83
+1863-01,Wheat: No. 2 Spring,Chicago,86
+1863-04,Wheat: No. 2 Spring,Chicago,110
+1863-07,Wheat: No. 2 Spring,Chicago,97
+1863-10,Wheat: No. 2 Spring,Chicago,104
+1864-01,Wheat: No. 2 Spring,Chicago,115
+1864-04,Wheat: No. 2 Spring,Chicago,114
+1864-07,Wheat: No. 2 Spring,Chicago,169
+1864-10,Wheat: No. 2 Spring,Chicago,149
+1865-01,Wheat: No. 2 Spring,Chicago,160
+1865-04,Wheat: No. 2 Spring,Chicago,101
+1865-07,Wheat: No. 2 Spring,Chicago,92
+1865-10,Wheat: No. 2 Spring,Chicago,126
+1866-01,Wheat: No. 2 Spring,Chicago,96
+1866-04,Wheat: No. 2 Spring,Chicago,93
+1866-07,Wheat: No. 2 Spring,Chicago,119
+1866-10,Wheat: No. 2 Spring,Chicago,185

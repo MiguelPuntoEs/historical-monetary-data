@@ -1,0 +1,26 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Table V: "Currency of the Loyal States at the Close of Each Fiscal Year from 1860 to 1866"
+# Values in dollars. Covers loyal states only.
+# Some printed entries are shown as combined brace values spanning multiple line items.
+# Where that occurs, this CSV preserves the printed combined value in note rows rather than inventing separate figures.
+# This is a fiscal-year-end summary table, not a monthly M3 series.
+section,item,1860,1861,1862,1863,1864,1865,1866,notes
+I. Specie,1. Gold coins,184.6,245.3,22.0,22.0,22.0,22.0,22.0,
+I. Specie,2. Silver dollars,,,,,,,
+I. Specie,3. Subsidiary silver,39.6,42.2,3.0,3.0,3.0,3.0,3.0,
+I. Specie,4. Minor coins,0.9,1.0,1.2,1.6,2.1,3.3,3.9,
+II. Postage and fractional currency,1. Postage currency,,,,20.2,15.2,9.9,7.0,
+II. Postage and fractional currency,2. Fractional currency,,,,,7.7,15.1,20.0,
+III. Non-interest-bearing legal-tender treasury notes,1. Old demand notes,,,53.0,3.4,0.8,0.5,0.3,
+III. Non-interest-bearing legal-tender treasury notes,2. Greenbacks,,,96.6,387.6,447.3,431.1,400.8,
+IV. Bank notes,1. Notes state banks,207.1,202.0,183.8,238.7,179.2,142.9,20.0,
+IV. Bank notes,2. Notes national banks,,,,,31.2,146.1,281.5,
+V. Interest-bearing legal-tender treasury notes,1. One-year 5 percent treasury notes of 1863,,,,,44.5,,,1865 value was shown only as a combined figure with row V.2
+V. Interest-bearing legal-tender treasury notes,2. Two-year 5 percent treasury notes of 1863,,,,,109.0,,3.5,1865 value was shown only as a combined figure with row V.1
+V. Interest-bearing legal-tender treasury notes,Combined value shown for rows V.1 and V.2 in the printed table,,,,,,42.3,,Combined figure printed with a brace across V.1 and V.2 for 1865
+V. Interest-bearing legal-tender treasury notes,3. Compound interest notes,,,,,15.0,193.8,159.0,
+VI. Government obligations not a legal tender,1. Certificates of indebtedness,,,49.9,156.8,160.7,115.8,26.4,
+VI. Government obligations not a legal tender,2. 7-30 treasury notes of 1864,,,,,,234.4,,1866 value was shown only as a combined figure with row VI.3
+VI. Government obligations not a legal tender,3. 7-30 treasury notes of 1865,,,,,,,437.2,1866 combined total for rows VI.2 and VI.3 was printed separately
+VI. Government obligations not a legal tender,Combined value shown for rows VI.2 and VI.3 in the printed table,,,,,,,806.3,Combined figure printed with a brace across VI.2 and VI.3 for 1866
+VII. Coin bullion and paper money in the Treasury,Coin bullion and paper money in the Treasury,6.7,3.6,23.8,79.5,35.9,55.4,80.8,

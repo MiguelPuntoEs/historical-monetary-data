@@ -1,0 +1,61 @@
+# Table Cj26-41: Stock of money and its components: 1859-1866 [Friedman, Schwartz, and Mitchell]
+# Contributor: Hugh Rockoff
+# Source: Historical Statistics of the United States, Earliest Times to the Present: Millennial Edition,
+#   edited by Susan B. Carter, Scott Sigmund Gartner, Michael R. Haines, Alan L. Olmstead, Richard Sutch,
+#   and Gavin Wright. New York: Cambridge University Press, 2006.
+#   http://dx.doi.org/10.1017/ISBN-9780511132971.Cj1-107
+#
+# Series Cj34-35 source: Wesley Clair Mitchell, "A History of the Greenbacks" (Univ. of Chicago Press, 1903), Table V, p. 179.
+# All other series source: Milton Friedman and Anna J. Schwartz, "Monetary Statistics of the United States:
+#   Estimates, Sources, Methods" (Univ. of Chicago Press, 1970), Table 13, pp. 224-5.
+#
+# NOTE 1: Data from June 1861 through November 1864 are for the Northern states only.
+# NOTE 2: Figures were rounded. Upper/lower bounds from the original were collapsed to best estimates.
+#
+# Cj26: Stock of money excl. interest-bearing currency (million dollars)
+#   Includes non-interest-bearing govt currency, bank notes, and deposits held by the public.
+#   Specie in public hands (Cj33) included only before suspension of specie payments (Dec 30, 1861).
+#   Pacific Coast gold ($22M, per Mitchell 1903 p.179) included throughout.
+#   Southern specie (Godfrey lower bound $37M) deducted in Jun and Dec 1861.
+# Cj27: Stock of money incl. interest-bearing currency (million dollars) [= Cj26 + Cj35]
+# Cj28: Stock of money incl. specie and interest-bearing currency (million dollars)
+#   [= Cj27 + Northern specie valued at greenback price of gold after suspension]
+#   Note: overstates silver component (~18% of specie on eve of war).
+# Cj29: Specie (coin) - total stock, nation as a whole, at face value (million dollars)
+#   Confederate holdings est. at outbreak: $26M banks, $37-55M public (Godfrey 1976, p. 113).
+# Cj30: Specie held by the Treasury (million dollars)
+# Cj31: Specie held by state banks (million dollars)
+# Cj32: Specie held by national banks (million dollars)
+# Cj33: Specie held by the public (million dollars) [estimated with substantial margin of error]
+# Cj34: Government currency issues - non-interest-bearing (million dollars)
+#   Mostly greenbacks, plus postage/fractional currencies and demand notes.
+# Cj35: Government currency issues - interest-bearing (million dollars)
+#   Short-term legal-tender Treasury notes intended to circulate as money; actual circulation controversial.
+# Cj36: Bank notes from state banks (million dollars)
+# Cj37: Bank notes from national banks (million dollars)
+# Cj38: Paper money held by the public (million dollars)
+#   [= notes outstanding minus currency held by banks and Treasury]
+#   May be inaccurate: only scattered figures on currency holdings of Treasury/banks.
+#   State bank currency after Dec 1862 estimated via Dec 1862 ratio method.
+# Cj39: Deposits at state banks (million dollars)
+# Cj40: Deposits at national banks (million dollars)
+# Cj41: Adjusted deposits held by the public (million dollars)
+#   [= deposits minus float and Treasury deposits at banks]
+#   State bank float after Dec 1862 estimated via Dec 1862 ratio.
+#   Treasury balances at depository banks for early war years estimated via Jun 1864 ratio.
+#
+Year,Month,Cj26,Cj27,Cj28,Cj29,Cj30,Cj31,Cj32,Cj33,Cj34,Cj35,Cj36,Cj37,Cj38,Cj39,Cj40,Cj41
+1859,Dec,562.1,562.1,562.1,237.0,4.3,83.6,,149.1,,,207.1,,181.6,253.8,,231.4
+1860,Jun,554.2,554.2,554.2,235.0,3.9,85.0,,146.1,,,204.5,,180.9,253.9,,227.2
+1860,Dec,570.6,570.6,570.6,259.2,2.8,87.7,,168.8,,,202.0,,180.1,254.0,,221.7
+1861,Jun,557.9,557.9,557.9,286.0,2.0,101.0,,183.0,,,192.7,,169.1,274.3,,242.7
+1861,Dec,564.6,564.6,564.6,291.0,6.0,102.1,,182.8,,,183.8,,158.5,296.3,,260.3
+1862,Jun,602.6,602.6,729.4,296.0,18.3,101.0,,176.7,149.6,,209.5,,296.9,341.5,,283.8
+1862,Dec,727.6,727.6,881.0,283.2,12.4,101.2,,169.6,248.0,,238.7,,385.0,393.7,,320.6
+1863,Jun,741.9,741.9,972.5,271.0,8.4,50.8,,211.8,411.2,,163.4,,405.5,393.6,,314.4
+1863,Dec,778.2,778.2,999.1,240.3,12.7,29.7,,197.8,440.1,,171.1,,445.1,393.6,,311.1
+1864,Jun,956.9,1125.4,1396.7,213.0,19.3,17.4,,176.3,471.0,168.5,179.2,31.2,681.7,393.5,119.4,421.7
+1864,Nov,1025.2,1219.1,1506.2,206.8,26.5,11.1,,169.3,464.9,193.9,163.1,59.4,685.6,393.5,208.9,511.6
+1865,Jun,1032.5,1268.6,1445.4,198.5,41.2,5.9,9.4,142.0,456.6,236.1,142.9,146.1,646.4,237.0,456.4,600.2
+1865,Nov,957.9,1159.9,1330.5,188.8,43.7,3.5,10.6,131.0,444.5,202.0,62.9,192.1,578.9,165.0,501.6,559.0
+1866,Jun,1013.3,1175.8,1314.9,176.0,47.5,3.3,12.6,112.6,428.1,162.5,20.0,281.5,539.7,200.5,572.4,614.2
