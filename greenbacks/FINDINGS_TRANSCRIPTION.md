@@ -2,9 +2,9 @@
 
 *17 September 2026.*
 
-Two of this dataset's files have been checked against Mitchell's printed pages. One is
-correct. Two others are wrong — one of them badly. The rest are unverified. Until that
-changes, **this dataset should not be published or assigned a DOI.**
+Three of this dataset's files have been checked against Mitchell's printed pages. One was
+correct. Two were wrong — one of them badly, and it has since been re-transcribed. Nine
+files remain unverified, so **this dataset should not be published or assigned a DOI yet.**
 
 ## How this surfaced
 
@@ -48,7 +48,7 @@ The 1864-08-01 row implies the greenback gained twenty-two gold cents overnight,
 after its wartime trough. It carries 41 dates EH.net lacks and misses 31 it has, including
 1 January 1863 and 4 July 1863, when the New York gold room did not trade.
 
-### Appendix B, Table 3 — government prices — **corrupt**
+### Appendix B, Table 3 — government prices — **was corrupt, now re-transcribed**
 
 Page 450, the Navy Department's Bureau of Provisions and Clothing, fifteen rows. **Ten are
 wrong.** The page against the file:
@@ -65,6 +65,23 @@ wrong.** The page against the file:
 | Socks, woolen | 100, **109**, 102, 113, **208**, 234 | 100, **186**, 102, 113, **436**, 234 |
 | Mattresses | 100, 97, 94, 97, 244, **265** | …, **295** |
 | Linseed oil, boiled | —, 100, **64**, 123, **190**, 227 | **100, 94, 94**, 123, **180**, 227 |
+
+Six of these readings — 109, 208, 350, 180, 238 and 232 — were independently confirmed
+against the book by the author before the file was replaced.
+
+Re-transcribing the whole table from pages 449–451 showed the damage was far wider than
+the one section. **54 of 77 rows differed; 170 of 456 cells.** Two further findings:
+
+- The entire Commissary General section, all 25 rows, was **shifted one column left**.
+  Mitchell prints "…" in the 1860 column for that section and bases the index at 1861 = 100.
+  The old file put 100 under 1860 and moved every later year back one, so that each row's
+  1865 value was silently dropped and each earlier year carried the wrong figure.
+- Two item names were garbled: "Greatcoats" for "Great coats", and "R. and R. G. coffee"
+  for "R. and R. and G. coffee".
+
+The corrected file carries all four divisions of the table — Quartermaster General,
+Commissary General of Subsistence, Bureau of Provisions and Clothing, and the Surgeon
+General's drugs and chemicals — 79 rows in all, with blanks where Mitchell prints "…".
 
 ## What this means
 
@@ -91,10 +108,12 @@ EH.net's daily quotations, not on the transcription here, which is why its resul
 
 ## What remains
 
-- Re-transcribe Appendix A Table 2 and Appendix B Table 3 from the page images, and check
-  the result against EH.net for the daily series — keeping whichever the page supports.
-- Verify the nine unchecked files the same way. Their error rate is unknown, and the two
-  checked so far were both wrong.
+- **Done:** Appendix B Table 3 re-transcribed from pages 449–451.
+- Verify the nine unchecked files the same way. Their error rate is unknown, and both files
+  checked before re-transcription were wrong.
+- Decide whether to re-transcribe Appendix A Table 2 at all. EH.net's version is faithful
+  where it has been checked, so the gain would be independence from a secondary source
+  rather than accuracy. That is a real but lesser benefit, and it is 1,218 rows.
 - Only then publish and mint a DOI.
 
 Using EH.net in the meantime is a compromise and worth naming as one. It is a secondary
