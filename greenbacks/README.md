@@ -6,16 +6,25 @@ Economic data from the American Civil War era, focusing on the effects of greenb
 
 Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the Economic Consequences of Their Issue, 1862-65* (University of Chicago Press, 1903).
 
+> **Warning.** Two files in this dataset have been verified against Mitchell's printed
+> pages and found corrupt; they have been moved to `data/suspect/`. Nine others are
+> unverified. Do not cite this dataset until that is resolved — see
+> [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md). The monthly gold price table
+> is verified correct, all 48 rows.
+
 ## Data
 
 All CSV files include comment headers (`#`) with source, table reference, and page numbers. Most price/wage series are index numbers with base = 100.
+
+Two files are not transcriptions and say so in their headers: the NBER price indices and the
+EH.net daily greenback quotations, both fetched by `analysis/00_fetch_sources.py`.
 
 ### Appendix A -- Gold prices
 
 | File | Description |
 |------|-------------|
 | `mitchell_appendix_a_table1_gold_prices_1862_1865.csv` | Monthly highest, average, and lowest gold price of $100 paper currency (New York) |
-| `mitchell_appendix_a_table2_daily_gold_prices.csv` | Daily highest and lowest gold prices, ~1,228 trading days |
+| `ehnet_greenback_daily_1862_1878.csv` | Daily highest and lowest gold prices, 5,170 trading days. EH.net's digitization of Appendix A Table 2, **not my transcription** — mine is corrupt, see `FINDINGS_TRANSCRIPTION.md` |
 
 ### Appendix B -- Commodity prices
 
@@ -43,10 +52,18 @@ All CSV files include comment headers (`#`) with source, table reference, and pa
 | `mitchell_table_v_greenbacks_currency.csv` | Currency of the loyal states, fiscal years 1860-1866 |
 | `Cj26-41_money_stock_1859_1866.csv` | Stock of money and components, 1859-1866 (Friedman, Schwartz, and Mitchell). From [Historical Statistics of the United States](https://hsus.cambridge.org/HSUSWeb/toc/showTableIdCj1-107.html), Millennial Edition |
 
+## Analysis
+
+`analysis/` holds the scripts. `make` runs validation and then the pass-through estimates,
+which reproduce Table 1 of the pass-through paper exactly. See `analysis/README.md`.
+
 ## Notebooks
 
+Exploratory, superseded by `analysis/`. Both read the corrupt daily file and their
+pass-through figures should not be trusted.
+
 - `gold_prices_plot.ipynb` -- Plot of monthly gold prices with high-low range
-- `reproduce_greenback_paper_notebook_style.ipynb` -- Analysis notebook
+- `reproduce_greenback_paper_notebook_style.ipynb` -- earlier version of the analysis
 
 ## References
 

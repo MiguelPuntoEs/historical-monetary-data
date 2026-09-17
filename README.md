@@ -3,19 +3,26 @@
 Primary-source monetary data, transcribed from the original printed tables into
 machine-readable form and released openly.
 
-Each dataset lives in its own directory with its own README and sources. What they share
-is a method, and that method is the point: **everything here is transcribed from page
-images rather than from optical character recognition**, because for eighteenth- and
+Each dataset lives in its own directory with its own README and sources. What they aim at
+is a method, and that method is the point: **data should be transcribed from page images
+rather than from optical character recognition**, because for eighteenth- and
 nineteenth-century tables OCR corrupts the fractions that pervade the originals and
 confuses digits in ways that change values materially. In one case the difference between
 an OCR reading and the page was 800 against 300.
+
+The `continental-dollar` files meet that standard. **The `greenbacks` files do not**, and
+two of them have been verified corrupt in exactly the way OCR corrupts a table. They are
+quarantined in `greenbacks/data/suspect/` and the dataset should not be cited until it has
+been re-transcribed: see [`greenbacks/FINDINGS_TRANSCRIPTION.md`](greenbacks/FINDINGS_TRANSCRIPTION.md).
+The claim above is the standard this collection holds itself to, not yet a description of
+everything in it.
 
 ## Datasets
 
 | | |
 |---|---|
 | [`continental-dollar/`](continental-dollar/) | Scales of depreciation enacted by seven American states to settle debts in Continental currency, 1777–81, with contemporary merchants' quotations for Philadelphia and Virginia |
-| [`greenbacks/`](greenbacks/) | Gold prices, commodity prices, wages and the money stock during the American Civil War, 1859–66, from Wesley C. Mitchell's *A History of the Greenbacks* (1903) |
+| [`greenbacks/`](greenbacks/) | Gold prices, commodity prices, wages and the money stock during the American Civil War, 1859–66, from Wesley C. Mitchell's *A History of the Greenbacks* (1903). **Partly unverified — see the warning above** |
 
 `shared/` holds the chart style the figures draw from.
 
@@ -33,6 +40,11 @@ and do not agree.
 
 **Cross-checks reported.** Where a second source reproduces the same series, the agreement
 rate is stated rather than assumed.
+
+**Checks that run.** `greenbacks/analysis/02_validate.py` enforces what a printed table
+cannot contradict — a high below a low, an average outside its own range, a row that will
+not parse — across every file. It is the check whose absence let two corrupt files sit in
+this repository unnoticed.
 
 **Missing stays missing.** Where a source has no entry, the cell is blank. It is never
 interpolated, and never filled from a different source without saying so.
