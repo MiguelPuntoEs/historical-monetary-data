@@ -1,64 +1,63 @@
-# American Civil War: Greenback Prices and Wages
+# Historical monetary data
 
-Economic data from the American Civil War era, focusing on the effects of greenback currency issuance on prices, wages, and the money supply (1859-1866).
+Primary-source monetary data, transcribed from the original printed tables into
+machine-readable form and released openly.
 
-## Primary source
+Each dataset lives in its own directory with its own README and sources. What they share
+is a method, and that method is the point: **everything here is transcribed from page
+images rather than from optical character recognition**, because for eighteenth- and
+nineteenth-century tables OCR corrupts the fractions that pervade the originals and
+confuses digits in ways that change values materially. In one case the difference between
+an OCR reading and the page was 800 against 300.
 
-Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the Economic Consequences of Their Issue, 1862-65* (University of Chicago Press, 1903).
+## Datasets
 
-## Data
+| | |
+|---|---|
+| [`continental-dollar/`](continental-dollar/) | Scales of depreciation enacted by seven American states to settle debts in Continental currency, 1777–81, with contemporary merchants' quotations for Philadelphia and Virginia |
+| [`greenbacks/`](greenbacks/) | Gold prices, commodity prices, wages and the money stock during the American Civil War, 1859–66, from Wesley C. Mitchell's *A History of the Greenbacks* (1903) |
 
-All CSV files include comment headers (`#`) with source, table reference, and page numbers. Most price/wage series are index numbers with base = 100.
+`shared/` holds the chart style the figures draw from.
 
-### Appendix A -- Gold prices
+## Conventions
 
-| File | Description |
-|------|-------------|
-| `mitchell_appendix_a_table1_gold_prices_1862_1865.csv` | Monthly highest, average, and lowest gold price of $100 paper currency (New York) |
-| `mitchell_appendix_a_table2_daily_gold_prices.csv` | Daily highest and lowest gold prices, ~1,228 trading days |
+**Provenance in the file.** Every CSV opens with comment lines (`#`) giving the source,
+table and page numbers, so any figure can be traced to the printed original without
+consulting a README.
 
-### Appendix B -- Commodity prices
+**Sources over compilations.** Where an enacted statute survives, it is preferred to any
+later reprint of it. Where printed compilations disagree, both are published rather than
+one being silently chosen — see `continental-dollar/data/published/pennsylvania_scale_three_sources.csv`,
+where the statute, the federal compilation and Webster's 1791 tables are set side by side
+and do not agree.
 
-| File | Description |
-|------|-------------|
-| `mitchell_appendix_b_table1_averages_combined.csv` | Farm product price averages, quarterly 1860-1866 |
-| `mitchell_appendix_b_table1_farm_individual.csv` | Farm product prices by city (NY, Chicago, Cincinnati), quarterly 1860-1866 |
-| `mitchell_appendix_b_table2_wholesale_prices.csv` | ~120 commodity series at wholesale, quarterly 1860-1865 |
-| `mitchell_appendix_b_table3_government_prices.csv` | Prices paid by federal government for supplies (War Dept, Navy), annual 1860-1865 |
-| `mitchell_appendix_b_table4_retail_prices.csv` | Retail prices of dry goods, groceries, provisions, and fuel by town, annual 1860-1866 |
-| `mitchell_appendix_b_table5_wholesale_vs_retail.csv` | Comparison of 23 commodities at wholesale vs. retail |
+**Cross-checks reported.** Where a second source reproduces the same series, the agreement
+rate is stated rather than assumed.
 
-### Appendix C -- Wages
+**Missing stays missing.** Where a source has no entry, the cell is blank. It is never
+interpolated, and never filled from a different source without saying so.
 
-| File | Description |
-|------|-------------|
-| `mitchell_appendix_c_table1_wages_part1.csv` | Wage series from the Aldrich Report, pp. 470-495 (semi-annual, by industry/occupation/location) |
-| `mitchell_appendix_c_table1_wages_part2.csv` | Wage series continued, pp. 496-517 |
-| `mitchell_appendix_c_table2_census_wages.csv` | Wage series from Vol. XX of the Tenth Census |
+## Using it
 
-### Other sources
-
-| File | Description |
-|------|-------------|
-| `mitchell_table_v_greenbacks_currency.csv` | Currency of the loyal states, fiscal years 1860-1866 |
-| `Cj26-41_money_stock_1859_1866.csv` | Stock of money and components, 1859-1866 (Friedman, Schwartz, and Mitchell). From [Historical Statistics of the United States](https://hsus.cambridge.org/HSUSWeb/toc/showTableIdCj1-107.html), Millennial Edition |
-
-## Notebooks
-
-- `gold_prices_plot.ipynb` -- Plot of monthly gold prices with high-low range
-- `reproduce_greenback_paper_notebook_style.ipynb` -- Analysis notebook
-
-## References
-
-- Mitchell, Wesley C. *A History of the Greenbacks* (1903)
-- Friedman, Milton and Anna J. Schwartz. *Monetary Statistics of the United States* (1970), Table 13
-- Willard, Guinnane, and Rosen. "Turning Points in the Civil War: Views from the Greenback Market" (1996)
-- Historical Statistics of the United States, Millennial Edition (Cambridge University Press, 2006), Table Cj26-41
-
-## Setup
+The analysis scripts are dependency-free Python 3 — no packages, no virtual environment:
 
 ```bash
-uv sync
+cd continental-dollar
+python3 analysis/02_two_state_test.py
 ```
 
-Requires Python >= 3.13.
+## Related
+
+- [`miguel.es/data`](https://www.miguel.es/data) — these datasets with interactive charts
+- Papers drawing on them are listed at [`miguel.es/publications`](https://www.miguel.es/publications)
+
+## Citation
+
+See `CITATION.cff`. Please also cite the underlying primary sources, which are listed in
+each dataset's README. The transcription is mine; the data are the sources'.
+
+## Licence
+
+Transcriptions and figures under CC0-1.0; scripts under MIT. See `LICENSE`. The historical
+sources are in the public domain; a small number of modern tables are reproduced only as
+the specific data identified in the file headers.

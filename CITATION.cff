@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Historical monetary data"
+message: "If you use these datasets, please cite this collection and also the underlying primary sources listed in each dataset's README."
+type: dataset
+authors:
+  - given-names: Miguel
+    family-names: González Calvo
+    email: miguel.gc@me.com
+repository-code: "https://github.com/MiguelPuntoEs/historical-monetary-data"
+url: "https://www.miguel.es/data"
+abstract: >-
+  Machine-readable transcriptions of primary-source monetary data, taken from page
+  images rather than optical character recognition. The collection currently holds
+  the scales of depreciation enacted by seven American states to settle debts in
+  Continental currency (1777-1781), with contemporary merchants' quotations for
+  Philadelphia and Virginia; and prices, wages and the money stock during the
+  American Civil War (1859-1866) from Wesley C. Mitchell. Where an enacted statute
+  survives it is preferred to later reprints, and where printed compilations
+  disagree both are published rather than one being silently chosen.
+keywords:
+  - monetary history
+  - economic history
+  - paper money
+  - primary sources
+  - Continental dollar
+  - greenbacks
+license: CC0-1.0

@@ -1,0 +1,67 @@
+# Merchants' book rates of exchange between Continental currency and specie, Philadelphia
+#   and Virginia, monthly January 1777 - May 1781 (53 months).
+# Source: Henry Phillips, Jr., "Continental Paper Money" (1866), pp. 217-218, headed
+#   "Tables of Depreciation found in Webster's Essays, p. 501".
+#   Originally Pelatiah Webster, "Political Essays on the Nature and Operation of Money,
+#   Public Finances and Other Subjects" (Philadelphia, 1791), p. 501.
+# Webster describes these two series in his preface (p. vi) as "taken from the merchants'
+#   books... as near the true and actual exchange, as a thing of such a fluctuating and
+#   variable nature can be expected to be" - as distinct from the scales of Congress and of
+#   Pennsylvania, which "for political reasons, vary from the true exchange part of the time."
+# Transcribed from page images (archive.org item continentalpaper00phil), not OCR.
+# Units: Continental dollars per specie dollar. Where the original gives several quotations
+#   for a month, the lowest and highest are given; _mid is their midpoint.
+date,year,month,philadelphia_low,philadelphia_high,philadelphia_mid,virginia
+1777-01,1777,1,1.25,1.25,1.25,1.25
+1777-02,1777,2,1.5,1.5,1.5,1.25
+1777-03,1777,3,2,2,2,2
+1777-04,1777,4,2,2,2,2
+1777-05,1777,5,2.5,2.5,2.5,2
+1777-06,1777,6,2.5,2.5,2.5,2
+1777-07,1777,7,3,3,3,3
+1777-08,1777,8,3,3,3,3
+1777-09,1777,9,3,3,3,3
+1777-10,1777,10,3,3,3,3
+1777-11,1777,11,3,3,3,3
+1777-12,1777,12,4,4,4,4
+1778-01,1778,1,4,4,4,4
+1778-02,1778,2,5,5,5,5
+1778-03,1778,3,5,5,5,5
+1778-04,1778,4,6,6,6,5
+1778-05,1778,5,5,5,5,5
+1778-06,1778,6,4,4,4,5
+1778-07,1778,7,4,4,4,5
+1778-08,1778,8,5,5,5,5
+1778-09,1778,9,5,5,5,5
+1778-10,1778,10,5,5,5,5
+1778-11,1778,11,6,6,6,6
+1778-12,1778,12,6,6,6,6
+1779-01,1779,1,7,9,8,8
+1779-02,1779,2,10,10,10,10
+1779-03,1779,3,10,11,10.5,10
+1779-04,1779,4,12.5,22,17.25,16
+1779-05,1779,5,22,24,23,20
+1779-06,1779,6,18,22,20,20
+1779-07,1779,7,18,20,19,21
+1779-08,1779,8,20,20,20,22
+1779-09,1779,9,20,28,24,24
+1779-10,1779,10,30,30,30,28
+1779-11,1779,11,32,45,38.5,36
+1779-12,1779,12,38,45,41.5,40
+1780-01,1780,1,40,45,42.5,42
+1780-02,1780,2,45,55,50,45
+1780-03,1780,3,60,65,62.5,50
+1780-04,1780,4,60,60,60,60
+1780-05,1780,5,60,60,60,60
+1780-06,1780,6,60,60,60,65
+1780-07,1780,7,60,65,62.5,65
+1780-08,1780,8,65,75,70,70
+1780-09,1780,9,75,75,75,72
+1780-10,1780,10,75,80,77.5,73
+1780-11,1780,11,80,100,90,74
+1780-12,1780,12,100,100,100,75
+1781-01,1781,1,100,100,100,75
+1781-02,1781,2,100,120,110,80
+1781-03,1781,3,120,135,127.5,90
+1781-04,1781,4,135,200,167.5,100
+1781-05,1781,5,200,500,350,150
