@@ -6,16 +6,18 @@ Economic data from the American Civil War era, focusing on the effects of greenb
 
 Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the Economic Consequences of Their Issue, 1862-65* (University of Chicago Press, 1903).
 
-> **Warning.** Most of Appendix B is now verified against Mitchell's printed pages (Tables
-> 1A, 1B, 2, 3, 4, 5 — see [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)).
-> Appendix C (wages) is only **partly** done: pages 429-490 of Table 1 are verified
-> (`mitchell_appendix_c_table1_wages_partial.csv`). Pages 491-517 of Table 1, and all of
-> Table 2 (census wages), do not exist in this repo yet — unverified draft files that
-> covered that range have been deleted rather than kept around looking usable. Do not cite
-> this dataset until that gap is closed with genuine verified transcription — see
-> FINDINGS_TRANSCRIPTION.md for why straightforward vision-based transcription hit a real
-> reliability limit on those pages, including a documented case where two independent
-> attempts (mine, and the deleted draft) disagreed even on cells both looked confident about.
+> **Warning.** Appendix B Tables 1A, 1B, 2, 3, 5 have each passed a specific, named
+> spot-check against Mitchell's printed pages (see
+> [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)). Table 4 (retail) is spot-checked
+> but not exhaustive — one confirmed error was found and fixed; at 556 rows it has not been
+> checked cell by cell, so treat it as "probably right, isolated errors possible" rather than
+> fully verified. Appendix C (wages) is only **partly** done: pages 429-490 of Table 1
+> (`mitchell_appendix_c_table1_wages_partial.csv`) have had one careful transcription pass but
+> no independent recheck yet. Pages 491-517 of Table 1, and all of Table 2 (census wages), do
+> not exist in this repo — unverified draft files that covered that range were deleted rather
+> than kept around looking usable. Do not cite this dataset until that gap is closed with
+> genuine transcription — see FINDINGS_TRANSCRIPTION.md for why direct vision-based
+> transcription hit a real reliability limit on those specific pages.
 
 ## Data
 

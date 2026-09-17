@@ -259,3 +259,44 @@ Closing this gap will need either a higher-resolution scan/second digitization t
 against, or a different method entirely (dedicated OCR with systematic human proofreading of
 every cell) — not another attempt at direct vision transcription of this scan, which has now
 failed a fair, repeated, good-faith trial.
+
+## Spot-check of the tables claimed "verified" this session, 17 September 2026
+
+Prompted by a direct question ("have you verified everything which is there?") and a fair
+concern that "verified this session" had just been shown to mean less than it sounded like
+for the wage tables, each Appendix B table redone this session was spot-checked against the
+PDF, independent of the original transcription pass.
+
+- **Appendix B, Table 2 (wholesale)**: the four specific cells this document already
+  documented as corrupt in the old version (Lead Pipe 1863-Jan, Spelter 1864-Jul, Tin Plates
+  1864-Apr, Zinc Sheet 1864-Jul) all now read correctly (166.7, 333.3, 196.5, 357.1) —
+  matching Mitchell exactly. Good evidence the re-transcription held.
+- **Appendix B, Table 1A and 1B**: about ten cells checked directly against pages 429 and
+  433, all correct. One apparent mismatch (Table 1B's barley average for 1860-07 looked like
+  99 on a fresh read, not the file's 96) resolved in the file's favor: Table 1A's New
+  York/Chicago/Cincinnati barley values for that same quarter average to ~96, not 99,
+  meaning the fresh read had bled into the adjacent column. This is a stronger check than
+  raw re-reading — arithmetic consistency between the two tables is objective in a way a
+  second look at the same scan is not — and it is the same logic behind the 358/364
+  reconciliation already reported above.
+- **Appendix B, Table 5 (wholesale vs. retail)**: 7 of 48 rows checked against page 469
+  (Sheetings, Shirtings, Beef, Lard, both average-of-relative-prices rows), all exact.
+- **Appendix B, Table 4 (retail)**: this table is different. Of about nine rows checked in
+  one commodity block (Flour: wheat, extra family, page 459) against the same town across
+  several blocks on pages 451–460, eight were exact and **one was wrong**: W. Va., New
+  Cumberland read 100, 123, 132, 147, 147, 167, 133 on the page and 100, 125, 133, 142, 142,
+  147, 142 in the file. Reproduced on a second, cleaner read. **Fixed.** Two further cells
+  (Prints Merrimack and Sheetings bleached 4×4, both New Cumberland) could not be read with
+  enough confidence to call them either matches or errors, and are left as-is pending a
+  clearer look. At 556 rows, this table has not been exhaustively checked — the honest
+  claim is "spot-checked, one confirmed and fixed error, isolated rather than systemic,"
+  not "verified."
+- **Appendix C, Table 1, pages 429–490** (the genuine wage data, as opposed to the deleted
+  491–517 gap): done with the same page-by-page care as the price tables above, but not
+  independently re-spot-checked the way they just were. No specific reason to distrust it,
+  but no fresh confirmation either — it has had one careful pass, not two.
+
+**Bottom line: "verified" in this document now means something concrete for every table
+listed as such — a specific check that was run and passed, named above or earlier in this
+file. Where a table has only had the original transcription pass and no independent
+recheck, that is stated plainly rather than implied to be equivalent.**
