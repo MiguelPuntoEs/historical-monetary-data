@@ -1,557 +1,588 @@
 # Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
 # Appendix B, Table 4: "Relative Prices of Various Commodities at Retail"
-# Pages 451-468. Relative prices (index, base=100).
-# Initial prices are in the units specified in the original table (per yard, per lb, per gallon, etc.)
-category,item,state,town,initial_price,1860,1861,1862,1863,1864,1865,1866
-Dry Goods,Cotton Flannel (medium quality),Mass.,Woburn,0.13,100,131,231,290,385,385,346
-Dry Goods,Cotton Flannel (medium quality),Conn.,Jewett City,0.15,100,100,113,250,333,387,233
-Dry Goods,Cotton Flannel (medium quality),Pa.,New Castle,0.125,100,103,200,300,440,400,210
-Dry Goods,Cotton Flannel (medium quality),W. Va.,New Cumberland,0.14,100,179,286,357,429,429,357
-Dry Goods,Cotton Flannel (medium quality),W. Va.,Wheeling,0.125,100,100,120,300,600,480,300
-Dry Goods,Cotton Flannel (medium quality),Ohio,Canton,0.125,100,96,300,400,600,520,400
-Dry Goods,Cotton Flannel (medium quality),Ohio,Cincinnati,0.25,100,100,120,190,300,300,300
-Dry Goods,Cotton Flannel (medium quality),Ohio,Zanesville,0.10,100,100,150,220,350,400,300
-Dry Goods,Cotton Flannel (medium quality),Ind.,Jeffersonville,0.085,100,100,200,300,300,720,600
-Dry Goods,Cotton Flannel (medium quality),Ind.,Lawrenceburg,0.125,100,100,100,300,300,720,600
-Dry Goods,Cotton Flannel (medium quality),Ind.,New Albany,0.19,100,105,125,200,460,500,320
-Dry Goods,Cotton Flannel (medium quality),Ill.,Bloomington,0.125,100,120,130,200,300,300,320
-Dry Goods,Mousselines de Laine,Mass.,Woburn,0.33,100,100,91,91,100,115,106
-Dry Goods,Mousselines de Laine,Conn.,Jewett City,0.25,100,88,100,150,250,298,268
-Dry Goods,Mousselines de Laine,Pa.,New Castle,0.25,100,100,120,160,180,100,140
-Dry Goods,Mousselines de Laine,W. Va.,New Cumberland,0.15,100,100,200,267,400,467,267
-Dry Goods,Mousselines de Laine,W. Va.,Wheeling,0.35,100,121,150,100,240,200,150
-Dry Goods,Mousselines de Laine,Ohio,Canton,0.25,100,100,100,150,200,100,150
-Dry Goods,Mousselines de Laine,Ohio,Cincinnati,0.25,100,100,100,100,200,200,200
-Dry Goods,Mousselines de Laine,Ohio,Zanesville,0.15,100,100,233,267,300,467,233
-Dry Goods,Mousselines de Laine,Ind.,Evansville,0.20,100,125,175,250,250,175,175
-Dry Goods,Mousselines de Laine,Ind.,Jeffersonville,0.20,100,100,175,175,175,175,175
-Dry Goods,Mousselines de Laine,Ind.,Lawrenceburg,0.25,100,100,140,100,200,180,100
-Dry Goods,Mousselines de Laine,Ind.,New Albany,0.18,100,111,167,167,167,167,138
-Dry Goods,Mousselines de Laine,Ill.,Bloomington,0.25,100,100,100,140,140,100,120
-Dry Goods,Prints (Merrimack),Mass.,Woburn,0.13,100,115,154,154,154,246,192
-Dry Goods,Prints (Merrimack),Conn.,Jewett City,0.125,100,100,112,175,200,380,264
-Dry Goods,Prints (Merrimack),Pa.,New Castle,0.125,100,100,144,200,300,200,200
-Dry Goods,Prints (Merrimack),W. Va.,New Cumberland,0.09,100,222,278,444,556,556,356
-Dry Goods,Prints (Merrimack),W. Va.,Wheeling,0.125,100,120,200,240,400,520,240
-Dry Goods,Prints (Merrimack),Ohio,Canton,0.125,100,80,144,440,400,400,300
-Dry Goods,Prints (Merrimack),Ohio,Cincinnati,0.125,100,80,80,100,120,300,300
-Dry Goods,Prints (Merrimack),Ohio,Zanesville,0.125,100,80,96,120,175,230,300
-Dry Goods,Prints (Merrimack),Ind.,Evansville,0.10,100,100,150,250,500,450,300
-Dry Goods,Prints (Merrimack),Ind.,Jeffersonville,0.125,100,100,100,100,100,120,200
-Dry Goods,Prints (Merrimack),Ind.,Lawrenceburg,0.125,100,100,105,200,300,450,200
-Dry Goods,Prints (Merrimack),Ind.,New Albany,0.17,100,100,118,206,294,441,294
-Dry Goods,Prints (Merrimack),Ill.,Bloomington,0.125,100,100,100,200,240,380,320
-Dry Goods,Satinets (medium quality),Conn.,Jewett City,0.75,100,100,133,160,177,173,175
-Dry Goods,Satinets (medium quality),Pa.,New Castle,1.00,100,100,125,138,150,140,154
-Dry Goods,Satinets (medium quality),W. Va.,New Cumberland,0.11,100,227,264,435,545,545,273
-Dry Goods,Satinets (medium quality),W. Va.,Wheeling,0.75,100,100,133,167,167,200,167
-Dry Goods,Satinets (medium quality),Ohio,Canton,0.75,100,100,133,167,167,200,167
-Dry Goods,Satinets (medium quality),Ohio,Cincinnati,0.75,100,100,100,107,113,120,133
-Dry Goods,Satinets (medium quality),Ohio,Zanesville,0.40,100,100,100,130,250,213,150
-Dry Goods,Satinets (medium quality),Ind.,Jeffersonville,0.75,100,100,133,133,133,133,133
-Dry Goods,Satinets (medium quality),Ind.,Lawrenceburg,0.70,100,100,179,179,214,143,143
-Dry Goods,Satinets (medium quality),Ind.,New Albany,0.625,100,100,120,132,172,144,144
-Dry Goods,Satinets (medium quality),Ill.,Bloomington,0.75,100,100,87,100,133,133,133
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Mass.,Woburn,0.14,100,114,321,357,250,286,271
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Pa.,New Castle,0.17,100,118,165,294,353,353,324
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",W. Va.,New Cumberland,0.10,100,200,250,450,500,400,500
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",W. Va.,Wheeling,0.15,100,107,253,433,400,400,300
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ohio,Canton,0.15,100,100,250,367,533,167,367
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ohio,Cincinnati,0.25,100,110,130,150,160,160,169
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ohio,Zanesville,0.13,100,138,169,231,577,346,269
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ind.,Lawrenceburg,0.20,100,107,217,317,333,283,380
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ind.,New Albany,0.085,100,111,212,440,570,174,121
-Dry Goods,"Sheetings: bleached, 9x8, standard quality",Ill.,Bloomington,0.15,100,133,200,300,400,433,300
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Mass.,Woburn,0.13,100,115,308,346,308,346,346
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Pa.,New Castle,0.125,100,120,200,380,440,100,240
-Dry Goods,"Sheetings: brown, 9x8, standard quality",W. Va.,New Cumberland,0.08,100,225,375,500,625,625,500
-Dry Goods,"Sheetings: brown, 9x8, standard quality",W. Va.,Wheeling,0.125,100,120,240,300,600,400,320
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ohio,Canton,0.125,100,96,260,400,600,600,300
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ohio,Zanesville,0.13,100,128,169,231,562,308,269
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ind.,Jeffersonville,0.15,100,167,167,167,167,167,167
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ind.,Lawrenceburg,0.28,100,107,214,321,357,404,321
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ind.,New Albany,0.0775,100,135,278,684,877,684,555
-Dry Goods,"Sheetings: brown, 9x8, standard quality",Ill.,Bloomington,0.15,100,133,233,333,433,500,353
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Mass.,Woburn,0.125,100,104,220,380,250,240,240
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Conn.,Jewett City,0.16,100,81,100,234,375,419,344
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Pa.,New Castle,0.15,100,120,167,300,373,367,333
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",W. Va.,New Cumberland,0.08,100,100,225,375,500,625,500
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",W. Va.,Wheeling,0.10,100,150,300,400,930,480,300
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ohio,Canton,0.125,100,120,240,400,400,480,300
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ohio,Cincinnati,0.15,100,83,80,133,257,373,300
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ohio,Zanesville,0.10,100,150,200,300,600,550,300
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ind.,Jeffersonville,0.10,100,100,125,250,600,600,400
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ind.,Lawrenceburg,0.125,100,120,176,360,600,300,320
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ind.,New Albany,0.085,100,112,235,412,588,471,412
-Dry Goods,"Sheetings: bleached, 4x4, standard quality",Ill.,Bloomington,0.125,100,107,120,200,320,480,320
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Mass.,Woburn,0.11,100,100,318,409,227,227,227
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Conn.,Jewett City,0.125,100,88,112,280,400,440,300
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Pa.,New Castle,0.10,100,100,220,200,500,650,350
-Dry Goods,"Sheetings: brown, 4x4, standard quality",W. Va.,New Cumberland,0.06,100,250,417,500,667,667,500
-Dry Goods,"Sheetings: brown, 4x4, standard quality",W. Va.,Wheeling,0.10,100,125,220,400,750,500,400
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ohio,Canton,0.09,100,111,222,500,556,556,444
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ohio,Cincinnati,0.10,100,150,500,600,750,750,650
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ohio,Zanesville,0.10,100,150,200,350,700,350,300
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ind.,Evansville,0.085,100,150,118,588,882,824,588
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ind.,Jeffersonville,0.10,100,150,200,300,900,500,500
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ind.,Lawrenceburg,0.10,100,150,200,350,700,350,300
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ind.,New Albany,0.0675,100,111,222,741,963,741,503
-Dry Goods,"Sheetings: brown, 4x4, standard quality",Ill.,Bloomington,0.125,100,120,240,300,480,560,360
-Dry Goods,"Tickings: good quality",Mass.,Woburn,0.17,100,118,250,250,250,365,225
-Dry Goods,"Tickings: good quality",Conn.,Jewett City,0.22,100,100,114,100,250,305,273
-Dry Goods,"Tickings: good quality",Pa.,New Castle,0.25,100,120,150,220,300,272,200
-Dry Goods,"Tickings: good quality",W. Va.,New Cumberland,0.28,100,143,178,250,400,268,143
-Dry Goods,"Tickings: good quality",W. Va.,Wheeling,0.25,100,100,100,200,400,400,300
-Dry Goods,"Tickings: good quality",Ohio,Canton,0.25,100,100,100,200,108,400,300
-Dry Goods,"Tickings: good quality",Ohio,Cincinnati,0.225,100,100,167,178,253,333,333
-Dry Goods,"Tickings: good quality",Ohio,Zanesville,0.25,100,100,200,220,340,220,148
-Dry Goods,"Tickings: good quality",Ind.,Jeffersonville,0.25,100,100,200,300,300,400,300
-Dry Goods,"Tickings: good quality",Ind.,Lawrenceburg,0.25,100,100,200,300,300,400,300
-Dry Goods,"Tickings: good quality",Ind.,New Albany,0.17,100,118,206,294,441,382,294
-Dry Goods,"Tickings: good quality",Ill.,Bloomington,0.18,100,100,139,222,278,500,560
-Groceries,Coffee (Rio Green),Mass.,Boston,0.13,100,108,172,197,319,254,295
-Groceries,Coffee (Rio Green),Pa.,Philadelphia,0.11,100,118,155,200,318,318,310
-Groceries,Coffee (Rio Green),Md.,Baltimore,0.16,100,100,150,250,250,219,188
-Groceries,Coffee (Rio Green),W. Va.,New Cumberland,0.12,100,125,150,167,268,208,167
-Groceries,Coffee (Rio Green),Ohio,Canton,0.16,100,100,94,125,250,294,250
-Groceries,Coffee (Rio Green),Ohio,Springfield,0.15,100,100,80,100,160,267,253
-Groceries,Coffee (Rio Green),Ohio,Zanesville,0.15,100,100,100,133,167,167,200
-Groceries,Coffee (Rio Green),Ind.,Lawrenceburg,0.25,100,100,100,150,130,140,160
-Groceries,Coffee (Rio Green),Iowa,Cedar Rapids,0.68,100,100,125,311,125,438,370
-Groceries,Molasses (New Orleans),Pa.,Philadelphia,0.40,,100,125,150,175,200,275
-Groceries,Molasses (New Orleans),W. Va.,New Cumberland,0.40,100,125,188,225,250,295,225
-Groceries,Molasses (New Orleans),Ohio,Canton,0.40,100,100,250,375,375,313,250
-Groceries,Molasses (New Orleans),Ohio,Zanesville,0.50,100,100,100,130,200,250,167
-Groceries,Molasses (New Orleans),Ind.,Lawrenceburg,0.60,100,100,133,267,200,167
-Groceries,Molasses (New Orleans),Iowa,Cedar Rapids,0.50,,100,100,120,160,220,240
-Groceries,Molasses (Porto Rico),Mass.,Boston,0.26,100,100,123,180,208,245,227
-Groceries,Molasses (Porto Rico),Pa.,Philadelphia,0.30,,100,125,163,250,200,200
-Groceries,Molasses (Porto Rico),Md.,Baltimore,0.40,100,100,88,100,125,250,200
-Groceries,Molasses (Porto Rico),W. Va.,New Cumberland,0.25,100,200,220,320,280,220,200
-Groceries,Molasses (Porto Rico),Ohio,Canton,0.35,,100,171,357,357,286,243
-Groceries,Molasses (Porto Rico),Ohio,Springfield,0.50,,100,120,154,180,150,100
-Groceries,Molasses (Porto Rico),Ohio,Zanesville,0.55,100,100,100,154,218,227,227
-Groceries,Molasses (Porto Rico),Ind.,Lawrenceburg,0.40,100,125,188,250,250,200
-Groceries,Molasses (Porto Rico),Iowa,Cedar Rapids,0.50,,100,133,133,167,167
-Groceries,Syrup,Pa.,Philadelphia,0.50,100,100,110,110,120,160,180
-Groceries,Syrup,Md.,Baltimore,0.40,100,100,100,117,233,223,250
-Groceries,Syrup,W. Va.,New Cumberland,0.40,100,125,188,250,313,250,250
-Groceries,Syrup,Ohio,Springfield,0.60,100,125,131,167,208,250,250
-Groceries,Syrup,Ohio,Zanesville,0.75,100,80,80,120,167,167,200
-Groceries,Syrup,Ind.,Lawrenceburg,0.80,100,94,100,125,125,100
-Groceries,Syrup,Iowa,Cedar Rapids,0.50,,100,120,120,140,140,20
-Groceries,Codfish (Dry),Conn.,Jewett City,0.0625,100,80,100,130,160,100,160
-Groceries,Codfish (Dry),Pa.,Philadelphia,0.04,,100,100,125,150,175,255
-Groceries,Codfish (Dry),W. Va.,New Cumberland,0.06,100,133,167,167,167,167,167
-Groceries,Codfish (Dry),Ohio,Canton,0.10,100,100,100,100,100,160,100
-Groceries,Codfish (Dry),Ohio,Zanesville,0.05,100,100,100,140,160,200,200
-Groceries,Codfish (Dry),Ind.,Lawrenceburg,0.10,100,100,100,100,120,120,100
-Groceries,Codfish (Dry),Iowa,Cedar Rapids,0.08,,100,117,133,175,208,208
-Groceries,Sugar (Yellow C),Pa.,Philadelphia,0.07,,100,114,143,171,214,229
-Groceries,Sugar (Yellow C),W. Va.,New Cumberland,0.07,100,71,200,200,200,171
-Groceries,Sugar (Yellow C),Ohio,Canton,0.10,100,80,125,150,250,190,160
-Groceries,Sugar (Yellow C),Ohio,Springfield,0.10,100,100,140,150,150,200,250
-Groceries,Sugar (Yellow C),Ohio,Zanesville,0.10,100,100,150,150,250,200,200
-Groceries,Sugar (Yellow C),Ind.,Lawrenceburg,0.12,100,100,100,100,117,117,117
-Groceries,Sugar (Yellow C),Iowa,Cedar Rapids,0.07,,100,129,157,157,200
-Groceries,Sugar (Yellow B),Pa.,Philadelphia,0.08,100,113,138,163,200,213
-Groceries,Sugar (Yellow B),W. Va.,New Cumberland,0.06,100,167,200,200,200,200
-Groceries,Sugar (Yellow B),Ohio,Canton,0.11,100,73,114,145,227,182,136
-Groceries,Sugar (Yellow B),Ohio,Zanesville,0.11,100,100,164,200,200,227,227
-Groceries,Sugar (Yellow B),Ind.,Lawrenceburg,0.11,100,100,100,100,100,100,109
-Groceries,Sugar (Yellow B),Iowa,Cedar Rapids,0.08,,100,125,125,130,146
-Groceries,Beans,Mass.,Boston,0.06,100,100,150,167,170,175
-Groceries,Beans,Conn.,Jewett City,0.06,100,117,133,167,167,150,133
-Groceries,Beans,Pa.,Philadelphia,0.06,100,100,133,167,167,200,233
-Groceries,Beans,W. Va.,New Cumberland,0.07,100,143,171,171,171,171
-Groceries,Beans,Ohio,Canton,0.05,100,80,100,200,200,200
-Groceries,Beans,Ohio,Springfield,0.05,100,100,100,100,160,160,160
-Groceries,Beans,Ohio,Zanesville,0.045,100,80,112,138,126,100,100
-Groceries,Beans,Ind.,Lawrenceburg,0.10,,100,100,100,100,100,120
-Groceries,Beans,Iowa,Cedar Rapids,0.10,,100,100,120,120,125,125
-Groceries,Soap (Common),Pa.,Philadelphia,0.06,100,100,117,133,150,167,167
-Groceries,Soap (Common),W. Va.,New Cumberland,0.06,100,117,133,133,133,117,117
-Groceries,Soap (Common),Ohio,Canton,0.08,100,100,75,125,150,125,113
-Groceries,Soap (Common),Ohio,Springfield,0.05,100,100,120,160,100,100,100
-Groceries,Soap (Common),Ohio,Zanesville,0.05,100,100,100,120,200,200,200
-Groceries,Soap (Common),Ind.,Lawrenceburg,0.12,100,67,83,125,125,125,125
-Groceries,Soap (Common),Iowa,Cedar Rapids,0.04,,100,100,100,150,250,375
-Groceries,Sugar (Good Brown),Mass.,Boston,0.0611,100,89,133,175,206,225,183
-Groceries,Sugar (Good Brown),N.J.,Jersey City,0.08,100,100,113,175,250,225,200
-Groceries,Sugar (Good Brown),Pa.,Norristown,0.07,100,100,114,157,314,186,186
-Groceries,Sugar (Good Brown),Pa.,Philadelphia,0.06,,100,117,150,183,233,175
-Groceries,Sugar (Good Brown),Md.,Baltimore,0.08,100,88,125,150,250,188,175
-Groceries,Sugar (Good Brown),W. Va.,New Cumberland,0.06,100,167,200,200,200,200,200
-Groceries,Sugar (Good Brown),Ohio,Canton,0.08,100,75,100,150,150,250,225
-Groceries,Sugar (Good Brown),Ohio,Springfield,0.09,100,89,91,122,200,200,200
-Groceries,Sugar (Good Brown),Ohio,Zanesville,0.08,100,100,125,150,225,245
-Groceries,Sugar (Good Brown),Ind.,Lawrenceburg,0.10,100,100,100,100,100,110,110
-Groceries,Sugar (Good Brown),Iowa,Cedar Rapids,0.06,,100,133,133,167,167,278
-Groceries,Coffee (Rio Roasted),Pa.,Philadelphia,0.16,100,100,113,138,238,281
-Groceries,Coffee (Rio Roasted),Md.,Baltimore,0.20,100,100,150,210,210,180
-Groceries,Coffee (Rio Roasted),W. Va.,New Cumberland,0.14,100,143,179,179,214,214,179
-Groceries,Coffee (Rio Roasted),Ohio,Springfield,0.18,100,100,100,167,167,250,333
-Groceries,Coffee (Rio Roasted),Ohio,Zanesville,0.16,100,94,94,113,125,125,156
-Groceries,Coffee (Rio Roasted),Ind.,Lawrenceburg,0.20,100,100,133,133,150,125,150
-Groceries,Coffee (Rio Roasted),Iowa,Cedar Rapids,0.10,,100,130,200,450,350,350
-Groceries,"Tea (Oolong, or other good black)",Pa.,Philadelphia,0.50,,100,100,110,130,250,250
-Groceries,"Tea (Oolong, or other good black)",Md.,Baltimore,0.60,100,125,167,167,200,250,208
-Groceries,"Tea (Oolong, or other good black)",W. Va.,New Cumberland,0.50,100,120,180,180,180,190
-Groceries,"Tea (Oolong, or other good black)",Ohio,Canton,1.00,100,100,125,150,200,240,190
-Groceries,"Tea (Oolong, or other good black)",Ohio,Springfield,0.60,100,100,100,250,333,333,203
-Groceries,"Tea (Oolong, or other good black)",Ohio,Zanesville,0.925,100,97,97,122,135,149,125
-Groceries,"Tea (Oolong, or other good black)",Ind.,Lawrenceburg,1.00,,100,90,100,120,100,125
-Groceries,"Tea (Oolong, or other good black)",Iowa,Cedar Rapids,0.30,,100,233,467,533,607,607
-Groceries,Starch,Pa.,Philadelphia,0.07,100,100,114,143,171,200,200
-Groceries,Starch,W. Va.,New Cumberland,0.07,100,100,100,114,114,114
-Groceries,Starch,Ohio,Canton,0.10,100,100,125,125,150,125,100
-Groceries,Starch,Ohio,Springfield,0.05,100,100,100,100,200,240,250
-Groceries,Starch,Ohio,Zanesville,0.08,100,125,125,125,188,188,188
-Groceries,Starch,Ind.,Lawrenceburg,0.10,100,80,100,120,100,100,100
-Groceries,Starch,Iowa,Cedar Rapids,0.05,,100,100,110,200,300,300
-Provisions,Beef (Corned),Mass.,Boston,0.0775,100,97,133,164,200,194
-Provisions,Beef (Corned),Conn.,Jewett City,0.08,100,100,88,98,154,150,188
-Provisions,Beef (Corned),Conn.,New London,0.10,100,110,110,140,140,140
-Provisions,Beef (Corned),N.J.,Camden,0.08,100,100,100,125,175,225
-Provisions,Beef (Corned),Pa.,Philadelphia,0.08,,100,100,111,133,156,167
-Provisions,Beef (Corned),W. Va.,New Cumberland,0.08,100,100,125,125,125,125,125
-Provisions,Beef (Corned),Ohio,Canton,0.06,100,100,133,167,228,200,163
-Provisions,Beef (Corned),Ohio,Springfield,0.065,100,92,100,92,122,123,123
-Provisions,Beef (Corned),Ohio,Zanesville,0.08,100,100,100,125,125,125,125
-Provisions,Beef (Corned),Ind.,Evansville,0.10,,100,100,100,125,125,125
-Provisions,"Beef (Fresh, roasting pieces)",Mass.,Boston,0.115,100,100,100,130,166,207,211
-Provisions,"Beef (Fresh, roasting pieces)",Conn.,New London,0.13,100,100,125,138,158,100,169
-Provisions,"Beef (Fresh, roasting pieces)",N.J.,Camden,0.14,100,100,100,114,179,250,250
-Provisions,"Beef (Fresh, roasting pieces)",Pa.,Philadelphia,0.10,100,100,120,140,140,180
-Provisions,"Beef (Fresh, roasting pieces)",W. Va.,New Cumberland,0.08,100,100,120,150,150,150,150
-Provisions,"Beef (Fresh, roasting pieces)",Ohio,Canton,0.08,100,125,156,188,156,156
-Provisions,"Beef (Fresh, roasting pieces)",Ohio,Springfield,0.065,100,100,91,94,147,147
-Provisions,"Beef (Fresh, roasting pieces)",Ohio,Zanesville,0.06,100,100,100,111,111,111,111
-Provisions,"Beef (Fresh, roasting pieces)",Ind.,Evansville,0.075,,100,100,167,200,200,200
-Provisions,"Beef (Fresh, rump steaks)",Conn.,New London,0.11,100,109,100,127,145,164,164
-Provisions,"Beef (Fresh, rump steaks)",N.J.,Camden,0.12,100,102,104,133,258,250,250
-Provisions,"Beef (Fresh, rump steaks)",Pa.,Philadelphia,0.14,100,100,107,114,143,150,170
-Provisions,"Beef (Fresh, rump steaks)",W. Va.,New Cumberland,0.10,100,140,140,140,140,140
-Provisions,"Beef (Fresh, rump steaks)",Ohio,Canton,0.10,100,100,125,100,150,150,150
-Provisions,"Beef (Fresh, rump steaks)",Ohio,Springfield,0.10,100,100,100,100,150,150,150
-Provisions,"Beef (Fresh, rump steaks)",Ohio,Zanesville,0.11,100,91,91,109,100,109,109
-Provisions,"Beef (Fresh, rump steaks)",Ind.,Evansville,0.075,,100,100,167,200,200,200
-Provisions,"Beef (Fresh, soup-pieces)",Conn.,New London,0.055,100,127,127,164,164,164,164
-Provisions,"Beef (Fresh, soup-pieces)",N.J.,Camden,0.08,100,100,100,175,200,200
-Provisions,"Beef (Fresh, soup-pieces)",Pa.,Philadelphia,0.07,,100,100,114,129,171,171
-Provisions,"Beef (Fresh, soup-pieces)",W. Va.,New Cumberland,0.03,100,100,233,233,200,200,150
-Provisions,"Beef (Fresh, soup-pieces)",Ohio,Canton,0.04,100,100,125,150,200,150
-Provisions,"Beef (Fresh, soup-pieces)",Ohio,Springfield,0.05,100,80,80,86,143,143,143
-Provisions,"Beef (Fresh, soup-pieces)",Ohio,Zanesville,0.06,100,100,100,100,117,117,167
-Provisions,"Beef (Fresh, soup-pieces)",Ind.,Evansville,0.06,,100,100,,167,167,167
-Provisions,Butter,Mass.,Boston,0.23,100,86,90,106,159,183,199
-Provisions,Butter,Conn.,Jewett City,0.23,100,96,91,109,122,143,136
-Provisions,Butter,Pa.,Philadelphia,0.29,100,100,110,120,125,150,181
-Provisions,Butter,W. Va.,New Cumberland,0.16,100,125,125,125,125,125
-Provisions,Butter,Ohio,Canton,0.12,100,67,83,150,333,292,292
-Provisions,Butter,Ohio,Springfield,0.10,100,80,80,100,130,250,330
-Provisions,Butter,Ohio,Zanesville,0.13,100,96,115,115,231,254,254
-Provisions,Butter,Ind.,Lawrenceburg,0.30,100,83,100,83,117,150,100
-Provisions,Butter,Iowa,Cedar Rapids,0.08,,100,200,250,333,417,333
-Provisions,Cheese,Mass.,Boston,0.115,100,87,80,117,149,168,100
-Provisions,Cheese,Conn.,Jewett City,0.13,100,77,69,92,123,154,177
-Provisions,Cheese,Pa.,Philadelphia,0.12,100,100,125,167,298,298
-Provisions,Cheese,W. Va.,New Cumberland,0.11,100,136,136,136,136,136,145
-Provisions,Cheese,Ohio,Canton,0.10,100,60,100,80,100,250,200
-Provisions,Cheese,Ohio,Springfield,0.08,100,100,100,100,125,150,163
-Provisions,Cheese,Ohio,Zanesville,0.125,100,80,80,120,168,140,200
-Provisions,Cheese,Ind.,Lawrenceburg,0.18,100,67,83,83,111,150,81
-Provisions,Cheese,Iowa,Cedar Rapids,0.10,,100,120,150,250,290,280
-Provisions,Eggs,Mass.,Boston,0.185,100,87,92,110,144,185,169
-Provisions,Eggs,Conn.,Jewett City,0.17,100,82,88,100,133,178,160
-Provisions,Eggs,Pa.,Philadelphia,0.18,100,100,100,111,117,128,144
-Provisions,Eggs,W. Va.,New Cumberland,0.10,100,120,140,140,140,140,120
-Provisions,Eggs,Ohio,Canton,0.10,100,60,100,120,160,100,100
-Provisions,Eggs,Ohio,Springfield,0.07,100,143,143,171,186,214,225
-Provisions,Eggs,Ohio,Zanesville,0.15,100,40,67,67,100,100,100
-Provisions,Eggs,Ind.,Lawrenceburg,0.20,100,100,100,75,75,150,150
-Provisions,Eggs,Iowa,Cedar Rapids,0.05,,100,100,200,200,300,300
-Provisions,Corn Meal,Mass.,Boston,4.87,100,62,70,97,146,132,101
-Provisions,Corn Meal,Conn.,Jewett City,3.92,100,75,75,75,130,150,100
-Provisions,Corn Meal,Pa.,Philadelphia,3.00,,100,100,188,133,200,200
-Provisions,Corn Meal,W. Va.,New Cumberland,1.50,100,133,150,167,167,167,167
-Provisions,Corn Meal,Ohio,Canton,5.00,100,100,117,160,200,204,117
-Provisions,Corn Meal,Ohio,Springfield,2.25,100,156,156,156,222,267,356
-Provisions,Corn Meal,Ohio,Zanesville,2.25,100,133,133,178,200,200,200
-Provisions,Corn Meal,Ind.,Lawrenceburg,0.70,100,114,129,143,150,157,143
-Provisions,Corn Meal,Iowa,Cedar Rapids,1.50,100,100,123,200,200,233,233
-Provisions,Flour (Rye),Conn.,Jewett City,7.50,100,83,97,107,137,157,173
-Provisions,Flour (Rye),Pa.,Philadelphia,5.50,100,100,100,107,138,185,192
-Provisions,Flour (Rye),Md.,Baltimore,6.00,100,104,129,125,175,167,188
-Provisions,Flour (Rye),W. Va.,New Cumberland,5.75,100,100,133,147,167,167,156
-Provisions,Flour (Rye),Ohio,Canton,5.75,,100,96,104,113,148,122
-Provisions,Flour (Rye),Ohio,Springfield,3.50,100,129,114,111,200,257,286
-Provisions,Flour (Rye),Ohio,Zanesville,4.25,100,94,84,100,165,170,188
-Provisions,Flour (Rye),Iowa,Cedar Rapids,2.00,100,100,125,250,350,375,375
-Provisions,"Flour (Wheat, superfine)",Conn.,Jewett City,6.50,100,85,97,107,137,157,173
-Provisions,"Flour (Wheat, superfine)",Pa.,Philadelphia,6.50,100,100,115,138,185,192,192
-Provisions,"Flour (Wheat, superfine)",Md.,Baltimore,6.00,100,104,129,125,175,167,188
-Provisions,"Flour (Wheat, superfine)",W. Va.,New Cumberland,4.50,100,133,156,167,167,167,156
-Provisions,"Flour (Wheat, superfine)",Ohio,Canton,5.75,,100,96,104,113,148,122
-Provisions,"Flour (Wheat, superfine)",Ohio,Springfield,4.00,100,125,113,131,200,250,200
-Provisions,"Flour (Wheat, superfine)",Ohio,Zanesville,5.25,100,114,114,181,200,200,320
-Provisions,"Flour (Wheat, superfine)",Iowa,Cedar Rapids,3.00,100,108,207,297,300,300,300
-Provisions,"Flour (Wheat, extra family)",Conn.,Jewett City,8.50,100,91,94,100,124,135,176
-Provisions,"Flour (Wheat, extra family)",Pa.,Philadelphia,8.00,100,100,113,120,188,200,200
-Provisions,"Flour (Wheat, extra family)",Md.,Baltimore,8.25,,100,115,121,161,167,206
-Provisions,"Flour (Wheat, extra family)",W. Va.,New Cumberland,6.00,100,125,133,142,142,147,142
-Provisions,"Flour (Wheat, extra family)",Ohio,Canton,6.00,100,108,117,167,167,123
-Provisions,"Flour (Wheat, extra family)",Ohio,Springfield,4.50,100,100,111,111,189,244,289
-Provisions,"Flour (Wheat, extra family)",Ohio,Zanesville,4.75,100,165,179,190,200,330
-Provisions,"Flour (Wheat, extra family)",Iowa,Cedar Rapids,2.50,100,100,120,200,200,330,330
-Provisions,Lard,Mass.,Boston,0.125,100,85,77,88,119,109,169
-Provisions,Lard,Conn.,Jewett City,0.14,100,93,88,89,157,200,170
-Provisions,Lard,Conn.,New London,0.12,100,117,117,117,117,117,123
-Provisions,Lard,Pa.,Philadelphia,0.30,100,100,105,105,140,180,190
-Provisions,Lard,W. Va.,New Cumberland,0.10,100,120,140,100,100,140,150
-Provisions,Lard,Ohio,Canton,0.09,100,100,67,89,133,222,222
-Provisions,Lard,Ohio,Springfield,0.07,100,114,114,114,143,143,143
-Provisions,Lard,Ohio,Zanesville,0.10,100,100,120,180,200,233,230
-Provisions,Lard,Ind.,Lawrenceburg,0.15,100,100,100,100,100,100,100
-Provisions,Mutton (Chops),Conn.,New London,0.16,100,100,100,100,100,113,113
-Provisions,Mutton (Chops),Pa.,Philadelphia,0.10,100,100,119,140,180,180
-Provisions,Mutton (Chops),N.J.,Camden,0.12,100,117,117,125,150,208,208
-Provisions,Mutton (Chops),W. Va.,New Cumberland,0.08,100,100,150,150,150,150,150
-Provisions,Mutton (Chops),Ohio,Zanesville,0.10,100,70,70,80,80,100,100
-Provisions,Mutton (Leg),Conn.,New London,0.16,100,100,100,100,100,113,113
-Provisions,Mutton (Leg),N.J.,Camden,0.09,100,111,133,133,178,244,244
-Provisions,Mutton (Leg),Pa.,Philadelphia,0.10,100,100,110,120,140,150,150
-Provisions,Mutton (Leg),W. Va.,New Cumberland,0.04,100,100,150,150,150,150,150
-Provisions,Mutton (Leg),Ohio,Zanesville,0.07,100,86,86,100,100,114,129
-Provisions,Milk,Pa.,Philadelphia,0.04,,100,100,117,117,167,167
-Provisions,Milk,W. Va.,New Cumberland,0.04,100,133,167,200,297,200,200
-Provisions,Milk,Ohio,Canton,0.03,100,100,100,100,100,100,100
-Provisions,Milk,Ohio,Springfield,0.05,100,120,120,160,160,100,100
-Provisions,Milk,Ohio,Zanesville,0.08,100,100,100,133,133,133,167
-Provisions,Milk,Ind.,Lawrenceburg,0.07,100,100,114,143,143,143,143
-Provisions,Milk,Iowa,Cedar Rapids,0.04,,100,125,125,150,150,150
-Provisions,Mackerel (Pickled),Conn.,Jewett City,0.09,100,78,89,122,111,111
-Provisions,Mackerel (Pickled),Pa.,Philadelphia,0.08,100,113,125,175,200,225
-Provisions,Mackerel (Pickled),W. Va.,New Cumberland,0.04,100,150,200,200,200,200,200
-Provisions,Mackerel (Pickled),Ohio,Canton,0.09,100,75,100,125,125,125
-Provisions,Mackerel (Pickled),Ohio,Zanesville,0.10,100,50,60,70,80,100,100
-Provisions,Mackerel (Pickled),Ind.,Lawrenceburg,0.08,100,100,100,125,188,125,125
-Provisions,Mackerel (Pickled),Iowa,Cedar Rapids,0.07,,100,114,143,129,179,170
-Provisions,Mutton (Forequarters),Mass.,Boston,0.095,100,95,61,88,117,124,112
-Provisions,Mutton (Forequarters),Conn.,New London,0.10,100,130,130,140,130,130
-Provisions,Mutton (Forequarters),N.J.,Camden,0.07,100,100,114,163,157,171,171
-Provisions,Mutton (Forequarters),Pa.,Philadelphia,0.06,100,100,120,120,160,240,240
-Provisions,Mutton (Forequarters),W. Va.,New Cumberland,0.05,100,140,140,120,140,140,140
-Provisions,Mutton (Forequarters),Ohio,Canton,0.05,100,100,100,100,120,140,140
-Provisions,Mutton (Forequarters),Ohio,Zanesville,0.05,100,100,130,130,140,140,140
-Provisions,Mutton (Forequarters),Ind.,Evansville,0.075,,100,100,167,200,200,200
-Provisions,Pork (Bacon),Conn.,New London,0.12,100,117,117,117,117,117,133
-Provisions,Pork (Bacon),Pa.,Philadelphia,0.09,100,100,100,111,133,200,200
-Provisions,Pork (Bacon),W. Va.,New Cumberland,0.08,100,125,150,150,175,175,150
-Provisions,Pork (Bacon),Ohio,Canton,0.08,,100,133,250,383,200
-Provisions,Pork (Bacon),Ohio,Springfield,0.065,100,100,100,108,218,218,218
-Provisions,Pork (Bacon),Ohio,Zanesville,0.10,100,100,120,140,180,200,200
-Provisions,Pork (Bacon),Ind.,Lawrenceburg,0.18,100,78,83,94,97,83,67
-Provisions,"Pork (Corned or Salted)",Mass.,Boston,0.105,100,95,89,93,129,219,183
-Provisions,"Pork (Corned or Salted)",Conn.,Jewett City,0.125,100,100,80,96,176,200,192
-Provisions,"Pork (Corned or Salted)",Conn.,New London,0.11,100,100,100,100,100,157
-Provisions,"Pork (Corned or Salted)",Pa.,Philadelphia,0.09,100,100,100,111,133,200,230
-Provisions,"Pork (Corned or Salted)",W. Va.,New Cumberland,0.06,100,117,131,133,133,150,150
-Provisions,"Pork (Corned or Salted)",Ohio,Zanesville,0.11,100,100,100,182,291,327,327
-Provisions,Pork (Fresh),Mass.,Boston,0.0675,100,87,85,92,128,185,155
-Provisions,Pork (Fresh),Conn.,New London,0.11,100,109,109,109,100,127
-Provisions,Pork (Fresh),Pa.,Philadelphia,0.10,100,100,120,100,200,200
-Provisions,Pork (Fresh),W. Va.,New Cumberland,0.04,100,125,150,150,150,150,200
-Provisions,Pork (Fresh),Ohio,Canton,0.015,100,133,133,178,278,278,333
-Provisions,Pork (Fresh),Ohio,Zanesville,0.06,100,100,150,167,300,248,300
-Provisions,"Pork (Hams, smoked)",Mass.,Boston,0.115,100,93,84,97,154,197,182
-Provisions,"Pork (Hams, smoked)",Conn.,Jewett City,0.13,100,96,77,96,150,192,192
-Provisions,"Pork (Hams, smoked)",Conn.,New London,0.14,100,100,100,100,100,100,114
-Provisions,"Pork (Hams, smoked)",Pa.,Philadelphia,0.10,,100,120,120,121,250,250
-Provisions,"Pork (Hams, smoked)",W. Va.,New Cumberland,0.12,100,117,133,133,100,160,150
-Provisions,"Pork (Hams, smoked)",Ohio,Canton,0.08,100,100,139,136,167,225,244
-Provisions,"Pork (Hams, smoked)",Ohio,Springfield,0.075,100,100,107,107,200,200,200
-Provisions,"Pork (Hams, smoked)",Ohio,Zanesville,0.11,100,109,136,164,182,227,227
-Provisions,"Pork (Hams, smoked)",Ind.,Lawrenceburg,0.20,100,75,85,80,85,80,75
-Provisions,Pork (Sausages),Mass.,Boston,0.1125,100,97,100,93,113,192,176
-Provisions,Pork (Sausages),Conn.,New London,0.12,100,117,117,117,117,117,133
-Provisions,Pork (Sausages),Pa.,Philadelphia,0.10,,100,100,120,170,200,230
-Provisions,Pork (Sausages),W. Va.,New Cumberland,0.10,100,100,100,100,160,150,150
-Provisions,Pork (Sausages),Ohio,Springfield,0.07,100,100,100,100,111,114,114
-Provisions,Pork (Sausages),Ohio,Zanesville,0.085,100,118,111,176,212,225,225
-Provisions,Pork (Shoulders),Conn.,New London,0.08,100,150,150,150,150,150,175
-Provisions,Pork (Shoulders),Pa.,Philadelphia,0.07,100,100,100,114,143,214,229
-Provisions,Pork (Shoulders),W. Va.,New Cumberland,0.07,100,143,171,171,171,200,200
-Provisions,Pork (Shoulders),Ohio,Canton,0.06,100,133,133,167,250,200,208
-Provisions,Pork (Shoulders),Ohio,Springfield,0.05,100,100,100,100,160,160,160
-Provisions,Pork (Shoulders),Ohio,Zanesville,0.08,100,107,250,255,300,333,333
-Provisions,Pork (Shoulders),Ind.,Lawrenceburg,0.13,100,100,115,115,123,123,92
-Provisions,Veal (Cutlets),Conn.,New London,0.16,100,113,113,113,113,125,125
-Provisions,Veal (Cutlets),N.J.,Camden,0.14,100,100,100,179,179,179
-Provisions,Veal (Cutlets),Pa.,Philadelphia,0.15,100,100,107,129,167,167
-Provisions,Veal (Cutlets),W. Va.,New Cumberland,0.10,100,120,80,80,120,130,120
-Provisions,Veal (Cutlets),Ohio,Zanesville,0.10,100,100,100,100,100,100,120
-Provisions,Veal (Cutlets),Ind.,Evansville,0.20,,100,100,167,125,125,125
-Provisions,Veal (Fore Quarters),Mass.,Boston,0.095,100,98,63,77,126,153,151
-Provisions,Veal (Fore Quarters),Conn.,New London,0.10,100,130,130,140,130,130
-Provisions,Veal (Fore Quarters),Pa.,Philadelphia,0.06,100,100,117,150,200,200
-Provisions,Veal (Fore Quarters),W. Va.,New Cumberland,0.04,100,150,150,150,150,150
-Provisions,Veal (Fore Quarters),Ohio,Canton,0.05,100,100,133,200,233,267,267
-Provisions,Veal (Fore Quarters),Ohio,Zanesville,0.05,100,100,130,130,140,180,180
-Provisions,Veal (Fore Quarters),Ind.,Evansville,0.075,,100,100,167,200,200,200
-Provisions,Veal (Hind Quarters),Conn.,New London,0.14,100,107,107,114,129,129
-Provisions,Veal (Hind Quarters),N.J.,Camden,0.10,100,100,100,140,140,140
-Provisions,Veal (Hind Quarters),Pa.,Philadelphia,0.10,100,100,100,120,150,150
-Provisions,Veal (Hind Quarters),W. Va.,New Cumberland,0.05,100,100,125,200,100,250,250
-Provisions,Veal (Hind Quarters),Ohio,Canton,0.04,100,100,125,200,313,133,133
-Provisions,Veal (Hind Quarters),Ohio,Zanesville,0.08,100,100,100,117,133,188,188
-Provisions,Veal (Hind Quarters),Ind.,Evansville,0.08,100,100,100,156,188,188,188
-Provisions,Rice,Conn.,Jewett City,0.06,100,117,150,167,107,250,250
-Provisions,Rice,Pa.,Philadelphia,0.08,100,113,125,163,175,175
-Provisions,Rice,Md.,Baltimore,0.08,100,100,150,167,250,250,271
-Provisions,Rice,W. Va.,New Cumberland,0.07,100,143,214,214,214,214,214
-Provisions,Rice,Ohio,Canton,0.05,100,100,133,298,133,250,298
-Provisions,Rice,Ohio,Springfield,0.06,100,100,125,125,125,125,125
-Provisions,Rice,Ohio,Zanesville,0.0625,100,192,240,288,388,320,320
-Provisions,Rice,Ind.,Lawrenceburg,0.10,100,100,150,200,200,120,120
-Provisions,Rice,Iowa,Cedar Rapids,0.05,,100,100,200,200,250,270
-Provisions,Potatoes,Mass.,Boston,0.925,100,81,94,93,153,117,117
-Provisions,Potatoes,Conn.,Jewett City,0.50,100,90,110,100,180,100,120
-Provisions,Potatoes,Pa.,Philadelphia,0.60,,100,100,125,133,100,200
-Provisions,Potatoes,W. Va.,New Cumberland,0.35,100,143,214,214,214,214,214
-Provisions,Potatoes,Ohio,Springfield,0.30,100,133,133,167,250,293,333
-Provisions,Potatoes,Ohio,Zanesville,0.60,100,83,83,100,133,167,167
-Provisions,Potatoes,Ind.,Lawrenceburg,0.80,100,94,125,160,94,188
-Provisions,Potatoes,Iowa,Cedar Rapids,0.20,,100,175,200,200,200,350
-Fuel,Oil,Conn.,Jewett City,1.00,100,75,75,92,100,90
-Fuel,Oil,Conn.,New Haven,1.00,100,75,85,75,120,90
-Fuel,Oil,N.Y.,Watertown,1.12,100,45,54,73,107,67
-Fuel,Oil,Pa.,Norristown,0.50,100,100,100,171,171,143
-Fuel,Oil,Pa.,Philadelphia,0.25,100,100,100,400,400,400,320
-Fuel,Oil,W. Va.,New Cumberland,0.20,100,100,133,133,167,167,125
-Fuel,Oil,Ohio,Canton,0.50,100,80,80,100,100,80
-Fuel,Oil,Ohio,Zanesville,0.60,100,100,100,100,100,117
-Fuel,Oil,Ill.,Rock Island,0.35,100,171,286,286,229,171,171
-Fuel,Coal (Anthracite),Mass.,Boston (1),6.00,100,98,117,175,217,217,204
-Fuel,Coal (Anthracite),Mass.,Boston (2),5.55,100,121,117,173,230,225,192
-Fuel,Coal (Anthracite),Pa.,Philadelphia (1),5.00,100,100,100,120,130,100,100
-Fuel,Coal (Anthracite),Pa.,Philadelphia (2),3.41,,100,100,123,186,281,218
-Fuel,Coal (Anthracite),Pa.,Reading,2.50,100,100,100,180,231,292,250
-Fuel,Coal (Anthracite),Ohio,Zanesville,3.00,100,100,153,167,167,167,167
-Fuel,Coal (Bituminous),W. Va.,New Cumberland,1.40,100,171,179,214,214,196,196
-Fuel,Coal (Bituminous),Ohio,Canton,2.00,100,88,100,175,150,150
-Fuel,Coal (Bituminous),Ohio,Springfield,3.50,100,100,100,100,160,100
-Fuel,Coal (Bituminous),Ohio,Zanesville,1.50,100,100,100,200,200
-Fuel,Coal (Bituminous),Ind.,Lawrenceburg,3.50,100,93,114,114,129,114,107
-Fuel,Coal (Bituminous),Ill.,Belleville,1.82,,100,,,,171,171
-Fuel,Coal (Bituminous),Ill.,Rock Island,3.12,100,80,96,104,104,104
-Fuel,Wood (Hard),Mass.,Boston (1),6.50,100,,150,169,200,200,231
-Fuel,Wood (Hard),Mass.,Boston (2),6.50,100,125,183,164,162,185,228
-Fuel,Wood (Hard),Conn.,Danielsonville,4.00,100,100,100,114,133,125
-Fuel,Wood (Hard),Conn.,Jewett City,3.50,100,100,114,114,157,143
-Fuel,Wood (Hard),Pa.,Reading,4.00,,100,100,125,125,120,150
-Fuel,Wood (Hard),W. Va.,New Cumberland,1.75,100,100,114,143,143,143
-Fuel,Wood (Hard),Ohio,Canton,2.50,100,80,100,130,180,167,167
-Fuel,Wood (Hard),Ohio,Springfield,2.00,100,92,92,100,163,207,200
-Fuel,Wood (Hard),Ohio,Zanesville,2.50,100,132,133,100,200,200
-Fuel,Wood (Hard),Ind.,Lawrenceburg,4.00,100,100,138,150,150,125
-Fuel,Wood (Hard),Ill.,Rock Island,4.50,100,89,133,144,133,133
-Fuel,Wood (Hard),Iowa,Cedar Rapids,2.50,100,100,100,120,200,160,160
-Fuel,Wood (Hard),Mo.,Pilot Knob,2.50,100,100,120,180,100,100,160
-Fuel,Wood (Pine),Mass.,Boston (1),4.50,100,,153,178,233,211,287
-Fuel,Wood (Pine),Mass.,Boston (2),4.50,100,133,134,185,233,217,267
-Fuel,Wood (Pine),Conn.,Danielsonville,3.50,100,100,100,121,143,129
-Fuel,Wood (Pine),W. Va.,New Cumberland,1.50,100,117,133,150,150,150,150
-Fuel,Wood (Pine),Ohio,Zanesville,1.00,100,175,155,200,225,250,150
-Fuel,Wood (Pine),Ill.,Rock Island,1.00,,100,150,200,200,150,150
-Other,Men's Heavy Boots,Conn.,Ansonia,2.50,,100,120,140,130,100,100
-Other,Men's Heavy Boots,Conn.,Jewett City,6.00,100,96,92,100,117,125,142
-Other,Men's Heavy Boots,Conn.,Waterbury,3.25,,100,106,133,123,125,133
-Other,Men's Heavy Boots,N.Y.,Homer,2.38,,100,100,143,163,200,163
-Other,Men's Heavy Boots,N.J.,Camden,3.50,100,100,115,135,100,175
-Other,Men's Heavy Boots,Pa.,Sharon,2.50,100,100,100,100,120,120,100
-Other,Men's Heavy Boots,W. Va.,New Cumberland,3.00,100,100,123,171,200,200,167
-Other,Men's Heavy Boots,W. Va.,Wheeling,4.00,100,100,113,150,120,200
-Other,Men's Heavy Boots,Ohio,Canton,4.00,100,100,133,200,200,162,117
-Other,Men's Heavy Boots,Ohio,Cincinnati,4.50,,100,87,80,100,112,117
-Other,Men's Heavy Boots,Ohio,Batavia,3.25,,100,142,126,163,163,153
-Other,Men's Heavy Boots,Ohio,Zanesville,3.50,100,100,114,143,163,125,143
-Other,Men's Heavy Boots,Ind.,Aurora,3.50,100,100,100,100,150,150
-Other,Men's Heavy Boots,Ind.,Evansville,4.00,,100,100,150,150,150
-Other,Men's Heavy Boots,Ind.,Fort Wayne,4.00,,100,100,125,125,125,138
-Other,Men's Heavy Boots,Ind.,LaFayette (1),4.00,,100,,100,125,125,125
-Other,Men's Heavy Boots,Ind.,LaFayette (2),5.00,,100,,100,125,125,125
-Other,Men's Heavy Boots,Ind.,New Albany (2),3.125,100,125,134,144,100,164,184
-Other,Men's Heavy Boots,Ind.,Terre Haute,4.00,100,100,100,100,200,200,200
-Other,Men's Heavy Boots,Ind.,Vincennes,3.00,100,100,150,200,367,233,217
-Other,Men's Heavy Boots,Ill.,Belleville (1),3.00,100,100,100,111,131,111,117
-Other,Men's Heavy Boots,Ill.,Belleville (2),2.50,100,100,100,,100,171
-Other,Men's Heavy Boots,Ill.,Bloomington,2.50,,100,110,220,160,100,160
-Other,Men's Heavy Boots,Ill.,Springfield,2.00,,100,88,113,125,100,200
-Other,Men's Heavy Boots,Iowa,Cedar Rapids,3.50,100,100,157,142,125
-Other,Men's Heavy Boots,Mo.,Pilot Knob,4.50,100,100,113,127,125
-Other,Men's Heavy Boots,Mo.,St. Louis,4.00,100,100,100,133,133,150,150
-Other,"Rent of Houses (4 rooms)",Mass.,Boston,5.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Conn.,Jewett City,2.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",N.J.,Camden,6.50,100,100,100,92,115,123,123
-Other,"Rent of Houses (4 rooms)",Pa.,Philadelphia,6.00,,100,100,100,125,125,125
-Other,"Rent of Houses (4 rooms)",W. Va.,New Cumberland,4.00,,100,100,125,138,138,125
-Other,"Rent of Houses (4 rooms)",Ohio,Canton,6.25,100,80,80,96,100,100
-Other,"Rent of Houses (4 rooms)",Ohio,Cincinnati,6.00,,100,67,80,100,100,88
-Other,"Rent of Houses (4 rooms)",Ohio,Springfield,5.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Ohio,Zanesville,7.00,100,100,100,100,114,143,143
-Other,"Rent of Houses (4 rooms)",Ky.,Louisville,5.00,100,100,131,114,114,236,143
-Other,"Rent of Houses (4 rooms)",Ind.,Indianapolis,3.00,,100,100,100,133,133
-Other,"Rent of Houses (4 rooms)",Ind.,LaFayette,7.00,,100,100,107,114,114
-Other,"Rent of Houses (4 rooms)",Ind.,Lawrenceburg,7.00,,100,100,107,121,129,129
-Other,"Rent of Houses (4 rooms)",Ind.,Terre Haute,8.00,,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Ill.,Belleville,4.00,,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Ill.,Rock Island,5.00,,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Iowa,Cedar Rapids,5.00,,100,120,120,130,84,80
-Other,"Rent of Houses (4 rooms)",Mo.,Pilot Knob,10.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (4 rooms)",Mo.,St. Louis,10.00,100,100,100,100,136,136,150
-Other,"Rent of Houses (6 rooms)",Mass.,Boston,9.00,100,100,100,100,100,125,125
-Other,"Rent of Houses (7 rooms)",Mass.,Boston,10.00,100,100,100,100,100,125,125
-Other,"Rent of Houses (6 rooms)",Conn.,Jewett City,3.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (6 rooms)",N.J.,Camden,6.00,100,100,100,100,133,200,225
-Other,"Rent of Houses (6 rooms)",Pa.,Hokendauqua,5.42,,100,100,100,120,120,133
-Other,"Rent of Houses (6 rooms)",Pa.,Philadelphia,5.00,,100,100,100,100,100,125
-Other,"Rent of Houses (8 rooms)",W. Va.,New Cumberland,5.00,,100,100,141,123,123,133
-Other,"Rent of Houses (6 rooms)",Ohio,Canton (1),14.00,,100,100,100,100,100
-Other,"Rent of Houses (6 rooms)",Ohio,Canton (2),30.00,,100,100,100,100,100
-Other,"Rent of Houses (8 rooms)",Ohio,Cincinnati,8.00,100,100,100,100,100,100,100
-Other,"Rent of Houses (5 rooms)",Ohio,Zanesville,5.00,100,100,100,100,100,117,117
-Other,"Rent of Houses (5 rooms)",Ky.,Louisville,8.00,,100,100,133,141,250,250
-Other,"Rent of Houses (5 rooms)",Ind.,LaFayette,5.00,,100,100,130,130,150,160
-Other,"Rent of Houses (6 rooms)",Ind.,Lawrenceburg,6.00,,100,100,100,100,130,130
-Other,"Rent of Houses (6 rooms)",Ind.,Terre Haute,6.00,,100,100,100,100,100
-Other,"Rent of Houses (6 rooms)",Ill.,Bloomington,10.00,,100,100,100,100,120,130
-Other,"Rent of Houses (6 rooms)",Ill.,Rock Island,6.00,,100,100,100,100,100,100
-Other,"Rent of Houses (6 rooms)",Iowa,Cedar Rapids,15.00,,100,100,100,100
-Other,"Rent of Houses (6 rooms)",Mo.,St. Louis,15.00,,100,86,100,111,133,160
-Other,"Board per week (Men)",Conn.,Jewett City,2.00,100,,100,100,120,150,117
-Other,"Board per week (Men)",Pa.,Philadelphia,3.50,,100,100,100,117,117,125
-Other,"Board per week (Men)",Pa.,Sharon,4.00,,100,103,103,103,100
-Other,"Board per week (Men)",W. Va.,New Cumberland,2.50,100,100,100,100,100,167,167
-Other,"Board per week (Men)",Ohio,Canton,1.75,100,100,100,100,129,129
-Other,"Board per week (Men)",Ohio,Cincinnati,7.00,,100,100,100,100,100
-Other,"Board per week (Men)",Ohio,Springfield,2.25,,100,133,156,156,156
-Other,"Board per week (Men)",Ohio,Zanesville,3.00,,100,100,100,133,133,133
-Other,"Board per week (Men)",Ky.,Louisville,4.00,100,,100,,100,100,100
-Other,"Board per week (Men)",Ind.,Indianapolis,3.50,,100,,100,,100,100
-Other,"Board per week (Men)",Ind.,Lawrenceburg,2.50,,100,100,114,114,114,114
-Other,"Board per week (Men)",Ill.,Rock Island,3.50,,100,,100,,100
-Other,"Board per week (Men)",Ill.,Cedar Rapids,3.00,,100,,100,,100
-Other,"Board per week (Men)",Mo.,Pilot Knob,3.00,,100,117,133,150,150,117
-Other,"Board per week (Women)",Conn.,Jewett City,1.50,100,100,100,100,133,133,167
-Other,"Board per week (Women)",Pa.,Philadelphia,3.75,,100,100,100,100,133
-Other,"Board per week (Women)",W. Va.,New Cumberland,1.25,,100,100,160,160,160
-Other,"Board per week (Women)",Ohio,Canton,1.50,,100,100,100,100,100,100
-Other,"Board per week (Women)",Ohio,Cincinnati,1.50,,100,100,100,100
-Other,"Board per week (Women)",Ohio,Springfield,2.50,,100,100,100,100,100
-Other,"Board per week (Women)",Ohio,Zanesville,3.00,,100,135,135,150,150
-Other,"Board per week (Women)",Ky.,Louisville,3.00,,100,100,133,167
-Other,"Board per week (Women)",Ind.,Indianapolis,3.00,,100,,100,133,133
-Other,"Board per week (Women)",Ind.,Belleville,3.00,,100,,100,,100
-Other,"Board per week (Women)",Iowa,Cedar Rapids,2.00,,100,,100,,100
-Other,"Board per week (Women)",Mo.,Pilot Knob,3.00,,100,117,133,150,150,117
+# Pages 451-468. Relative prices (index, first year quoted = 100).
+#
+# 556 series across 60 commodity blocks, each block a commodity quoted in a set of
+# towns. Annual, 1860-1866. Blank cells are printed "..." in the source: most often
+# a town whose series begins in 1861 rather than 1860.
+#
+# THE 1867 AND 1868 COLUMNS APPLY ONLY TO RENTS. Mitchell's note to the table: "In
+# the case of rent figures are given for 1867 and 1868 for the purposes of Part II,
+# chap. vi." Every other block stops at 1866, so those two columns are blank for all
+# but the two rent blocks.
+#
+# Mitchell's note on the source: "The source of the following series of relative
+# prices at retail is the report prepared by Mr. J. D. Weeks in 1880-83 and published
+# as Vol. XX of the Tenth Census. Not all of the material supplied by Mr. Weeks,
+# however, has been used, for he gives some series of prices at unspecified times of
+# the year and others 'on or about June 1.' Those series 'showing average for the
+# year' alone were used as the basis for the computations in the text, and they alone
+# are given here."
+#
+# initial_price is Mitchell's "Initial Price" column, in the unit named by the unit
+# column. Fractions are kept as printed, e.g. "0.08 1/3".
+#
+# TWO CELLS ARE LEFT BLANK BECAUSE THE PRINTING IS DEFECTIVE, not because the source
+# has no figure. Both read as "1 9" or "1 3" with the middle digit missing:
+#   Rent, four rooms, Indianapolis, 1865
+#   Board per week for men, Philadelphia, 1864
+# They are not guessed at. Consult a better copy of page 467 or 468 to fill them.
+#
+# Re-transcribed 17 September 2026 from the page images.
+commodity,unit,state,town,initial_price,1860,1861,1862,1863,1864,1865,1866,1867,1868
+"Dry goods: cotton flannel, medium quality",per yard,Mass,Woburn,0.13,100,131,231,269,385,385,346,,
+"Dry goods: cotton flannel, medium quality",per yard,Conn,Jewett City,.15,100,100,113,250,333,387,320,,
+"Dry goods: cotton flannel, medium quality",per yard,Pa,New Castle,.125,100,120,200,360,440,400,240,,
+"Dry goods: cotton flannel, medium quality",per yard,W. Va,New Cumberland,.14,100,179,286,357,429,429,357,,
+"Dry goods: cotton flannel, medium quality",per yard,W. Va,Wheeling,.125,100,120,200,300,600,480,400,,
+"Dry goods: cotton flannel, medium quality",per yard,Ohio,Canton,.125,100,96,300,400,600,520,400,,
+"Dry goods: cotton flannel, medium quality",per yard,Ohio,Cincinnati,.125,100,100,100,120,200,300,200,,
+"Dry goods: cotton flannel, medium quality",per yard,Ohio,Zanesville,.10,100,150,200,220,350,370,280,,
+"Dry goods: cotton flannel, medium quality",per yard,Ind,Jeffersonville,.08 1/3,100,300,300,300,300,300,300,,
+"Dry goods: cotton flannel, medium quality",per yard,Ind,Lawrenceburg,.125,100,100,200,360,720,600,600,,
+"Dry goods: cotton flannel, medium quality",per yard,Ind,New Albany,.10,100,125,250,400,500,400,300,,
+"Dry goods: cotton flannel, medium quality",per yard,Ill,Bloomington,.125,100,120,200,320,520,720,520,,
+Dry goods: mousselines de laine,per yard,Mass,Woburn,0.33,100,100,91,91,100,115,106,,
+Dry goods: mousselines de laine,per yard,Conn,Jewett City,.25,100,88,100,150,250,268,268,,
+Dry goods: mousselines de laine,per yard,Pa,New Castle,.25,100,100,120,140,180,160,140,,
+Dry goods: mousselines de laine,per yard,W. Va,New Cumberland,.15,100,200,267,400,467,467,267,,
+Dry goods: mousselines de laine,per yard,W. Va,Wheeling,.25,100,124,150,160,240,200,150,,
+Dry goods: mousselines de laine,per yard,Ohio,Canton,.25,100,100,120,160,200,150,120,,
+Dry goods: mousselines de laine,per yard,Ohio,Cincinnati,.25,100,100,100,150,160,160,160,,
+Dry goods: mousselines de laine,per yard,Ohio,Zanesville,.15,100,233,267,300,467,267,233,,
+Dry goods: mousselines de laine,per yard,Ind,Evansville,.20,100,125,175,250,250,250,,,
+Dry goods: mousselines de laine,per yard,Ind,Jeffersonville,.20,100,175,175,175,175,175,175,,
+Dry goods: mousselines de laine,per yard,Ind,Lawrenceburg,.25,100,100,140,160,260,180,160,,
+Dry goods: mousselines de laine,per yard,Ind,New Albany,.18,100,111,167,194,222,167,139,,
+Dry goods: mousselines de laine,per yard,Ill,Bloomington,.25,100,100,100,140,140,160,120,,
+"Dry goods: prints, Merrimack",per yard,Mass,Woburn,0.13,100,115,154,154,154,246,192,,
+"Dry goods: prints, Merrimack",per yard,Conn,Jewett City,.125,100,100,112,176,240,300,264,,
+"Dry goods: prints, Merrimack",per yard,Pa,New Castle,.125,100,100,144,200,300,280,200,,
+"Dry goods: prints, Merrimack",per yard,W. Va,New Cumberland,.09,100,222,278,444,556,556,333,,
+"Dry goods: prints, Merrimack",per yard,W. Va,Wheeling,.125,100,120,200,240,400,320,240,,
+"Dry goods: prints, Merrimack",per yard,Ohio,Canton,.125,100,80,144,240,400,320,240,,
+"Dry goods: prints, Merrimack",per yard,Ohio,Cincinnati,.125,100,80,100,120,240,300,360,,
+"Dry goods: prints, Merrimack",per yard,Ohio,Zanesville,.125,100,96,120,176,320,240,200,,
+"Dry goods: prints, Merrimack",per yard,Ind,Evansville,.10,100,100,150,250,500,450,300,,
+"Dry goods: prints, Merrimack",per yard,Ind,Jeffersonville,.125,100,100,100,100,100,120,200,,
+"Dry goods: prints, Merrimack",per yard,Ind,Lawrenceburg,.125,100,100,160,240,480,280,200,,
+"Dry goods: prints, Merrimack",per yard,Ind,New Albany,.10,100,105,200,300,400,250,200,,
+"Dry goods: prints, Merrimack",per yard,Ill,Bloomington,.125,100,100,200,240,360,440,320,,
+"Dry goods: satinets, medium quality",per yard,Conn,Jewett City,0.75,100,100,133,166,177,177,173,,
+"Dry goods: satinets, medium quality",per yard,Pa,New Castle,1.00,100,100,125,138,150,140,150,,
+"Dry goods: satinets, medium quality",per yard,W. Va,New Cumberland,0.11,100,227,364,455,545,545,273,,
+"Dry goods: satinets, medium quality",per yard,W. Va,Wheeling,.75,100,133,167,167,200,200,167,,
+"Dry goods: satinets, medium quality",per yard,Ohio,Canton,.75,100,100,133,167,200,167,133,,
+"Dry goods: satinets, medium quality",per yard,Ohio,Cincinnati,.75,100,100,107,113,120,133,133,,
+"Dry goods: satinets, medium quality",per yard,Ohio,Zanesville,.40,100,100,150,250,213,163,150,,
+"Dry goods: satinets, medium quality",per yard,Ind,Jeffersonville,.75,100,133,133,133,133,133,133,,
+"Dry goods: satinets, medium quality",per yard,Ind,Lawrenceburg,.70,100,107,179,179,214,143,143,,
+"Dry goods: satinets, medium quality",per yard,Ind,New Albany,.625,100,100,120,172,172,144,144,,
+"Dry goods: satinets, medium quality",per yard,Ill,Bloomington,.75,100,87,100,133,133,167,133,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Mass,Woburn,0.14,100,114,321,357,250,286,271,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Pa,New Castle,.17,100,118,165,294,353,353,324,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,W. Va,New Cumberland,.10,100,200,350,450,500,600,500,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,W. Va,Wheeling,.15,100,107,233,333,533,400,300,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ohio,Canton,.15,100,100,250,367,533,467,367,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ohio,Cincinnati,.25,100,110,130,150,160,170,160,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ohio,Zanesville,.13,100,138,169,231,577,346,269,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ind,Lawrenceburg,.30,100,107,217,317,333,283,300,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ind,New Albany,.095,100,111,242,400,579,474,421,,
+"Dry goods: sheetings, bleached, 9x8, standard quality",per yard,Ill,Bloomington,.15,100,133,200,300,400,433,300,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Mass,Woburn,0.13,100,115,308,346,308,346,308,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Pa,New Castle,.125,100,120,200,360,440,400,240,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,W. Va,New Cumberland,.08,100,225,375,500,625,625,500,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,W. Va,Wheeling,.125,100,120,240,360,600,400,320,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ohio,Canton,.125,100,96,280,400,600,520,400,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ohio,Cincinnati,.20,100,125,150,175,190,200,190,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ohio,Zanesville,.13,100,138,169,231,562,308,269,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ind,Jeffersonville,.15,100,167,167,167,167,167,167,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ind,Lawrenceburg,.28,100,107,214,321,357,304,321,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ind,New Albany,.0775,100,135,232,684,877,684,555,,
+"Dry goods: sheetings, brown, 9x8, standard quality",per yard,Ill,Bloomington,.15,100,133,233,333,433,500,333,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Mass,Woburn,0.125,100,104,320,360,280,240,240,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Conn,Jewett City,.16,100,81,100,234,375,419,344,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Pa,New Castle,.15,100,120,167,300,373,367,333,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,W. Va,New Cumberland,.08,100,225,375,500,625,625,500,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,W. Va,Wheeling,.10,100,150,300,400,800,500,400,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ohio,Canton,.125,100,120,240,400,600,480,360,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ohio,Cincinnati,.15,100,83,90,133,267,267,300,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ohio,Zanesville,.10,100,150,200,300,650,350,300,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ind,Evansville,.10,100,100,125,350,600,650,400,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ind,Jeffersonville,.125,100,120,160,280,440,600,528,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ind,Lawrenceburg,.125,100,120,176,360,600,360,320,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ind,New Albany,.085,100,112,235,412,588,471,412,,
+"Dry goods: shirtings, bleached, 4x4, standard quality",per yard,Ill,Bloomington,.125,100,120,200,320,440,480,320,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Mass,Woburn,0.11,100,100,318,409,227,227,227,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Conn,Jewett City,.125,100,88,112,280,400,440,360,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Pa,New Castle,.10,100,120,220,400,500,450,250,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,W. Va,New Cumberland,.06,100,250,417,500,667,667,500,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,W. Va,Wheeling,.10,100,125,250,400,750,500,400,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ohio,Canton,.09,110,111,222,556,833,556,444,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ohio,Cincinnati,.10,100,150,500,600,750,750,650,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ohio,Zanesville,.10,100,150,200,350,700,350,300,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ind,Evansville,.085,100,100,118,588,882,824,588,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ind,Jeffersonville,.10,100,150,200,300,500,750,600,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ind,Lawrenceburg,.08,100,113,225,563,813,500,500,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ind,New Albany,.0675,100,111,222,741,963,741,593,,
+"Dry goods: shirtings, brown, 4x4, standard quality",per yard,Ill,Bloomington,.125,100,120,240,360,480,560,360,,
+"Dry goods: tickings, good quality",per yard,Mass,Woburn,0.17,100,118,259,259,259,265,235,,
+"Dry goods: tickings, good quality",per yard,Conn,Jewett City,.22,100,100,114,150,250,305,273,,
+"Dry goods: tickings, good quality",per yard,Pa,New Castle,.25,100,120,180,220,300,272,260,,
+"Dry goods: tickings, good quality",per yard,W. Va,New Cumberland,.28,100,143,179,250,250,268,143,,
+"Dry goods: tickings, good quality",per yard,W. Va,Wheeling,.25,100,100,160,200,400,300,240,,
+"Dry goods: tickings, good quality",per yard,Ohio,Canton,.25,100,100,200,400,500,400,300,,
+"Dry goods: tickings, good quality",per yard,Ohio,Cincinnati,.225,100,156,167,178,222,333,333,,
+"Dry goods: tickings, good quality",per yard,Ohio,Zanesville,.25,100,160,200,220,340,220,148,,
+"Dry goods: tickings, good quality",per yard,Ind,Jeffersonville,.25,100,200,200,200,200,200,200,,
+"Dry goods: tickings, good quality",per yard,Ind,Lawrenceburg,.25,100,100,160,200,360,300,320,,
+"Dry goods: tickings, good quality",per yard,Ind,New Albany,.17,100,118,206,294,441,382,294,,
+"Dry goods: tickings, good quality",per yard,Ill,Bloomington,.18,100,139,222,278,500,639,500,,
+"Groceries: coffee, Rio, green",per lb,Mass,Boston,0.13,100,108,172,197,319,254,205,,
+"Groceries: coffee, Rio, green",per lb,Pa,Philadelphia,.11,,100,118,155,291,318,309,,
+"Groceries: coffee, Rio, green",per lb,Md,Baltimore,.16,100,100,150,219,250,219,188,,
+"Groceries: coffee, Rio, green",per lb,W. Va,New Cumberland,.12,100,125,150,167,208,208,167,,
+"Groceries: coffee, Rio, green",per lb,Ohio,Canton,.16,100,94,125,250,313,250,250,,
+"Groceries: coffee, Rio, green",per lb,Ohio,Springfield,.15,100,80,100,100,167,267,333,,
+"Groceries: coffee, Rio, green",per lb,Ohio,Zanesville,.15,100,100,100,133,167,167,200,,
+"Groceries: coffee, Rio, green",per lb,Ind,Lawrenceburg,.25,100,100,140,140,160,140,160,,
+"Groceries: coffee, Rio, green",per lb,Iowa,Cedar Rapids,.08,,100,125,313,438,438,375,,
+"Groceries: molasses, New Orleans",per gallon,Pa,Philadelphia,0.40,,100,125,150,175,200,275,,
+"Groceries: molasses, New Orleans",per gallon,W. Va,New Cumberland,.40,100,125,188,225,250,225,225,,
+"Groceries: molasses, New Orleans",per gallon,Ohio,Canton,.40,100,100,250,375,375,313,250,,
+"Groceries: molasses, New Orleans",per gallon,Ohio,Zanesville,.50,100,100,100,150,200,200,250,,
+"Groceries: molasses, New Orleans",per gallon,Ind,Lawrenceburg,.60,100,100,100,133,267,250,167,,
+"Groceries: molasses, New Orleans",per gallon,Iowa,Cedar Rapids,.50,,100,100,120,160,220,240,,
+"Groceries: molasses, Porto Rico",per gallon,Mass,Boston,0.26,,100,123,180,298,245,223,,
+"Groceries: molasses, Porto Rico",per gallon,Pa,Philadelphia,.40,,100,100,125,163,200,200,,
+"Groceries: molasses, Porto Rico",per gallon,Md,Baltimore,.40,100,88,100,125,250,200,200,,
+"Groceries: molasses, Porto Rico",per gallon,W. Va,New Cumberland,.25,100,200,240,320,360,320,360,,
+"Groceries: molasses, Porto Rico",per gallon,Ohio,Canton,.35,,100,171,357,357,286,243,,
+"Groceries: molasses, Porto Rico",per gallon,Ohio,Springfield,.50,,100,120,150,150,150,160,,
+"Groceries: molasses, Porto Rico",per gallon,Ohio,Zanesville,.55,100,109,109,154,218,227,227,,
+"Groceries: molasses, Porto Rico",per gallon,Ind,Lawrenceburg,.40,100,125,125,188,250,250,200,,
+"Groceries: molasses, Porto Rico",per gallon,Iowa,Cedar Rapids,.30,,100,100,133,133,167,167,,
+Groceries: sirup,per gallon,Pa,Philadelphia,0.50,,100,110,110,120,160,180,,
+Groceries: sirup,per gallon,Md,Baltimore,.60,100,100,100,117,233,233,167,,
+Groceries: sirup,per gallon,W. Va,New Cumberland,.40,100,125,188,250,313,250,250,,
+Groceries: sirup,per gallon,Ohio,Springfield,.60,100,125,133,167,208,250,250,,
+Groceries: sirup,per gallon,Ohio,Zanesville,.75,100,80,80,120,167,167,200,,
+Groceries: sirup,per gallon,Ind,Lawrenceburg,.80,100,94,100,125,125,125,150,,
+Groceries: sirup,per gallon,Ia,Cedar Rapids,.50,,100,120,120,140,140,200,,
+"Groceries: codfish, dry",per lb,Conn,Jewett City,0.05,100,80,100,130,160,160,160,,
+"Groceries: codfish, dry",per lb,Pa,Philadelphia,.04,,100,100,125,150,175,225,,
+"Groceries: codfish, dry",per lb,W. Va,New Cumberland,.06,100,133,167,167,167,167,167,,
+"Groceries: codfish, dry",per lb,Ohio,Canton,.10,100,100,100,100,100,100,100,,
+"Groceries: codfish, dry",per lb,Ohio,Zanesville,.05,100,100,100,140,160,200,200,,
+"Groceries: codfish, dry",per lb,Ind,Lawrenceburg,.10,100,100,100,100,120,120,100,,
+"Groceries: codfish, dry",per lb,Iowa,Cedar Rapids,.06,,100,117,133,175,208,208,,
+"Groceries: sugar, yellow C",per lb,Pa,Philadelphia,0.07,,100,114,143,171,214,229,,
+"Groceries: sugar, yellow C",per lb,W. Va,New Cumberland,.07,100,171,200,200,200,200,171,,
+"Groceries: sugar, yellow C",per lb,Ohio,Canton,.10,100,80,125,150,250,200,160,,
+"Groceries: sugar, yellow C",per lb,Ohio,Springfield,.10,100,100,100,150,150,200,250,,
+"Groceries: sugar, yellow C",per lb,Ohio,Zanesville,.10,100,100,150,200,200,250,200,,
+"Groceries: sugar, yellow C",per lb,Ind,Lawrenceburg,.12,100,100,100,100,117,117,117,,
+"Groceries: sugar, yellow C",per lb,Iowa,Cedar Rapids,.07,,100,129,129,157,157,200,,
+"Groceries: sugar, yellow B",per lb,Pa,Philadelphia,0.08,,100,113,138,163,200,213,,
+"Groceries: sugar, yellow B",per lb,W. Va,New Cumberland,.06,100,167,200,200,200,200,200,,
+"Groceries: sugar, yellow B",per lb,Ohio,Canton,.11,100,73,114,145,227,182,136,,
+"Groceries: sugar, yellow B",per lb,Ohio,Zanesville,.11,100,109,164,200,200,227,227,,
+"Groceries: sugar, yellow B",per lb,Ind,Lawrenceburg,.11,100,100,100,100,109,109,109,,
+"Groceries: sugar, yellow B",per lb,Iowa,Cedar Rapids,.08,,100,125,125,150,150,156,,
+Groceries: beans,per quart,Mass,Boston,0.06,100,100,150,167,179,142,175,,
+Groceries: beans,per quart,Conn,Jewett City,.06,100,117,133,167,167,150,133,,
+Groceries: beans,per quart,Pa,Philadelphia,.06,,100,133,167,150,200,233,,
+Groceries: beans,per quart,W. Va,New Cumberland,.07,100,143,171,171,171,171,171,,
+Groceries: beans,per quart,Ohio,Canton,.05,100,80,100,160,200,200,160,,
+Groceries: beans,per quart,Ohio,Springfield,.05,100,100,100,100,160,160,160,,
+Groceries: beans,per quart,Ohio,Zanesville,.06 1/4,100,96,112,128,160,160,160,,
+Groceries: beans,per quart,Ind,Lawrenceburg,.10,100,100,100,100,100,100,120,,
+Groceries: beans,per quart,Iowa,Cedar Rapids,.10,,100,100,120,120,125,125,,
+"Groceries: soap, common",per lb,Pa,Philadelphia,0.06,,100,117,133,150,167,167,,
+"Groceries: soap, common",per lb,W. Va,New Cumberland,.06,100,117,133,133,133,117,117,,
+"Groceries: soap, common",per lb,Ohio,Canton,.08,100,75,75,125,150,125,113,,
+"Groceries: soap, common",per lb,Ohio,Springfield,.05,100,120,160,160,160,160,160,,
+"Groceries: soap, common",per lb,Ohio,Zanesville,.05,100,100,120,200,200,200,200,,
+"Groceries: soap, common",per lb,Ind,Lawrenceburg,.12,100,67,83,125,125,125,125,,
+"Groceries: soap, common",per lb,Iowa,Cedar Rapids,.04,,100,100,100,150,250,375,,
+"Groceries: sugar, good brown",per lb,Mass,Boston,0.06 15/16,100,99,133,175,266,225,183,,
+"Groceries: sugar, good brown",per lb,N. J.,Jersey City,.08,100,100,113,175,250,263,300,,
+"Groceries: sugar, good brown",per lb,Pa,Norristown,.07,100,100,114,157,314,186,186,,
+"Groceries: sugar, good brown",per lb,Pa,Philadelphia,.06,,100,117,150,183,233,250,,
+"Groceries: sugar, good brown",per lb,Md,Baltimore,.08,100,88,125,156,250,188,175,,
+"Groceries: sugar, good brown",per lb,W. Va,New Cumberland,.06,100,167,200,200,200,200,200,,
+"Groceries: sugar, good brown",per lb,Ohio,Canton,.08,100,75,100,150,250,250,225,,
+"Groceries: sugar, good brown",per lb,Ohio,Springfield,.09,100,89,89,111,122,167,200,,
+"Groceries: sugar, good brown",per lb,Ohio,Zanesville,.08,100,100,125,150,225,225,225,,
+"Groceries: sugar, good brown",per lb,Ind,Lawrenceburg,.10,100,100,100,100,120,110,110,,
+"Groceries: sugar, good brown",per lb,Iowa,Cedar Rapids,.06,,100,133,133,167,167,278,,
+"Groceries: coffee, Rio, roasted",per lb,Pa,Philadelphia,0.16,,100,113,138,238,281,281,,
+"Groceries: coffee, Rio, roasted",per lb,Md,Baltimore,.20,100,100,150,210,250,210,180,,
+"Groceries: coffee, Rio, roasted",per lb,W. Va,New Cumberland,.14,100,143,179,179,214,214,179,,
+"Groceries: coffee, Rio, roasted",per lb,Ohio,Springfield,.18,100,100,100,100,167,250,333,,
+"Groceries: coffee, Rio, roasted",per lb,Ohio,Zanesville,.16,100,94,94,113,125,125,156,,
+"Groceries: coffee, Rio, roasted",per lb,Ind,Lawrenceburg,.30,100,100,133,133,150,133,150,,
+"Groceries: coffee, Rio, roasted",per lb,Iowa,Cedar Rapids,.10,,100,120,200,450,450,350,,
+"Groceries: tea, oolong or other good black",per lb,Pa,Philadelphia,0.50,,100,100,110,130,250,250,,
+"Groceries: tea, oolong or other good black",per lb,Md,Baltimore,.60,100,125,167,167,200,250,208,,
+"Groceries: tea, oolong or other good black",per lb,W. Va,New Cumberland,.50,100,120,160,160,160,180,160,,
+"Groceries: tea, oolong or other good black",per lb,Ohio,Canton,1.00,100,100,125,150,200,200,180,,
+"Groceries: tea, oolong or other good black",per lb,Ohio,Springfield,0.60,,100,100,125,250,333,293,,
+"Groceries: tea, oolong or other good black",per lb,Ohio,Zanesville,.925,100,97,97,122,135,149,176,,
+"Groceries: tea, oolong or other good black",per lb,Ind,Lawrenceburg,1.00,100,90,100,125,160,160,125,,
+"Groceries: tea, oolong or other good black",per lb,Iowa,Cedar Rapids,0.30,,100,233,467,533,667,667,,
+Groceries: starch,per lb,Pa,Philadelphia,0.07,,100,114,143,171,200,200,,
+Groceries: starch,per lb,W. Va,New Cumberland,.07,100,114,143,143,143,114,114,,
+Groceries: starch,per lb,Ohio,Canton,.10,100,100,125,150,150,125,100,,
+Groceries: starch,per lb,Ohio,Springfield,.05,100,100,100,160,200,200,200,,
+Groceries: starch,per lb,Ohio,Zanesville,.08,100,125,125,125,188,188,188,,
+Groceries: starch,per lb,Ind,Lawrenceburg,.10,100,80,100,120,100,100,100,,
+Groceries: starch,per lb,Iowa,Cedar Rapids,.05,,100,100,140,200,360,360,,
+"Provisions: beef, corned",per lb,Mass,Boston,0.0775,100,97,97,133,164,200,194,,
+"Provisions: beef, corned",per lb,Conn,Jewett City,.08,100,100,88,88,156,150,188,,
+"Provisions: beef, corned",per lb,Conn,New London,.10,100,110,110,140,140,140,140,,
+"Provisions: beef, corned",per lb,N. J.,Camden,.08,100,100,100,125,175,225,225,,
+"Provisions: beef, corned",per lb,Pa,Philadelphia,.09,,100,100,111,133,156,167,,
+"Provisions: beef, corned",per lb,W. Va,New Cumberland,.08,100,125,125,125,125,125,125,,
+"Provisions: beef, corned",per lb,Ohio,Canton,.06,,100,133,167,208,200,167,,
+"Provisions: beef, corned",per lb,Ohio,Springfield,.065,100,92,92,92,123,123,123,,
+"Provisions: beef, corned",per lb,Ohio,Zanesville,.08,100,100,100,125,125,125,125,,
+"Provisions: beef, corned",per lb,Ind,Evansville,.10,,100,100,100,125,125,125,,
+"Provisions: beef, fresh, roasting pieces",per lb,Mass,Boston,0.115,100,100,100,130,166,207,211,,
+"Provisions: beef, fresh, roasting pieces",per lb,Conn,New London,.13,100,123,123,138,154,169,169,,
+"Provisions: beef, fresh, roasting pieces",per lb,N. J.,Camden,.14,100,100,100,114,179,250,250,,
+"Provisions: beef, fresh, roasting pieces",per lb,Pa,Philadelphia,.10,,100,100,120,140,180,180,,
+"Provisions: beef, fresh, roasting pieces",per lb,W. Va,New Cumberland,.08,100,150,150,150,150,150,150,,
+"Provisions: beef, fresh, roasting pieces",per lb,Ohio,Canton,.08,,100,125,156,188,156,156,,
+"Provisions: beef, fresh, roasting pieces",per lb,Ohio,Springfield,.085,100,94,94,94,147,147,147,,
+"Provisions: beef, fresh, roasting pieces",per lb,Ohio,Zanesville,.09,100,89,100,111,111,111,111,,
+"Provisions: beef, fresh, roasting pieces",per lb,Ind,Evansville,.075,,100,100,167,200,200,200,,
+Provisions: butter,per lb,Mass,Boston,0.23 1/6,100,86,90,106,159,183,199,,
+Provisions: butter,per lb,Conn,Jewett City,.23,100,96,91,109,122,143,196,,
+Provisions: butter,per lb,Pa,Philadelphia,.20,,100,110,120,125,150,140,,
+Provisions: butter,per lb,W. Va,New Cumberland,.16,100,125,125,125,125,125,125,,
+Provisions: butter,per lb,Ohio,Canton,.12,100,67,83,150,333,292,292,,
+Provisions: butter,per lb,Ohio,Springfield,.10,100,80,80,100,150,250,300,,
+Provisions: butter,per lb,Ohio,Zanesville,.13,100,96,115,115,231,254,254,,
+Provisions: butter,per lb,Ind,Lawrenceburg,.30,100,83,100,83,117,150,100,,
+Provisions: butter,per lb,Ia,Cedar Rapids,.06,,100,200,250,333,417,333,,
+"Provisions: beef, fresh, rump steaks",per lb,Conn,New London,0.11,100,109,109,127,145,164,164,,
+"Provisions: beef, fresh, rump steaks",per lb,N. J.,Camden,.12,100,102,104,133,208,250,250,,
+"Provisions: beef, fresh, rump steaks",per lb,Pa,Philadelphia,.14,,100,107,114,143,179,179,,
+"Provisions: beef, fresh, rump steaks",per lb,W. Va,New Cumberland,.10,100,140,140,140,140,140,140,,
+"Provisions: beef, fresh, rump steaks",per lb,Ohio,Canton,.10,100,110,125,150,180,150,150,,
+"Provisions: beef, fresh, rump steaks",per lb,Ohio,Springfield,.10,100,100,100,100,150,150,150,,
+"Provisions: beef, fresh, rump steaks",per lb,Ohio,Zanesville,.11,100,91,91,109,109,109,109,,
+"Provisions: beef, fresh, rump steaks",per lb,Ind,Evansville,.075,,100,100,167,200,200,200,,
+"Provisions: beef, fresh, soup-pieces",per lb,Conn,New London,0.055,100,127,127,164,164,164,164,,
+"Provisions: beef, fresh, soup-pieces",per lb,N. J.,Camden,.08,100,100,100,100,175,200,200,,
+"Provisions: beef, fresh, soup-pieces",per lb,Pa,Philadelphia,.07,,100,100,114,129,171,171,,
+"Provisions: beef, fresh, soup-pieces",per lb,W. Va,New Cumberland,.03,100,233,233,233,233,233,233,,
+"Provisions: beef, fresh, soup-pieces",per lb,Ohio,Canton,.04,100,100,125,150,200,150,150,,
+"Provisions: beef, fresh, soup-pieces",per lb,Ohio,Springfield,.07,100,86,86,86,143,143,143,,
+"Provisions: beef, fresh, soup-pieces",per lb,Ohio,Zanesville,.06,100,100,100,100,117,117,117,,
+"Provisions: beef, fresh, soup-pieces",per lb,Ind,Evansville,.06,,100,,,167,167,167,,
+"Provisions: flour, rye",per barrel,Mass,Boston,4.0925,100,92,101,115,172,179,171,,
+"Provisions: flour, rye",per barrel,Conn,Jewett City,3.92,100,100,75,75,150,150,150,,
+"Provisions: flour, rye",per barrel,Pa,Philadelphia,5.00,,100,120,160,200,220,220,,
+"Provisions: flour, rye",per barrel,Md,Baltimore,5.25,100,95,100,119,200,162,129,,
+"Provisions: flour, rye",per barrel,W. Va,New Cumberland,3.75,100,107,133,147,147,147,127,,
+"Provisions: flour, rye",per barrel,Ohio,Springfield,3.50,100,129,114,114,200,257,286,,
+"Provisions: flour, rye",per barrel,Ohio,Zanesville,4.25,100,94,94,141,165,176,188,,
+"Provisions: flour, rye",per barrel,Ia,Cedar Rapids,2.00,,100,125,350,350,375,375,,
+"Provisions: flour, wheat, extra family",per barrel,Conn,Jewett City,8.50,100,91,94,100,124,135,176,,
+"Provisions: flour, wheat, extra family",per barrel,Pa,Philadelphia,8.00,,100,113,150,188,200,200,,
+"Provisions: flour, wheat, extra family",per barrel,Md,Baltimore,8.25,100,103,115,121,161,167,206,,
+"Provisions: flour, wheat, extra family",per barrel,W. Va,New Cumberland,6.00,100,125,133,142,142,147,142,,
+"Provisions: flour, wheat, extra family",per barrel,Ohio,Canton,6.00,100,100,108,117,167,167,133,,
+"Provisions: flour, wheat, extra family",per barrel,Ohio,Springfield,4.50,100,122,111,111,189,244,289,,
+"Provisions: flour, wheat, extra family",per barrel,Ohio,Zanesville,4.75,100,105,105,179,190,200,211,,
+"Provisions: flour, wheat, extra family",per barrel,Ia,Cedar Rapids,2.50,,100,120,300,300,330,330,,
+Provisions: corn meal,per barrel,Mass,Boston,4.87,100,62,70,97,146,132,101,,
+Provisions: corn meal,per barrel,Conn,Jewett City,3.92,100,100,75,75,150,150,150,,
+Provisions: corn meal,per barrel,Pa,Philadelphia,3.00,,100,100,108,133,200,200,,
+Provisions: corn meal,per barrel,W. Va,New Cumberland,1.50,100,133,150,167,167,167,150,,
+Provisions: corn meal,per barrel,Ohio,Canton,3.00,100,100,117,160,200,200,117,,
+Provisions: corn meal,per barrel,Ohio,Springfield,2.25,100,156,156,156,222,267,356,,
+Provisions: corn meal,per barrel,Ohio,Zanesville,2.25,100,133,133,178,200,200,200,,
+Provisions: corn meal,per barrel,Ind,Lawrenceburg,.70,100,114,129,143,150,157,143,,
+Provisions: corn meal,per barrel,Ia,Cedar Rapids,1.50,,100,133,200,200,233,233,,
+Provisions: cheese,per lb,Mass,Boston,0.11 5/8,100,87,80,117,149,168,160,,
+Provisions: cheese,per lb,Conn,Jewett City,.13,100,77,69,92,123,154,177,,
+Provisions: cheese,per lb,Pa,Philadelphia,.12,,100,125,150,167,208,208,,
+Provisions: cheese,per lb,W. Va,New Cumberland,.11,100,136,136,136,136,136,145,,
+Provisions: cheese,per lb,Ohio,Canton,.10,100,60,80,100,250,250,200,,
+Provisions: cheese,per lb,Ohio,Springfield,.08,100,100,100,100,125,150,163,,
+Provisions: cheese,per lb,Ohio,Zanesville,.125,100,80,80,120,168,160,200,,
+Provisions: cheese,per lb,Ind,Lawrenceburg,.18,100,67,83,83,111,150,83,,
+Provisions: cheese,per lb,Ia,Cedar Rapids,.10,,100,120,120,150,200,280,,
+Provisions: eggs,per dozen,Mass,Boston,0.195,100,87,92,110,144,185,169,,
+Provisions: eggs,per dozen,Conn,Jewett City,.17,100,82,88,100,135,176,159,,
+Provisions: eggs,per dozen,Pa,Philadelphia,.18,,100,100,111,117,139,144,,
+Provisions: eggs,per dozen,W. Va,New Cumberland,.10,100,120,140,140,140,140,120,,
+Provisions: eggs,per dozen,Ohio,Canton,.10,100,60,100,120,100,100,100,,
+Provisions: eggs,per dozen,Ohio,Springfield,.07,100,143,143,171,186,214,229,,
+Provisions: eggs,per dozen,Ohio,Zanesville,.15,100,40,67,67,100,100,100,,
+Provisions: eggs,per dozen,Ind,Lawrenceburg,.20,100,100,100,75,75,150,150,,
+Provisions: eggs,per dozen,Ia,Cedar Rapids,.05,,100,100,200,200,300,300,,
+Provisions: lard,per lb,Mass,Boston,0.12 5/6,100,85,77,88,119,199,169,,
+Provisions: lard,per lb,Conn,Jewett City,.14,100,93,89,89,157,200,179,,
+Provisions: lard,per lb,Conn,New London,.12,100,117,117,117,117,117,133,,
+Provisions: lard,per lb,Pa,Philadelphia,.10,,100,105,105,140,180,190,,
+Provisions: lard,per lb,W. Va,New Cumberland,.10,100,120,140,140,140,140,150,,
+Provisions: lard,per lb,Ohio,Canton,.09,100,67,89,133,200,222,222,,
+Provisions: lard,per lb,Ohio,Springfield,.07,100,114,114,114,143,143,143,,
+Provisions: lard,per lb,Ohio,Zanesville,.10,100,100,120,180,200,220,220,,
+Provisions: lard,per lb,Ind,Lawrenceburg,.15,100,100,100,100,100,100,100,,
+Provisions: mutton chops,per lb,Conn,New London,0.16,100,100,100,100,100,113,113,,
+Provisions: mutton chops,per lb,Pa,Philadelphia,.10,,100,110,120,140,180,180,,
+Provisions: mutton chops,per lb,N. J.,Camden,.12,100,117,117,125,150,208,208,,
+Provisions: mutton chops,per lb,W. Va,New Cumberland,.08,100,150,150,150,150,150,150,,
+Provisions: mutton chops,per lb,Ohio,Zanesville,.10,100,70,70,80,80,90,100,,
+"Provisions: flour, wheat, superfine",per barrel,Conn,Jewett City,7.50,100,93,97,107,127,137,173,,
+"Provisions: flour, wheat, superfine",per barrel,Pa,Philadelphia,6.50,,100,115,138,185,192,192,,
+"Provisions: flour, wheat, superfine",per barrel,Md,Baltimore,6.00,100,104,129,125,175,167,188,,
+"Provisions: flour, wheat, superfine",per barrel,W. Va,New Cumberland,4.50,100,133,156,167,167,167,156,,
+"Provisions: flour, wheat, superfine",per barrel,Ohio,Canton,5.75,100,96,104,113,157,148,122,,
+"Provisions: flour, wheat, superfine",per barrel,Ohio,Springfield,4.00,100,125,113,113,200,250,300,,
+"Provisions: flour, wheat, superfine",per barrel,Ohio,Zanesville,5.25,100,114,114,181,190,200,229,,
+"Provisions: flour, wheat, superfine",per barrel,Ia,Cedar Rapids,3.00,,100,108,267,267,300,300,,
+Provisions: milk,per quart,Pa,Philadelphia,0.06,,100,100,117,117,167,167,,
+Provisions: milk,per quart,W. Va,New Cumberland,.04,100,200,200,200,250,250,200,,
+Provisions: milk,per quart,Ohio,Canton,.03,100,133,167,200,267,200,200,,
+Provisions: milk,per quart,Ohio,Springfield,.05,100,120,120,160,160,160,160,,
+Provisions: milk,per quart,Ohio,Zanesville,.06,100,100,100,133,133,133,167,,
+Provisions: milk,per quart,Ind,Lawrenceburg,.07,100,100,114,143,143,143,143,,
+Provisions: milk,per quart,Ia,Cedar Rapids,.04,,100,125,125,150,150,150,,
+"Provisions: mackerel, pickled",per lb,Conn,Jewett City,0.09,100,78,89,89,122,111,111,,
+"Provisions: mackerel, pickled",per lb,Pa,Philadelphia,.08,,100,113,125,175,200,225,,
+"Provisions: mackerel, pickled",per lb,W. Va,New Cumberland,.04,100,150,200,200,200,200,200,,
+"Provisions: mackerel, pickled",per lb,Ohio,Canton,.08,100,75,100,125,125,125,125,,
+"Provisions: mackerel, pickled",per lb,Ohio,Zanesville,.10,100,50,60,70,80,100,100,,
+"Provisions: mackerel, pickled",per lb,Ind,Lawrenceburg,.08,100,100,100,125,188,125,125,,
+"Provisions: mackerel, pickled",per lb,Ia,Cedar Rapids,.07,,100,114,143,179,179,179,,
+"Provisions: mutton, forequarters",per lb,Mass,Boston,0.10 7/24,100,95,61,88,117,124,112,,
+"Provisions: mutton, forequarters",per lb,Conn,New London,.10,100,130,130,130,130,140,140,,
+"Provisions: mutton, forequarters",per lb,N. J.,Camden,.07,100,114,114,143,157,171,171,,
+"Provisions: mutton, forequarters",per lb,Pa,Philadelphia,.05,,100,120,120,160,240,240,,
+"Provisions: mutton, forequarters",per lb,W. Va,New Cumberland,.05,100,140,140,140,140,140,140,,
+"Provisions: mutton, forequarters",per lb,Ohio,Zanesville,.05,100,100,100,120,120,140,140,,
+"Provisions: mutton, forequarters",per lb,Ind,Evansville,.075,,100,100,167,200,200,200,,
+"Provisions: pork, bacon",per lb,Conn,New London,0.12,100,117,117,117,117,117,133,,
+"Provisions: pork, bacon",per lb,Pa,Philadelphia,.09,,100,100,111,133,200,200,,
+"Provisions: pork, bacon",per lb,W. Va,New Cumberland,.08,100,125,150,150,175,175,150,,
+"Provisions: pork, bacon",per lb,Ohio,Canton,.06,,100,133,250,333,250,,,
+"Provisions: pork, bacon",per lb,Ohio,Springfield,.055,100,109,109,109,218,218,218,,
+"Provisions: pork, bacon",per lb,Ohio,Zanesville,.10,100,100,120,140,180,200,200,,
+"Provisions: pork, bacon",per lb,Ind,Lawrenceburg,.18,100,78,83,94,97,83,67,,
+"Provisions: pork, corned or salted",per lb,Mass,Boston,0.10 1/12,100,95,89,93,139,212,183,,
+"Provisions: pork, corned or salted",per lb,Conn,Jewett City,.125,100,100,80,96,176,200,192,,
+"Provisions: pork, corned or salted",per lb,Conn,New London,.11,100,109,109,109,109,109,127,,
+"Provisions: pork, corned or salted",per lb,Pa,Philadelphia,.09,,100,100,111,133,200,200,,
+"Provisions: pork, corned or salted",per lb,W. Va,New Cumberland,.06,100,117,133,133,133,150,150,,
+"Provisions: pork, corned or salted",per lb,Ohio,Zanesville,.055,100,164,182,218,291,327,327,,
+"Provisions: mutton, leg",per lb,Conn,New London,0.16,100,100,100,100,100,113,113,,
+"Provisions: mutton, leg",per lb,N. J.,Camden,.09,100,111,133,133,178,244,244,,
+"Provisions: mutton, leg",per lb,Pa,Philadelphia,.10,,100,110,120,140,180,180,,
+"Provisions: mutton, leg",per lb,W. Va,New Cumberland,.06,100,150,150,150,150,150,150,,
+"Provisions: mutton, leg",per lb,Ohio,Zanesville,.07,100,86,86,100,100,114,129,,
+"Provisions: pork, fresh",per lb,Mass,Boston,0.0975,100,87,85,92,128,185,155,,
+"Provisions: pork, fresh",per lb,Conn,New London,.11,100,109,109,109,109,109,127,,
+"Provisions: pork, fresh",per lb,Pa,Philadelphia,.10,,100,100,120,140,200,220,,
+"Provisions: pork, fresh",per lb,W. Va,New Cumberland,.04,100,125,150,150,150,200,200,,
+"Provisions: pork, fresh",per lb,Ohio,Canton,.045,100,133,133,178,278,278,333,,
+"Provisions: pork, fresh",per lb,Ohio,Zanesville,.06,100,150,150,167,300,300,300,,
+"Provisions: pork, hams, smoked",per lb,Mass,Boston,0.11 3/8,100,93,84,97,154,197,182,,
+"Provisions: pork, hams, smoked",per lb,Conn,Jewett City,.13,100,96,77,96,150,192,192,,
+"Provisions: pork, hams, smoked",per lb,Conn,New London,.14,100,100,100,100,100,100,114,,
+"Provisions: pork, hams, smoked",per lb,Pa,Philadelphia,.10,,100,100,120,150,240,250,,
+"Provisions: pork, hams, smoked",per lb,W. Va,New Cumberland,.12,100,117,133,133,133,150,150,,
+"Provisions: pork, hams, smoked",per lb,Ohio,Canton,.09,100,139,139,167,222,278,244,,
+"Provisions: pork, hams, smoked",per lb,Ohio,Springfield,.075,100,107,107,107,200,200,200,,
+"Provisions: pork, hams, smoked",per lb,Ohio,Zanesville,.11,100,109,136,164,182,227,227,,
+"Provisions: pork, hams, smoked",per lb,Ind,Lawrenceburg,.20,100,75,85,90,95,80,75,,
+"Provisions: pork, sausages",per lb,Mass,Boston,0.1125,100,97,100,93,113,192,176,,
+"Provisions: pork, sausages",per lb,Conn,New London,.12,100,117,117,117,117,117,133,,
+"Provisions: pork, sausages",per lb,Pa,Philadelphia,.10,,100,100,120,150,200,220,,
+"Provisions: pork, sausages",per lb,W. Va,New Cumberland,.10,100,120,140,140,140,150,150,,
+"Provisions: pork, sausages",per lb,Ohio,Springfield,.07,100,100,100,100,114,114,114,,
+"Provisions: pork, sausages",per lb,Ohio,Zanesville,.085,100,118,141,176,212,235,235,,
+"Provisions: pork, shoulders",per lb,Conn,New London,0.08,100,150,150,150,150,150,175,,
+"Provisions: pork, shoulders",per lb,Pa,Philadelphia,.07,,100,100,114,143,214,229,,
+"Provisions: pork, shoulders",per lb,W. Va,New Cumberland,.07,100,143,171,171,171,200,200,,
+"Provisions: pork, shoulders",per lb,Ohio,Canton,.06,100,133,133,167,250,250,208,,
+"Provisions: pork, shoulders",per lb,Ohio,Springfield,.05,100,100,100,100,160,160,160,,
+"Provisions: pork, shoulders",per lb,Ohio,Zanesville,.06,100,167,200,250,300,333,333,,
+"Provisions: pork, shoulders",per lb,Ind,Lawrenceburg,.13,100,100,115,115,123,123,92,,
+"Provisions: veal, cutlets",per lb,Conn,New London,0.16,100,113,113,113,113,125,125,,
+"Provisions: veal, cutlets",per lb,N. J.,Camden,.14,100,100,100,100,179,179,179,,
+"Provisions: veal, cutlets",per lb,Pa,Philadelphia,.15,,100,100,107,120,167,160,,
+"Provisions: veal, cutlets",per lb,W. Va,New Cumberland,.10,100,120,120,120,120,120,120,,
+"Provisions: veal, cutlets",per lb,Ohio,Zanesville,.10,100,80,80,90,100,100,120,,
+"Provisions: veal, cutlets",per lb,Ind,Evansville,.20,,100,100,100,125,125,125,,
+"Provisions: veal, fore quarters",per lb,Mass,Boston,0.09 5/24,100,98,63,77,126,153,151,,
+"Provisions: veal, fore quarters",per lb,Conn,New London,.10,100,130,130,140,140,150,150,,
+"Provisions: veal, fore quarters",per lb,Pa,Philadelphia,.06,,100,100,117,150,200,200,,
+"Provisions: veal, fore quarters",per lb,W. Va,New Cumberland,.04,100,150,150,150,150,150,150,,
+"Provisions: veal, fore quarters",per lb,Ohio,Canton,.03,100,100,133,200,333,267,267,,
+"Provisions: veal, fore quarters",per lb,Ohio,Zanesville,.05,100,100,100,120,140,140,140,,
+"Provisions: veal, fore quarters",per lb,Ind,Evansville,.075,,100,100,167,200,200,200,,
+"Provisions: veal, hind quarters",per lb,Conn,New London,0.14,100,107,107,114,114,129,129,,
+"Provisions: veal, hind quarters",per lb,N. J.,Camden,.10,100,100,100,100,140,140,140,,
+"Provisions: veal, hind quarters",per lb,Pa,Philadelphia,.10,,100,100,100,120,150,150,,
+"Provisions: veal, hind quarters",per lb,W. Va,New Cumberland,.05,100,160,160,160,160,160,160,,
+"Provisions: veal, hind quarters",per lb,Ohio,Canton,.04,100,100,125,200,313,250,250,,
+"Provisions: veal, hind quarters",per lb,Ohio,Zanesville,.06,100,100,100,117,133,133,133,,
+"Provisions: veal, hind quarters",per lb,Ind,Evansville,.08,100,100,100,156,188,188,188,,
+Provisions: rice,per lb,Conn,Jewett City,0.06,100,117,150,167,167,250,250,,
+Provisions: rice,per lb,Pa,Philadelphia,.08,,100,113,125,162,175,175,,
+Provisions: rice,per lb,Md,Baltimore,.06,100,100,150,167,250,250,233,,
+Provisions: rice,per lb,W. Va,New Cumberland,.07,100,143,214,214,214,214,214,,
+Provisions: rice,per lb,Ohio,Canton,.06,100,100,133,208,333,250,208,,
+Provisions: rice,per lb,Ohio,Springfield,.08,100,100,125,125,125,125,125,,
+Provisions: rice,per lb,Ohio,Zanesville,.0625,100,160,192,240,288,320,320,,
+Provisions: rice,per lb,Ind,Lawrenceburg,.10,100,100,150,200,200,120,120,,
+Provisions: rice,per lb,Ia,Cedar Rapids,.05,,100,200,240,240,250,250,,
+Provisions: potatoes,per bushel,Mass,Boston,1.02 2/3,100,81,94,93,153,117,117,,
+Provisions: potatoes,per bushel,Conn,Jewett City,0.50,100,90,110,100,180,160,120,,
+Provisions: potatoes,per bushel,Pa,Philadelphia,.60,,100,100,125,133,150,167,,
+Provisions: potatoes,per bushel,W. Va,New Cumberland,.35,100,143,214,214,214,214,214,,
+Provisions: potatoes,per bushel,Ohio,Springfield,.30,100,133,133,167,250,283,333,,
+Provisions: potatoes,per bushel,Ohio,Zanesville,.60,100,83,83,100,133,167,167,,
+Provisions: potatoes,per bushel,Ind,Lawrenceburg,.80,100,94,125,150,94,94,188,,
+Provisions: potatoes,per bushel,Ia,Cedar Rapids,.20,,100,175,200,200,200,350,,
+Fuel: oil,per gallon,Conn,Jewett City,1.00,100,75,75,75,92,100,90,,
+Fuel: oil,per gallon,Conn,New Haven,1.00,100,75,75,85,75,120,90,,
+Fuel: oil,per gallon,N. Y.,Watertown,1.12,,100,45,54,73,107,67,,
+Fuel: oil,per gallon,Pa,Norristown,0.70,100,100,100,100,171,171,143,,
+Fuel: oil,per gallon,Pa,Philadelphia,.25,,100,100,400,400,400,320,,
+Fuel: oil,per gallon,W. Va,New Cumberland,.30,100,100,133,133,167,167,133,,
+Fuel: oil,per gallon,Ohio,Canton,.50,100,80,80,100,120,100,80,,
+Fuel: oil,per gallon,Ohio,Zanesville,.60,100,100,100,100,100,100,117,,
+Fuel: oil,per gallon,Ill,Rock Island,.35,,100,171,286,286,229,171,,
+"Fuel: coal, anthracite",per ton,Mass,Boston (1),6.00,100,98,117,175,217,217,204,,
+"Fuel: coal, anthracite",per ton,Mass,Boston (2),5.75,100,121,117,173,220,229,192,,
+"Fuel: coal, anthracite",per ton,Pa,Philadelphia (1),5.00,,100,100,120,130,140,160,,
+"Fuel: coal, anthracite",per ton,Pa,Philadelphia (2),3.41,,100,123,186,277,281,218,,
+"Fuel: coal, anthracite",per ton,Pa,Reading,2.50,,100,100,180,220,260,260,,
+"Fuel: coal, anthracite",per ton,Ohio,Zanesville,3.00,100,100,133,167,167,167,167,,
+"Fuel: coal, bituminous",per ton,W. Va,New Cumberland,1.40,100,171,179,214,214,196,196,,
+"Fuel: coal, bituminous",per ton,Ohio,Canton,2.00,100,88,100,175,175,150,150,,
+"Fuel: coal, bituminous",per ton,Ohio,Springfield,3.50,,100,100,100,100,100,100,,
+"Fuel: coal, bituminous",per ton,Ohio,Zanesville,1.50,100,100,100,200,200,200,200,,
+"Fuel: coal, bituminous",per ton,Indiana,Lawrenceburg,3.50,100,93,114,114,129,114,107,,
+"Fuel: coal, bituminous",per ton,Illinois,Belleville,1.82,100,,,,171,171,171,,
+"Fuel: coal, bituminous",per ton,Illinois,Rock Island,3.12,100,80,96,104,104,104,104,,
+"Fuel: wood, hard",per cord,Mass,Boston (1),6.50,100,,150,169,200,200,231,,
+"Fuel: wood, hard",per cord,Mass,Boston (2),6.50,100,123,183,164,192,195,228,,
+"Fuel: wood, hard",per cord,Conn,Danielsonville,4.00,100,100,100,100,119,138,125,,
+"Fuel: wood, hard",per cord,Conn,Jewett City,3.50,100,100,100,114,114,157,143,,
+"Fuel: wood, hard",per cord,Pa,Reading,4.00,,100,100,125,125,150,150,,
+"Fuel: wood, hard",per cord,W. Va,New Cumberland,1.75,100,100,114,143,143,143,143,,
+"Fuel: wood, hard",per cord,Ohio,Canton,2.50,100,80,100,120,120,180,180,,
+"Fuel: wood, hard",per cord,Ohio,Springfield,3.00,100,92,92,100,133,167,167,,
+"Fuel: wood, hard",per cord,Ohio,Zanesville,1.50,100,133,133,150,183,200,200,,
+"Fuel: wood, hard",per cord,Indiana,Lawrenceburg,4.00,100,100,138,150,150,138,125,,
+"Fuel: wood, hard",per cord,Illinois,Rock Island,4.50,100,89,133,144,144,133,133,,
+"Fuel: wood, hard",per cord,Iowa,Cedar Rapids,2.50,,100,100,120,120,200,200,,
+"Fuel: wood, hard",per cord,Missouri,Pilot Knob,2.50,100,120,120,160,160,160,160,,
+"Fuel: wood, pine",per cord,Mass,Boston (1),4.50,100,,153,178,233,211,267,,
+"Fuel: wood, pine",per cord,Mass,Boston (2),4.50,100,133,154,185,230,207,267,,
+"Fuel: wood, pine",per cord,Conn,Danielsonville,3.50,100,100,100,100,121,143,129,,
+"Fuel: wood, pine",per cord,W. Va,New Cumberland,1.50,100,117,133,150,150,150,150,,
+"Fuel: wood, pine",per cord,Ohio,Zanesville,1.00,100,175,175,200,225,250,275,,
+"Fuel: wood, pine",per cord,Illinois,Rock Island,1.00,,100,150,200,200,150,150,,
+Men's heavy boots,per pair,Conn,Ansonia,2.50,,100,120,140,150,160,180,,
+Men's heavy boots,per pair,Conn,Jewett City,3.00,100,96,92,100,117,133,142,,
+Men's heavy boots,per pair,Conn,Waterbury,3.25,,100,108,108,123,123,123,,
+Men's heavy boots,per pair,N. Y.,Homer,3.50,,100,100,114,143,171,157,,
+Men's heavy boots,per pair,N. J.,Camden,2.50,100,100,115,135,150,160,155,,
+Men's heavy boots,per pair,Pa,Sharon,3.50,100,100,100,129,200,171,143,,
+Men's heavy boots,per pair,W. Va,New Cumberland,3.50,100,129,171,171,171,186,200,,
+Men's heavy boots,per pair,W. Va,Wheeling,4.00,100,113,125,138,150,150,150,,
+Men's heavy boots,per pair,Ohio,Canton,3.00,100,100,133,200,267,200,167,,
+Men's heavy boots,per pair,Ohio,Cincinnati,6.00,100,67,83,100,100,117,117,,
+Men's heavy boots,per pair,Ohio,Ravenna,3.00,100,108,142,158,183,183,183,,
+Men's heavy boots,per pair,Ohio,Zanesville,3.50,100,100,114,114,143,143,171,,
+Men's heavy boots,per pair,Ind,Aurora,5.00,100,100,100,100,120,120,100,,
+Men's heavy boots,per pair,Ind,Evansville,3.00,,100,100,117,150,150,133,,
+Men's heavy boots,per pair,Ind,Fort Wayne,3.50,,100,114,129,157,157,157,,
+Men's heavy boots,per pair,Ind,LaFayette,4.00,,100,100,,125,150,150,,
+Men's heavy boots,per pair,Ind,New Albany (1),3.00,100,100,117,133,167,167,133,,
+Men's heavy boots,per pair,Ind,New Albany (2),3.125,100,100,124,144,160,160,160,,
+Men's heavy boots,per pair,Ind,Terre Haute,4.00,100,150,150,169,181,181,181,,
+Men's heavy boots,per pair,Ind,Vincennes,3.00,,100,150,200,267,233,217,,
+Men's heavy boots,per pair,Ill,Belleville (1),4.50,100,100,100,111,111,111,111,,
+Men's heavy boots,per pair,Ill,Belleville (2),3.50,100,71,,,,171,157,,
+Men's heavy boots,per pair,Ill,Bloomington,2.50,100,110,120,140,160,160,160,,
+Men's heavy boots,per pair,Ill,Springfield,2.00,100,88,113,150,175,200,225,,
+Men's heavy boots,per pair,Iowa,Cedar Rapids,3.50,,100,157,157,143,143,143,,
+Men's heavy boots,per pair,Mo,Pilot Knob,4.00,100,100,113,125,125,125,100,,
+Men's heavy boots,per pair,Mo,St. Louis,2.50,100,120,140,160,160,160,140,,
+Rent of houses per month: four rooms,per month,Mass,Boston,5.00,100,100,100,100,140,140,140,140,200
+Rent of houses per month: four rooms,per month,Conn,Jewett City,2.00,100,100,100,100,100,100,100,100,100
+Rent of houses per month: four rooms,per month,N. J.,Camden,6.50,100,100,100,92,92,115,115,115,123
+Rent of houses per month: four rooms,per month,Pa,Philadelphia,6.00,,100,100,100,133,167,200,200,200
+Rent of houses per month: four rooms,per month,W. Va,New Cumberland,4.00,100,100,125,125,138,138,138,125,100
+Rent of houses per month: four rooms,per month,Ohio,Canton,6.25,100,64,80,96,96,96,96,96,96
+Rent of houses per month: four rooms,per month,Ohio,Cincinnati,6.00,100,67,67,83,100,100,100,83,83
+Rent of houses per month: four rooms,per month,Ohio,Springfield,5.00,100,100,100,100,100,100,100,120,120
+Rent of houses per month: four rooms,per month,Ohio,Zanesville,7.00,100,100,114,114,114,129,129,143,143
+Rent of houses per month: four rooms,per month,Ky,Louisville,12.00,100,125,125,167,208,208,208,167,167
+Rent of houses per month: four rooms,per month,Ind,Indianapolis,7.00,,100,129,129,129,,143,143,143
+Rent of houses per month: four rooms,per month,Ind,LaFayette,6.00,100,100,100,100,100,108,117,133,142
+Rent of houses per month: four rooms,per month,Ind,Lawrenceburg,7.00,100,114,143,143,143,143,143,143,129
+Rent of houses per month: four rooms,per month,Ind,Terre Haute,8.00,,100,125,163,175,175,175,175,175
+Rent of houses per month: four rooms,per month,Ill,Bloomington,8.00,,100,100,113,125,125,125,138,138
+Rent of houses per month: four rooms,per month,Ill,Rock Island,4.00,,100,100,100,100,125,125,125,125
+Rent of houses per month: four rooms,per month,Iowa,Cedar Rapids,5.00,,100,100,100,120,120,120,130,130
+Rent of houses per month: four rooms,per month,Mo,Pilot Knob,5.00,100,100,120,120,120,120,80,80,80
+Rent of houses per month: four rooms,per month,Mo,St. Louis,10.00,100,100,100,150,150,150,180,180,180
+Rent of houses per month: six or seven rooms,per month,Mass,Boston [6 rooms],9.00,100,100,100,100,133,133,133,133,189
+Rent of houses per month: six or seven rooms,per month,Mass,Boston [7 rooms],10.00,100,100,100,100,140,140,140,140,200
+Rent of houses per month: six or seven rooms,per month,Conn,Jewett City [6 rooms],3.00,100,100,100,100,100,100,100,100,100
+Rent of houses per month: six or seven rooms,per month,N. J.,Camden [6 rooms],8.00,100,100,100,100,100,125,125,150,188
+Rent of houses per month: six or seven rooms,per month,Pa,Hokendauqua [6 rooms],3.42,100,100,111,117,129,129,129,129,129
+Rent of houses per month: six or seven rooms,per month,Pa,Philadelphia [6 rooms],9.00,,100,100,100,133,167,200,200,200
+Rent of houses per month: six or seven rooms,per month,W. Va,New Cumberland [6 rooms],6.00,100,100,133,133,133,133,133,133,117
+Rent of houses per month: six or seven rooms,per month,Ohio,"Canton [6 rooms, 1st]",7.00,,100,114,129,143,143,143,143,143
+Rent of houses per month: six or seven rooms,per month,Ohio,"Canton [6 rooms, 2d]",7.00,100,71,86,100,114,114,114,114,114
+Rent of houses per month: six or seven rooms,per month,Ohio,Cincinnati [6 rooms],8.00,100,100,100,150,313,313,313,250,250
+Rent of houses per month: six or seven rooms,per month,Ohio,Zanesville [6 rooms],9.00,100,100,100,111,111,111,111,122,122
+Rent of houses per month: six or seven rooms,per month,Ky,Louisville [6 rooms],15.00,100,133,133,167,233,233,233,167,167
+Rent of houses per month: six or seven rooms,per month,Ind,Indianapolis [6 rooms],8.00,,100,125,125,138,138,138,150,150
+Rent of houses per month: six or seven rooms,per month,Ind,La Fayette [6 rooms],8.00,100,100,100,100,100,113,125,138,144
+Rent of houses per month: six or seven rooms,per month,Ind,Lawrenceburg [6 rooms],10.00,100,110,125,125,125,125,125,125,125
+Rent of houses per month: six or seven rooms,per month,Ill,Bloomington [6 rooms],10.00,,100,100,120,120,120,120,130,130
+Rent of houses per month: six or seven rooms,per month,Ill,Rock Island [6 rooms],6.00,,100,100,100,100,117,117,117,117
+Rent of houses per month: six or seven rooms,per month,Ia,Cedar Rapids [6 rooms],6.00,,100,100,100,117,117,117,125,125
+Rent of houses per month: six or seven rooms,per month,Mo,St. Louis [6 rooms],15.00,100,80,80,111,111,111,133,133,133
+Board per week: for men,per week,Conn,Jewett City,2.00,100,100,100,100,150,150,175,,
+Board per week: for men,per week,Pa,Philadelphia,3.00,,100,117,117,,167,167,,
+Board per week: for men,per week,Pa,Sharon,2.50,100,100,100,160,200,200,200,,
+Board per week: for men,per week,W. Va,New Cumberland,1.50,100,133,167,167,167,167,167,,
+Board per week: for men,per week,Ohio,Canton,2.50,100,120,180,180,180,180,160,,
+Board per week: for men,per week,Ohio,Cincinnati,1.75,100,114,114,171,229,229,229,,
+Board per week: for men,per week,Ohio,Springfield,2.50,100,120,120,160,200,200,180,,
+Board per week: for men,per week,Ohio,Zanesville,2.75,100,109,109,127,127,145,145,,
+Board per week: for men,per week,Ky,Louisville,4.00,100,100,100,125,175,175,175,,
+Board per week: for men,per week,Ind,Fort Wayne,2.00,,100,100,150,150,150,150,,
+Board per week: for men,per week,Ind,Indianapolis,3.50,,100,114,128,143,143,143,,
+Board per week: for men,per week,Ind,Lawrenceburg,3.50,100,100,114,128,143,143,128,,
+Board per week: for men,per week,Ill,Belleville,5.00,,100,100,100,100,100,100,,
+Board per week: for men,per week,Ill,Rock Island,2.50,,100,100,100,100,120,120,,
+Board per week: for men,per week,Ia,Cedar Rapids,2.50,,100,100,100,120,120,120,,
+Board per week: for men,per week,Mo,Pilot Knob,3.00,100,117,133,150,150,150,117,,
+Board per week: for women,per week,Conn,Jewett City,1.50,100,100,100,100,133,133,167,,
+Board per week: for women,per week,Pa,Philadelphia,1.75,,100,114,129,143,171,171,,
+Board per week: for women,per week,W. Va,New Cumberland,1.25,100,140,160,160,160,160,160,,
+Board per week: for women,per week,Ohio,Canton,2.50,100,120,180,180,180,180,160,,
+Board per week: for women,per week,Ohio,Cincinnati,1.50,100,100,100,167,233,233,233,,
+Board per week: for women,per week,Ohio,Springfield,2.50,100,120,120,160,200,200,180,,
+Board per week: for women,per week,Ohio,Zanesville,2.00,100,138,138,150,150,175,175,,
+Board per week: for women,per week,Ky,Louisville,3.00,100,100,100,133,167,167,167,,
+Board per week: for women,per week,Ind,Indianapolis,3.00,,100,133,133,133,133,133,,
+Board per week: for women,per week,Ill,Belleville,4.00,,100,100,100,100,100,100,,
+Board per week: for women,per week,Ill,Rock Island,2.00,,100,100,100,100,125,125,,
+Board per week: for women,per week,Ia,Cedar Rapids,2.00,,100,100,100,150,150,150,,
+Board per week: for women,per week,Mo,Pilot Knob,3.00,100,117,133,150,150,150,117,,

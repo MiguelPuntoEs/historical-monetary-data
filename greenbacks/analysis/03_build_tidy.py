@@ -30,6 +30,8 @@ TABLES = {
     "mitchell_appendix_b_table2_wholesale_prices.csv": (["date"], "commodity", "relative_price"),
     "mitchell_appendix_b_table3_government_prices.csv": (
         ["section", "item"], "year", "relative_price"),
+    "mitchell_appendix_b_table4_retail_prices.csv": (
+        ["commodity", "unit", "state", "town", "initial_price"], "year", "relative_price"),
     "mitchell_appendix_b_table5_wholesale_vs_retail.csv": (
         ["commodity", "channel", "number_of_price_series"], "year", "relative_price"),
 }
