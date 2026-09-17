@@ -1,0 +1,1720 @@
+industry,location_number,state,occupation,sex,initial_wage_per_day,date,num_workers,relative_wage
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1860-01,1,100
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1860-01,2,100
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1860-01,2,100
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1860-01,1,100
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1860-01,3,100
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1860-07,1,100
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1860-07,2,100
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1860-07,2,100
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1860-07,1,100
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1860-07,2,103
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1861-01,1,100
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1861-01,2,100
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1861-01,2,108
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1861-01,1,100
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1861-01,2,103
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1861-07,1,99
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1861-07,2,100
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1861-07,2,108
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1861-07,1,100
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1861-07,1,94
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1862-01,1,99
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1862-01,2,88
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1862-01,2,100
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1862-01,1,100
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1862-01,1,113
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1862-07,1,98
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1862-07,1,100
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1862-07,1,84
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1862-07,1,113
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1863-01,1,108
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1863-01,3,90
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1863-01,1,113
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1863-01,2,113
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1863-07,1,112
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1863-07,5,112
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1863-07,2,101
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1863-07,2,119
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1864-01,1,122
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1864-01,2,117
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1864-01,2,108
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1864-01,3,89
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1864-01,4,124
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1864-07,1,152
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1864-07,3,142
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1864-07,3,123
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1864-07,2,106
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1864-07,3,161
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1865-01,1,152
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1865-01,3,150
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1865-01,3,125
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1865-01,2,113
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1865-01,4,169
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1865-07,1,175
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1865-07,7,161
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1865-07,3,138
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1865-07,2,127
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1865-07,4,189
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1866-01,1,175
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1866-01,6,163
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1866-01,6,131
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1866-01,3,124
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1866-01,5,191
+Agricultural implements,1,Massachusetts,Foremen Woodwork's,M,1.64,1866-07,1,183
+Agricultural implements,1,Massachusetts,Laborers,M,1.00,1866-07,5,169
+Agricultural implements,1,Massachusetts,Machinists,M,1.665,1866-07,5,134
+Agricultural implements,1,Massachusetts,Painters,M,1.25,1866-07,1,120
+Agricultural implements,1,Massachusetts,Woodwork's,M,1.333,1866-07,5,179
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1860-01,1,100
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1860-01,1,100
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1860-01,8,100
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1860-01,26,100
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1860-01,4,100
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1860-07,1,100
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1860-07,1,100
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1860-07,8,101
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1860-07,28,99
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1860-07,3,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1861-01,1,120
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1861-01,1,100
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1861-01,8,101
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1861-01,32,99
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1861-01,3,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1861-07,1,120
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1861-07,1,100
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1861-07,10,100
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1861-07,30,100
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1861-07,3,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1862-01,1,120
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1862-01,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1862-01,7,101
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1862-01,26,99
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1862-01,3,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1862-07,1,120
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1862-07,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1862-07,6,101
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1862-07,33,101
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1862-07,3,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1863-01,1,120
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1863-01,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1863-01,7,101
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1863-01,26,102
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1863-01,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1863-07,2,115
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1863-07,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1863-07,8,103
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1863-07,27,114
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1863-07,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1864-01,3,124
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1864-01,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1864-01,6,125
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1864-01,29,134
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1864-01,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1864-07,3,129
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1864-07,2,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1864-07,7,131
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1864-07,28,147
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1864-07,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1865-01,3,136
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1865-01,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1865-01,5,127
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1865-01,23,151
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1865-01,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1865-07,4,130
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1865-07,1,150
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1865-07,4,148
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1865-07,18,149
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1865-07,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1866-01,4,132
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1866-01,1,250
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1866-01,5,146
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1866-01,30,154
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1866-01,2,107
+"Ale, beer, and porter",2,New York,Foremen Laborers,M,1.34,1866-07,4,132
+"Ale, beer, and porter",2,New York,Brewers,M,6.39,1866-07,1,250
+"Ale, beer, and porter",2,New York,Coopers,M,1.505,1866-07,5,143
+"Ale, beer, and porter",2,New York,Laborers,M,0.85,1866-07,21,152
+"Ale, beer, and porter",2,New York,Teamsters,M,1.44,1866-07,2,107
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1860-01,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1860-01,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1860-01,2,100
+Books and newspapers,5,New York,Compositors,M,1.665,1860-01,17,100
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1860-01,10,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1860-07,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1860-07,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1860-07,2,100
+Books and newspapers,5,New York,Compositors,M,1.665,1860-07,11,100
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1860-07,7,81
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1861-01,8,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1861-01,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1861-01,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1861-01,1,95
+Books and newspapers,5,New York,Compositors,M,1.665,1861-01,20,99
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1861-01,8,76
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1861-07,8,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1861-07,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1861-07,1,100
+Books and newspapers,5,New York,Compositors,M,1.665,1861-07,17,99
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1861-07,6,72
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1862-01,6,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1862-01,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1862-01,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1862-01,2,95
+Books and newspapers,5,New York,Compositors,M,1.665,1862-01,16,99
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1862-01,5,81
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1862-07,6,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1862-07,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1862-07,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1862-07,2,95
+Books and newspapers,5,New York,Compositors,M,1.665,1862-07,18,99
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1862-07,7,88
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1863-01,6,100
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1863-01,2,100
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1863-01,1,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1863-01,1,102
+Books and newspapers,5,New York,Compositors,M,1.665,1863-01,21,99
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1863-01,5,94
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1863-07,8,100
+Books and newspapers,5,New York,Carpent's,M,1.315,1863-07,1,102
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1864-01,6,120
+Books and newspapers,5,New York,Carpent's,M,1.315,1864-01,1,102
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1864-07,9,150
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1864-07,2,138
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1864-07,1,133
+Books and newspapers,5,New York,Carpent's,M,1.315,1864-07,1,127
+Books and newspapers,5,New York,Compositors,M,1.665,1864-07,23,150
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1864-07,4,99
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1865-01,12,180
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1865-01,2,150
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1865-01,1,133
+Books and newspapers,5,New York,Carpent's,M,1.315,1865-01,1,127
+Books and newspapers,5,New York,Compositors,M,1.665,1865-01,27,150
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1865-01,4,108
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1865-07,12,180
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1865-07,2,150
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1865-07,1,142
+Books and newspapers,5,New York,Carpent's,M,1.315,1865-07,1,127
+Books and newspapers,5,New York,Compositors,M,1.665,1865-07,25,150
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1865-07,4,105
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1866-01,12,180
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1866-01,2,150
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1866-01,1,150
+Books and newspapers,5,New York,Carpent's,M,1.315,1866-01,1,140
+Books and newspapers,5,New York,Compositors,M,1.665,1866-01,23,150
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1866-01,5,120
+Books and newspapers,4,Maryland,Printers: Bk. and Job,M,1.665,1866-07,12,180
+Books and newspapers,5,New York,Foremen Comps.,M,2.00,1866-07,2,150
+Books and newspapers,5,New York,Foremen Pressmen,M,2.00,1866-07,1,150
+Books and newspapers,5,New York,Compositors,M,1.665,1866-07,26,150
+Books and newspapers,5,New York,Comps. Learners,M,0.695,1866-07,3,132
+Books and newspapers,5,New York,Machin'ts,M,1.705,1860-01,2,100
+Books and newspapers,5,New York,Pressmen,M,1.665,1860-01,1,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1860-01,3,100
+Books and newspapers,5,New York,Porters,M,0.915,1860-01,2,100
+Books and newspapers,5,New York,Folders,F,0.47,1860-01,16,100
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1860-01,6,100
+Books and newspapers,5,New York,Machin'ts,M,1.705,1860-07,3,95
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1860-07,1,41
+Books and newspapers,5,New York,Porters,M,0.915,1860-07,3,109
+Books and newspapers,5,New York,Folders,F,0.47,1860-07,7,99
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1860-07,5,104
+Books and newspapers,5,New York,Machin'ts,M,1.705,1861-01,3,95
+Books and newspapers,5,New York,Pressmen,M,1.665,1861-01,2,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1861-01,3,105
+Books and newspapers,5,New York,Porters,M,0.915,1861-01,3,115
+Books and newspapers,5,New York,Folders,F,0.47,1861-01,16,91
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1861-01,8,97
+Books and newspapers,5,New York,Machin'ts,M,1.705,1861-07,4,95
+Books and newspapers,5,New York,Pressmen,M,1.665,1861-07,2,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1861-07,4,104
+Books and newspapers,5,New York,Porters,M,0.915,1861-07,3,103
+Books and newspapers,5,New York,Folders,F,0.47,1861-07,15,94
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1861-07,10,98
+Books and newspapers,5,New York,Machin'ts,M,1.705,1862-01,3,94
+Books and newspapers,5,New York,Pressmen,M,1.665,1862-01,2,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1862-01,5,113
+Books and newspapers,5,New York,Porters,M,0.915,1862-01,3,103
+Books and newspapers,5,New York,Folders,F,0.47,1862-01,11,100
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1862-01,7,84
+Books and newspapers,5,New York,Machin'ts,M,1.705,1862-07,1,88
+Books and newspapers,5,New York,Pressmen,M,1.665,1862-07,2,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1862-07,3,95
+Books and newspapers,5,New York,Porters,M,0.915,1862-07,3,109
+Books and newspapers,5,New York,Folders,F,0.47,1862-07,12,105
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1862-07,9,95
+Books and newspapers,5,New York,Machin'ts,M,1.705,1863-01,2,92
+Books and newspapers,5,New York,Pressmen,M,1.665,1863-01,2,100
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1863-01,2,126
+Books and newspapers,5,New York,Porters,M,0.915,1863-01,3,119
+Books and newspapers,5,New York,Folders,F,0.47,1863-01,11,104
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1863-01,9,103
+Books and newspapers,5,New York,Machin'ts,M,1.705,1864-07,3,137
+Books and newspapers,5,New York,Pressmen,M,1.665,1864-07,2,150
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1864-07,4,119
+Books and newspapers,5,New York,Porters,M,0.915,1864-07,5,138
+Books and newspapers,5,New York,Folders,F,0.47,1864-07,26,119
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1864-07,14,137
+Books and newspapers,5,New York,Machin'ts,M,1.705,1865-01,2,161
+Books and newspapers,5,New York,Pressmen,M,1.665,1865-01,1,150
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1865-01,5,139
+Books and newspapers,5,New York,Porters,M,0.915,1865-01,5,144
+Books and newspapers,5,New York,Folders,F,0.47,1865-01,41,110
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1865-01,14,133
+Books and newspapers,5,New York,Machin'ts,M,1.705,1865-07,3,156
+Books and newspapers,5,New York,Pressmen,M,1.665,1865-07,3,133
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1865-07,4,133
+Books and newspapers,5,New York,Porters,M,0.915,1865-07,4,146
+Books and newspapers,5,New York,Folders,F,0.47,1865-07,30,117
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1865-07,13,140
+Books and newspapers,5,New York,Machin'ts,M,1.705,1866-01,2,153
+Books and newspapers,5,New York,Pressmen,M,1.665,1866-01,3,130
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1866-01,5,134
+Books and newspapers,5,New York,Porters,M,0.915,1866-01,5,144
+Books and newspapers,5,New York,Folders,F,0.47,1866-01,30,119
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1866-01,12,140
+Books and newspapers,5,New York,Pressmen,M,1.665,1866-07,3,130
+Books and newspapers,5,New York,Pressroom Hands,M,0.612,1866-07,5,115
+Books and newspapers,5,New York,Porters,M,0.915,1866-07,3,140
+Books and newspapers,5,New York,Folders,F,0.47,1866-07,22,134
+Books and newspapers,5,New York,Pressroom Hands,F,0.465,1866-07,13,145
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1860-01,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1860-01,2,100
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1860-01,9,100
+Books and newspapers,6,New York,Pressmen,M,2.335,1860-01,1,100
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1860-07,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1860-07,2,104
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1860-07,9,101
+Books and newspapers,6,New York,Pressmen,M,2.335,1860-07,1,93
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1861-01,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1861-01,3,108
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1861-01,8,88
+Books and newspapers,6,New York,Pressmen,M,2.335,1861-01,1,93
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1861-07,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1861-07,4,104
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1861-07,7,83
+Books and newspapers,6,New York,Pressmen,M,2.335,1861-07,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1861-07,1,100
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1862-01,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1862-01,6,106
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1862-01,7,93
+Books and newspapers,6,New York,Pressmen,M,2.335,1862-01,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1862-01,1,152
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1862-07,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1862-07,6,104
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1862-07,8,91
+Books and newspapers,6,New York,Pressmen,M,2.335,1862-07,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1862-07,1,152
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1863-01,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1863-01,6,107
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1863-01,6,89
+Books and newspapers,6,New York,Pressmen,M,2.335,1863-01,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1863-01,1,152
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1863-07,2,100
+Books and newspapers,6,New York,Compositors,M,1.835,1863-07,6,111
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1863-07,6,89
+Books and newspapers,6,New York,Pressmen,M,2.335,1863-07,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1863-07,1,152
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1864-01,2,110
+Books and newspapers,6,New York,Compositors,M,1.835,1864-01,9,114
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1864-01,2,121
+Books and newspapers,6,New York,Pressmen,M,2.335,1864-01,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1864-01,2,152
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1864-07,2,117
+Books and newspapers,6,New York,Compositors,M,1.835,1864-07,8,117
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1864-07,3,99
+Books and newspapers,6,New York,Pressmen,M,2.335,1864-07,1,93
+Books and newspapers,6,New York,Press-feeders,F,0.33,1864-07,2,164
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1865-01,3,129
+Books and newspapers,6,New York,Compositors,M,1.835,1865-01,11,138
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1865-01,4,98
+Books and newspapers,6,New York,Press-feeders,F,0.33,1865-01,2,174
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1865-07,3,129
+Books and newspapers,6,New York,Compositors,M,1.835,1865-07,8,136
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1865-07,3,121
+Books and newspapers,6,New York,Press-feeders,F,0.33,1865-07,3,189
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1866-01,3,129
+Books and newspapers,6,New York,Compositors,M,1.835,1866-01,10,134
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1866-01,4,97
+Books and newspapers,6,New York,Press-feeders,F,0.33,1866-01,4,202
+Books and newspapers,6,New York,Foremen Compositors,M,2.50,1866-07,3,129
+Books and newspapers,6,New York,Compositors,M,1.835,1866-07,10,134
+Books and newspapers,6,New York,Compositors Apprentices,M,0.755,1866-07,3,103
+Books and newspapers,6,New York,Press-feeders,F,0.33,1866-07,4,202
+Building trades,7,Connecticut,Carpent's,M,1.50,1860-01,4,100
+Building trades,8,Connecticut,Carpent's,M,1.715,1860-01,9,100
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1860-01,1,100
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1860-01,8,100
+Building trades,9,Connecticut,Masons,M,1.765,1860-01,6,100
+Building trades,10,Maryland,Painters,M,1.75,1860-01,2,100
+Building trades,7,Connecticut,Carpent's,M,1.50,1860-07,6,117
+Building trades,8,Connecticut,Carpent's,M,1.715,1860-07,10,99
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1860-07,17,137
+Building trades,9,Connecticut,Masons,M,1.765,1860-07,11,116
+Building trades,10,Maryland,Painters,M,1.75,1860-07,4,100
+Building trades,7,Connecticut,Carpent's,M,1.50,1861-01,3,89
+Building trades,8,Connecticut,Carpent's,M,1.715,1861-01,9,91
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1861-01,1,138
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1861-01,12,125
+Building trades,9,Connecticut,Masons,M,1.765,1861-01,12,105
+Building trades,10,Maryland,Painters,M,1.75,1861-01,2,86
+Building trades,7,Connecticut,Carpent's,M,1.50,1861-07,4,100
+Building trades,8,Connecticut,Carpent's,M,1.715,1861-07,6,87
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1861-07,2,132
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1861-07,40,125
+Building trades,9,Connecticut,Masons,M,1.765,1861-07,1,113
+Building trades,10,Maryland,Painters,M,1.75,1861-07,1,86
+Building trades,7,Connecticut,Carpent's,M,1.50,1862-01,3,89
+Building trades,8,Connecticut,Carpent's,M,1.715,1862-01,1,87
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1862-01,15,125
+Building trades,9,Connecticut,Masons,M,1.765,1862-01,9,113
+Building trades,10,Maryland,Painters,M,1.75,1862-01,1,86
+Building trades,7,Connecticut,Carpent's,M,1.50,1862-07,3,100
+Building trades,8,Connecticut,Carpent's,M,1.715,1862-07,7,89
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1862-07,1,134
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1862-07,9,125
+Building trades,9,Connecticut,Masons,M,1.765,1862-07,9,113
+Building trades,10,Maryland,Painters,M,1.75,1862-07,6,86
+Building trades,7,Connecticut,Carpent's,M,1.50,1863-01,2,100
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1863-01,10,188
+Building trades,9,Connecticut,Masons,M,1.765,1863-01,7,158
+Building trades,10,Maryland,Painters,M,1.75,1863-01,1,86
+Building trades,7,Connecticut,Carpent's,M,1.50,1863-07,3,117
+Building trades,8,Connecticut,Carpent's,M,1.715,1863-07,20,112
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1863-07,2,125
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1863-07,7,202
+Building trades,9,Connecticut,Masons,M,1.765,1863-07,4,131
+Building trades,10,Maryland,Painters,M,1.75,1863-07,8,100
+Building trades,7,Connecticut,Carpent's,M,1.50,1864-01,3,117
+Building trades,8,Connecticut,Carpent's,M,1.715,1864-01,19,111
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1864-01,6,125
+Building trades,10,Maryland,Painters,M,1.75,1864-01,2,114
+Building trades,8,Connecticut,Carpent's,M,1.715,1864-07,23,131
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1864-07,9,157
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1864-07,17,199
+Building trades,9,Connecticut,Masons,M,1.765,1864-07,21,140
+Building trades,10,Maryland,Painters,M,1.75,1864-07,9,143
+Building trades,7,Connecticut,Carpent's,M,1.50,1865-01,3,150
+Building trades,8,Connecticut,Carpent's,M,1.715,1865-01,10,127
+Building trades,8,Connecticut,Carpent's Helpers,M,1.00,1865-01,6,146
+Building trades,10,Maryland,Painters,M,1.75,1865-01,5,143
+Building trades,7,Connecticut,Carpent's,M,1.50,1865-07,4,183
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1865-07,5,208
+Building trades,9,Connecticut,Masons,M,1.765,1865-07,7,160
+Building trades,10,Maryland,Painters,M,1.75,1865-07,9,143
+Building trades,7,Connecticut,Carpent's,M,1.50,1866-01,4,171
+Building trades,10,Maryland,Painters,M,1.75,1866-01,5,143
+Building trades,7,Connecticut,Carpent's,M,1.50,1866-07,4,188
+Building trades,9,Connecticut,Hod Carriers,M,0.80,1866-07,13,208
+Building trades,9,Connecticut,Masons,M,1.765,1866-07,10,170
+Building trades,10,Maryland,Painters,M,1.75,1866-07,11,143
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1860-01,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1860-01,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1860-01,9,100
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1860-01,5,100
+Building trades,12,Massachusetts,Masons,M,1.875,1860-01,5,100
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1860-01,9,100
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1860-07,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1860-07,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1860-07,12,86
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1860-07,6,91
+Building trades,12,Massachusetts,Masons,M,1.875,1860-07,11,85
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1860-07,15,100
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1861-01,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1861-01,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1861-01,12,107
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1861-01,12,100
+Building trades,12,Massachusetts,Masons,M,1.875,1861-01,11,101
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1861-01,9,85
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1861-07,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1861-07,1,120
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1861-07,28,101
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1861-07,35,100
+Building trades,12,Massachusetts,Masons,M,1.875,1861-07,13,96
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1861-07,15,92
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1862-01,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1862-01,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1862-01,10,106
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1862-01,13,101
+Building trades,12,Massachusetts,Masons,M,1.875,1862-01,10,84
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1862-01,20,97
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1862-07,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1862-07,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1862-07,11,105
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1862-07,14,110
+Building trades,12,Massachusetts,Masons,M,1.875,1862-07,13,105
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1862-07,17,110
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1863-01,1,100
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1863-01,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1863-01,4,110
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1863-01,9,109
+Building trades,12,Massachusetts,Masons,M,1.875,1863-01,4,93
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1863-01,6,118
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1863-07,2,110
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1863-07,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1863-07,17,105
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1863-07,14,108
+Building trades,12,Massachusetts,Masons,M,1.875,1863-07,9,102
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1863-07,16,114
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1864-01,1,120
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1864-01,1,100
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1864-01,15,120
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1864-01,11,122
+Building trades,12,Massachusetts,Masons,M,1.875,1864-01,7,114
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1864-01,11,130
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1864-07,2,120
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1864-07,19,131
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1864-07,13,134
+Building trades,12,Massachusetts,Masons,M,1.875,1864-07,19,102
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1864-07,8,142
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1865-01,1,120
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1865-01,9,139
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1865-01,9,134
+Building trades,12,Massachusetts,Masons,M,1.875,1865-01,7,116
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1865-01,9,142
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1865-07,1,160
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1865-07,20,146
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1865-07,18,134
+Building trades,12,Massachusetts,Masons,M,1.875,1865-07,8,137
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1865-07,8,142
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1866-01,1,160
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1866-01,1,160
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1866-01,15,147
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1866-01,11,156
+Building trades,12,Massachusetts,Masons,M,1.875,1866-01,13,143
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1866-01,13,160
+Building trades,12,Massachusetts,Foremen Brickl'rs,M,2.50,1866-07,1,160
+Building trades,12,Massachusetts,Foremen Masons,M,2.50,1866-07,1,160
+Building trades,12,Massachusetts,Brickl'rs,M,1.765,1866-07,13,167
+Building trades,12,Massachusetts,Brickl'rs Helpers,M,1.12,1866-07,11,156
+Building trades,12,Massachusetts,Masons,M,1.875,1866-07,15,167
+Building trades,12,Massachusetts,Masons' Helpers,M,1.055,1866-07,21,166
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1860-01,1,100
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1860-01,1,100
+Building trades,13,Massachusetts,Carpent's,M,1.425,1860-01,7,100
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1860-01,1,100
+Building trades,13,Massachusetts,Painters,M,1.165,1860-01,6,100
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1860-01,4,100
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1860-07,1,100
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1860-07,1,100
+Building trades,13,Massachusetts,Carpent's,M,1.425,1860-07,17,93
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1860-07,4,100
+Building trades,13,Massachusetts,Painters,M,1.165,1860-07,6,102
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1860-07,5,90
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1861-01,1,100
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1861-01,1,100
+Building trades,13,Massachusetts,Carpent's,M,1.425,1861-01,14,93
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1861-01,3,100
+Building trades,13,Massachusetts,Painters,M,1.165,1861-01,6,101
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1861-01,4,105
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1861-07,1,100
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1861-07,1,100
+Building trades,13,Massachusetts,Carpent's,M,1.425,1861-07,21,83
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1861-07,3,100
+Building trades,13,Massachusetts,Painters,M,1.165,1861-07,4,99
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1862-01,1,120
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1862-01,1,100
+Building trades,13,Massachusetts,Carpent's,M,1.425,1862-01,18,90
+Building trades,13,Massachusetts,Painters,M,1.165,1862-01,4,107
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1862-01,4,93
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1862-07,1,105
+Building trades,13,Massachusetts,Carpent's,M,1.425,1862-07,18,95
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1862-07,3,90
+Building trades,13,Massachusetts,Painters,M,1.165,1862-07,4,103
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1863-01,1,120
+Building trades,13,Massachusetts,Carpent's,M,1.425,1863-01,20,99
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1863-01,3,120
+Building trades,13,Massachusetts,Painters,M,1.165,1863-01,6,119
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1863-01,3,111
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1863-07,1,120
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1863-07,1,111
+Building trades,13,Massachusetts,Carpent's,M,1.425,1863-07,23,106
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1863-07,5,120
+Building trades,13,Massachusetts,Painters,M,1.165,1863-07,6,107
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1863-07,2,110
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1864-01,1,135
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1864-01,1,111
+Building trades,13,Massachusetts,Carpent's,M,1.425,1864-01,15,110
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1864-01,4,120
+Building trades,13,Massachusetts,Painters,M,1.165,1864-01,7,110
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1864-01,3,115
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1864-07,1,135
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1864-07,1,117
+Building trades,13,Massachusetts,Carpent's,M,1.425,1864-07,20,119
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1864-07,6,120
+Building trades,13,Massachusetts,Painters,M,1.165,1864-07,20,130
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1864-07,6,106
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1865-01,1,135
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1865-01,1,133
+Building trades,13,Massachusetts,Carpent's,M,1.425,1865-01,17,126
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1865-01,3,151
+Building trades,13,Massachusetts,Painters,M,1.165,1865-01,3,150
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1865-01,4,123
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1865-07,1,150
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1865-07,1,150
+Building trades,13,Massachusetts,Carpent's,M,1.425,1865-07,19,147
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1865-07,3,151
+Building trades,13,Massachusetts,Painters,M,1.165,1865-07,5,172
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1865-07,4,120
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1866-01,1,165
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1866-01,1,167
+Building trades,13,Massachusetts,Carpent's,M,1.425,1866-01,30,152
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1866-01,5,181
+Building trades,13,Massachusetts,Painters,M,1.165,1866-01,15,152
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1866-01,6,113
+Building trades,13,Massachusetts,Foremen Carpent's,M,1.67,1866-07,1,195
+Building trades,13,Massachusetts,Foremen Painters,M,1.50,1866-07,1,183
+Building trades,13,Massachusetts,Carpent's,M,1.425,1866-07,24,167
+Building trades,13,Massachusetts,Carpent's Helpers,M,0.83,1866-07,6,211
+Building trades,13,Massachusetts,Painters,M,1.165,1866-07,4,182
+Building trades,14,Massachusetts,Stm. & Gas Fitters,M,1.875,1866-07,5,120
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1859-07,2,100
+Building trades,15,Massachusetts,Painters House,M,1.10,1860-01,5,100
+Building trades,16,New Jersey,Plumbers,M,2.00,1860-01,1,100
+Building trades,16,New Jersey,Laborers,M,1.18,1860-01,3,100
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1860-01,8,100
+Building trades,17,New York,Carpent's,M,1.185,1860-01,2,100
+Building trades,15,Massachusetts,Painters House,M,1.10,1860-07,10,101
+Building trades,16,New Jersey,Plumbers,M,2.00,1860-07,1,100
+Building trades,16,New Jersey,Laborers,M,1.18,1860-07,3,100
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1860-07,8,104
+Building trades,17,New York,Carpent's,M,1.185,1860-07,5,110
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1861-01,1,84
+Building trades,15,Massachusetts,Painters House,M,1.10,1861-01,5,103
+Building trades,16,New Jersey,Plumbers,M,2.00,1861-01,1,100
+Building trades,16,New Jersey,Laborers,M,1.18,1861-01,2,85
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1861-01,6,108
+Building trades,17,New York,Carpent's,M,1.185,1861-01,5,112
+Building trades,15,Massachusetts,Painters House,M,1.10,1861-07,17,101
+Building trades,16,New Jersey,Plumbers,M,2.00,1861-07,1,100
+Building trades,16,New Jersey,Laborers,M,1.18,1861-07,2,85
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1861-07,5,110
+Building trades,17,New York,Carpent's,M,1.185,1861-07,5,122
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1862-01,2,110
+Building trades,15,Massachusetts,Painters House,M,1.10,1862-01,3,114
+Building trades,16,New Jersey,Plumbers,M,2.00,1862-01,2,81
+Building trades,16,New Jersey,Laborers,M,1.18,1862-01,3,92
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1862-01,3,113
+Building trades,17,New York,Carpent's,M,1.185,1862-01,3,127
+Building trades,15,Massachusetts,Painters House,M,1.10,1862-07,6,102
+Building trades,16,New Jersey,Plumbers,M,2.00,1862-07,2,84
+Building trades,16,New Jersey,Laborers,M,1.18,1862-07,2,85
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1862-07,3,113
+Building trades,17,New York,Carpent's,M,1.185,1862-07,6,127
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1863-01,1,105
+Building trades,15,Massachusetts,Painters House,M,1.10,1863-01,5,116
+Building trades,16,New Jersey,Plumbers,M,2.00,1863-01,2,94
+Building trades,16,New Jersey,Laborers,M,1.18,1863-01,2,95
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1863-01,3,115
+Building trades,17,New York,Carpent's,M,1.185,1863-01,5,133
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1863-07,1,42
+Building trades,15,Massachusetts,Painters House,M,1.10,1863-07,1,102
+Building trades,16,New Jersey,Plumbers,M,2.00,1863-07,2,100
+Building trades,16,New Jersey,Laborers,M,1.18,1863-07,2,97
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1863-07,2,107
+Building trades,17,New York,Carpent's,M,1.185,1863-07,10,152
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1864-01,1,112
+Building trades,15,Massachusetts,Painters House,M,1.10,1864-01,2,136
+Building trades,16,New Jersey,Plumbers,M,2.00,1864-01,2,113
+Building trades,16,New Jersey,Laborers,M,1.18,1864-01,3,97
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1864-01,4,132
+Building trades,17,New York,Carpent's,M,1.185,1864-01,9,152
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1864-07,3,77
+Building trades,15,Massachusetts,Painters House,M,1.10,1864-07,7,175
+Building trades,16,New Jersey,Plumbers,M,2.00,1864-07,2,125
+Building trades,16,New Jersey,Laborers,M,1.18,1864-07,3,117
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1864-07,4,122
+Building trades,17,New York,Carpent's,M,1.185,1864-07,14,169
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1865-01,3,63
+Building trades,15,Massachusetts,Painters House,M,1.10,1865-01,5,164
+Building trades,16,New Jersey,Plumbers,M,2.00,1865-01,2,125
+Building trades,16,New Jersey,Laborers,M,1.18,1865-01,4,123
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1865-01,3,128
+Building trades,17,New York,Carpent's,M,1.185,1865-01,12,183
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1865-07,4,79
+Building trades,15,Massachusetts,Painters House,M,1.10,1865-07,9,195
+Building trades,16,New Jersey,Plumbers,M,2.00,1865-07,3,150
+Building trades,16,New Jersey,Laborers,M,1.18,1865-07,3,153
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1865-07,3,148
+Building trades,17,New York,Carpent's,M,1.185,1865-07,12,174
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1866-01,2,84
+Building trades,15,Massachusetts,Painters House,M,1.10,1866-01,4,227
+Building trades,16,New Jersey,Plumbers,M,2.00,1866-01,3,150
+Building trades,16,New Jersey,Laborers,M,1.18,1866-01,5,151
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1866-01,5,148
+Building trades,17,New York,Carpent's,M,1.185,1866-01,10,186
+Building trades,14,Massachusetts,St'm & Gas Fitters' Helpers,M,1.195,1866-07,3,73
+Building trades,15,Massachusetts,Painters House,M,1.10,1866-07,10,198
+Building trades,16,New Jersey,Plumbers,M,2.00,1866-07,4,139
+Building trades,16,New Jersey,Laborers,M,1.18,1866-07,2,155
+Building trades,16,New Jersey,Tinsmiths,M,1.52,1866-07,5,155
+Building trades,17,New York,Carpent's,M,1.185,1866-07,10,196
+Building trades,17,New York,Teamsters,M,0.75,1859-01,1,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1860-01,4,100
+Building trades,17,New York,Carpent's Helpers,M,1.00,1860-01,1,100
+Building trades,17,New York,Laborers,M,0.88,1860-01,1,100
+Building trades,18,New York,Painters,M,2.00,1860-01,15,100
+Building trades,19,New York,Carpent's,M,2.00,1860-01,30,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1860-07,5,123
+Building trades,17,New York,Carpent's Helpers,M,1.00,1860-07,3,79
+Building trades,17,New York,Laborers,M,0.88,1860-07,1,100
+Building trades,18,New York,Painters,M,2.00,1860-07,60,100
+Building trades,19,New York,Carpent's,M,2.00,1860-07,65,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1861-01,4,147
+Building trades,17,New York,Carpent's Helpers,M,1.00,1861-01,3,79
+Building trades,17,New York,Laborers,M,0.88,1861-01,3,99
+Building trades,18,New York,Painters,M,2.00,1861-01,8,100
+Building trades,19,New York,Carpent's,M,2.00,1861-01,30,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1861-07,1,88
+Building trades,17,New York,Carpent's Helpers,M,1.00,1861-07,4,92
+Building trades,17,New York,Laborers,M,0.88,1861-07,3,109
+Building trades,17,New York,Teamsters,M,0.75,1861-07,1,100
+Building trades,18,New York,Painters,M,2.00,1861-07,40,100
+Building trades,19,New York,Carpent's,M,2.00,1861-07,70,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1862-01,1,112
+Building trades,17,New York,Carpent's Helpers,M,1.00,1862-01,5,100
+Building trades,17,New York,Laborers,M,0.88,1862-01,1,142
+Building trades,17,New York,Teamsters,M,0.75,1862-01,1,100
+Building trades,18,New York,Painters,M,2.00,1862-01,8,100
+Building trades,19,New York,Carpent's,M,2.00,1862-01,15,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1862-07,1,100
+Building trades,17,New York,Carpent's Helpers,M,1.00,1862-07,8,111
+Building trades,17,New York,Laborers,M,0.88,1862-07,2,142
+Building trades,17,New York,Teamsters,M,0.75,1862-07,1,100
+Building trades,18,New York,Painters,M,2.00,1862-07,45,100
+Building trades,19,New York,Carpent's,M,2.00,1862-07,40,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1863-01,3,96
+Building trades,17,New York,Carpent's Helpers,M,1.00,1863-01,5,113
+Building trades,17,New York,Teamsters,M,0.75,1863-01,1,133
+Building trades,18,New York,Painters,M,2.00,1863-01,10,100
+Building trades,19,New York,Carpent's,M,2.00,1863-01,12,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1863-07,4,133
+Building trades,17,New York,Carpent's Helpers,M,1.00,1863-07,2,125
+Building trades,17,New York,Laborers,M,0.88,1863-07,2,114
+Building trades,17,New York,Teamsters,M,0.75,1863-07,1,167
+Building trades,18,New York,Painters,M,2.00,1863-07,40,113
+Building trades,19,New York,Carpent's,M,2.00,1863-07,60,100
+Building trades,17,New York,Carpent's Appren.,M,0.375,1864-01,4,139
+Building trades,17,New York,Carpent's Helpers,M,1.00,1864-01,2,125
+Building trades,17,New York,Laborers,M,0.88,1864-01,1,114
+Building trades,17,New York,Teamsters,M,0.75,1864-01,1,167
+Building trades,18,New York,Painters,M,2.00,1864-01,7,113
+Building trades,19,New York,Carpent's,M,2.00,1864-01,20,113
+Building trades,17,New York,Carpent's Appren.,M,0.375,1864-07,2,183
+Building trades,17,New York,Teamsters,M,0.75,1864-07,1,233
+Building trades,18,New York,Painters,M,2.00,1864-07,45,150
+Building trades,19,New York,Carpent's,M,2.00,1864-07,65,150
+Building trades,17,New York,Carpent's Helpers,M,1.00,1865-01,1,150
+Building trades,17,New York,Teamsters,M,0.75,1865-01,1,233
+Building trades,18,New York,Painters,M,2.00,1865-01,12,150
+Building trades,19,New York,Carpent's,M,2.00,1865-01,25,150
+Building trades,17,New York,Carpent's Helpers,M,1.00,1865-07,1,150
+Building trades,17,New York,Teamsters,M,0.75,1865-07,1,233
+Building trades,18,New York,Painters,M,2.00,1865-07,45,175
+Building trades,19,New York,Carpent's,M,2.00,1865-07,50,163
+Building trades,17,New York,Carpent's Appren.,M,0.375,1866-01,1,267
+Building trades,17,New York,Laborers,M,0.88,1866-01,1,142
+Building trades,17,New York,Teamsters,M,0.75,1866-01,1,233
+Building trades,18,New York,Painters,M,2.00,1866-01,10,175
+Building trades,19,New York,Carpent's,M,2.00,1866-01,40,175
+Building trades,17,New York,Carpent's Helpers,M,1.00,1866-07,1,150
+Building trades,17,New York,Laborers,M,0.88,1866-07,2,156
+Building trades,17,New York,Teamsters,M,0.75,1866-07,1,233
+Building trades,18,New York,Painters,M,2.00,1866-07,45,175
+Building trades,19,New York,Carpent's,M,2.00,1866-07,80,175
+Building trades,20,New York,Plumbers,M,1.875,1860-01,4,100
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1860-01,2,100
+Building trades,22,New York,Brickl'rs,M,2.00,1860-01,8,100
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1860-01,12,100
+Building trades,22,New York,Plast'r's,M,2.00,1860-01,8,100
+Building trades,20,New York,Plumbers,M,1.875,1860-07,4,100
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1860-07,6,125
+Building trades,22,New York,Brickl'rs,M,2.00,1860-07,8,100
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1860-07,10,100
+Building trades,22,New York,Plast'r's,M,2.00,1860-07,8,100
+Building trades,23,New York,Painters,M,1.915,1860-07,3,100
+Building trades,20,New York,Plumbers,M,1.875,1861-01,4,100
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1861-01,3,120
+Building trades,22,New York,Brickl'rs,M,2.00,1861-01,7,100
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1861-01,10,100
+Building trades,22,New York,Plast'r's,M,2.00,1861-01,7,100
+Building trades,20,New York,Plumbers,M,1.875,1861-07,4,100
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1861-07,4,120
+Building trades,22,New York,Brickl'rs,M,2.00,1861-07,7,100
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1861-07,10,100
+Building trades,22,New York,Plast'r's,M,2.00,1861-07,7,100
+Building trades,23,New York,Painters,M,1.915,1861-07,5,93
+Building trades,20,New York,Plumbers,M,1.875,1862-01,5,101
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1862-01,2,160
+Building trades,22,New York,Brickl'rs,M,2.00,1862-01,5,113
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1862-01,8,100
+Building trades,22,New York,Plast'r's,M,2.00,1862-01,5,100
+Building trades,20,New York,Plumbers,M,1.875,1862-07,5,107
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1862-07,3,160
+Building trades,22,New York,Brickl'rs,M,2.00,1862-07,5,113
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1862-07,8,100
+Building trades,22,New York,Plast'r's,M,2.00,1862-07,5,113
+Building trades,23,New York,Painters,M,1.915,1862-07,2,91
+Building trades,20,New York,Plumbers,M,1.875,1863-01,10,107
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1863-01,3,240
+Building trades,22,New York,Brickl'rs,M,2.00,1863-01,4,125
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1863-01,6,130
+Building trades,22,New York,Plast'r's,M,2.00,1863-01,4,125
+Building trades,20,New York,Plumbers,M,1.875,1863-07,12,133
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1863-07,6,240
+Building trades,22,New York,Brickl'rs,M,2.00,1863-07,5,125
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1863-07,6,130
+Building trades,22,New York,Plast'r's,M,2.00,1863-07,5,125
+Building trades,23,New York,Painters,M,1.915,1863-07,3,113
+Building trades,20,New York,Plumbers,M,1.875,1864-01,4,160
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1864-01,5,280
+Building trades,22,New York,Brickl'rs,M,2.00,1864-01,9,125
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1864-01,10,180
+Building trades,22,New York,Plast'r's,M,2.00,1864-01,9,125
+Building trades,20,New York,Plumbers,M,1.875,1864-07,4,187
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1864-07,8,280
+Building trades,22,New York,Brickl'rs,M,2.00,1864-07,9,150
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1864-07,10,180
+Building trades,22,New York,Plast'r's,M,2.00,1864-07,9,150
+Building trades,23,New York,Painters,M,1.915,1864-07,4,150
+Building trades,20,New York,Plumbers,M,1.875,1865-01,4,187
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1865-01,2,320
+Building trades,22,New York,Brickl'rs,M,2.00,1865-01,5,150
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1865-01,3,180
+Building trades,22,New York,Plast'r's,M,2.00,1865-01,5,150
+Building trades,20,New York,Plumbers,M,1.875,1865-07,4,187
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1865-07,5,320
+Building trades,22,New York,Brickl'rs,M,2.00,1865-07,5,150
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1865-07,4,180
+Building trades,22,New York,Plast'r's,M,2.00,1865-07,5,150
+Building trades,23,New York,Painters,M,1.915,1865-07,2,185
+Building trades,20,New York,Plumbers,M,1.875,1866-01,6,195
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1866-01,2,280
+Building trades,22,New York,Brickl'rs,M,2.00,1866-01,5,175
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1866-01,10,180
+Building trades,22,New York,Plast'r's,M,2.00,1866-01,5,175
+Building trades,20,New York,Plumbers,M,1.875,1866-07,6,195
+Building trades,21,New York,Roofers Sl. & M't'l,M,1.25,1866-07,6,280
+Building trades,22,New York,Brickl'rs,M,2.00,1866-07,5,200
+Building trades,22,New York,Brickl'rs' Helpers,M,1.25,1866-07,10,200
+Building trades,22,New York,Plast'r's,M,2.00,1866-07,5,200
+Building trades,23,New York,Painters,M,1.915,1866-07,4,183
+Building trades,24,New York,Roofers,M,1.835,1860-01,2,100
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1860-01,6,100
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1860-01,3,100
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1860-01,3,100
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1860-01,6,100
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1860-01,9,100
+Building trades,24,New York,Roofers,M,1.835,1860-07,2,91
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1860-07,20,100
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1860-07,10,100
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1860-07,8,100
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1860-07,10,100
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1860-07,13,102
+Building trades,24,New York,Roofers,M,1.835,1861-01,3,82
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1861-01,4,100
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1861-01,5,100
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1861-01,9,98
+Building trades,24,New York,Roofers,M,1.835,1861-07,2,82
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1861-07,20,100
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1861-07,10,112
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1861-07,10,100
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1861-07,12,114
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1861-07,16,99
+Building trades,24,New York,Roofers,M,1.835,1862-01,4,78
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1862-01,6,113
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1862-01,3,112
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1862-01,4,114
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1862-01,7,114
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1862-01,10,99
+Building trades,24,New York,Roofers,M,1.835,1862-07,4,82
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1862-07,20,113
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1862-07,10,112
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1862-07,10,114
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1862-07,16,143
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1862-07,12,100
+Building trades,24,New York,Roofers,M,1.835,1863-01,5,84
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1863-01,4,114
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1863-01,5,143
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1863-01,8,116
+Building trades,24,New York,Roofers,M,1.835,1863-07,4,105
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1863-07,10,114
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1863-07,10,171
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1863-07,12,115
+Building trades,24,New York,Roofers,M,1.835,1864-01,4,113
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1864-01,10,125
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1864-01,10,134
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1864-01,10,129
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1864-01,6,171
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1864-01,10,114
+Building trades,24,New York,Roofers,M,1.835,1864-07,5,131
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1864-07,35,125
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1864-07,18,134
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1864-07,14,129
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1864-07,8,171
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1864-07,14,116
+Building trades,24,New York,Roofers,M,1.835,1865-01,4,150
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1865-01,10,150
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1865-01,5,179
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1865-01,20,136
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1865-01,7,171
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1865-01,10,114
+Building trades,24,New York,Roofers,M,1.835,1865-07,4,150
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1865-07,30,150
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1865-07,15,179
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1865-07,21,133
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1865-07,12,143
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1865-07,14,137
+Building trades,24,New York,Roofers,M,1.835,1866-01,4,163
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1866-01,12,150
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1866-01,12,179
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1866-01,15,151
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1866-01,8,143
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1866-01,8,139
+Building trades,24,New York,Roofers,M,1.835,1866-07,4,163
+Building trades,26,Pennsylvania,Bricklay's,M,2.00,1866-07,40,150
+Building trades,26,Pennsylvania,Bricklay's Helpers,M,1.12,1866-07,20,179
+Building trades,27,Pennsylvania,Carpent's,M,1.75,1866-07,19,151
+Building trades,28,Pennsylvania,Carpent's,M,1.75,1866-07,20,143
+Building trades,29,Pennsylvania,Plast'r's,M,1.665,1866-07,10,156
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1860-01,3,100
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1860-01,3,100
+Carriages and wagons,33,New York,Painters,M,1.25,1860-01,2,100
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1860-01,6,100
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1860-07,3,100
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1860-07,3,100
+Carriages and wagons,33,New York,Painters,M,1.25,1860-07,2,100
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1860-07,6,100
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1861-01,3,100
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1861-01,3,100
+Carriages and wagons,33,New York,Painters,M,1.25,1861-01,2,100
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1861-01,6,100
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1861-07,3,100
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1861-07,3,100
+Carriages and wagons,33,New York,Painters,M,1.25,1861-07,2,100
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1861-07,6,100
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1862-01,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1862-01,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1862-01,2,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1862-01,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1862-07,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1862-07,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1862-07,2,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1862-07,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1863-01,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1863-01,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1863-01,3,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1863-01,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1863-07,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1863-07,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1863-07,3,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1863-07,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1864-01,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1864-01,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1864-01,3,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1864-01,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1864-07,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1864-07,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1864-07,2,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1864-07,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1865-01,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1865-01,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1865-01,2,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1865-01,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1865-07,3,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1865-07,3,180
+Carriages and wagons,33,New York,Painters,M,1.25,1865-07,2,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1865-07,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1866-01,5,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1866-01,5,180
+Carriages and wagons,33,New York,Painters,M,1.25,1866-01,4,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1866-01,6,160
+Carriages and wagons,33,New York,Blacksmit's,M,1.50,1866-07,5,200
+Carriages and wagons,33,New York,Blacksmit's' Helpers,M,0.835,1866-07,5,180
+Carriages and wagons,33,New York,Painters,M,1.25,1866-07,4,140
+Carriages and wagons,33,New York,Wheelwri's,M,1.25,1866-07,6,160
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1860-01,1,100
+City public works,34,Massachusetts,Laborers,M,1.02,1860-01,7,100
+City public works,35,New York,Foremen Laborers,M,2.00,1860-01,42,100
+City public works,35,New York,Blacksm's,M,1.82,1860-01,16,100
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1860-01,15,100
+City public works,35,New York,Blasters,M,1.25,1860-01,6,100
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1860-07,2,140
+City public works,34,Massachusetts,Laborers,M,1.02,1860-07,24,99
+City public works,35,New York,Foremen Laborers,M,2.00,1860-07,30,100
+City public works,35,New York,Blacksm's,M,1.82,1860-07,23,99
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1860-07,12,100
+City public works,35,New York,Blasters,M,1.25,1860-07,10,100
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1861-01,1,140
+City public works,34,Massachusetts,Laborers,M,1.02,1861-01,18,99
+City public works,35,New York,Foremen Laborers,M,2.00,1861-01,25,100
+City public works,35,New York,Blacksm's,M,1.82,1861-01,17,99
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1861-01,19,92
+City public works,35,New York,Blasters,M,1.25,1861-01,15,100
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1861-07,2,170
+City public works,34,Massachusetts,Laborers,M,1.02,1861-07,16,99
+City public works,35,New York,Foremen Laborers,M,2.00,1861-07,28,100
+City public works,35,New York,Blacksm's,M,1.82,1861-07,25,96
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1861-07,8,84
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1862-01,2,100
+City public works,34,Massachusetts,Laborers,M,1.02,1862-01,21,99
+City public works,35,New York,Foremen Laborers,M,2.00,1862-01,20,100
+City public works,35,New York,Blacksm's,M,1.82,1862-01,9,97
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1862-01,4,92
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1862-07,2,160
+City public works,34,Massachusetts,Laborers,M,1.02,1862-07,27,100
+City public works,35,New York,Foremen Laborers,M,2.00,1862-07,22,100
+City public works,35,New York,Blacksm's,M,1.82,1862-07,7,99
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1862-07,5,91
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1863-01,2,160
+City public works,34,Massachusetts,Laborers,M,1.02,1863-01,7,107
+City public works,35,New York,Foremen Laborers,M,2.00,1863-01,19,100
+City public works,35,New York,Blacksm's,M,1.82,1863-01,4,106
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1863-01,4,100
+City public works,35,New York,Blasters,M,1.25,1863-01,2,128
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1863-07,2,170
+City public works,34,Massachusetts,Laborers,M,1.02,1863-07,12,146
+City public works,35,New York,Foremen Laborers,M,2.00,1863-07,20,110
+City public works,35,New York,Blacksm's,M,1.82,1863-07,7,110
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1863-07,5,108
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1864-01,3,147
+City public works,34,Massachusetts,Laborers,M,1.02,1864-01,29,119
+City public works,35,New York,Foremen Laborers,M,2.00,1864-01,17,125
+City public works,35,New York,Blacksm's,M,1.82,1864-01,8,137
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1864-01,5,128
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1864-07,4,220
+City public works,34,Massachusetts,Laborers,M,1.02,1864-07,14,131
+City public works,35,New York,Foremen Laborers,M,2.00,1864-07,16,150
+City public works,35,New York,Blacksm's,M,1.82,1864-07,7,151
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1864-07,7,152
+City public works,35,New York,Blasters,M,1.25,1864-07,1,152
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1865-01,6,193
+City public works,34,Massachusetts,Laborers,M,1.02,1865-01,75,120
+City public works,35,New York,Foremen Laborers,M,2.00,1865-01,12,150
+City public works,35,New York,Blacksm's,M,1.82,1865-01,7,176
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1865-01,5,160
+City public works,35,New York,Blasters,M,1.25,1865-01,1,160
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1865-07,3,167
+City public works,34,Massachusetts,Laborers,M,1.02,1865-07,19,153
+City public works,35,New York,Foremen Laborers,M,2.00,1865-07,11,150
+City public works,35,New York,Blacksm's,M,1.82,1865-07,5,179
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1865-07,5,160
+City public works,35,New York,Blasters,M,1.25,1865-07,1,160
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1866-01,5,180
+City public works,34,Massachusetts,Laborers,M,1.02,1866-01,12,147
+City public works,35,New York,Foremen Laborers,M,2.00,1866-01,12,150
+City public works,35,New York,Blacksm's,M,1.82,1866-01,2,179
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1866-01,1,160
+City public works,35,New York,Blasters,M,1.25,1866-01,1,160
+City public works,34,Massachusetts,Foremen Laborers,M,1.25,1866-07,4,180
+City public works,34,Massachusetts,Laborers,M,1.02,1866-07,32,157
+City public works,35,New York,Foremen Laborers,M,2.00,1866-07,8,150
+City public works,35,New York,Blacksm's,M,1.82,1866-07,2,192
+City public works,35,New York,Blacksm's' Helpers,M,1.25,1866-07,1,160
+City public works,35,New York,Bricklay's,M,2.00,1860-01,25,100
+City public works,35,New York,Carpent's,M,1.72,1860-01,36,100
+City public works,35,New York,Garden'rs,M,1.40,1860-01,20,100
+City public works,35,New York,Laborers,M,1.00,1860-01,1225,100
+City public works,35,New York,Masons,M,2.00,1860-01,150,100
+City public works,35,New York,Stonecut's,M,2.00,1860-01,240,100
+City public works,35,New York,Bricklay's,M,2.00,1860-07,45,100
+City public works,35,New York,Carpent's,M,1.72,1860-07,18,100
+City public works,35,New York,Garden'rs,M,1.40,1860-07,40,93
+City public works,35,New York,Laborers,M,1.00,1860-07,1500,100
+City public works,35,New York,Masons,M,2.00,1860-07,165,100
+City public works,35,New York,Stonecut's,M,2.00,1860-07,185,100
+City public works,35,New York,Bricklay's,M,2.00,1861-01,25,100
+City public works,35,New York,Carpent's,M,1.72,1861-01,28,101
+City public works,35,New York,Garden'rs,M,1.40,1861-01,14,93
+City public works,35,New York,Laborers,M,1.00,1861-01,1200,100
+City public works,35,New York,Masons,M,2.00,1861-01,58,100
+City public works,35,New York,Stonecut's,M,2.00,1861-01,290,100
+City public works,35,New York,Bricklay's,M,2.00,1861-07,35,90
+City public works,35,New York,Carpent's,M,1.72,1861-07,38,97
+City public works,35,New York,Garden'rs,M,1.40,1861-07,30,82
+City public works,35,New York,Laborers,M,1.00,1861-07,1100,90
+City public works,35,New York,Masons,M,2.00,1861-07,55,90
+City public works,35,New York,Stonecut's,M,2.00,1861-07,20,113
+City public works,35,New York,Bricklay's,M,2.00,1862-01,7,88
+City public works,35,New York,Carpent's,M,1.72,1862-01,14,100
+City public works,35,New York,Garden'rs,M,1.40,1862-01,10,79
+City public works,35,New York,Laborers,M,1.00,1862-01,800,100
+City public works,35,New York,Masons,M,2.00,1862-01,8,88
+City public works,35,New York,Bricklay's,M,2.00,1862-07,8,88
+City public works,35,New York,Carpent's,M,1.72,1862-07,13,99
+City public works,35,New York,Garden'rs,M,1.40,1862-07,15,79
+City public works,35,New York,Laborers,M,1.00,1862-07,900,100
+City public works,35,New York,Masons,M,2.00,1862-07,8,88
+City public works,35,New York,Stonecut's,M,2.00,1862-07,16,88
+City public works,35,New York,Bricklay's,M,2.00,1863-01,7,100
+City public works,35,New York,Carpent's,M,1.72,1863-01,19,114
+City public works,35,New York,Garden'rs,M,1.40,1863-01,15,93
+City public works,35,New York,Laborers,M,1.00,1863-01,800,125
+City public works,35,New York,Masons,M,2.00,1863-01,7,100
+City public works,35,New York,Stonecut's,M,2.00,1863-01,15,100
+City public works,35,New York,Bricklay's,M,2.00,1863-07,12,110
+City public works,35,New York,Carpent's,M,1.72,1863-07,8,116
+City public works,35,New York,Garden'rs,M,1.40,1863-07,16,100
+City public works,35,New York,Laborers,M,1.00,1863-07,800,125
+City public works,35,New York,Masons,M,2.00,1863-07,12,110
+City public works,35,New York,Stonecut's,M,2.00,1863-07,5,113
+City public works,35,New York,Bricklay's,M,2.00,1864-01,5,125
+City public works,35,New York,Carpent's,M,1.72,1864-01,8,145
+City public works,35,New York,Garden'rs,M,1.40,1864-01,16,114
+City public works,35,New York,Laborers,M,1.00,1864-01,700,150
+City public works,35,New York,Masons,M,2.00,1864-01,6,125
+City public works,35,New York,Stonecut's,M,2.00,1864-01,5,125
+City public works,35,New York,Bricklay's,M,2.00,1864-07,8,150
+City public works,35,New York,Carpent's,M,1.72,1864-07,10,158
+City public works,35,New York,Garden'rs,M,1.40,1864-07,30,136
+City public works,35,New York,Laborers,M,1.00,1864-07,650,180
+City public works,35,New York,Masons,M,2.00,1864-07,8,150
+City public works,35,New York,Stonecut's,M,2.00,1864-07,20,150
+City public works,35,New York,Bricklay's,M,2.00,1865-01,5,160
+City public works,35,New York,Carpent's,M,1.72,1865-01,9,174
+City public works,35,New York,Garden'rs,M,1.40,1865-01,20,143
+City public works,35,New York,Laborers,M,1.00,1865-01,500,190
+City public works,35,New York,Masons,M,2.00,1865-01,5,160
+City public works,35,New York,Stonecut's,M,2.00,1865-01,10,160
+City public works,35,New York,Bricklay's,M,2.00,1865-07,3,150
+City public works,35,New York,Carpent's,M,1.72,1865-07,10,187
+City public works,35,New York,Garden'rs,M,1.40,1865-07,22,143
+City public works,35,New York,Laborers,M,1.00,1865-07,450,190
+City public works,35,New York,Masons,M,2.00,1865-07,3,150
+City public works,35,New York,Stonecut's,M,2.00,1865-07,1,150
+City public works,35,New York,Bricklay's,M,2.00,1866-01,2,175
+City public works,35,New York,Carpent's,M,1.72,1866-01,8,189
+City public works,35,New York,Garden'rs,M,1.40,1866-01,12,143
+City public works,35,New York,Laborers,M,1.00,1866-01,420,190
+City public works,35,New York,Masons,M,2.00,1866-01,3,175
+City public works,35,New York,Stonecut's,M,2.00,1866-01,11,175
+City public works,35,New York,Bricklay's,M,2.00,1866-07,1,175
+City public works,35,New York,Carpent's,M,1.72,1866-07,11,203
+City public works,35,New York,Garden'rs,M,1.40,1866-07,12,143
+City public works,35,New York,Laborers,M,1.00,1866-07,500,190
+City public works,35,New York,Masons,M,2.00,1866-07,2,175
+City public works,35,New York,Stonecut's,M,2.00,1866-07,2,175
+City public works,35,New York,Quarrym'n,M,1.10,1860-01,110,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1860-01,4,100
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1860-01,1,100
+City public works,36,Pennsylvania,Firemen,M,1.25,1860-01,3,100
+City public works,36,Pennsylvania,Laborers,M,1.335,1860-01,23,100
+City public works,35,New York,Quarrym'n,M,1.10,1860-07,340,100
+City public works,36,Pennsylvania,Carpent's,M,2.00,1860-07,1,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1860-07,4,100
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1860-07,1,100
+City public works,36,Pennsylvania,Firemen,M,1.25,1860-07,3,100
+City public works,36,Pennsylvania,Laborers,M,1.335,1860-07,30,97
+City public works,35,New York,Quarrym'n,M,1.10,1861-01,280,100
+City public works,36,Pennsylvania,Carpent's,M,2.00,1861-01,1,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1861-01,6,99
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1861-01,1,88
+City public works,36,Pennsylvania,Firemen,M,1.25,1861-01,6,100
+City public works,36,Pennsylvania,Laborers,M,1.335,1861-01,30,97
+City public works,36,Pennsylvania,Carpent's,M,2.00,1861-07,2,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1861-07,6,99
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1861-07,1,88
+City public works,36,Pennsylvania,Firemen,M,1.25,1861-07,7,103
+City public works,36,Pennsylvania,Laborers,M,1.335,1861-07,34,96
+City public works,36,Pennsylvania,Carpent's,M,2.00,1862-01,2,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1862-01,6,99
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1862-01,1,88
+City public works,36,Pennsylvania,Firemen,M,1.25,1862-01,7,103
+City public works,36,Pennsylvania,Laborers,M,1.335,1862-01,34,96
+City public works,36,Pennsylvania,Carpent's,M,2.00,1862-07,2,100
+City public works,36,Pennsylvania,Engineers,M,2.125,1862-07,6,99
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1862-07,1,88
+City public works,36,Pennsylvania,Firemen,M,1.25,1862-07,7,103
+City public works,36,Pennsylvania,Laborers,M,1.335,1862-07,34,96
+City public works,36,Pennsylvania,Engineers,M,2.125,1863-01,6,94
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1863-01,5,92
+City public works,36,Pennsylvania,Firemen,M,1.25,1863-01,6,102
+City public works,36,Pennsylvania,Laborers,M,1.335,1863-01,8,96
+City public works,36,Pennsylvania,Engineers,M,2.125,1863-07,6,94
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1863-07,5,92
+City public works,36,Pennsylvania,Firemen,M,1.25,1863-07,5,99
+City public works,36,Pennsylvania,Laborers,M,1.335,1863-07,8,96
+City public works,35,New York,Quarrym'n,M,1.10,1864-01,70,145
+City public works,36,Pennsylvania,Engineers,M,2.125,1864-01,6,96
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1864-01,5,92
+City public works,36,Pennsylvania,Firemen,M,1.25,1864-01,10,99
+City public works,36,Pennsylvania,Laborers,M,1.335,1864-01,36,112
+City public works,35,New York,Quarrym'n,M,1.10,1864-07,45,173
+City public works,36,Pennsylvania,Engineers,M,2.125,1864-07,6,96
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1864-07,5,92
+City public works,36,Pennsylvania,Firemen,M,1.25,1864-07,10,99
+City public works,36,Pennsylvania,Laborers,M,1.335,1864-07,36,112
+City public works,35,New York,Quarrym'n,M,1.10,1865-01,70,182
+City public works,36,Pennsylvania,Engineers,M,2.125,1865-01,4,119
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1865-01,5,132
+City public works,36,Pennsylvania,Firemen,M,1.25,1865-01,8,132
+City public works,36,Pennsylvania,Laborers,M,1.335,1865-01,21,131
+City public works,35,New York,Quarrym'n,M,1.10,1865-07,50,182
+City public works,36,Pennsylvania,Carpent's,M,2.00,1865-07,2,138
+City public works,36,Pennsylvania,Engineers,M,2.125,1865-07,4,119
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1865-07,6,132
+City public works,36,Pennsylvania,Firemen,M,1.25,1865-07,8,132
+City public works,36,Pennsylvania,Laborers,M,1.335,1865-07,26,131
+City public works,35,New York,Quarrym'n,M,1.10,1866-01,30,182
+City public works,36,Pennsylvania,Carpent's,M,2.00,1866-01,2,138
+City public works,36,Pennsylvania,Engineers,M,2.125,1866-01,4,119
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1866-01,7,132
+City public works,36,Pennsylvania,Firemen,M,1.25,1866-01,8,132
+City public works,36,Pennsylvania,Laborers,M,1.335,1866-01,15,131
+City public works,36,Pennsylvania,Carpent's,M,2.00,1866-07,1,138
+City public works,36,Pennsylvania,Engineers,M,2.125,1866-07,4,119
+City public works,36,Pennsylvania,Engineer Assistant,M,1.25,1866-07,6,132
+City public works,36,Pennsylvania,Firemen,M,1.25,1866-07,8,132
+City public works,36,Pennsylvania,Laborers,M,1.335,1866-07,13,131
+City public works,36,Pennsylvania,Machinists,M,1.50,1860-01,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1860-01,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1860-01,28,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1860-07,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1860-07,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1860-07,30,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1861-01,4,121
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1861-01,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1861-01,4,89
+City public works,37,Pennsylvania,Laborers,M,1.25,1861-01,33,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1861-07,4,121
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1861-07,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1861-07,4,89
+City public works,37,Pennsylvania,Laborers,M,1.25,1861-07,37,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1862-01,4,121
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1862-01,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1862-01,4,89
+City public works,37,Pennsylvania,Laborers,M,1.25,1862-01,16,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1862-07,4,121
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1862-07,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1862-07,3,94
+City public works,37,Pennsylvania,Laborers,M,1.25,1862-07,29,100
+City public works,36,Pennsylvania,Machinists,M,1.50,1863-01,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1863-01,2,73
+City public works,37,Pennsylvania,Laborers,M,1.25,1863-01,20,120
+City public works,36,Pennsylvania,Machinists,M,1.50,1863-07,1,100
+City public works,36,Pennsylvania,Watchmen,M,1.50,1863-07,2,73
+City public works,37,Pennsylvania,Laborers,M,1.25,1863-07,34,120
+City public works,36,Pennsylvania,Machinists,M,1.50,1864-01,4,146
+City public works,36,Pennsylvania,Watchmen,M,1.50,1864-01,2,73
+City public works,37,Pennsylvania,Laborers,M,1.25,1864-01,19,140
+City public works,36,Pennsylvania,Machinists,M,1.50,1864-07,1,133
+City public works,36,Pennsylvania,Watchmen,M,1.50,1864-07,2,73
+City public works,37,Pennsylvania,Laborers,M,1.25,1864-07,38,140
+City public works,36,Pennsylvania,Machinists,M,1.50,1865-01,6,175
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1865-01,1,150
+City public works,36,Pennsylvania,Watchmen,M,1.50,1865-01,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1865-01,24,140
+City public works,36,Pennsylvania,Machinists,M,1.50,1865-07,8,183
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1865-07,1,150
+City public works,36,Pennsylvania,Watchmen,M,1.50,1865-07,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1865-07,37,140
+City public works,36,Pennsylvania,Machinists,M,1.50,1866-01,12,183
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1866-01,1,150
+City public works,36,Pennsylvania,Watchmen,M,1.50,1866-01,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1866-01,15,140
+City public works,36,Pennsylvania,Machinists,M,1.50,1866-07,12,178
+City public works,36,Pennsylvania,Pattern Makers,M,1.50,1866-07,1,150
+City public works,36,Pennsylvania,Watchmen,M,1.50,1866-07,2,100
+City public works,37,Pennsylvania,Laborers,M,1.25,1866-07,23,140
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1860-01,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1860-01,1,100
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1860-01,1,100
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1860-01,1,100
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1860-01,2,100
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1860-01,4,100
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1860-07,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1860-07,1,100
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1860-07,1,100
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1860-07,1,100
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1860-07,2,100
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1860-07,4,100
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1861-01,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1861-01,1,83
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1861-01,1,84
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1861-01,1,83
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1861-01,2,83
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1861-01,4,85
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1861-07,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1861-07,1,83
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1861-07,1,84
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1861-07,1,83
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1861-07,2,83
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1861-07,4,85
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1862-01,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1862-01,1,83
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1862-01,1,84
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1862-01,1,83
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1862-01,2,83
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1862-01,4,85
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1862-07,1,100
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1862-07,1,83
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1862-07,1,84
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1862-07,1,83
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1862-07,2,83
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1862-07,4,85
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1863-01,1,106
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1863-01,1,100
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1863-01,1,100
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1863-01,1,100
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1863-01,2,100
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1863-01,4,103
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1863-07,1,106
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1863-07,1,100
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1863-07,1,100
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1863-07,1,100
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1863-07,2,100
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1863-07,4,103
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1864-01,1,120
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1864-01,1,117
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1864-01,1,125
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1864-01,1,117
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1864-01,2,113
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1864-01,3,129
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1864-07,1,120
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1864-07,1,117
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1864-07,1,125
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1864-07,1,117
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1864-07,2,113
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1864-07,3,129
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1865-01,1,120
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1865-01,1,117
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1865-01,1,113
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1865-01,1,117
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1865-01,2,117
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1865-01,4,121
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1865-07,1,120
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1865-07,1,117
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1865-07,1,113
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1865-07,1,117
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1865-07,2,117
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1865-07,4,121
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1866-01,1,150
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1866-01,1,133
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1866-01,1,138
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1866-01,1,133
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1866-01,2,133
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1866-01,4,157
+Cotton goods,38,Massachusetts,M'st'r Machinists,M,3.33,1866-07,1,150
+Cotton goods,38,Massachusetts,Overseers Carding Dep't,M,3.00,1866-07,1,133
+Cotton goods,38,Massachusetts,Overseers Cloth Room,M,2.00,1866-07,1,138
+Cotton goods,38,Massachusetts,Overseers Dressing Dep't,M,3.00,1866-07,1,133
+Cotton goods,38,Massachusetts,Overseers Spinning Dep't,M,3.00,1866-07,2,133
+Cotton goods,38,Massachusetts,Overseers Weaving Dep't,M,2.065,1866-07,4,157
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1860-01,13,100
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1860-01,17,100
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1860-01,13,100
+Cotton goods,38,Massachusetts,Balers,M,1.00,1860-01,1,100
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1860-01,2,100
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1860-01,1,100
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1860-07,13,100
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1860-07,17,100
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1860-07,13,100
+Cotton goods,38,Massachusetts,Balers,M,1.00,1860-07,1,100
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1860-07,2,100
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1860-07,1,100
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1861-01,13,77
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1861-01,18,71
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1861-01,12,87
+Cotton goods,38,Massachusetts,Balers,M,1.00,1861-01,1,83
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1861-01,2,83
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1861-01,1,100
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1861-07,13,77
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1861-07,18,71
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1861-07,12,87
+Cotton goods,38,Massachusetts,Balers,M,1.00,1861-07,1,83
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1861-07,2,83
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1861-07,1,100
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1862-01,13,78
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1862-01,12,80
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1862-01,13,74
+Cotton goods,38,Massachusetts,Balers,M,1.00,1862-01,1,83
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1862-01,2,83
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1862-01,1,111
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1862-07,13,78
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1862-07,12,80
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1862-07,13,106
+Cotton goods,38,Massachusetts,Balers,M,1.00,1862-07,1,83
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1862-07,2,83
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1862-07,1,111
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1863-01,10,101
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1863-01,9,103
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1863-01,14,136
+Cotton goods,38,Massachusetts,Balers,M,1.00,1863-01,1,108
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1863-01,1,129
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1863-01,1,111
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1863-07,10,101
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1863-07,9,103
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1863-07,14,158
+Cotton goods,38,Massachusetts,Balers,M,1.00,1863-07,1,108
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1863-07,1,129
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1863-07,1,111
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1864-01,12,113
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1864-01,4,155
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1864-01,14,177
+Cotton goods,38,Massachusetts,Balers,M,1.00,1864-01,1,133
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1864-01,1,150
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1864-01,1,117
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1864-07,12,113
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1864-07,4,155
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1864-07,14,177
+Cotton goods,38,Massachusetts,Balers,M,1.00,1864-07,1,133
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1864-07,1,150
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1864-07,1,117
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1865-01,11,139
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1865-01,6,159
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1865-01,13,172
+Cotton goods,38,Massachusetts,Balers,M,1.00,1865-01,1,133
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1865-01,2,159
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1865-01,1,122
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1865-07,11,139
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1865-07,6,159
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1865-07,13,172
+Cotton goods,38,Massachusetts,Balers,M,1.00,1865-07,1,133
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1865-07,2,162
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1865-07,1,122
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1866-01,12,157
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1866-01,13,175
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1866-01,13,187
+Cotton goods,38,Massachusetts,Balers,M,1.00,1866-01,1,167
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1866-01,2,175
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1866-01,1,150
+Cotton goods,38,Massachusetts,Second Hands,M,1.365,1866-07,12,157
+Cotton goods,38,Massachusetts,Third Hands,M,0.97,1866-07,13,175
+Cotton goods,38,Massachusetts,Backboys,M,0.265,1866-07,13,187
+Cotton goods,38,Massachusetts,Balers,M,1.00,1866-07,1,167
+Cotton goods,38,Massachusetts,Beam-Carriers,M,0.835,1866-07,2,175
+Cotton goods,38,Massachusetts,Beltmen,M,1.50,1866-07,1,150
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1860-01,4,100
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1860-01,1,100
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1860-01,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1860-01,5,100
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1860-01,7,100
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1860-07,4,100
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1860-07,1,100
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1860-07,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1860-07,5,100
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1860-07,7,100
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1861-01,4,97
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1861-01,2,100
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1861-01,1,86
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1861-01,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1861-01,6,102
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1861-01,7,90
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1861-07,4,97
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1861-07,2,100
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1861-07,1,86
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1861-07,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1861-07,6,102
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1861-07,7,90
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1862-01,3,103
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1862-01,2,106
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1862-01,1,95
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1862-01,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1862-01,7,113
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1862-01,3,111
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1862-07,3,106
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1862-07,2,106
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1862-07,1,95
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1862-07,2,100
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1862-07,7,113
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1862-07,3,111
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1863-01,3,106
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1863-01,1,124
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1863-01,2,100
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1863-01,1,116
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1863-01,6,113
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1863-01,3,111
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1863-07,3,106
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1863-07,1,124
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1863-07,2,100
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1863-07,1,116
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1863-07,6,113
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1863-07,3,111
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1864-01,3,116
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1864-01,1,159
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1864-01,2,98
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1864-01,1,116
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1864-01,6,132
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1864-01,3,120
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1864-07,3,116
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1864-07,1,159
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1864-07,2,98
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1864-07,1,116
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1864-07,6,132
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1864-07,3,120
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1865-01,3,151
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1865-01,1,153
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1865-01,2,107
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1865-01,2,130
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1865-01,6,168
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1865-01,3,140
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1865-07,3,151
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1865-07,1,153
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1865-07,2,107
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1865-07,2,130
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1865-07,6,168
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1865-07,3,140
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1866-01,3,158
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1866-01,4,144
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1866-01,1,114
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1866-01,1,139
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1866-01,6,164
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1866-01,3,141
+Cotton goods,38,Massachusetts,Blacksmiths,M,1.79,1866-07,3,158
+Cotton goods,38,Massachusetts,Bobbin Men,M,1.415,1866-07,4,144
+Cotton goods,38,Massachusetts,Boilermen,M,1.75,1866-07,1,114
+Cotton goods,38,Massachusetts,B'l'rm'n's' Helpers,M,1.08,1866-07,1,139
+Cotton goods,38,Massachusetts,Carpent's,M,1.52,1866-07,6,164
+Cotton goods,38,Massachusetts,Card Grinders,M,1.025,1866-07,3,141
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1860-01,33,100
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1860-01,6,100
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1860-01,1,100
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1860-01,5,100
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1860-01,2,100
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1860-01,7,100
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1860-07,33,100
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1860-07,6,100
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1860-07,1,100
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1860-07,5,100
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1860-07,2,100
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1860-07,7,100
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1861-01,33,92
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1861-01,4,88
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1861-01,1,82
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1861-01,4,81
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1861-01,2,92
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1861-01,7,97
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1861-07,33,92
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1861-07,4,88
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1861-07,1,82
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1861-07,4,81
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1861-07,2,92
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1861-07,7,97
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1862-01,33,97
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1862-01,4,110
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1862-01,1,82
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1862-01,4,81
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1862-01,2,126
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1862-01,7,105
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1862-07,33,97
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1862-07,4,110
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1862-07,1,82
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1862-07,4,81
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1862-07,2,126
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1862-07,7,105
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1863-01,27,124
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1863-01,4,117
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1863-01,1,109
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1863-01,4,111
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1863-01,2,118
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1863-01,7,109
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1863-07,27,124
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1863-07,4,117
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1863-07,1,109
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1863-07,4,111
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1863-07,2,118
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1863-07,7,109
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1864-01,26,139
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1864-01,3,113
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1864-01,1,133
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1864-01,4,141
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1864-01,2,146
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1864-01,8,128
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1864-07,26,139
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1864-07,3,113
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1864-07,1,133
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1864-07,4,141
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1864-07,2,146
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1864-07,8,128
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1865-01,26,186
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1865-01,3,198
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1865-01,1,136
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1865-01,4,155
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1865-01,3,144
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1865-01,9,144
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1865-07,26,186
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1865-07,3,198
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1865-07,1,136
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1865-07,4,155
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1865-07,3,144
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1865-07,9,144
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1866-01,27,183
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1866-01,3,192
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1866-01,1,163
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1866-01,4,155
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1866-01,3,192
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1866-01,8,166
+Cotton goods,38,Massachusetts,Dopfers,M,0.315,1866-07,25,187
+Cotton goods,38,Massachusetts,Double Tenders,M,0.64,1866-07,3,198
+Cotton goods,38,Massachusetts,Entrymen,M,0.92,1866-07,1,163
+Cotton goods,38,Massachusetts,Filling Carriers,M,0.83,1866-07,4,155
+Cotton goods,38,Massachusetts,Lap Carriers,M,0.71,1866-07,3,192
+Cotton goods,38,Massachusetts,M'chinists,M,1.565,1866-07,8,166
+Cotton goods,38,Massachusetts,Masons,M,1.48,1860-01,5,100
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1860-01,2,100
+Cotton goods,38,Massachusetts,Painters,M,1.36,1860-01,3,100
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1860-01,12,100
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1860-01,2,100
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1860-01,3,100
+Cotton goods,38,Massachusetts,Masons,M,1.48,1860-07,5,100
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1860-07,2,100
+Cotton goods,38,Massachusetts,Painters,M,1.36,1860-07,3,100
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1860-07,12,100
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1860-07,2,100
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1860-07,3,100
+Cotton goods,38,Massachusetts,Masons,M,1.48,1861-01,6,99
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1861-01,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1861-01,2,104
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1861-01,9,111
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1861-01,2,100
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1861-01,3,91
+Cotton goods,38,Massachusetts,Masons,M,1.48,1861-07,6,99
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1861-07,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1861-07,2,104
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1861-07,9,111
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1861-07,2,100
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1861-07,3,91
+Cotton goods,38,Massachusetts,Masons,M,1.48,1862-01,7,98
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1862-01,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1862-01,2,107
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1862-01,9,109
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1862-01,1,111
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1862-01,3,86
+Cotton goods,38,Massachusetts,Masons,M,1.48,1862-07,7,98
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1862-07,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1862-07,2,107
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1862-07,9,109
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1862-07,1,111
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1862-07,3,86
+Cotton goods,38,Massachusetts,Masons,M,1.48,1863-01,5,115
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1863-01,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1863-01,2,107
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1863-01,9,146
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1863-01,1,111
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1863-01,2,121
+Cotton goods,38,Massachusetts,Masons,M,1.48,1863-07,5,115
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1863-07,2,107
+Cotton goods,38,Massachusetts,Painters,M,1.36,1863-07,2,107
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1863-07,9,146
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1863-07,1,111
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1863-07,2,121
+Cotton goods,38,Massachusetts,Masons,M,1.48,1864-01,5,151
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1864-01,2,112
+Cotton goods,38,Massachusetts,Painters,M,1.36,1864-01,2,113
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1864-01,7,181
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1864-01,1,122
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1864-01,1,136
+Cotton goods,38,Massachusetts,Masons,M,1.48,1864-07,5,151
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1864-07,2,112
+Cotton goods,38,Massachusetts,Painters,M,1.36,1864-07,2,113
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1864-07,7,181
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1864-07,1,122
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1864-07,1,136
+Cotton goods,38,Massachusetts,Masons,M,1.48,1865-01,3,192
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1865-01,2,131
+Cotton goods,38,Massachusetts,Painters,M,1.36,1865-01,2,135
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1865-01,9,193
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1865-01,2,142
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1865-01,2,132
+Cotton goods,38,Massachusetts,Masons,M,1.48,1865-07,3,192
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1865-07,2,131
+Cotton goods,38,Massachusetts,Painters,M,1.36,1865-07,2,135
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1865-07,9,193
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1865-07,2,142
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1865-07,2,132
+Cotton goods,38,Massachusetts,Masons,M,1.48,1866-01,3,225
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1866-01,4,242
+Cotton goods,38,Massachusetts,Painters,M,1.36,1866-01,2,156
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1866-01,3,200
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1866-01,2,151
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1866-01,2,114
+Cotton goods,38,Massachusetts,Masons,M,1.48,1866-07,3,225
+Cotton goods,38,Massachusetts,Oilers,M,0.42,1866-07,4,242
+Cotton goods,38,Massachusetts,Painters,M,1.36,1866-07,2,156
+Cotton goods,38,Massachusetts,Pickers,M,0.71,1866-07,9,200
+Cotton goods,38,Massachusetts,Roller Coverers,M,1.50,1866-07,2,151
+Cotton goods,38,Massachusetts,Waste Hands,M,1.10,1866-07,2,114
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1860-01,4,100
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1860-01,1,100
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1860-01,5,100
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1860-01,3,100
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1860-01,6,100
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1860-01,4,100
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1860-07,4,100
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1860-07,1,100
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1860-07,5,100
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1860-07,3,100
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1860-07,6,100
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1860-07,4,100
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1861-01,4,81
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1861-01,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1861-01,4,91
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1861-01,3,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1861-01,6,96
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1861-01,4,83
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1861-07,4,81
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1861-07,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1861-07,4,91
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1861-07,3,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1861-07,6,96
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1861-07,4,83
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1862-01,4,81
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1862-01,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1862-01,3,82
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1862-01,2,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1862-01,6,113
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1862-01,4,83
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1862-07,4,81
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1862-07,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1862-07,3,82
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1862-07,2,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1862-07,6,113
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1862-07,4,83
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1863-01,4,107
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1863-01,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1863-01,3,110
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1863-01,3,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1863-01,6,141
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1863-01,4,111
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1863-07,4,107
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1863-07,1,113
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1863-07,3,110
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1863-07,3,74
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1863-07,6,141
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1863-07,4,111
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1864-01,4,113
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1864-01,1,125
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1864-01,3,127
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1864-01,4,92
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1864-01,5,162
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1864-01,4,129
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1864-07,4,113
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1864-07,1,125
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1864-07,3,127
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1864-07,4,92
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1864-07,5,162
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1864-07,4,129
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1865-01,4,132
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1865-01,2,133
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1865-01,3,114
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1865-01,1,178
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1865-01,5,190
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1865-01,4,149
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1865-07,4,132
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1865-07,2,133
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1865-07,3,114
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1865-07,1,178
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1865-07,5,190
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1865-07,4,149
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1866-01,2,150
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1866-01,1,150
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1866-01,3,127
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1866-01,4,145
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1866-01,5,190
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1866-01,7,164
+Cotton goods,38,Massachusetts,Watchmen,M,1.33,1866-07,2,150
+Cotton goods,38,Massachusetts,Wheelpit Men,M,2.00,1866-07,1,150
+Cotton goods,38,Massachusetts,Yard Hands,M,1.10,1866-07,3,127
+Cotton goods,38,Massachusetts,Yarn Carriers,M,0.68,1866-07,4,145
+Cotton goods,38,Massachusetts,Card Strippers,F,0.71,1866-07,5,190
+Cotton goods,38,Massachusetts,Scrubbers,F,0.45,1866-07,7,164
