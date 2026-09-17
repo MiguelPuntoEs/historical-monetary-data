@@ -109,3 +109,70 @@ Machinery,St. Louis,Mo.,176,Blacksmith helper,1.00,100,90,100,100,125,159,210
 Machinery,St. Louis,Mo.,176,Draftsman,1.50,100,90,100,100,125,175,208
 Machinery,St. Louis,Mo.,176,Engineer,1.00,100,90,100,100,125,170,210
 Machinery,St. Louis,Mo.,176,Laborer,1.00,100,90,100,100,125,175,210
+Machinery,Albany,N.Y.,175,Blacksmith,1.50,100,98,98,113,133,163,172
+Machinery,Albany,N.Y.,175,Engineer,1.00,100,95,95,100,100,120,150
+Machinery,Albany,N.Y.,175,Laborer,1.00,100,88,88,100,100,120,150
+Machinery,Akron,O.,175,Apprentice,0.35,100,100,100,100,100,100,100
+Machinery,Akron,O.,175,Blacksmith,1.70,100,114,114,123,123,123,143
+Machinery,Akron,O.,175,Machinist,1.70,100,114,114,123,123,123,143
+Machinery,Akron,O.,175,Molder helper,1.23,100,100,100,158,158,158,158
+Machinery,Akron,O.,175,Molder,1.75,100,114,114,129,129,129,143
+Machinery,Akron,O.,175,Pattern-maker,1.15,100,114,114,123,123,123,143
+Nail Factories,Pittsburgh,Pa.,31,Carpenter,1.125,100,100,100,156,211,223,272
+Nail Factories,Pittsburgh,Pa.,31,Engineer,1.50,100,100,100,113,104,223,250
+Nail Factories,Pittsburgh,Pa.,31,Laborer,0.80,100,100,100,113,104,123,250
+Nail Factories,Pittsburgh,Pa.,31,Machinist,1.40,100,100,100,118,104,101,183
+Nail Factories,Pittsburgh,Pa.,31,Toastmaster,2.100,100,100,100,103,115,228,520
+Tin and Sheet Iron Works,Newark,N.J.,28,Coppersmiths,0.36,100,111,171,171,90,200,200
+Tin and Sheet Iron Works,Newark,N.J.,28,Finisher,1.75,100,100,111,133,171,290,290
+Tin and Sheet Iron Works,Newark,N.J.,28,Helper,Brisk,1.00,100,100,100,100,100,100,100
+Tin and Sheet Iron Works,Newark,N.J.,28,Helper,second,1.00,100,100,100,100,100,100,100
+Marble Works,Latrobe,Pa.,8,Carver,2.50,100,...,...,103,103,103,100
+Marble Works,Latrobe,Pa.,8,Cutter,1.50,100,...,...,101,101,101,107
+Marble Works,Latrobe,Pa.,8,Letterer,2.50,100,...,...,103,103,103,100
+Marble Works,Latrobe,Pa.,8,Laborer,1.50,100,...,...,131,131,131,107
+Paper,Columbiana,Conn.,271,Foreman,4.00,100,100,100,107,107,107,107
+Paper,Columbiana,Conn.,271,Overseer,1.47,100,90,90,114,136,136,170
+Paper,Columbiana,Conn.,271,Bleacher,1.00,100,90,90,100,100,100,100
+Paper,Columbiana,Conn.,271,Beater tending,0.47,100,90,90,93,88,88,100
+Paper,Columbiana,Conn.,271,Calendar operator,0.67,100,90,90,100,114,114,118
+Paper,Columbiana,Conn.,271,Cutter,girl,0.38,100,90,90,100,100,100,100
+Paper,Columbiana,Conn.,271,Finisher's helper,1.63,100,90,90,111,111,111,147
+Paper,Columbiana,Conn.,271,Finisher,1.30,100,90,90,111,111,111,167
+Paper,Columbiana,Conn.,271,Machine, helper,0.94,100,90,90,159,103,103,163
+Paper,Columbiana,Conn.,271,Laborer,1.00,100,90,90,150,150,150,200
+Paper,New Jersey,21,Foreman,4.00,...,100,100,100,100,200,225
+Paper,New Jersey,21,Aster bleacher,1.50,...,100,100,100,100,100,100
+Paper,New Jersey,21,Bleacher,1.50,...,100,100,100,100,100,100
+Paper,New Jersey,21,Cutter,girl,1.00,...,100,100,120,120,120,120
+Paper,New Jersey,21,Finisher,girl,1.00,...,100,100,120,120,120,120
+Paper,New Jersey,21,Finisher,1.50,...,100,100,100,100,100,100
+Paper,New Jersey,21,Laborer,1.00,...,100,100,100,100,150,125
+Paper,New Jersey,21,Machine-tender,2.00,...,100,100,100,100,100,100
+Paper,Watertown,N.Y.,282,Overseer,1.00,100,100,100,100,113,125,150
+Paper,Watertown,N.Y.,282,Asst bleacher,0.81,100,100,100,100,120,133,140
+Paper,Watertown,N.Y.,282,Bleacher,1.00,100,100,100,120,139,139,140
+Paper,Watertown,N.Y.,282,Cutter,female,0.50,100,100,100,120,120,120,140
+Paper,Watertown,N.Y.,282,Finisher,1.25,100,100,100,100,100,100,100
+Paper,Watertown,N.Y.,282,Finisher,girl,1.00,100,100,100,100,100,100,100
+Paper,Watertown,N.Y.,282,Laborer,1.00,100,100,100,117,107,107,117
+Paper,Watertown,N.Y.,282,Machinie,tender,1.50,100,100,100,100,100,100,100
+Railways,Massachusetts,75,Blacksmith,1.50,100,100,100,100,100,100,100
+Railways,Massachusetts,75,Helper,1.00,100,100,100,100,100,100,100
+Railways,New York,77,Blacksmith,2.00,100,100,100,100,100,100,100
+Railways,New York,77,Helper,Brisk,1.00,100,100,100,100,100,100,100
+Railways,New York,77,Helper,second,1.00,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Overseer,2.50,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Carder,2.00,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Cloth-Rn'n Hand,0.50,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Drapery Hand,0.50,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Finisher,1.50,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Laborer,1.00,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Mule Spinner,1.00,100,100,100,100,100,100,100
+Woolen Goods,Connecticut,86,Weaver,1.50,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Carder,1.50,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Cloth-Rn'n Hand,0.50,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Drawer-in,0.75,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Laborer,1.00,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Mule Spinner,1.25,100,100,100,100,100,100,100
+Woolen Goods,Rhode Island,89,Weaver,1.50,100,100,100,100,100,100,100
