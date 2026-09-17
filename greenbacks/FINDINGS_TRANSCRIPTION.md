@@ -2,9 +2,20 @@
 
 *17 September 2026.*
 
-Three of this dataset's files have been checked against Mitchell's printed pages. One was
-correct. Two were wrong — one of them badly, and it has since been re-transcribed. Nine
-files remain unverified, so **this dataset should not be published or assigned a DOI yet.**
+Six of this dataset's files have now been checked against Mitchell's printed pages. **Two
+were correct; four were wrong.** One has been re-transcribed, three are quarantined. Five
+files remain unverified, and on this hit rate they should be assumed wrong until shown
+otherwise. **This dataset must not be published or assigned a DOI yet.**
+
+| file | rows | verdict |
+|---|---|---|
+| Appendix A, Table 1 — monthly gold | 48 | **correct**, all rows, all columns |
+| Table V — currency of the loyal states | 19 | **correct** but for one cell, since fixed |
+| Appendix A, Table 2 — daily gold | 1,228 | corrupt; replaced by EH.net |
+| Appendix B, Table 2 — wholesale prices | 2,974 | corrupt; 49% of the sampled page |
+| Appendix B, Table 3 — government prices | 79 | was corrupt; **re-transcribed** |
+| Appendix B, Table 5 — wholesale vs retail | 48 | corrupt from the first row |
+| the other five | 3,046 | **unverified** |
 
 ## How this surfaced
 
@@ -84,11 +95,62 @@ The corrected file carries all four divisions of the table — Quartermaster Gen
 Commissary General of Subsistence, Bureau of Provisions and Clothing, and the Surgeon
 General's drugs and chemicals — 79 rows in all, with blanks where Mitchell prints "…".
 
+### Appendix B, Table 2 — wholesale prices — **corrupt**
+
+Page 446 carries six commodities across twelve quarterly dates, 72 cells. **35 are wrong.**
+
+| commodity | Mitchell, p. 446 | this repo |
+|---|---|---|
+| Lead: Pipe, 1863 Jan | 166.7 | **196.7** |
+| Shovels, 1863 Apr | "…" (no quotation) | **122.8**, which is the October figure |
+| Spelter: Imported, 1864 Jul | 333.3 | **233.3** |
+| Tin Plates, 1864 Apr | 196.5 | **106.5** |
+| Zinc: Imported Sheet, 1864 Jul | 357.1 | **171.4** |
+
+The Shovels row shows the same column-shift seen in Table 3: Mitchell prints "…" for two
+quarters of 1863, and the file closes the gap by pulling later values forward.
+
+### Appendix B, Table 5 — wholesale vs retail — **corrupt**
+
+Wrong from the first row. Sheetings at wholesale reads 100, 109, 199, 407, 610, 480, 299 on
+page 469; the file has 108, 190 and 290 for three of those. Retail sheetings is wrong in four
+of seven years. The `number_of_prices` column is also shifted: Tickings at wholesale is
+printed with 1 price series and the file records 12, which is the retail figure from the row
+below.
+
+### Table V — currency of the loyal states — **correct but for one cell**
+
+Page 179, nineteen rows. All correct except the 7-30 treasury notes of 1865, where 437.2
+belongs in the 1865 column and had been placed under 1866. Fixed.
+
+The braced figures — where Mitchell prints one number spanning two rows — were handled
+correctly by the original transcription, which is worth noting given everything else.
+
+### Cj26-41 — money stock — **partly verified**
+
+Not a Mitchell transcription; it comes from *Historical Statistics of the United States*,
+Millennial Edition, drawing on Friedman and Schwartz. Its two Mitchell-derived series can be
+reconciled against Table V, and they agree exactly:
+
+| fiscal year | Cj34 from the file | Table V components |
+|---|---|---|
+| 1862 | 149.6 | 53.0 + 96.6 = 149.6 |
+| 1863 | 411.2 | 20.2 + 3.4 + 387.6 = 411.2 |
+| 1864 | 471.0 | 15.2 + 7.7 + 0.8 + 447.3 = 471.0 |
+| 1865 | 456.6 | 9.9 + 15.1 + 0.5 + 431.1 = 456.6 |
+| 1866 | 428.1 | 7.0 + 20.0 + 0.3 + 400.8 = 428.1 |
+
+Cj35 and Cj37 reconcile the same way. The Friedman–Schwartz series cannot be checked without
+that volume, so Cj26 and Cj29 — both of which the website plots — remain unverified.
+
 ## What this means
 
 The error pattern is diagnostic: 94→91, 86→83, 232→252, 267→207, 350→250, 109→186,
-208→436, 265→295, 64→94, 238→228. Every one is a digit substitution of the kind optical
-character recognition makes, and none is the kind a person reading a page makes. The
+208→436, 265→295, 64→94, 238→228, 199→190, 333.3→233.3, 196.5→106.5. Every one is a digit
+substitution of the kind optical character recognition makes, and none is the kind a person
+reading a page makes. Alongside them sits a second failure mode no reader would produce
+either: whole columns shifted where the source prints "…" for a missing quotation, which the
+parser closed up instead of preserving. The
 collection's README states that its files are transcribed from page images rather than from
 OCR. **For the greenbacks files that claim does not hold**, and the README has been
 corrected to say so until it does.
@@ -110,8 +172,22 @@ EH.net's daily quotations, not on the transcription here, which is why its resul
 ## What remains
 
 - **Done:** Appendix B Table 3 re-transcribed from pages 449–451.
-- Verify the nine unchecked files the same way. Their error rate is unknown, and both files
-  checked before re-transcription were wrong.
+- Decide the scope of re-transcription. Four of the six files checked were wrong, so the
+  five unchecked ones should be assumed wrong. The work is not evenly distributed:
+
+  | file | rows | pages |
+  |---|---|---|
+  | Appendix B, Table 2 — wholesale | 2,974 | 435–448, 14 pages |
+  | Appendix B, Table 4 — retail | 552 | 451–468, 18 pages |
+  | Appendix B, Table 1A — farm, individual | 1,064 | 429–433, 5 pages |
+  | Appendix C, Table 1 — wages | 3,803 | 470–517, 48 pages |
+  | Appendix B, Table 1B — averages | 28 | 433–434, 2 pages |
+  | Appendix B, Table 5 — wholesale vs retail | 48 | 469, 1 page |
+  | Appendix C, Table 2 — census wages | 71 | 518–520, 3 pages |
+
+  Roughly 90 pages in all. The small files at the bottom of that list are cheap and would
+  extend coverage quickly; the wage tables are half the total work and nothing currently
+  depends on them.
 - Decide whether to re-transcribe Appendix A Table 2 at all. EH.net's version is faithful
   where it has been checked, so the gain would be independence from a secondary source
   rather than accuracy. That is a real but lesser benefit, and it is 1,218 rows.

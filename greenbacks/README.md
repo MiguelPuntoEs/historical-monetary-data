@@ -6,10 +6,10 @@ Economic data from the American Civil War era, focusing on the effects of greenb
 
 Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the Economic Consequences of Their Issue, 1862-65* (University of Chicago Press, 1903).
 
-> **Warning.** Of the three files verified against Mitchell's printed pages, two were
-> corrupt. One has been re-transcribed; the other is quarantined in `data/suspect/` and
-> superseded. Nine files remain unverified. Do not cite this dataset until that is
-> resolved — see
+> **Warning.** Six files have been checked against Mitchell's printed pages. **Four were
+> wrong.** One has been re-transcribed; three are quarantined in `data/suspect/`. Five
+> remain unverified and should be assumed wrong until checked. Do not cite this dataset —
+> see
 > [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md). The monthly gold price table
 > is verified correct, all 48 rows.
 
