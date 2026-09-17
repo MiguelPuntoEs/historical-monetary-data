@@ -206,7 +206,7 @@ reconcile exactly, six discrepancies are Mitchell's own internal inconsistencies
 page 469). All five now sit in `data/` under their proper names and should be treated as
 verified, not unverified, going forward.
 
-Appendix C, Table 1 (wages) is **partially** re-transcribed: pages 429–490 (21 pages, 3,147
+Appendix C, Table 1 (wages) is **partially** re-transcribed: pages 470–490 (21 pages, 3,147
 rows) done and cross-checked page by page against the PDF. This is the only trustworthy
 version of that range — `mitchell_appendix_c_table1_wages_part1.csv` and `_part2.csv`
 (present since the init commit) were never checked and should still be assumed wrong.
@@ -291,12 +291,39 @@ PDF, independent of the original transcription pass.
   clearer look. At 556 rows, this table has not been exhaustively checked — the honest
   claim is "spot-checked, one confirmed and fixed error, isolated rather than systemic,"
   not "verified."
-- **Appendix C, Table 1, pages 429–490** (the genuine wage data, as opposed to the deleted
-  491–517 gap): done with the same page-by-page care as the price tables above, but not
-  independently re-spot-checked the way they just were. No specific reason to distrust it,
-  but no fresh confirmation either — it has had one careful pass, not two.
+- **Appendix C, Table 1, pages 470–490** (the genuine wage data, as opposed to the deleted
+  491–517 gap): now independently spot-checked. Four distinctive, well-separated cells
+  (Agricultural Implements/Foremen Woodwork's 1864-01; Ginghams/Reelers at three different
+  dates) matched exactly. One apparent mismatch (Cotton Goods, establishment 39,
+  Machin'ts) turned out, on comparing the full 13-value date sequence rather than a single
+  cell, to be a row-label misalignment in the fresh read, not a file error — every value in
+  the sequence matched once properly aligned. This is a better check than the single-cell
+  comparisons above: matching an entire ordered sequence rules out the kind of "right
+  digits, wrong row" confusion that a one-off comparison can't catch. Good evidence this
+  file is sound.
+  (Note: this table's actual page range is 470–490, not 429–490 as an earlier version of
+  this document and the README said — 429 is where Appendix B's Table 1A farm prices
+  starts. Corrected throughout.)
 
 **Bottom line: "verified" in this document now means something concrete for every table
 listed as such — a specific check that was run and passed, named above or earlier in this
 file. Where a table has only had the original transcription pass and no independent
 recheck, that is stated plainly rather than implied to be equivalent.**
+
+### A further attempt on Table 4, and what it clarified about method
+
+After finding and fixing the New Cumberland error, an attempt was made to go further and
+systematically re-check the rest of Table 4 row by row. This reproduced the same failure
+mode as the Appendix C wages episode above: reading a full row of a dense table (7 date
+columns, several with repeated or close values) direct from the scan produced inconsistent
+results across repeated attempts on the same row — sometimes appearing to miss the first
+column, sometimes the last. This is a different, milder problem than the wages tables'
+column-alignment issue, but the same root cause: this method is reliable for confirming
+or refuting a **specific, isolated value** (which is what caught the New Cumberland error,
+and what confirmed Table 2's four corrections and the wages spot-checks), and unreliable
+for **exhaustively re-transcribing a full row or table** from the same scan.
+
+Practical consequence: Table 4 stays at "spot-checked, one confirmed and fixed error,
+556 rows not exhaustively verified." Closing that gap fully needs the same thing the wages
+gap needs — a better scan, or OCR plus systematic human proofreading — not more attempts at
+direct full-row re-reading, which has now failed this same test twice (wages, and Table 4).
