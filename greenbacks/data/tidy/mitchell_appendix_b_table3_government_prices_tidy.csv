@@ -1,0 +1,462 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix B, Table 3: "Relative Prices Paid by Federal Government for Supplies, 1860-65"
+# Pages 449-451. Relative prices (index, base = 100 in the first year quoted).
+#
+# Mitchell's note to the table: "The data from which the following series of relative
+# prices have been computed are found in the 'exhibits' of the Aldrich Report on the
+# pages indicated under the several divisions of the table."
+#
+# Blank cells are printed as "..." in the source, meaning no quotation for that year.
+# Sections 2 and 4 are headed "Average Prices for Year"; sections 1 and 3 are headed
+# "Date within Year Not Specified".
+#
+# Re-transcribed 17 September 2026 from page images, replacing an earlier version in
+# which 10 of the 15 rows of section 3 were wrong. See FINDINGS_TRANSCRIPTION.md.
+#
+# DERIVED from ../mitchell_appendix_b_table3_government_prices.csv by analysis/03_build_tidy.py. Do not edit.
+section,item,year,relative_price
+Quartermaster General (War Department),Caps forage,1860,100
+Quartermaster General (War Department),Caps forage,1861,111
+Quartermaster General (War Department),Caps forage,1862,98
+Quartermaster General (War Department),Caps forage,1863,102
+Quartermaster General (War Department),Caps forage,1864,114
+Quartermaster General (War Department),Caps forage,1865,175
+Quartermaster General (War Department),Hats uniform,1860,100
+Quartermaster General (War Department),Hats uniform,1861,66
+Quartermaster General (War Department),Hats uniform,1862,69
+Quartermaster General (War Department),Hats uniform,1863,70
+Quartermaster General (War Department),Hats uniform,1864,77
+Quartermaster General (War Department),Hats uniform,1865,96
+Quartermaster General (War Department),Great coats,1860,100
+Quartermaster General (War Department),Great coats,1861,113
+Quartermaster General (War Department),Great coats,1862,148
+Quartermaster General (War Department),Great coats,1863,117
+Quartermaster General (War Department),Great coats,1864,133
+Quartermaster General (War Department),Great coats,1865,188
+Quartermaster General (War Department),Coats blue flannel sack,1860,100
+Quartermaster General (War Department),Coats blue flannel sack,1861,102
+Quartermaster General (War Department),Coats blue flannel sack,1862,114
+Quartermaster General (War Department),Coats blue flannel sack,1863,112
+Quartermaster General (War Department),Coats blue flannel sack,1864,126
+Quartermaster General (War Department),Coats blue flannel sack,1865,191
+Quartermaster General (War Department),Coats blue flannel sack lined,1860,100
+Quartermaster General (War Department),Coats blue flannel sack lined,1861,103
+Quartermaster General (War Department),Coats blue flannel sack lined,1862,123
+Quartermaster General (War Department),Coats blue flannel sack lined,1863,122
+Quartermaster General (War Department),Coats blue flannel sack lined,1864,127
+Quartermaster General (War Department),Coats blue flannel sack lined,1865,188
+Quartermaster General (War Department),Trousers,1860,100
+Quartermaster General (War Department),Trousers,1861,107
+Quartermaster General (War Department),Trousers,1862,126
+Quartermaster General (War Department),Trousers,1863,89
+Quartermaster General (War Department),Trousers,1864,110
+Quartermaster General (War Department),Trousers,1865,168
+Quartermaster General (War Department),Shirts flannel,1860,100
+Quartermaster General (War Department),Shirts flannel,1861,98
+Quartermaster General (War Department),Shirts flannel,1862,162
+Quartermaster General (War Department),Shirts flannel,1863,170
+Quartermaster General (War Department),Shirts flannel,1864,174
+Quartermaster General (War Department),Shirts flannel,1865,258
+Quartermaster General (War Department),Stockings,1860,100
+Quartermaster General (War Department),Stockings,1861,108
+Quartermaster General (War Department),Stockings,1862,133
+Quartermaster General (War Department),Stockings,1863,133
+Quartermaster General (War Department),Stockings,1864,146
+Quartermaster General (War Department),Stockings,1865,200
+Commissary General of Subsistence (War Department),Pork,1861,100
+Commissary General of Subsistence (War Department),Pork,1862,89
+Commissary General of Subsistence (War Department),Pork,1863,110
+Commissary General of Subsistence (War Department),Pork,1864,217
+Commissary General of Subsistence (War Department),Pork,1865,238
+Commissary General of Subsistence (War Department),Bacon,1861,100
+Commissary General of Subsistence (War Department),Bacon,1862,100
+Commissary General of Subsistence (War Department),Bacon,1863,100
+Commissary General of Subsistence (War Department),Bacon,1864,229
+Commissary General of Subsistence (War Department),Bacon,1865,300
+Commissary General of Subsistence (War Department),Ham,1861,100
+Commissary General of Subsistence (War Department),Ham,1862,90
+Commissary General of Subsistence (War Department),Ham,1863,130
+Commissary General of Subsistence (War Department),Ham,1864,190
+Commissary General of Subsistence (War Department),Ham,1865,250
+Commissary General of Subsistence (War Department),Beef cattle,1861,100
+Commissary General of Subsistence (War Department),Beef cattle,1862,100
+Commissary General of Subsistence (War Department),Beef cattle,1863,124
+Commissary General of Subsistence (War Department),Beef cattle,1864,200
+Commissary General of Subsistence (War Department),Beef cattle,1865,232
+Commissary General of Subsistence (War Department),Fresh beef,1861,100
+Commissary General of Subsistence (War Department),Fresh beef,1862,100
+Commissary General of Subsistence (War Department),Fresh beef,1863,100
+Commissary General of Subsistence (War Department),Fresh beef,1864,167
+Commissary General of Subsistence (War Department),Fresh beef,1865,183
+Commissary General of Subsistence (War Department),Salt beef,1861,100
+Commissary General of Subsistence (War Department),Salt beef,1862,96
+Commissary General of Subsistence (War Department),Salt beef,1863,94
+Commissary General of Subsistence (War Department),Salt beef,1864,147
+Commissary General of Subsistence (War Department),Salt beef,1865,144
+Commissary General of Subsistence (War Department),Flour,1861,100
+Commissary General of Subsistence (War Department),Flour,1862,111
+Commissary General of Subsistence (War Department),Flour,1863,130
+Commissary General of Subsistence (War Department),Flour,1864,175
+Commissary General of Subsistence (War Department),Flour,1865,170
+Commissary General of Subsistence (War Department),Soft bread,1861,100
+Commissary General of Subsistence (War Department),Soft bread,1862,100
+Commissary General of Subsistence (War Department),Soft bread,1863,100
+Commissary General of Subsistence (War Department),Soft bread,1864,133
+Commissary General of Subsistence (War Department),Soft bread,1865,133
+Commissary General of Subsistence (War Department),Hard bread,1861,100
+Commissary General of Subsistence (War Department),Hard bread,1862,100
+Commissary General of Subsistence (War Department),Hard bread,1863,100
+Commissary General of Subsistence (War Department),Hard bread,1864,150
+Commissary General of Subsistence (War Department),Hard bread,1865,175
+Commissary General of Subsistence (War Department),Corn meal,1861,100
+Commissary General of Subsistence (War Department),Corn meal,1862,200
+Commissary General of Subsistence (War Department),Corn meal,1863,300
+Commissary General of Subsistence (War Department),Corn meal,1864,300
+Commissary General of Subsistence (War Department),Corn meal,1865,400
+Commissary General of Subsistence (War Department),Beans,1861,100
+Commissary General of Subsistence (War Department),Beans,1862,133
+Commissary General of Subsistence (War Department),Beans,1863,167
+Commissary General of Subsistence (War Department),Beans,1864,167
+Commissary General of Subsistence (War Department),Beans,1865,133
+Commissary General of Subsistence (War Department),Peas,1861,100
+Commissary General of Subsistence (War Department),Peas,1862,100
+Commissary General of Subsistence (War Department),Peas,1863,150
+Commissary General of Subsistence (War Department),Peas,1864,150
+Commissary General of Subsistence (War Department),Peas,1865,300
+Commissary General of Subsistence (War Department),Rice,1861,100
+Commissary General of Subsistence (War Department),Rice,1862,86
+Commissary General of Subsistence (War Department),Rice,1863,114
+Commissary General of Subsistence (War Department),Rice,1864,157
+Commissary General of Subsistence (War Department),Rice,1865,143
+Commissary General of Subsistence (War Department),Hominy,1861,100
+Commissary General of Subsistence (War Department),Hominy,1862,100
+Commissary General of Subsistence (War Department),Hominy,1863,150
+Commissary General of Subsistence (War Department),Hominy,1864,200
+Commissary General of Subsistence (War Department),Hominy,1865,200
+Commissary General of Subsistence (War Department),Desiccated potatoes,1861,100
+Commissary General of Subsistence (War Department),Desiccated potatoes,1862,110
+Commissary General of Subsistence (War Department),Desiccated potatoes,1863,100
+Commissary General of Subsistence (War Department),Desiccated potatoes,1864,110
+Commissary General of Subsistence (War Department),Desiccated potatoes,1865,140
+Commissary General of Subsistence (War Department),Mixed vegetables,1861,100
+Commissary General of Subsistence (War Department),Mixed vegetables,1862,109
+Commissary General of Subsistence (War Department),Mixed vegetables,1863,87
+Commissary General of Subsistence (War Department),Mixed vegetables,1864,78
+Commissary General of Subsistence (War Department),Mixed vegetables,1865,109
+Commissary General of Subsistence (War Department),Green coffee,1861,100
+Commissary General of Subsistence (War Department),Green coffee,1862,153
+Commissary General of Subsistence (War Department),Green coffee,1863,213
+Commissary General of Subsistence (War Department),Green coffee,1864,293
+Commissary General of Subsistence (War Department),Green coffee,1865,247
+Commissary General of Subsistence (War Department),R. and R. and G. coffee,1861,100
+Commissary General of Subsistence (War Department),R. and R. and G. coffee,1862,145
+Commissary General of Subsistence (War Department),R. and R. and G. coffee,1863,190
+Commissary General of Subsistence (War Department),R. and R. and G. coffee,1864,250
+Commissary General of Subsistence (War Department),R. and R. and G. coffee,1865,160
+Commissary General of Subsistence (War Department),Tea,1861,100
+Commissary General of Subsistence (War Department),Tea,1862,129
+Commissary General of Subsistence (War Department),Tea,1863,167
+Commissary General of Subsistence (War Department),Tea,1864,239
+Commissary General of Subsistence (War Department),Tea,1865,280
+Commissary General of Subsistence (War Department),Brown sugar,1861,100
+Commissary General of Subsistence (War Department),Brown sugar,1862,111
+Commissary General of Subsistence (War Department),Brown sugar,1863,133
+Commissary General of Subsistence (War Department),Brown sugar,1864,211
+Commissary General of Subsistence (War Department),Brown sugar,1865,167
+Commissary General of Subsistence (War Department),White sugar,1861,100
+Commissary General of Subsistence (War Department),White sugar,1862,120
+Commissary General of Subsistence (War Department),White sugar,1863,160
+Commissary General of Subsistence (War Department),White sugar,1864,250
+Commissary General of Subsistence (War Department),White sugar,1865,260
+Commissary General of Subsistence (War Department),Vinegar,1861,100
+Commissary General of Subsistence (War Department),Vinegar,1862,91
+Commissary General of Subsistence (War Department),Vinegar,1863,146
+Commissary General of Subsistence (War Department),Vinegar,1864,264
+Commissary General of Subsistence (War Department),Vinegar,1865,318
+Commissary General of Subsistence (War Department),Candles,1861,100
+Commissary General of Subsistence (War Department),Candles,1862,106
+Commissary General of Subsistence (War Department),Candles,1863,122
+Commissary General of Subsistence (War Department),Candles,1864,172
+Commissary General of Subsistence (War Department),Candles,1865,167
+Commissary General of Subsistence (War Department),Soap,1861,100
+Commissary General of Subsistence (War Department),Soap,1862,120
+Commissary General of Subsistence (War Department),Soap,1863,140
+Commissary General of Subsistence (War Department),Soap,1864,220
+Commissary General of Subsistence (War Department),Soap,1865,220
+Commissary General of Subsistence (War Department),Salt,1861,100
+Commissary General of Subsistence (War Department),Salt,1862,117
+Commissary General of Subsistence (War Department),Salt,1863,119
+Commissary General of Subsistence (War Department),Salt,1864,119
+Commissary General of Subsistence (War Department),Salt,1865,119
+Bureau of Provisions and Clothing (Navy Department),Beans,1860,100
+Bureau of Provisions and Clothing (Navy Department),Beans,1861,86
+Bureau of Provisions and Clothing (Navy Department),Beans,1862,100
+Bureau of Provisions and Clothing (Navy Department),Beans,1863,150
+Bureau of Provisions and Clothing (Navy Department),Beans,1864,215
+Bureau of Provisions and Clothing (Navy Department),Beans,1865,215
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1860,100
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1861,101
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1862,91
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1863,86
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1864,125
+Bureau of Provisions and Clothing (Navy Department),Beef fresh,1865,153
+Bureau of Provisions and Clothing (Navy Department),Sugar,1860,100
+Bureau of Provisions and Clothing (Navy Department),Sugar,1861,94
+Bureau of Provisions and Clothing (Navy Department),Sugar,1862,74
+Bureau of Provisions and Clothing (Navy Department),Sugar,1863,100
+Bureau of Provisions and Clothing (Navy Department),Sugar,1864,281
+Bureau of Provisions and Clothing (Navy Department),Sugar,1865,275
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1860,100
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1861,92
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1862,123
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1863,84
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1864,77
+Bureau of Provisions and Clothing (Navy Department),Vegetables,1865,163
+Bureau of Provisions and Clothing (Navy Department),Blankets,1861,100
+Bureau of Provisions and Clothing (Navy Department),Blankets,1862,99
+Bureau of Provisions and Clothing (Navy Department),Blankets,1863,132
+Bureau of Provisions and Clothing (Navy Department),Blankets,1864,232
+Bureau of Provisions and Clothing (Navy Department),Blankets,1865,329
+Bureau of Provisions and Clothing (Navy Department),Flannel,1861,100
+Bureau of Provisions and Clothing (Navy Department),Flannel,1862,92
+Bureau of Provisions and Clothing (Navy Department),Flannel,1863,124
+Bureau of Provisions and Clothing (Navy Department),Flannel,1864,232
+Bureau of Provisions and Clothing (Navy Department),Flannel,1865,276
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1860,100
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1861,96
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1862,92
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1863,103
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1864,201
+Bureau of Provisions and Clothing (Navy Department),Overshirts flannel,1865,267
+Bureau of Provisions and Clothing (Navy Department),Satinet,1861,100
+Bureau of Provisions and Clothing (Navy Department),Satinet,1862,94
+Bureau of Provisions and Clothing (Navy Department),Satinet,1863,99
+Bureau of Provisions and Clothing (Navy Department),Satinet,1864,180
+Bureau of Provisions and Clothing (Navy Department),Satinet,1865,238
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1860,100
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1861,98
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1862,97
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1863,105
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1864,194
+Bureau of Provisions and Clothing (Navy Department),Trousers canvas duck,1865,350
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1860,100
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1861,71
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1862,68
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1863,75
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1864,132
+Bureau of Provisions and Clothing (Navy Department),Trousers cloth,1865,207
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1860,100
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1861,86
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1862,74
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1863,83
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1864,124
+Bureau of Provisions and Clothing (Navy Department),Shoes calf skin,1865,149
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1860,100
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1861,109
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1862,102
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1863,113
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1864,208
+Bureau of Provisions and Clothing (Navy Department),Socks woolen,1865,234
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1860,100
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1861,97
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1862,94
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1863,97
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1864,244
+Bureau of Provisions and Clothing (Navy Department),Mattresses,1865,265
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,1861,100
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,1862,64
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,1863,123
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,1864,190
+Bureau of Provisions and Clothing (Navy Department),Linseed oil boiled,1865,227
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1860,100
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1861,117
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1862,319
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1863,576
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1864,488
+Bureau of Provisions and Clothing (Navy Department),Turpentine,1865,836
+Surgeon General (War Department) drugs and chemicals,Aconite,1860,100
+Surgeon General (War Department) drugs and chemicals,Aconite,1861,107
+Surgeon General (War Department) drugs and chemicals,Aconite,1862,107
+Surgeon General (War Department) drugs and chemicals,Aconite,1863,107
+Surgeon General (War Department) drugs and chemicals,Aconite,1864,200
+Surgeon General (War Department) drugs and chemicals,Aconite,1865,200
+Surgeon General (War Department) drugs and chemicals,Aloes,1860,100
+Surgeon General (War Department) drugs and chemicals,Aloes,1861,129
+Surgeon General (War Department) drugs and chemicals,Aloes,1862,167
+Surgeon General (War Department) drugs and chemicals,Aloes,1863,147
+Surgeon General (War Department) drugs and chemicals,Aloes,1864,160
+Surgeon General (War Department) drugs and chemicals,Aloes,1865,160
+Surgeon General (War Department) drugs and chemicals,Alum,1860,100
+Surgeon General (War Department) drugs and chemicals,Alum,1861,87
+Surgeon General (War Department) drugs and chemicals,Alum,1862,91
+Surgeon General (War Department) drugs and chemicals,Alum,1863,66
+Surgeon General (War Department) drugs and chemicals,Alum,1864,103
+Surgeon General (War Department) drugs and chemicals,Alum,1865,103
+Surgeon General (War Department) drugs and chemicals,Ammonia,1860,100
+Surgeon General (War Department) drugs and chemicals,Ammonia,1861,100
+Surgeon General (War Department) drugs and chemicals,Ammonia,1862,100
+Surgeon General (War Department) drugs and chemicals,Ammonia,1863,100
+Surgeon General (War Department) drugs and chemicals,Ammonia,1864,160
+Surgeon General (War Department) drugs and chemicals,Ammonia,1865,160
+Surgeon General (War Department) drugs and chemicals,Arnica,1860,100
+Surgeon General (War Department) drugs and chemicals,Arnica,1861,115
+Surgeon General (War Department) drugs and chemicals,Arnica,1862,133
+Surgeon General (War Department) drugs and chemicals,Arnica,1863,133
+Surgeon General (War Department) drugs and chemicals,Arnica,1864,167
+Surgeon General (War Department) drugs and chemicals,Arnica,1865,167
+Surgeon General (War Department) drugs and chemicals,Calomel,1860,100
+Surgeon General (War Department) drugs and chemicals,Calomel,1861,100
+Surgeon General (War Department) drugs and chemicals,Calomel,1862,92
+Surgeon General (War Department) drugs and chemicals,Calomel,1863,112
+Surgeon General (War Department) drugs and chemicals,Calomel,1864,223
+Surgeon General (War Department) drugs and chemicals,Calomel,1865,214
+Surgeon General (War Department) drugs and chemicals,Camphor,1860,100
+Surgeon General (War Department) drugs and chemicals,Camphor,1861,119
+Surgeon General (War Department) drugs and chemicals,Camphor,1862,222
+Surgeon General (War Department) drugs and chemicals,Camphor,1863,237
+Surgeon General (War Department) drugs and chemicals,Camphor,1864,423
+Surgeon General (War Department) drugs and chemicals,Camphor,1865,420
+Surgeon General (War Department) drugs and chemicals,Castor oil,1860,100
+Surgeon General (War Department) drugs and chemicals,Castor oil,1861,88
+Surgeon General (War Department) drugs and chemicals,Castor oil,1862,90
+Surgeon General (War Department) drugs and chemicals,Castor oil,1863,123
+Surgeon General (War Department) drugs and chemicals,Castor oil,1864,133
+Surgeon General (War Department) drugs and chemicals,Castor oil,1865,105
+Surgeon General (War Department) drugs and chemicals,Chalk,1860,100
+Surgeon General (War Department) drugs and chemicals,Chalk,1861,100
+Surgeon General (War Department) drugs and chemicals,Chalk,1862,100
+Surgeon General (War Department) drugs and chemicals,Chalk,1863,100
+Surgeon General (War Department) drugs and chemicals,Chalk,1864,120
+Surgeon General (War Department) drugs and chemicals,Chalk,1865,120
+Surgeon General (War Department) drugs and chemicals,Chloroform,1860,100
+Surgeon General (War Department) drugs and chemicals,Chloroform,1861,99
+Surgeon General (War Department) drugs and chemicals,Chloroform,1862,100
+Surgeon General (War Department) drugs and chemicals,Chloroform,1863,100
+Surgeon General (War Department) drugs and chemicals,Chloroform,1864,128
+Surgeon General (War Department) drugs and chemicals,Chloroform,1865,164
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1860,100
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1861,71
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1862,71
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1863,71
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1864,77
+Surgeon General (War Department) drugs and chemicals,Cod liver oil,1865,77
+Surgeon General (War Department) drugs and chemicals,Ether,1860,100
+Surgeon General (War Department) drugs and chemicals,Ether,1861,150
+Surgeon General (War Department) drugs and chemicals,Ether,1862,54
+Surgeon General (War Department) drugs and chemicals,Ether,1863,60
+Surgeon General (War Department) drugs and chemicals,Ether,1864,126
+Surgeon General (War Department) drugs and chemicals,Ether,1865,131
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1860,100
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1861,113
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1862,114
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1863,114
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1864,120
+Surgeon General (War Department) drugs and chemicals,Extract of ginger,1865,120
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1860,100
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1861,100
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1862,128
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1863,112
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1864,200
+Surgeon General (War Department) drugs and chemicals,Extract of wild cherry bark,1865,263
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1860,100
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1861,131
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1862,134
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1863,134
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1864,213
+Surgeon General (War Department) drugs and chemicals,Gum Arabic,1865,213
+Surgeon General (War Department) drugs and chemicals,Ipecac,1860,100
+Surgeon General (War Department) drugs and chemicals,Ipecac,1861,104
+Surgeon General (War Department) drugs and chemicals,Ipecac,1862,116
+Surgeon General (War Department) drugs and chemicals,Ipecac,1863,117
+Surgeon General (War Department) drugs and chemicals,Ipecac,1864,223
+Surgeon General (War Department) drugs and chemicals,Ipecac,1865,265
+Surgeon General (War Department) drugs and chemicals,Laudanum,1860,100
+Surgeon General (War Department) drugs and chemicals,Laudanum,1861,100
+Surgeon General (War Department) drugs and chemicals,Laudanum,1862,100
+Surgeon General (War Department) drugs and chemicals,Laudanum,1863,100
+Surgeon General (War Department) drugs and chemicals,Laudanum,1864,300
+Surgeon General (War Department) drugs and chemicals,Laudanum,1865,300
+Surgeon General (War Department) drugs and chemicals,Magnesia,1860,100
+Surgeon General (War Department) drugs and chemicals,Magnesia,1861,89
+Surgeon General (War Department) drugs and chemicals,Magnesia,1862,83
+Surgeon General (War Department) drugs and chemicals,Magnesia,1863,93
+Surgeon General (War Department) drugs and chemicals,Magnesia,1864,208
+Surgeon General (War Department) drugs and chemicals,Magnesia,1865,283
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1860,100
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1861,93
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1862,75
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1863,60
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1864,68
+Surgeon General (War Department) drugs and chemicals,Nitric acid,1865,95
+Surgeon General (War Department) drugs and chemicals,Olive oil,1860,100
+Surgeon General (War Department) drugs and chemicals,Olive oil,1861,100
+Surgeon General (War Department) drugs and chemicals,Olive oil,1862,100
+Surgeon General (War Department) drugs and chemicals,Olive oil,1863,100
+Surgeon General (War Department) drugs and chemicals,Olive oil,1864,147
+Surgeon General (War Department) drugs and chemicals,Olive oil,1865,147
+Surgeon General (War Department) drugs and chemicals,Opium,1860,100
+Surgeon General (War Department) drugs and chemicals,Opium,1861,101
+Surgeon General (War Department) drugs and chemicals,Opium,1862,102
+Surgeon General (War Department) drugs and chemicals,Opium,1863,115
+Surgeon General (War Department) drugs and chemicals,Opium,1864,185
+Surgeon General (War Department) drugs and chemicals,Opium,1865,185
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1860,100
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1861,75
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1862,75
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1863,75
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1864,100
+Surgeon General (War Department) drugs and chemicals,Pills cathartic,1865,100
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1860,100
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1861,104
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1862,104
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1863,104
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1864,200
+Surgeon General (War Department) drugs and chemicals,Potassium chlorate,1865,200
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1860,100
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1861,100
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1862,100
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1863,100
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1864,126
+Surgeon General (War Department) drugs and chemicals,Potassium iodide,1865,126
+Surgeon General (War Department) drugs and chemicals,Quinine,1860,100
+Surgeon General (War Department) drugs and chemicals,Quinine,1861,123
+Surgeon General (War Department) drugs and chemicals,Quinine,1862,149
+Surgeon General (War Department) drugs and chemicals,Quinine,1863,187
+Surgeon General (War Department) drugs and chemicals,Quinine,1864,196
+Surgeon General (War Department) drugs and chemicals,Quinine,1865,130
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1860,100
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1861,100
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1862,100
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1863,100
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1864,118
+Surgeon General (War Department) drugs and chemicals,Squills syrup of,1865,118
+Surgeon General (War Department) drugs and chemicals,Sulphur,1860,100
+Surgeon General (War Department) drugs and chemicals,Sulphur,1861,111
+Surgeon General (War Department) drugs and chemicals,Sulphur,1862,131
+Surgeon General (War Department) drugs and chemicals,Sulphur,1863,100
+Surgeon General (War Department) drugs and chemicals,Sulphur,1864,100
+Surgeon General (War Department) drugs and chemicals,Sulphur,1865,100
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1860,100
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1861,81
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1862,67
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1863,78
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1864,111
+Surgeon General (War Department) drugs and chemicals,Sulphuric acid,1865,111
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1860,100
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1861,90
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1862,83
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1863,120
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1864,120
+Surgeon General (War Department) drugs and chemicals,Tartar emetic,1865,120
+Surgeon General (War Department) drugs and chemicals,Turpentine,1860,100
+Surgeon General (War Department) drugs and chemicals,Turpentine,1861,124
+Surgeon General (War Department) drugs and chemicals,Turpentine,1862,163
+Surgeon General (War Department) drugs and chemicals,Turpentine,1863,283
+Surgeon General (War Department) drugs and chemicals,Turpentine,1864,200
+Surgeon General (War Department) drugs and chemicals,Turpentine,1865,211
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1860,100
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1861,100
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1862,100
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1863,100
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1864,267
+Surgeon General (War Department) drugs and chemicals,Zinc sulphate of,1865,300

@@ -1,0 +1,353 @@
+# Source: Wesley C. Mitchell, "A History of the Greenbacks" (1903)
+# Appendix B, Table 5: "Comparison of the Relative Prices of Twenty-Three Commodities
+# at Wholesale and at Retail"
+# Page 469. Relative prices (index, 1860 = 100).
+#
+# number_of_price_series is Mitchell's "Number of Price Series" column: how many
+# underlying series the relative price averages over. The averages at the foot of the
+# table print ".." there, recorded as blank.
+#
+# Blank cells are printed as "...." in the source. Note that the wholesale and retail
+# rows for a pair are not always the same commodity: Mitchell compares Sugar: Havana
+# brown at wholesale with Sugar: good brown at retail, and similarly for mackerel and
+# for three of the pork series. The item names are kept exactly as printed.
+#
+# Re-transcribed 17 September 2026 from the page image, replacing a version that was
+# wrong from the first row and whose number_of_price_series column was shifted by one
+# row. See FINDINGS_TRANSCRIPTION.md.
+#
+# DERIVED from ../mitchell_appendix_b_table5_wholesale_vs_retail.csv by analysis/03_build_tidy.py. Do not edit.
+commodity,channel,number_of_price_series,year,relative_price
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1860,100
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1861,109
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1862,199
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1863,407
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1864,610
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1865,480
+"Sheetings: brown, 4-4, Atlantic A.",wholesale,1,1866,299
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1860,100
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1861,135
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1862,233
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1863,352
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1864,469
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1865,405
+"Sheetings: brown, 4-4, Atlantic A.",retail,11,1866,328
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1860,100
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1861,98
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1862,131
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1863,222
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1864,331
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1865,332
+"Shirtings: bleached, 4-4, N.Y. Mills",wholesale,1,1866,302
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1860,100
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1861,123
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1862,207
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1863,335
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1864,511
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1865,447
+"Shirtings: bleached, 4-4, N.Y. Mills",retail,13,1866,366
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1860,100
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1861,98
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1862,151
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1864,482
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1865,451
+"Tickings: Amoskeag, A.C.A.",wholesale,1,1866,396
+"Tickings: Amoskeag, A.C.A.",retail,12,1860,100
+"Tickings: Amoskeag, A.C.A.",retail,12,1861,130
+"Tickings: Amoskeag, A.C.A.",retail,12,1862,187
+"Tickings: Amoskeag, A.C.A.",retail,12,1863,237
+"Tickings: Amoskeag, A.C.A.",retail,12,1864,335
+"Tickings: Amoskeag, A.C.A.",retail,12,1865,324
+"Tickings: Amoskeag, A.C.A.",retail,12,1866,271
+Flour: Rye,wholesale,1,1860,100
+Flour: Rye,wholesale,1,1861,70
+Flour: Rye,wholesale,1,1862,100
+Flour: Rye,wholesale,1,1863,117
+Flour: Rye,wholesale,1,1864,163
+Flour: Rye,wholesale,1,1865,165
+Flour: Rye,wholesale,1,1866,142
+Flour: Rye,retail,8,1860,100
+Flour: Rye,retail,8,1861,102
+Flour: Rye,retail,8,1862,108
+Flour: Rye,retail,8,1863,153
+Flour: Rye,retail,8,1864,198
+Flour: Rye,retail,8,1865,208
+Flour: Rye,retail,8,1866,205
+"Meal: corn, yellow, kiln-dried",wholesale,1,1860,100
+"Meal: corn, yellow, kiln-dried",wholesale,1,1861,66
+"Meal: corn, yellow, kiln-dried",wholesale,1,1862,84
+"Meal: corn, yellow, kiln-dried",wholesale,1,1863,91
+"Meal: corn, yellow, kiln-dried",wholesale,1,1864,178
+"Meal: corn, yellow, kiln-dried",wholesale,1,1865,163
+"Meal: corn, yellow, kiln-dried",wholesale,1,1866,122
+"Meal: corn, yellow, kiln-dried",retail,9,1860,100
+"Meal: corn, yellow, kiln-dried",retail,9,1861,111
+"Meal: corn, yellow, kiln-dried",retail,9,1862,118
+"Meal: corn, yellow, kiln-dried",retail,9,1863,143
+"Meal: corn, yellow, kiln-dried",retail,9,1864,174
+"Meal: corn, yellow, kiln-dried",retail,9,1865,190
+"Meal: corn, yellow, kiln-dried",retail,9,1866,183
+Beans,wholesale,1,1860,100
+Beans,wholesale,1,1861,109
+Beans,wholesale,1,1862,143
+Beans,wholesale,1,1863,150
+Beans,wholesale,1,1864,148
+Beans,wholesale,1,1865,133
+Beans,wholesale,1,1866,151
+Beans,retail,9,1860,100
+Beans,retail,9,1861,104
+Beans,retail,9,1862,122
+Beans,retail,9,1863,142
+Beans,retail,9,1864,156
+Beans,retail,9,1865,156
+Beans,retail,9,1866,160
+Rice: Carolina prime,wholesale,1,1860,100
+Rice: Carolina prime,wholesale,1,1861,114
+Rice: Carolina prime,wholesale,1,1862,163
+Rice: Carolina prime,wholesale,1,1865,244
+Rice: Carolina prime,wholesale,1,1866,273
+Rice: Carolina prime,retail,9,1860,100
+Rice: Carolina prime,retail,9,1861,113
+Rice: Carolina prime,retail,9,1862,159
+Rice: Carolina prime,retail,9,1863,187
+Rice: Carolina prime,retail,9,1864,220
+Rice: Carolina prime,retail,9,1865,217
+Rice: Carolina prime,retail,9,1866,211
+Sugar: Havana brown,wholesale,1,1860,100
+Sugar: Havana brown,wholesale,1,1861,80
+Sugar: Havana brown,wholesale,1,1862,108
+Sugar: Havana brown,wholesale,1,1863,138
+Sugar: Havana brown,wholesale,1,1864,225
+Sugar: Havana brown,wholesale,1,1865,189
+Sugar: Havana brown,wholesale,1,1866,153
+Sugar: good brown,retail,11,1860,100
+Sugar: good brown,retail,11,1861,102
+Sugar: good brown,retail,11,1862,123
+Sugar: good brown,retail,11,1863,151
+Sugar: good brown,retail,11,1864,213
+Sugar: good brown,retail,11,1865,201
+Sugar: good brown,retail,11,1866,212
+Molasses: N. O. prime,wholesale,1,1860,100
+Molasses: N. O. prime,wholesale,1,1861,83
+Molasses: N. O. prime,wholesale,1,1862,99
+Molasses: N. O. prime,wholesale,1,1863,112
+Molasses: N. O. prime,wholesale,1,1864,219
+Molasses: N. O. prime,wholesale,1,1865,251
+Molasses: N. O. prime,wholesale,1,1866,236
+Molasses: N. O. prime,retail,6,1860,100
+Molasses: N. O. prime,retail,6,1861,104
+Molasses: N. O. prime,retail,6,1862,144
+Molasses: N. O. prime,retail,6,1863,192
+Molasses: N. O. prime,retail,6,1864,238
+Molasses: N. O. prime,retail,6,1865,235
+Molasses: N. O. prime,retail,6,1866,235
+"Molasses: Porto Rico, best",wholesale,1,1860,100
+"Molasses: Porto Rico, best",wholesale,1,1861,89
+"Molasses: Porto Rico, best",wholesale,1,1862,105
+"Molasses: Porto Rico, best",wholesale,1,1863,133
+"Molasses: Porto Rico, best",wholesale,1,1864,220
+"Molasses: Porto Rico, best",wholesale,1,1865,220
+"Molasses: Porto Rico, best",wholesale,1,1866,185
+"Molasses: Porto Rico, best",retail,9,1860,100
+"Molasses: Porto Rico, best",retail,9,1861,114
+"Molasses: Porto Rico, best",retail,9,1862,132
+"Molasses: Porto Rico, best",retail,9,1863,192
+"Molasses: Porto Rico, best",retail,9,1864,242
+"Molasses: Porto Rico, best",retail,9,1865,227
+"Molasses: Porto Rico, best",retail,9,1866,220
+Starch: ordinary laundry,wholesale,1,1860,100
+Starch: ordinary laundry,wholesale,1,1861,92
+Starch: ordinary laundry,wholesale,1,1862,92
+Starch: ordinary laundry,wholesale,1,1863,115
+Starch: ordinary laundry,wholesale,1,1864,169
+Starch: ordinary laundry,wholesale,1,1865,169
+Starch: ordinary laundry,wholesale,1,1866,154
+Starch: ordinary laundry,retail,7,1860,100
+Starch: ordinary laundry,retail,7,1861,103
+Starch: ordinary laundry,retail,7,1862,115
+Starch: ordinary laundry,retail,7,1863,140
+Starch: ordinary laundry,retail,7,1864,165
+Starch: ordinary laundry,retail,7,1865,184
+Starch: ordinary laundry,retail,7,1866,180
+Butter,wholesale,1,1860,100
+Butter,wholesale,1,1861,82
+Butter,wholesale,1,1862,99
+Butter,wholesale,1,1863,124
+Butter,wholesale,1,1864,206
+Butter,wholesale,1,1865,209
+Butter,wholesale,1,1866,237
+Butter,retail,9,1860,100
+Butter,retail,9,1861,93
+Butter,retail,9,1862,110
+Butter,retail,9,1863,129
+Butter,retail,9,1864,188
+Butter,retail,9,1865,218
+Butter,retail,9,1866,215
+Cheese,wholesale,1,1860,100
+Cheese,wholesale,1,1861,81
+Cheese,wholesale,1,1862,75
+Cheese,wholesale,1,1863,125
+Cheese,wholesale,1,1864,173
+Cheese,wholesale,1,1865,184
+Cheese,wholesale,1,1866,190
+Cheese,retail,9,1860,100
+Cheese,retail,9,1861,90
+Cheese,retail,9,1862,97
+Cheese,retail,9,1863,113
+Cheese,retail,9,1864,153
+Cheese,retail,9,1865,175
+Cheese,retail,9,1866,180
+Eggs,wholesale,1,1860,100
+Eggs,wholesale,1,1861,83
+Eggs,wholesale,1,1862,90
+Eggs,wholesale,1,1863,119
+Eggs,wholesale,1,1864,150
+Eggs,wholesale,1,1865,168
+Eggs,wholesale,1,1866,163
+Eggs,retail,9,1860,100
+Eggs,retail,9,1861,92
+Eggs,retail,9,1862,103
+Eggs,retail,9,1863,122
+Eggs,retail,9,1864,133
+Eggs,retail,9,1865,167
+Eggs,retail,9,1866,163
+"Mackerel: salt, shore, No. 1",wholesale,1,1860,100
+"Mackerel: salt, shore, No. 1",wholesale,1,1861,53
+"Mackerel: salt, shore, No. 1",wholesale,1,1862,52
+"Mackerel: salt, shore, No. 1",wholesale,1,1863,88
+"Mackerel: salt, shore, No. 1",wholesale,1,1864,188
+"Mackerel: salt, shore, No. 1",wholesale,1,1865,138
+"Mackerel: salt, shore, No. 1",wholesale,1,1866,142
+"Mackerel: pickled, No. 1",retail,7,1860,100
+"Mackerel: pickled, No. 1",retail,7,1861,93
+"Mackerel: pickled, No. 1",retail,7,1862,111
+"Mackerel: pickled, No. 1",retail,7,1863,125
+"Mackerel: pickled, No. 1",retail,7,1864,153
+"Mackerel: pickled, No. 1",retail,7,1865,149
+"Mackerel: pickled, No. 1",retail,7,1866,152
+Beef,wholesale,3,1860,100
+Beef,wholesale,3,1861,95
+Beef,wholesale,3,1862,98
+Beef,wholesale,3,1863,107
+Beef,wholesale,3,1864,146
+Beef,wholesale,3,1865,184
+Beef,wholesale,3,1866,191
+Beef,retail,35,1860,100
+Beef,retail,35,1861,108
+Beef,retail,35,1862,112
+Beef,retail,35,1863,129
+Beef,retail,35,1864,158
+Beef,retail,35,1865,167
+Beef,retail,35,1866,167
+Mutton,wholesale,1,1860,100
+Mutton,wholesale,1,1861,98
+Mutton,wholesale,1,1862,93
+Mutton,wholesale,1,1863,112
+Mutton,wholesale,1,1864,136
+Mutton,wholesale,1,1865,171
+Mutton,wholesale,1,1866,160
+Mutton,retail,17,1860,100
+Mutton,retail,17,1861,109
+Mutton,retail,17,1862,111
+Mutton,retail,17,1863,122
+Mutton,retail,17,1864,135
+Mutton,retail,17,1865,158
+Mutton,retail,17,1866,158
+"Pork: hams, sugar-cured",wholesale,1,1860,100
+"Pork: hams, sugar-cured",wholesale,1,1861,80
+"Pork: hams, sugar-cured",wholesale,1,1862,107
+"Pork: hams, sugar-cured",wholesale,1,1863,195
+"Pork: hams, sugar-cured",wholesale,1,1864,257
+"Pork: hams, sugar-cured",wholesale,1,1865,288
+"Pork: hams, sugar-cured",wholesale,1,1866,298
+"Pork: hams, smoked",retail,9,1860,100
+"Pork: hams, smoked",retail,9,1861,104
+"Pork: hams, smoked",retail,9,1862,107
+"Pork: hams, smoked",retail,9,1863,119
+"Pork: hams, smoked",retail,9,1864,154
+"Pork: hams, smoked",retail,9,1865,185
+"Pork: hams, smoked",retail,9,1866,182
+"Pork: bacon, clear",wholesale,1,1860,100
+"Pork: bacon, clear",wholesale,1,1861,64
+"Pork: bacon, clear",wholesale,1,1862,56
+"Pork: bacon, clear",wholesale,1,1863,60
+"Pork: bacon, clear",wholesale,1,1864,119
+"Pork: bacon, clear",wholesale,1,1865,170
+"Pork: bacon, clear",wholesale,1,1866,185
+"Pork: bacon, clear",retail,7,1860,100
+"Pork: bacon, clear",retail,7,1861,104
+"Pork: bacon, clear",retail,7,1862,116
+"Pork: bacon, clear",retail,7,1863,139
+"Pork: bacon, clear",retail,7,1864,179
+"Pork: bacon, clear",retail,7,1865,178
+"Pork: bacon, clear",retail,7,1866,138
+Pork: salt mess,wholesale,1,1860,100
+Pork: salt mess,wholesale,1,1861,92
+Pork: salt mess,wholesale,1,1862,66
+Pork: salt mess,wholesale,1,1863,82
+Pork: salt mess,wholesale,1,1864,182
+Pork: salt mess,wholesale,1,1865,173
+Pork: salt mess,wholesale,1,1866,172
+Pork: corned or salted,retail,6,1860,100
+Pork: corned or salted,retail,6,1861,114
+Pork: corned or salted,retail,6,1862,116
+Pork: corned or salted,retail,6,1863,127
+Pork: corned or salted,retail,6,1864,164
+Pork: corned or salted,retail,6,1865,191
+Pork: corned or salted,retail,6,1866,197
+Lard,wholesale,2,1860,100
+Lard,wholesale,2,1861,81
+Lard,wholesale,2,1862,69
+Lard,wholesale,2,1863,89
+Lard,wholesale,2,1864,131
+Lard,wholesale,2,1865,179
+Lard,wholesale,2,1866,172
+Lard,retail,9,1860,100
+Lard,retail,9,1861,100
+Lard,retail,9,1862,106
+Lard,retail,9,1863,118
+Lard,retail,9,1864,146
+Lard,retail,9,1865,169
+Lard,retail,9,1866,167
+"Coal: anthracite, stove",wholesale,1,1860,100
+"Coal: anthracite, stove",wholesale,1,1861,101
+"Coal: anthracite, stove",wholesale,1,1862,94
+"Coal: anthracite, stove",wholesale,1,1863,154
+"Coal: anthracite, stove",wholesale,1,1864,242
+"Coal: anthracite, stove",wholesale,1,1865,232
+"Coal: anthracite, stove",wholesale,1,1866,246
+"Coal: anthracite, stove",retail,6,1860,100
+"Coal: anthracite, stove",retail,6,1861,103
+"Coal: anthracite, stove",retail,6,1862,115
+"Coal: anthracite, stove",retail,6,1863,167
+"Coal: anthracite, stove",retail,6,1864,205
+"Coal: anthracite, stove",retail,6,1865,216
+"Coal: anthracite, stove",retail,6,1866,200
+Coal: bituminous,wholesale,1,1860,100
+Coal: bituminous,wholesale,1,1861,95
+Coal: bituminous,wholesale,1,1862,130
+Coal: bituminous,wholesale,1,1863,150
+Coal: bituminous,wholesale,1,1864,191
+Coal: bituminous,wholesale,1,1865,211
+Coal: bituminous,wholesale,1,1866,178
+Coal: bituminous,retail,7,1860,100
+Coal: bituminous,retail,7,1861,105
+Coal: bituminous,retail,7,1862,115
+Coal: bituminous,retail,7,1863,151
+Coal: bituminous,retail,7,1864,156
+Coal: bituminous,retail,7,1865,148
+Coal: bituminous,retail,7,1866,147
+Average of relative prices,wholesale,,1860,100
+Average of relative prices,wholesale,,1861,88
+Average of relative prices,wholesale,,1862,105
+Average of relative prices,wholesale,,1863,138
+Average of relative prices,wholesale,,1864,221
+Average of relative prices,wholesale,,1865,222
+Average of relative prices,wholesale,,1866,206
+Average of relative prices,retail,,1860,100
+Average of relative prices,retail,,1861,107
+Average of relative prices,retail,,1862,129
+Average of relative prices,retail,,1863,165
+Average of relative prices,retail,,1864,211
+Average of relative prices,retail,,1865,214
+Average of relative prices,retail,,1866,202

@@ -61,6 +61,7 @@ def check(path):
 
 
 def main():
+    # data/tidy/ is derived by 03_build_tidy.py and data/suspect/ already failed.
     paths = sorted(glob.glob(os.path.join(DATA, "*.csv")))
     failed = 0
     for path in paths:

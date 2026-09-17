@@ -1,14 +1,18 @@
 # Validation and analysis for the greenbacks dataset. Run from the collection's
 # environment: `uv sync` at the repository root first.
 
-.PHONY: all validate analysis fetch
+.PHONY: all validate tidy analysis fetch
 .DEFAULT_GOAL := all
 
-all: validate analysis
+all: validate tidy analysis
 
 ## validate — invariant checks over every file in data/
 validate:
 	@uv run --quiet python analysis/02_validate.py
+
+## tidy — regenerate data/tidy/ from the wide source tables
+tidy:
+	@uv run --quiet python analysis/03_build_tidy.py
 
 ## analysis — the pass-through table
 analysis:
