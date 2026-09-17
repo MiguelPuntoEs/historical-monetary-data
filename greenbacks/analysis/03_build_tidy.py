@@ -27,6 +27,7 @@ OUT = os.path.join(DATA, "tidy")
 TABLES = {
     "mitchell_appendix_b_table1a_farm_individual.csv": (["date"], "series", "relative_price"),
     "mitchell_appendix_b_table1b_averages.csv": (["date"], "product", "relative_price"),
+    "mitchell_appendix_b_table2_wholesale_prices.csv": (["date"], "commodity", "relative_price"),
     "mitchell_appendix_b_table3_government_prices.csv": (
         ["section", "item"], "year", "relative_price"),
     "mitchell_appendix_b_table5_wholesale_vs_retail.csv": (
