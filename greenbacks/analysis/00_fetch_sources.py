@@ -27,6 +27,15 @@ DATA = os.path.join(HERE, "..", "data")
 FRED = "https://fred.stlouisfed.org/graph/fredgraph.csv?id={}"
 EHNET = "https://eh.net/wp-content/uploads/2013/11/greenback.txt"
 
+# Divergences found between EH.net and Mitchell's printed page, confirmed against the
+# book. They are recorded rather than corrected: this file is EH.net's digitization,
+# and silently editing it would make it something else. Nothing downstream depends on
+# them — patching this one and re-running 01_pass_through.py leaves every coefficient
+# in the paper's Table 1 unchanged to three decimals.
+EHNET_DIVERGENCES = [
+    ("1862-01-15", "lowest", "97.32", "97.33", "p. 425"),
+]
+
 PRICE_SERIES = {
     "nber_general_price_index_monthly.csv": dict(
         id="M04051USM324NNBR",
@@ -94,7 +103,7 @@ def fetch_greenback_daily():
     """EH.net's digitization of Mitchell's daily quotations.
 
     Preferred here over the transcription in this repository, which is corrupt:
-    see FINDINGS_DAILY_SERIES.md. Its records are the ones the pass-through paper
+    see FINDINGS_TRANSCRIPTION.md. Its records are the ones the pass-through paper
     was estimated on.
     """
     rows = []
@@ -134,8 +143,13 @@ def fetch_greenback_daily():
         "# NOT MY TRANSCRIPTION. It is included because this repository's own\n"
         "# transcription of the same Mitchell table is unreliable — 168 of its 1,228\n"
         "# wartime rows record a low above the high — and because the pass-through\n"
-        "# paper was estimated on these values. See FINDINGS_DAILY_SERIES.md.\n"
+        "# paper was estimated on these values. See FINDINGS_TRANSCRIPTION.md.\n"
         "# Verified on write: no row has lowest > highest.\n"
+        "#\n"
+        "# Checked against the page for January 1862 (p. 425): 17 of 18 trading days\n"
+        "# match exactly. Known divergences from Mitchell, recorded not corrected:\n"
+        + "".join(f"#   {d}  {col} reads {got} here, {want} in Mitchell, {where}\n"
+                 for d, col, got, want, where in EHNET_DIVERGENCES)
     )
     write("ehnet_greenback_daily_1862_1878.csv", header, df)
 

@@ -5,7 +5,7 @@ Invariant checks over every CSV in data/.
 
 These are the checks that should have been run when the files were transcribed.
 They are cheap, they are mechanical, and one of them would have caught the corrupt
-daily series years earlier: see FINDINGS_DAILY_SERIES.md.
+daily series years earlier: see FINDINGS_TRANSCRIPTION.md.
 
 Nothing here judges whether a value is *right* — only whether a file contradicts
 itself in a way the printed source could not have. data/suspect/ is skipped; it

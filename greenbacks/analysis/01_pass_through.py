@@ -20,7 +20,7 @@ correction, which is what the paper reports.
 
 G is built from EH.net's daily quotations, NOT from this repository's own
 transcription of the same Mitchell table, which is corrupt. See
-FINDINGS_DAILY_SERIES.md.
+FINDINGS_TRANSCRIPTION.md.
 """
 
 import os

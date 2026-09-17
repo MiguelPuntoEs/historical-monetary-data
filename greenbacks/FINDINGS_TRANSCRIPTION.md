@@ -67,7 +67,8 @@ wrong.** The page against the file:
 | Linseed oil, boiled | —, 100, **64**, 123, **190**, 227 | **100, 94, 94**, 123, **180**, 227 |
 
 Six of these readings — 109, 208, 350, 180, 238 and 232 — were independently confirmed
-against the book by the author before the file was replaced.
+against the book by the author before the file was replaced, as was the structural finding
+below: on page 449 Pork reads blank under 1860 and 100 under 1861.
 
 Re-transcribing the whole table from pages 449–451 showed the damage was far wider than
 the one section. **54 of 77 rows differed; 170 of 456 cells.** Two further findings:

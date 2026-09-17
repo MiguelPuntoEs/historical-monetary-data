@@ -12,8 +12,12 @@
 # NOT MY TRANSCRIPTION. It is included because this repository's own
 # transcription of the same Mitchell table is unreliable — 168 of its 1,228
 # wartime rows record a low above the high — and because the pass-through
-# paper was estimated on these values. See FINDINGS_DAILY_SERIES.md.
+# paper was estimated on these values. See FINDINGS_TRANSCRIPTION.md.
 # Verified on write: no row has lowest > highest.
+#
+# Checked against the page for January 1862 (p. 425): 17 of 18 trading days
+# match exactly. Known divergences from Mitchell, recorded not corrected:
+#   1862-01-15  lowest reads 97.32 here, 97.33 in Mitchell, p. 425
 date,highest,lowest
 1862-01-01,99.5,98.52
 1862-01-02,99.01,98.77
