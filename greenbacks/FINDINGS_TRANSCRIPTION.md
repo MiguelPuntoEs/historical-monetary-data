@@ -323,7 +323,14 @@ or refuting a **specific, isolated value** (which is what caught the New Cumberl
 and what confirmed Table 2's four corrections and the wages spot-checks), and unreliable
 for **exhaustively re-transcribing a full row or table** from the same scan.
 
-Practical consequence: Table 4 stays at "spot-checked, one confirmed and fixed error,
-556 rows not exhaustively verified." Closing that gap fully needs the same thing the wages
-gap needs — a better scan, or OCR plus systematic human proofreading — not more attempts at
-direct full-row re-reading, which has now failed this same test twice (wages, and Table 4).
+Practical consequence: further checking of Table 4 stuck to isolated, well-separated values
+rather than full-row re-transcription. Seven more such checks across pages 461-468 (Mutton:
+leg/New Cumberland; Oil/Watertown N.Y.; Oil/Rock Island; Men's heavy boots/New Albany;
+Men's heavy boots/Terre Haute; Board per week/New Cumberland; Board per week/Louisville)
+all matched exactly. Combined with the earlier block, that's 15 of 16 isolated cells checked
+correct, with one confirmed-and-fixed error. That is a reasonable basis for confidence that
+the New Cumberland flour-wheat error was isolated rather than symptomatic of wider
+corruption, though it is still not the same as checking all 556 rows — closing that
+remaining gap fully would need a better scan, or OCR plus systematic human proofreading,
+not more full-row re-reading (which has now failed that specific test twice: wages, and
+Table 4).

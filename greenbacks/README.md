@@ -8,10 +8,11 @@ Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the 
 
 > **Warning.** Appendix B Tables 1A, 1B, 2, 3, 5 have each passed a specific, named
 > spot-check against Mitchell's printed pages (see
-> [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)). Table 4 (retail) is spot-checked
-> but not exhaustive — one confirmed error was found and fixed; at 556 rows it has not been
-> checked cell by cell, so treat it as "probably right, isolated errors possible" rather than
-> fully verified. Appendix C (wages) is only **partly** done: pages 470-490 of Table 1
+> [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)). Table 4 (retail) has had 16
+> isolated cells checked across its full page range: 15 correct, one error found and fixed.
+> Good evidence the error was isolated rather than systemic, but at 556 rows it has not been
+> checked cell by cell — treat it as "verified sample, not exhaustive" rather than fully
+> verified. Appendix C (wages) is only **partly** done: pages 470-490 of Table 1
 > (`mitchell_appendix_c_table1_wages_partial.csv`) have passed an independent spot-check (four
 > distinctive cells plus one full 14-date series, all correct). Pages 491-517 of Table 1, and
 > all of Table 2 (census wages), do not exist in this repo — unverified draft files that
