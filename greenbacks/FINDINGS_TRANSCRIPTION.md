@@ -230,3 +230,32 @@ method (e.g., dedicated OCR with human proofreading, or a higher-resolution digi
 **Status: pages 491–517 of Table 1, and all of Table 2 (census wages, pages 518 onward),
 remain to be done.** Do not attempt to fill this gap by generating plausible-looking data —
 that is exactly the failure this document exists to prevent.
+
+### A concrete example of the difficulty, and a decision to delete rather than keep
+
+Page 492, establishment 47 (New York), Illuminating Gas, first table (Bricklayers,
+Bricklayer's Helpers, Carpenters, Engineers, Firemen, Laborers × 14 dates): a careful direct
+transcription attempt was cross-checked against `mitchell_appendix_c_table1_wages_part2.csv`
+(the unverified pre-existing file, which claimed to cover this exact page). The two
+disagreed substantially, including on the Laborers "No." column, where the direct reading
+showed a declining trend (219 → 65) across 1860–1864 and the old file showed a rising one
+(100 → 188) — not a one-digit slip but two different stories about the data. Digits that
+appeared in both readings kept turning up attached to different rows, which is the signature
+of a row-alignment problem (the same failure mode already found and fixed in Table 3's
+Commissary section) rather than random noise — but it could not be determined, from this
+scan, whether the shift was in the old file, in the new reading, or in the source's own
+row spacing.
+
+A third focused re-read of just that one column did not resolve it either.
+
+Given that, `mitchell_appendix_c_table1_wages_part1.csv`, `_part2.csv`, and
+`mitchell_appendix_c_table2_census_wages.csv` were **deleted** from the repository (not
+merely re-flagged) — keeping unverified files around, even clearly labeled, risks a future
+session or reader treating "unverified" as "probably fine." There is currently no file in
+this repo covering Table 1 pages 491–517 or Table 2 at all. That is the honest state:
+absence, not a wrong-but-present placeholder.
+
+Closing this gap will need either a higher-resolution scan/second digitization to check
+against, or a different method entirely (dedicated OCR with systematic human proofreading of
+every cell) — not another attempt at direct vision transcription of this scan, which has now
+failed a fair, repeated, good-faith trial.

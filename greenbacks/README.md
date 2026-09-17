@@ -9,11 +9,13 @@ Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the 
 > **Warning.** Most of Appendix B is now verified against Mitchell's printed pages (Tables
 > 1A, 1B, 2, 3, 4, 5 — see [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)).
 > Appendix C (wages) is only **partly** done: pages 429-490 of Table 1 are verified
-> (`mitchell_appendix_c_table1_wages_partial.csv`); pages 491-517, and all of Table 2, are
-> not, and the pre-existing `..._part1.csv` / `..._part2.csv` / `..._table2_census_wages.csv`
-> files are unverified and should be assumed wrong. Do not cite this dataset or the wage
-> files specifically until that gap is closed — see FINDINGS_TRANSCRIPTION.md for why
-> straightforward vision-based transcription hit a real reliability limit on those pages.
+> (`mitchell_appendix_c_table1_wages_partial.csv`). Pages 491-517 of Table 1, and all of
+> Table 2 (census wages), do not exist in this repo yet — unverified draft files that
+> covered that range have been deleted rather than kept around looking usable. Do not cite
+> this dataset until that gap is closed with genuine verified transcription — see
+> FINDINGS_TRANSCRIPTION.md for why straightforward vision-based transcription hit a real
+> reliability limit on those pages, including a documented case where two independent
+> attempts (mine, and the deleted draft) disagreed even on cells both looked confident about.
 
 ## Data
 
@@ -44,9 +46,7 @@ EH.net daily greenback quotations, both fetched by `analysis/00_fetch_sources.py
 
 | File | Description |
 |------|-------------|
-| `mitchell_appendix_c_table1_wages_partial.csv` | Wage series from the Aldrich Report, pp. 429-490 (semi-annual, by industry/occupation/location). **Verified pages 429-490 only; pages 491-517 not yet done.** |
-| `mitchell_appendix_c_table1_wages_part1.csv`, `_part2.csv` | Same table, pp. 470-517, present since before verification began. **Unverified — assume wrong until checked; do not use.** |
-| `mitchell_appendix_c_table2_census_wages.csv` | Wage series from Vol. XX of the Tenth Census, pp. 518-520. **Unverified — assume wrong until checked; do not use.** |
+| `mitchell_appendix_c_table1_wages_partial.csv` | Wage series from the Aldrich Report, pp. 429-490 (semi-annual, by industry/occupation/location). **Verified pages 429-490 only.** Pages 491-517, and Table 2 (census wages, pp. 518 on), are not yet transcribed — no file for them exists in this repo. |
 
 ### Other sources
 
