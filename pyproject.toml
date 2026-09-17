@@ -1,7 +1,7 @@
 [project]
-name = "american-civl-war"
+name = "historical-monetary-data"
 version = "0.1.0"
-description = "Add your description here"
+description = "Primary-source monetary data, transcribed from page images"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
