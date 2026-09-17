@@ -1,0 +1,74 @@
+# Jefferson's Table of Emissions: Continental currency issues with contemporary
+#   depreciation multiples applied, giving the worth of each emission in silver dollars.
+# Source: reproduced in Henry Phillips, Jr., "Continental Paper Money" (1866), Appendix,
+#   p. 199, immediately following the Treasury's own Statement of the Issues (see
+#   phillips_1866_nourse_emissions_table.csv, the same table's official-Treasury
+#   counterpart). Attributed there to Thomas Jefferson.
+# Transcribed from the page image (archive.org item continentalpaper00phil), not OCR.
+#
+# This is an independent contemporary accounting distinct from Nourse's 1828 Treasury
+#   statement: it groups some emissions differently (e.g. the 4 January and 7 May 1779
+#   resolves, which Nourse's table gives jointly as $50,000,100, appear here as a single
+#   reduced figure of $24,447,620 under "14 January 1779" - see the table's own footnote,
+#   reproduced below).
+#
+# depreciation_multiple is given as printed, including fractional forms (e.g. "4 1-2" for
+#   four and one half); worth_in_silver_dollars likewise preserves fractions in the source
+#   (e.g. "1,877,273" is printed without a fraction where other rows have one - transcribed
+#   as printed, not reconciled).
+#
+# TWO VALUES ARE UNUSUAL AS PRINTED, preserved rather than corrected:
+#   - 13 August 1776, "worth in silver dollars": reads 5,000,009 where 5,000,000 would
+#     match every other undepreciated row. Unresolved.
+#   - 20 May 1777, "sum emitted": reads 5,000,090 where every surrounding figure is round.
+#     ARITHMETIC EVIDENCE THIS IS A PRINT ERROR FOR 5,000,000: the column sums to
+#     200,000,090 as transcribed, against the table's own printed total of 200,000,000 -
+#     an excess of exactly 90, i.e. exactly the anomalous digits. If this cell is in fact
+#     5,000,000, the total reconciles exactly. Kept as printed (5,000,090) per this
+#     project's practice of transcribing the page rather than the arithmetic, but this is
+#     good evidence the error is in the 1866 typesetting, not in this transcription.
+#
+# Footnote in the original, on the 14 January 1779 row: "The sum actually voted was
+#   $50,000,400, but part of it was for exchange of old bills, without saying how much. It
+#   is presumed that these exchanges absorbed $25,552,780, because $24,447,620 with all the
+#   other emissions preceding September 2d, 1779, will amount to $159,948,880, the sum which
+#   congress declared to be then in circulation." Note $25,552,780 differs from the $400
+#   discrepancy documented in the Nourse table's total by exactly the same last three
+#   digits (552,780 / 552,380) - possibly related, not confirmed.
+#
+# Units: sum_emitted and worth_in_silver_dollars are dollars, face value and silver-dollar
+#   equivalent respectively. depreciation_multiple is the paper-to-silver ratio applied.
+date,sum_emitted,depreciation_multiple,worth_in_silver_dollars
+1775-06-23,2000000,,2000000
+1775-11-29,3000000,,3000000
+1776-02-17,4000000,,4000000
+1776-08-13,5000000,,5000009
+1777-05-20,5000090,"2, 2, 3",1877273
+1777-08-15,1000000,3,"333333 1-3"
+1777-11-07,1000000,4,250000
+1777-12-03,1000000,4,250000
+1778-01-08,1000000,4,250000
+1778-01-22,2000000,4,500000
+1778-02-16,2000000,5,400000
+1778-03-05,2000000,5,400000
+1778-04-04,1000000,6,"166666 2-3"
+1778-04-11,5000000,6,"833333 1-3"
+1778-04-18,500000,6,"88333 1-3"
+1778-05-22,5000000,5,1000000
+1778-06-20,5000000,4,1250000
+1778-07-30,5000000,"4 1-2",1111111
+1778-09-05,5000000,5,1000000
+1778-09-26,10000100,5,2000020
+1778-11-04,10000100,6,"1666683 1-3"
+1778-12-14,10000100,6,"1666683 1-3"
+1779-01-14,24447620,8,"3055952 1-2"
+1779-02-03,5000160,10,500016
+1779-02-12,5000160,10,500016
+1779-04-02,5000160,17,294127
+1779-05-05,10000100,24,"416670 5-6"
+1779-06-04,10000100,20,500005
+1779-06-17,15000280,20,750014
+1779-09-17,15000260,24,"625010 5-6"
+1779-10-14,5000180,30,"166672 2-3"
+1779-11-17,10050540,"38 1-2",261053
+1779-11-29,10000140,"38 1-2",259743

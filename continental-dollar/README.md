@@ -10,16 +10,23 @@ summary in Bullock (1895) or set aside entirely as unreliable price data.
 
 ## Primary sources
 
-- **House Doc. No. 107**, 20th Cong. 1st sess., *Amount of Continental Money issued during the
-  Revolutionary War, and the Depreciation of the same* (Washington: Gales & Seaton, 1828) —
-  the printing reissued as *American State Papers*, Class III (Finance), vol. V. Carries the
-  emissions statement and the state scales at pp. 30–33.
+- **House Doc. No. 107** [Phillips's 1866 reprint gives the document's own letterhead as
+  "No. 839" — the discrepancy is unresolved; see the emissions table's header], 20th Cong.
+  1st sess., *Amount of Continental Money issued during the Revolutionary War, and the
+  Depreciation of the same* (Washington: Gales & Seaton, 1828) — the printing reissued as
+  *American State Papers*, Class III (Finance), vol. V. Carries the emissions statement
+  (now transcribed, via Phillips's reprint — see `phillips_1866_nourse_emissions_table.csv`)
+  and the state scales at pp. 30–33 (seven of ten states transcribed; Connecticut, New York
+  and South Carolina remain outstanding — see `NOTES_NEW_SOURCE_FOUND.md`). The direct
+  archive.org copy of this volume is access-restricted; not independently re-verified.
 - **Statutes at Large of Pennsylvania** (1904), vol. 10, pp. 283–89 — the Act of 3 April 1781,
   ch. CMXXXV, whose Section IV contains Pennsylvania's enacted scale.
 - **Pelatiah Webster**, *Political Essays* (Philadelphia, 1791), p. 501 — four scales,
   including the merchants' book series for Philadelphia and Virginia.
 - **Henry Phillips, Jr.**, *Continental Paper Money* (Roxbury, 1866), App. D and pp. 217–18 —
-  reproduces the federal state scales and Webster's merchants' columns.
+  reproduces the federal state scales and Webster's merchants' columns. Its Appendix, p. 198,
+  also reprints Nourse's Treasury statement of emissions in full, and p. 199 an independent
+  contemporary accounting attributed to Jefferson — both now transcribed here.
 - **Charles J. Bullock**, *The Finances of the United States from 1775 to 1789* (Madison,
   1895), p. 133 — the same state scales, grouped into three tiers.
 - **Anne Bezanson**, *Prices and Inflation during the American Revolution* (Philadelphia,
@@ -39,10 +46,16 @@ dollar**, so higher values denote greater depreciation.
 | `data/published/bullock_1895_grouped_scales.csv` | State scales grouped into three tiers, plus Congress's scale and Jefferson's figures |
 | `data/published/bezanson_1951_table3_continental_specie.csv` | Three independent Philadelphia measures: Webster merchants, specie transactions, commodity ratios |
 | `data/published/grubb_2023_table6_1_state_quotas.csv` | State shares of congressional quotas, 1775–83 (Grubb's compilation, reproduced for convenience) |
+| `data/published/phillips_1866_nourse_emissions_table.csv` | The Treasury's own statement of Continental currency emissions authorized by Congress, 1775–79, with Journal citations for each resolve |
+| `data/published/jefferson_table_of_emissions.csv` | An independent contemporary accounting of the same emissions, with depreciation multiples applied to give each emission's worth in silver dollars |
 
 Connecticut, New York and South Carolina appear in the same 1828 source and are **not yet
 transcribed**. They are stated as percentages and, for South Carolina, in a
-pounds-and-shillings notation that needs care.
+pounds-and-shillings notation that needs care. The direct 1828 source is access-restricted
+on Internet Archive; Henry Phillips's 1866 reprint of the same federal table (Appendix D,
+pp. 206–209, unrestricted) is a promising accessible lead but has two documented
+discrepancies against this file's other states and has not itself been verified — see
+[`NOTES_NEW_SOURCE_FOUND.md`](NOTES_NEW_SOURCE_FOUND.md) before using it.
 
 ## Transcription method
 
