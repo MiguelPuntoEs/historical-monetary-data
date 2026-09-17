@@ -7,13 +7,19 @@ run through `uv run --with`, which keeps them out of the project environment:
     uv run --with svglib --with reportlab python analysis/06_figures_to_pdf.py
 
 The SVGs remain the source; the PDFs are derived and need regenerating only when
-a figure changes.
+a figure changes. reportlab is put in invariant mode so that rerunning this on an
+unchanged figure produces a byte-identical file: otherwise every run embeds a new
+creation timestamp and the figures show up as modified in every diff.
 """
 import glob
 import os
 
-from reportlab.graphics import renderPDF
-from svglib.svglib import svg2rlg
+from reportlab import rl_config
+
+rl_config.invariant = 1
+
+from reportlab.graphics import renderPDF  # noqa: E402
+from svglib.svglib import svg2rlg  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FIGS = os.path.join(HERE, "..", "figures")
