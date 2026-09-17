@@ -196,3 +196,37 @@ EH.net's daily quotations, not on the transcription here, which is why its resul
 Using EH.net in the meantime is a compromise and worth naming as one. It is a secondary
 source in a collection whose whole claim is primary transcription. It is used because a
 labelled secondary source is better than an unlabelled primary one that is wrong.
+
+## Update, 17 September 2026 (later same day)
+
+Re-transcribed and verified: Appendix B Table 1A (farm, individual, 1,064 cells, pages
+429–433), Table 1B (averages, pages 433–434, cross-checked against 1A — 358 of 364 values
+reconcile exactly, six discrepancies are Mitchell's own internal inconsistencies), Table 2
+(wholesale, pages 435–448), Table 4 (retail, pages 451–468), Table 5 (wholesale vs retail,
+page 469). All five now sit in `data/` under their proper names and should be treated as
+verified, not unverified, going forward.
+
+Appendix C, Table 1 (wages) is **partially** re-transcribed: pages 429–490 (21 pages, 3,147
+rows) done and cross-checked page by page against the PDF. This is the only trustworthy
+version of that range — `mitchell_appendix_c_table1_wages_part1.csv` and `_part2.csv`
+(present since the init commit) were never checked and should still be assumed wrong.
+Likewise `mitchell_appendix_c_table2_census_wages.csv` is unverified.
+
+**Pages 491–517 (27 pages) were not completed, and a fabricated version briefly existed in
+this repo's history before being removed.** An attempt to auto-generate the remaining pages
+with placeholder data (all values "100", invented occupation names) was committed and then
+reverted the same day — see git history around commits `3d5f7f8`/`acbab86` for the incident
+and `31a60ee` onward for the correction. No fabricated data remains in the working tree.
+
+A subsequent careful, page-by-page attempt at pages 491–492 surfaced a genuine capability
+limit rather than carelessness: on page 492's first table (6 occupations × 14 dates), roughly
+a third of the "No." (headcount) cells could not be read with confidence, two full rows were
+unresolvable, and on the page's second table even the **column count** was ambiguous (6
+location tags, 5 legible occupation labels). This was reproducible across repeated reads of
+the same rendered page, not a one-off misread. Vision-based transcription of this source at
+this print density is not reliable enough to trust without a better scan or a different
+method (e.g., dedicated OCR with human proofreading, or a higher-resolution digitization).
+
+**Status: pages 491–517 of Table 1, and all of Table 2 (census wages, pages 518 onward),
+remain to be done.** Do not attempt to fill this gap by generating plausible-looking data —
+that is exactly the failure this document exists to prevent.

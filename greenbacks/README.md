@@ -6,12 +6,14 @@ Economic data from the American Civil War era, focusing on the effects of greenb
 
 Wesley C. Mitchell, *A History of the Greenbacks: With Special Reference to the Economic Consequences of Their Issue, 1862-65* (University of Chicago Press, 1903).
 
-> **Warning.** Six files have been checked against Mitchell's printed pages. **Four were
-> wrong.** One has been re-transcribed; three are quarantined in `data/suspect/`. Five
-> remain unverified and should be assumed wrong until checked. Do not cite this dataset —
-> see
-> [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md). The monthly gold price table
-> is verified correct, all 48 rows.
+> **Warning.** Most of Appendix B is now verified against Mitchell's printed pages (Tables
+> 1A, 1B, 2, 3, 4, 5 — see [`FINDINGS_TRANSCRIPTION.md`](FINDINGS_TRANSCRIPTION.md)).
+> Appendix C (wages) is only **partly** done: pages 429-490 of Table 1 are verified
+> (`mitchell_appendix_c_table1_wages_partial.csv`); pages 491-517, and all of Table 2, are
+> not, and the pre-existing `..._part1.csv` / `..._part2.csv` / `..._table2_census_wages.csv`
+> files are unverified and should be assumed wrong. Do not cite this dataset or the wage
+> files specifically until that gap is closed — see FINDINGS_TRANSCRIPTION.md for why
+> straightforward vision-based transcription hit a real reliability limit on those pages.
 
 ## Data
 
@@ -31,8 +33,8 @@ EH.net daily greenback quotations, both fetched by `analysis/00_fetch_sources.py
 
 | File | Description |
 |------|-------------|
-| `mitchell_appendix_b_table1_averages_combined.csv` | Farm product price averages, quarterly 1860-1866 |
-| `mitchell_appendix_b_table1_farm_individual.csv` | Farm product prices by city (NY, Chicago, Cincinnati), quarterly 1860-1866 |
+| `mitchell_appendix_b_table1b_averages.csv` | Farm product price averages, quarterly 1860-1866 |
+| `mitchell_appendix_b_table1a_farm_individual.csv` | Farm product prices by city (NY, Chicago, Cincinnati), quarterly 1860-1866 |
 | `mitchell_appendix_b_table2_wholesale_prices.csv` | ~120 commodity series at wholesale, quarterly 1860-1865 |
 | `mitchell_appendix_b_table3_government_prices.csv` | Prices paid by federal government for supplies (War Dept, Navy), annual 1860-1865 |
 | `mitchell_appendix_b_table4_retail_prices.csv` | Retail prices of dry goods, groceries, provisions, and fuel by town, annual 1860-1866 |
@@ -42,9 +44,9 @@ EH.net daily greenback quotations, both fetched by `analysis/00_fetch_sources.py
 
 | File | Description |
 |------|-------------|
-| `mitchell_appendix_c_table1_wages_part1.csv` | Wage series from the Aldrich Report, pp. 470-495 (semi-annual, by industry/occupation/location) |
-| `mitchell_appendix_c_table1_wages_part2.csv` | Wage series continued, pp. 496-517 |
-| `mitchell_appendix_c_table2_census_wages.csv` | Wage series from Vol. XX of the Tenth Census |
+| `mitchell_appendix_c_table1_wages_partial.csv` | Wage series from the Aldrich Report, pp. 429-490 (semi-annual, by industry/occupation/location). **Verified pages 429-490 only; pages 491-517 not yet done.** |
+| `mitchell_appendix_c_table1_wages_part1.csv`, `_part2.csv` | Same table, pp. 470-517, present since before verification began. **Unverified — assume wrong until checked; do not use.** |
+| `mitchell_appendix_c_table2_census_wages.csv` | Wage series from Vol. XX of the Tenth Census, pp. 518-520. **Unverified — assume wrong until checked; do not use.** |
 
 ### Other sources
 
