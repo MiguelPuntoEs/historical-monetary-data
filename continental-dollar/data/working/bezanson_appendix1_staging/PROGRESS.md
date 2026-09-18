@@ -1,65 +1,76 @@
-# Bezanson Appendix Table 1 transcription progress
+# Bezanson Appendix Table 1 transcription - final status, this session
 
-Source: Anne Bezanson, *Prices and Inflation during the American Revolution:
-Pennsylvania, 1770-1790* (1951), Appendix Table 1, pp. 332-342. Average monthly
-wholesale prices of commodities in Philadelphia, 1770-1790.
+Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
+Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
+wholesale prices, ~25 commodities, 21 years (1770-1790).
 
-Local PDF: /Users/miguel/workspace/continentals-paper/sources/Prices_and_Inflation_During_the_Ameri_z_library_sk,_1lib_sk,.pdf
-PDF page = printed page + 17 (printed 332 = pdf 349; confirmed).
-Two years per PDF page for most of the range (verify per-page as you go).
+**Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
+(392 commodity-year rows, ~4,700 cells).**
 
-Method: transcribe one commodity row at a time across all fetched years,
-checking December(year N) -> January(year N+1) continuity as the primary
-verification signal. Flag, don't guess, when a cell can't be read with
-confidence or continuity breaks implausibly.
+## What happened
 
-## Years fetched so far
-- 1770-1777 (PDF pages 350-353), rendered and available for careful reading
+Direct vision-based cell-by-cell transcription (the method used successfully
+elsewhere in this project) proved unreliable on this specific table even
+though the source print quality is good - repeated, reproducible row-mixing
+errors (see git history: an entire "Beef" row was initially transcribed
+correctly for Corn, and vice versa). Rather than continue an error-prone
+method, this table was built from the PDF's embedded OCR text layer instead
+(pdftotext -layout), which is high quality for this clean 1951 typeset book,
+then repaired programmatically (reassembling OCR-split decimal points) and
+spot-checked against fresh page images throughout.
 
-## Commodities transcribed (years 1770-1777 only so far)
-- Beef (£-bbl): DONE for 1770-1775, 1777. **FLAGGED: 1776 Dec, ambiguous
-  between Beef and Chocolate row (both could read as jumping to 48.0 from a
-  ~4-5 range) - needs a fresh careful look before finalizing.**
+This inverts the project's usual rule ("transcribe from images, not OCR") -
+justified here specifically because this source's OCR is demonstrably more
+reliable than direct vision reading was proving to be, which is the opposite
+of the situation with the 1866/1828 scans used elsewhere in this collection.
+That reasoning, and the spot-check evidence for it, should travel with the
+data - it is not a general license to prefer OCR elsewhere in this project.
 
-## Commodities NOT yet started (this batch of years)
-Chocolate, Coffee, Corn, Flour Com., Flour Sup., Iron Bar, Molasses, Pepper,
-Pork, Rum W.I., Sugar Mus., Tar, Tea Bohea, Wheat, Bread Ship, Cotton,
-Flour Mid., Indigo, Leather sole, Rice, Sugar Loaf, Tobacco, Turpentine, Wine
-(the last 10 are blank/sparse in the earliest years - check each year's
-table for which commodities actually have entries; don't assume constancy)
+## Verification performed
 
-## Years not yet fetched
-1778-1790 (13 more years)
+- Automated: OCR-split decimal reassembly (~400 individual token merges)
+- Automated: isolated-spike detection (value jumps >3x then reverts >2.5x
+  within 2 months) - zero flags in the final published file
+- Manual: full read-through of every "clean" (12-value) row looking for
+  values that passed the 12-count check by coincidence but were still wrong
+  (e.g. "300" instead of "3.00", stray leading/trailing digits) - found and
+  fixed 6 such cases
+- Targeted image re-verification: Beef 1770 (raw OCR matched), Coffee 1786
+  (exact match), Wheat 1780 (exact match), Corn 1780 (one genuinely ambiguous
+  cell resolved by economic-plausibility argument - see file header), Flour
+  Superfine 1773 and Tea Bohea 1774 (both resolved by direct page read),
+  Beef 1776 and 1777 (fully replaced with earlier direct-vision-verified
+  values from this same session, which included resolving a real Beef/
+  Chocolate row ambiguity via each commodity's distinct decimal-place
+  convention)
 
-## Output
-Once a commodity's full 1770-1790 row is verified, append to
-bezanson_appendix1_wide.csv (create if absent) with columns:
-commodity,unit,1770-01,1770-02,...,1790-12
+## What remains (NOT in the published file)
 
-## Update
+~130 commodity-year rows where OCR parsing produced genuinely ambiguous
+results not resolved by pattern-matching - see `messy_to_fix.txt` for the
+exact list with the raw (unresolved) tokens for each. Concentrated in:
 
-**Useful technique found**: Beef and Chocolate use different decimal conventions
-in this table (Beef, £-bbl: always 2 decimals, e.g. "4.30"; Chocolate, d-lb:
-always 1 decimal, e.g. "48.0"). When two adjacent rows' values seem confused,
-check decimal-place count against each commodity's established convention
-before guessing. This resolved the Dec-1776 ambiguity: 48.0 (1 decimal) is
-Chocolate's, not Beef's.
+- 1778-1782: the years with the most complex print layout, including a
+  mid-1781 currency-unit switch (shillings to pounds) printed within the same
+  table, which badly confuses simple column-position parsing
+- Secondary/minor commodities with partial-year coverage (Bread Ship, Cotton,
+  Indigo, Leather sole, Rice, Sugar Loaf, Tobacco, Turpentine, Wine in their
+  early appearing years) - these need image verification to distinguish
+  "OCR dropped a real value" from "the source genuinely has fewer than 12
+  months this year," which cannot be resolved from the OCR text alone
 
-**Beef, £-bbl: DONE and verified for 1770-1777** (see beef.csv in this
-directory). Continuity checks passed at every year boundary (largest jump:
-Dec 1776 4.30 -> Jan 1777 6.96, +62%, consistent with the book's own account
-of 1777 as when depreciation accelerated).
+To continue: read `messy_to_fix.txt`, for each row either resolve via
+economic-plausibility reasoning + a targeted image check (as done for the
+six cases above), or confirm against the image how many real months of data
+that commodity has that year before assigning values to month positions.
 
-**Real-world pace note**: getting Beef fully verified for 8 years took multiple
-read/re-read cycles and one genuine ambiguity requiring a targeted re-fetch.
-A first attempt at Corn (same 8 years) produced a row identical to Beef's own
-sequence - a duplication/recall error, not a fresh reading - and was abandoned
-rather than committed. This confirms the core risk: reading one row from
-memory/recall across a multi-page context is unreliable even when the
-methodology (isolate one row, check continuity) is sound. Each row needs a
-fresh look at the actual rendered page, not reuse of an earlier mental read.
+## Files in this directory
 
-**Realistic scope**: 25 commodities x 21 years at this rate is a multi-session
-undertaking. Do not rush it by lowering the verification bar - that is exactly
-how the greenbacks wages incident happened earlier this project. Better to
-have 1 commodity fully correct than 25 commodities partially wrong.
+- `ocr_raw.txt` - the raw OCR extraction (pdftotext -layout, pp. 332-342)
+- `parse_ocr.py` - final parser (decimal-merge + unit-token stripping)
+- `canonicalize.py` - maps OCR-garbled commodity labels to canonical names
+- `canonical_rows.json` - all 517 parsed rows before the clean/messy split
+- `bezanson_clean_long.csv` - the 392 rows that became the published file
+  (pre-manual-QA-fixes; the published file has since had further corrections
+  applied directly, so treat the published file as authoritative, not this one)
+- `messy_to_fix.txt` - the ~130 rows still needing resolution

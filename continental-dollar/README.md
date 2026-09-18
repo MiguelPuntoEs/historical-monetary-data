@@ -30,7 +30,8 @@ summary in Bullock (1895) or set aside entirely as unreliable price data.
 - **Charles J. Bullock**, *The Finances of the United States from 1775 to 1789* (Madison,
   1895), p. 133 — the same state scales, grouped into three tiers.
 - **Anne Bezanson**, *Prices and Inflation during the American Revolution* (Philadelphia,
-  1951), Table 3, p. 65 — three Philadelphia measures.
+  1951), Table 3, p. 65 — three Philadelphia measures. Appendix Table 1, pp. 332–342 —
+  monthly wholesale prices, 25 commodities, 1770–1790 (partially transcribed, see below).
 
 ## Data
 
@@ -45,6 +46,7 @@ dollar**, so higher values denote greater depreciation.
 | `data/published/phillips_1866_merchants_books.csv` | Merchants' book exchange rates, **Philadelphia and Virginia**, monthly Jan 1777 – May 1781 (53 months) |
 | `data/published/bullock_1895_grouped_scales.csv` | State scales grouped into three tiers, plus Congress's scale and Jefferson's figures |
 | `data/published/bezanson_1951_table3_continental_specie.csv` | Three independent Philadelphia measures: Webster merchants, specie transactions, commodity ratios |
+| `data/published/bezanson_1951_appendix1_monthly_prices.csv` | Average monthly wholesale prices, 25 commodities, Philadelphia 1770–1790 (392 of ~525 possible commodity-year series; see the file header for what's not yet included and why) |
 | `data/published/grubb_2023_table6_1_state_quotas.csv` | State shares of congressional quotas, 1775–83 (Grubb's compilation, reproduced for convenience) |
 | `data/published/phillips_1866_nourse_emissions_table.csv` | The Treasury's own statement of Continental currency emissions authorized by Congress, 1775–79, with Journal citations for each resolve |
 | `data/published/jefferson_table_of_emissions.csv` | An independent contemporary accounting of the same emissions, with depreciation multiples applied to give each emission's worth in silver dollars |
