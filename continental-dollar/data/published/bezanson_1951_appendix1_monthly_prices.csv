@@ -34,12 +34,11 @@
 #   the March 1781 currency reform - both halves are concatenated here exactly
 #   as printed, consistent with the units note below.
 #
-# ONE FLAGGED ANOMALY LEFT AS PRINTED: Tar, 1781, July reads 120.4, an
-#   isolated ~4x spike against the surrounding months (28.5 in June, 21.8 in
-#   August) that could not be resolved further against this scan. May be a
-#   genuine supply disruption or a misread; not corrected without a clearer
-#   source.
+# Tar, 1781, July: originally transcribed as 120.4 (an isolated ~4x spike
+#   flagged as unresolved). Human-verified directly against the page and
+#   corrected to 20.4 - the leading "1" was a misread, not a real digit.
 #
+
 # Units: shillings per unit (s-) unless a pound (£-) unit is shown for that
 #   row/year - several commodities switch from shillings to pounds partway
 #   through the war as prices rose, printed as such in the source and
@@ -414,7 +413,7 @@ Tar,1777,30.0,24.0,18.0,21.5,25.0,24.5,27.3,27.3,27.6,22.0,26.0,42.9
 Tar,1778,3.27,4.47,5.69,7.29,5.96,8.99,9.38,8.76,7.00,7.00,6.84,8.55
 Tar,1779,8.00,8.50,8.50,9.00,13.1,15.0,15.0,15.0,15.0,15.0,15.0,22.0
 Tar,1780,51.2,80.0,80.0,70.0,72.5,69.5,70.0,65.0,82.5,85.0,85.0,90.0
-Tar,1781,60.0,75.0,90.0,90.0,30.0,28.5,120.4,21.8,20.8,22.5,31.2,35.6
+Tar,1781,60.0,75.0,90.0,90.0,30.0,28.5,20.4,21.8,20.8,22.5,31.2,35.6
 Tar,1782,32.5,37.5,42.8,43.1,43.0,38.8,35.0,27.5,35.0,30.0,35.0,35.0
 Tar,1783,39.4,33.1,26.8,21.9,19.4,20.0,30.0,30.0,27.0,24.2,20.8,20.0
 Tar,1785,17.5,17.5,17.5,15.5,15.5,10.5,10.0,11.0,12.5,13.0,12.5,12.5

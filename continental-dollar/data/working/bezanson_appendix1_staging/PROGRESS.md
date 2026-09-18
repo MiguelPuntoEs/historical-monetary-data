@@ -47,9 +47,11 @@ bringing the total to 448.
 - Final validation: structural check (all rows exactly 14 fields, all
   values parse as floats), isolated-spike detection (a value that jumps
   >3x then reverts >2.5x within one month either side), duplicate
-  commodity-year key check. One spike flag remains (Tar 1781 July, 120.4)
-  and is documented in the published file's header as a known,
-  unresolved anomaly rather than silently corrected.
+  commodity-year key check. One spike flag (Tar 1781 July, transcribed as
+  120.4) was left documented as an unresolved anomaly rather than silently
+  corrected - the user then checked the actual page directly and confirmed
+  the real value is 20.4 (a leading "1" was a misread, not a real digit).
+  Fixed; zero spike flags remain.
 
 ## What remains (~80 rows, NOT in the published file)
 
