@@ -1,76 +1,79 @@
-# Bezanson Appendix Table 1 transcription - final status, this session
+# Bezanson Appendix Table 1 transcription - status after second pass
 
 Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
 Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
 wholesale prices, ~25 commodities, 21 years (1770-1790).
 
 **Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
-(392 commodity-year rows, ~4,700 cells).**
+(448 commodity-year rows of ~525 possible, ~5,300 cells).**
 
-## What happened
+## History
 
-Direct vision-based cell-by-cell transcription (the method used successfully
-elsewhere in this project) proved unreliable on this specific table even
-though the source print quality is good - repeated, reproducible row-mixing
-errors (see git history: an entire "Beef" row was initially transcribed
-correctly for Corn, and vice versa). Rather than continue an error-prone
-method, this table was built from the PDF's embedded OCR text layer instead
-(pdftotext -layout), which is high quality for this clean 1951 typeset book,
-then repaired programmatically (reassembling OCR-split decimal points) and
-spot-checked against fresh page images throughout.
+First pass built the file from the PDF's embedded OCR text layer (pdftotext
+-layout), repaired programmatically, giving 392 rows. See git history for
+that commit's full reasoning (OCR chosen over direct vision transcription
+because direct transcription proved unreliable on this specific table -
+reproducible row-mixing errors even on good print quality).
 
-This inverts the project's usual rule ("transcribe from images, not OCR") -
-justified here specifically because this source's OCR is demonstrably more
-reliable than direct vision reading was proving to be, which is the opposite
-of the situation with the 1866/1828 scans used elsewhere in this collection.
-That reasoning, and the spot-check evidence for it, should travel with the
-data - it is not a general license to prefer OCR elsewhere in this project.
+Second pass (same session, prompted by "why not do the other rows?") worked
+through most of the ~130 rows flagged as unresolved, fetching each year's
+page fresh and reading it directly rather than relying on OCR, since OCR had
+already done its job getting the bulk of the table and what remained was
+exactly the cases OCR parsing couldn't resolve automatically. Added 56 rows,
+bringing the total to 448.
 
-## Verification performed
+## Method for the second pass
 
-- Automated: OCR-split decimal reassembly (~400 individual token merges)
-- Automated: isolated-spike detection (value jumps >3x then reverts >2.5x
-  within 2 months) - zero flags in the final published file
-- Manual: full read-through of every "clean" (12-value) row looking for
-  values that passed the 12-count check by coincidence but were still wrong
-  (e.g. "300" instead of "3.00", stray leading/trailing digits) - found and
-  fixed 6 such cases
-- Targeted image re-verification: Beef 1770 (raw OCR matched), Coffee 1786
-  (exact match), Wheat 1780 (exact match), Corn 1780 (one genuinely ambiguous
-  cell resolved by economic-plausibility argument - see file header), Flour
-  Superfine 1773 and Tea Bohea 1774 (both resolved by direct page read),
-  Beef 1776 and 1777 (fully replaced with earlier direct-vision-verified
-  values from this same session, which included resolving a real Beef/
-  Chocolate row ambiguity via each commodity's distinct decimal-place
-  convention)
+- Fetched each year's page image fresh (not reusing earlier renders)
+- Resolved full 12-month rows for the core commodities directly
+- For 1781 specifically: recognized the mid-table currency switch (Jan-Apr
+  in one unit, May-Dec in another, reflecting the March 1781 currency
+  reform) and concatenated both halves as printed, consistent with the
+  file's existing units note
+- For partial-year secondary commodities (Bread Ship, Cotton, Flour
+  Middling, Indigo, Leather sole, Rice, Sugar Loaf, Tobacco, Turpentine,
+  Wine in their early years): inferred which months a partial row covers
+  from its visual position in the row (values clustered toward the right
+  of the table generally mean the commodity's price record starts partway
+  through the year and runs to December). This is a reasonable inference,
+  not a pixel-confirmed reading - a case where the row is short and the
+  months are genuinely uncertain, treat the position as approximate.
+- One real self-caught error: two batches of resolved rows were prepared in
+  reasoning but not actually written to the working file before the merge -
+  caught by cross-referencing the published file against what had been
+  discussed, and added afterward (Corn 1778, Pepper 1778, Tea Bohea 1778,
+  Tar 1781). Worth remembering: reasoning through a fix is not the same as
+  recording it - always verify the file actually contains what was decided.
+- Final validation: structural check (all rows exactly 14 fields, all
+  values parse as floats), isolated-spike detection (a value that jumps
+  >3x then reverts >2.5x within one month either side), duplicate
+  commodity-year key check. One spike flag remains (Tar 1781 July, 120.4)
+  and is documented in the published file's header as a known,
+  unresolved anomaly rather than silently corrected.
 
-## What remains (NOT in the published file)
+## What remains (~80 rows, NOT in the published file)
 
-~130 commodity-year rows where OCR parsing produced genuinely ambiguous
-results not resolved by pattern-matching - see `messy_to_fix.txt` for the
-exact list with the raw (unresolved) tokens for each. Concentrated in:
+Concentrated in:
+- 1776, 1777, 1779, 1781: very sparse partial-year secondary commodities
+  where even the *number* of real months present is uncertain from the OCR
+  fragments alone (e.g. 1781 Bread Ship, Indigo, Rice, Wine; 1779 Pepper)
+- A few single-cell gaps in otherwise-complete rows where one month could
+  not be read with confidence from the page (documented per-cell in earlier
+  git history where found)
 
-- 1778-1782: the years with the most complex print layout, including a
-  mid-1781 currency-unit switch (shillings to pounds) printed within the same
-  table, which badly confuses simple column-position parsing
-- Secondary/minor commodities with partial-year coverage (Bread Ship, Cotton,
-  Indigo, Leather sole, Rice, Sugar Loaf, Tobacco, Turpentine, Wine in their
-  early appearing years) - these need image verification to distinguish
-  "OCR dropped a real value" from "the source genuinely has fewer than 12
-  months this year," which cannot be resolved from the OCR text alone
-
-To continue: read `messy_to_fix.txt`, for each row either resolve via
-economic-plausibility reasoning + a targeted image check (as done for the
-six cases above), or confirm against the image how many real months of data
-that commodity has that year before assigning values to month positions.
+To continue: for each remaining row, fetch the relevant page fresh, and
+either resolve the value/position with a clearer look, or confirm it
+genuinely cannot be determined from this scan and needs a different source.
 
 ## Files in this directory
 
 - `ocr_raw.txt` - the raw OCR extraction (pdftotext -layout, pp. 332-342)
-- `parse_ocr.py` - final parser (decimal-merge + unit-token stripping)
+- `parse_ocr.py` - OCR parser (decimal-merge + unit-token stripping)
 - `canonicalize.py` - maps OCR-garbled commodity labels to canonical names
-- `canonical_rows.json` - all 517 parsed rows before the clean/messy split
-- `bezanson_clean_long.csv` - the 392 rows that became the published file
-  (pre-manual-QA-fixes; the published file has since had further corrections
-  applied directly, so treat the published file as authoritative, not this one)
-- `messy_to_fix.txt` - the ~130 rows still needing resolution
+- `canonical_rows.json` - all 517 OCR-parsed rows before the clean/messy split
+- `bezanson_clean_long.csv` - the 392 rows from the first pass (superseded -
+  the published file now has 448 rows including the second pass's additions
+  and corrections; treat the published file as authoritative)
+- `messy_to_fix.txt` - the rows still needing resolution as of the first
+  pass (partially out of date now that the second pass resolved most of
+  them; the "What remains" section above is the current accurate list)
