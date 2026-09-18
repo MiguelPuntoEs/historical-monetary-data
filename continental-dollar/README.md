@@ -31,7 +31,7 @@ summary in Bullock (1895) or set aside entirely as unreliable price data.
   1895), p. 133 — the same state scales, grouped into three tiers.
 - **Anne Bezanson**, *Prices and Inflation during the American Revolution* (Philadelphia,
   1951), Table 3, p. 65 — three Philadelphia measures. Appendix Table 1, pp. 332–342 —
-  monthly wholesale prices, 25 commodities, 1770–1790 (partially transcribed, see below).
+  monthly wholesale prices, 25 commodities, 1770–1790 (521 of 525 possible series; see below).
 
 ## Data
 
