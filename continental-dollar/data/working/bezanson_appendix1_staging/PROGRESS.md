@@ -1,11 +1,43 @@
-# Bezanson Appendix Table 1 transcription - status after fourth pass
+# Bezanson Appendix Table 1 transcription - status after fifth pass
 
 Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
 Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
 wholesale prices, ~25 commodities, 21 years (1770-1790).
 
 **Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
-(481 commodity-year rows of ~525 possible, ~5,700 cells).**
+(500 commodity-year rows of 525 possible, 95.2%, ~5,900 cells).**
+
+## Fifth pass: 1778 and 1790 completed
+
+Same checklist method (`VERIFY_1778_1790.md`). Both years resolved to 25/25
+with no ambiguity - the user's shorthand ("value x count" for runs of
+repeated values) made this pass fast. One more caught misread: Cotton 1790
+August was first reported as "18.88" against neighbors all in the 1.5-2.1
+range; asked to confirm, the real value is 1.88 - the same "spurious
+leading 1" pattern as the Tar 1781 case. Two independent instances of the
+identical error type is worth noting as a real, specific failure mode for
+this reader/source combination, not a one-off.
+
+Also resolved in passing: Pork 1790, a core commodity that had fallen
+through every earlier pass without ever being flagged as missing (found by
+explicitly diffing the published file's commodity list against the full
+25 for every year, not by it showing up in any automated OCR output). The
+user's reading confirmed an earlier, unconfirmed direct read of mine
+exactly. Worth remembering: "not in the messy list" does not mean "not
+missing" - always check presence against the full expected set, not just
+against what OCR parsing flagged as ambiguous.
+
+Nine years now complete for all 25 commodities: 1777, 1778, 1779, 1781,
+1786, 1787, 1788, 1789, 1790.
+
+## Sixth pass, in progress: the final 25 rows
+
+`VERIFY_FINAL_25.md` covers the last 25 missing rows, scattered across
+eleven years (1770-1776, 1780, 1782-1785), on PDF pages 350-352 and
+355-357. A few of these (Coffee 1772, Pork 1772, Beef 1783) are core
+commodities that fell through the cracks the same way Pork 1790 did -
+worth flagging to whoever checks them that finding real data there is
+expected, not surprising.
 
 ## Fourth pass: human verification continued (1776, 1777, 1779)
 
