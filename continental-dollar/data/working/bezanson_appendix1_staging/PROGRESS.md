@@ -1,11 +1,35 @@
-# Bezanson Appendix Table 1 transcription - status after second pass
+# Bezanson Appendix Table 1 transcription - status after third pass
 
 Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
 Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
 wholesale prices, ~25 commodities, 21 years (1770-1790).
 
 **Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
-(448 commodity-year rows of ~525 possible, ~5,300 cells).**
+(455 commodity-year rows of ~525 possible, ~5,400 cells).**
+
+## Third pass: human verification
+
+The user checked PDF page 355 (printed p.337, the 1781 table) directly
+against the source, using a checklist (`VERIFY_1781.md`) generated from the
+second pass's remaining gaps. Two things came of it:
+
+1. The one isolated-spike flag from the second pass (Tar, 1781, July,
+   transcribed as 120.4) was confirmed wrong - the real value is 20.4. A
+   leading "1" in the automated/visual transcription was a misread, not a
+   printed digit. This is a clean example of the isolated-spike heuristic
+   doing its job: it can't fix an error, but it correctly identifies which
+   cells are worth a second look.
+2. All seven remaining sparse rows for 1781 (Bread Ship, Indigo, Leather
+   sole, Rice, Sugar Loaf, Turpentine, Wine) were read directly and added.
+   1781 is now complete for all 25 commodities. Six of the seven follow the
+   same Jan-Apr (old currency) / May-Dec (new currency) split seen
+   elsewhere in 1781; Turpentine has a single real value (December, 90),
+   the rest of the year genuinely blank in the source.
+
+Worth naming directly: human verification here wasn't used to spot-check a
+claimed-solid dataset - it was used to resolve the *specific, named*
+remaining gaps this document already knew about. That is a more efficient
+division of labor than asking someone to re-check everything.
 
 ## History
 
