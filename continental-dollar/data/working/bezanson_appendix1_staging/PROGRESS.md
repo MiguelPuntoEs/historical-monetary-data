@@ -1,11 +1,37 @@
-# Bezanson Appendix Table 1 transcription - status after third pass
+# Bezanson Appendix Table 1 transcription - status after fourth pass
 
 Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
 Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
 wholesale prices, ~25 commodities, 21 years (1770-1790).
 
 **Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
-(455 commodity-year rows of ~525 possible, ~5,400 cells).**
+(481 commodity-year rows of ~525 possible, ~5,700 cells).**
+
+## Fourth pass: human verification continued (1776, 1777, 1779)
+
+Same method as the third pass: a checklist (`VERIFY_1776_1777_1779.md`) named
+exactly what was missing, the user read the relevant rows directly from the
+page (PDF pages 353 and 354), and every row resolved cleanly - no further
+anomalies found this round. 1777 and 1779 are now complete for all 25
+commodities; 1776 is complete for 24 of 25 (Tobacco confirmed genuinely
+blank that year - consistent with it never appearing in the OCR pass at
+all, which in hindsight was itself informative rather than just a gap).
+
+One correction worth recording: the user's first read of Bread Ship 1776
+gave "1.5" for October; a plausibility check (a jump from blank straight to
+1.5 then 17.8 looked odd against 12.5's smoother fit with neighbors) led to
+asking again, and the real value was 12.5. Worth remembering as a pattern:
+when a human-reported value breaks the local trend sharply, it's worth one
+clarifying question before recording it - the same discipline used earlier
+for OCR output applies to manual transcription too, human or automated.
+
+Current state by year (commodities present / 25):
+1770-24, 1771-24, 1772-22, 1773-23, 1774-24, 1775-24, 1776-24, 1777-25,
+1778-16, 1779-25, 1780-22, 1781-25, 1782-21, 1783-21, 1784-22, 1785-24,
+1786-25, 1787-25, 1788-25, 1789-25, 1790-15.
+
+**1778 and 1790 are the weakest remaining years** and the natural next
+target if continuing.
 
 ## Third pass: human verification
 
