@@ -1,11 +1,55 @@
-# Bezanson Appendix Table 1 transcription - status after fifth pass
+# Bezanson Appendix Table 1 transcription - COMPLETE (sixth pass)
 
 Source: Anne Bezanson, "Prices and Inflation during the American Revolution:
 Pennsylvania, 1770-1790" (1951), Appendix Table 1, pp. 332-342. Average monthly
 wholesale prices, ~25 commodities, 21 years (1770-1790).
 
 **Published: `../../published/bezanson_1951_appendix1_monthly_prices.csv`
-(500 commodity-year rows of 525 possible, 95.2%, ~5,900 cells).**
+(521 commodity-year rows of 525 possible, 99.2%, ~6,150 cells).**
+
+## Sixth pass: the final 25 (really 24) rows - table now complete
+
+`VERIFY_FINAL_25.md` named the last 25 missing rows across eleven years
+(1770-1776, 1780, 1782-1785), on PDF pages 350-352 and 355-357. The user
+worked through all of them directly against the page, batch by batch:
+
+- 1770 Sugar Muscovado, 1771 Sugar Loaf - resolved
+- 1772 Coffee, Indigo, Pork - resolved (these three are core commodities
+  that had fallen through every earlier pass, same failure mode as Pork
+  1790 in the fifth pass - confirms the lesson from that pass generalizes:
+  always diff against the full expected commodity set, not just what
+  automated parsing flagged)
+- 1773 Sugar Loaf - resolved; Tobacco - confirmed genuinely blank
+- 1774, 1775 Tobacco - both confirmed genuinely blank ("both -")
+- 1780 Leather sole, Turpentine, Wine - resolved (Wine 1780 July was
+  reported as 16600, a third instance of the "spurious leading 1" pattern
+  first seen in Tar 1781 and Cotton 1790 - corrected to 6600)
+- 1782 Indigo, Rice, Sugar Loaf, Wine - resolved
+- 1783 Beef, Rice, Turpentine, Wine - resolved (Beef checked against the
+  published file first to rule out an earlier partial duplicate; none
+  found)
+- 1784 Rum W.I., Sugar Loaf, Tar - resolved
+- 1785 Rum W.I. - resolved
+
+After adding all of these, a final per-year completion count (commodities
+present / 25) turned up exactly one remaining shortfall: **Tobacco is
+missing for 1773, 1774, 1775, and 1776** - all four independently
+confirmed by the user as genuinely blank in the source, and consistent
+with Tobacco never appearing in the raw OCR pass for those years either.
+That is not a transcription gap, it's what the table actually contains.
+
+**Final state: 521 of 525 possible commodity-year rows. Every
+commodity-year combination with real data in Bezanson's Appendix Table 1
+is now captured.** Final validation (structural check, isolated-spike
+detection, duplicate-key check) is clean: 0 problems, 0 spike flags, 0
+duplicates.
+
+Three confirmed instances across the whole project of the same misread
+pattern - a spurious leading "1" prepended to the true value (Tar 1781
+July: 120.4 -> 20.4; Cotton 1790 August: 18.88 -> 1.88; Wine 1780 July:
+16600 -> 6600) - are documented in the published file's header as a named,
+reproducible failure mode for this reader/source pairing, worth treating
+as a strong prior if a fourth instance ever turns up.
 
 ## Fifth pass: 1778 and 1790 completed
 
@@ -29,15 +73,6 @@ against what OCR parsing flagged as ambiguous.
 
 Nine years now complete for all 25 commodities: 1777, 1778, 1779, 1781,
 1786, 1787, 1788, 1789, 1790.
-
-## Sixth pass, in progress: the final 25 rows
-
-`VERIFY_FINAL_25.md` covers the last 25 missing rows, scattered across
-eleven years (1770-1776, 1780, 1782-1785), on PDF pages 350-352 and
-355-357. A few of these (Coffee 1772, Pork 1772, Beef 1783) are core
-commodities that fell through the cracks the same way Pork 1790 did -
-worth flagging to whoever checks them that finding real data there is
-expected, not surprising.
 
 ## Fourth pass: human verification continued (1776, 1777, 1779)
 
@@ -135,19 +170,13 @@ bringing the total to 448.
   the real value is 20.4 (a leading "1" was a misread, not a real digit).
   Fixed; zero spike flags remain.
 
-## What remains (~80 rows, NOT in the published file)
+## What remains: nothing outstanding
 
-Concentrated in:
-- 1776, 1777, 1779, 1781: very sparse partial-year secondary commodities
-  where even the *number* of real months present is uncertain from the OCR
-  fragments alone (e.g. 1781 Bread Ship, Indigo, Rice, Wine; 1779 Pepper)
-- A few single-cell gaps in otherwise-complete rows where one month could
-  not be read with confidence from the page (documented per-cell in earlier
-  git history where found)
-
-To continue: for each remaining row, fetch the relevant page fresh, and
-either resolve the value/position with a clearer look, or confirm it
-genuinely cannot be determined from this scan and needs a different source.
+The table is complete. The only 4 commodity-year combinations not in the
+published file (Tobacco, 1773-1776) are confirmed genuine gaps in
+Bezanson's source, not unresolved transcription work - see the sixth-pass
+section above. No further verification passes are needed unless a future
+reader wants to independently double-check specific cells.
 
 ## Files in this directory
 
